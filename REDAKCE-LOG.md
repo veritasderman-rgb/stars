@@ -1171,3 +1171,55 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **ř. 9 — „patřil/jmenoval":** minulý čas v přítomném narativu — záměrný efekt (Vejvar je mrtvý, pancíř mu patřil); ponecháno; k posouzení hlas-strazce.
 
 **Celkové hodnocení:** Kapitola jazykově čistá. Tři zásahy: 1× E5 (redundantní „své"), 1× shoda rodu přídavného jména, 1× E4 (anglikalka v řeči Vos). Žádné uvozovkové chyby, přechodníky ani prokluzy časů mimo záměrné vsuvky.
+
+---
+
+## Jazyková kontrola — `roman/rukopis/06-rozkaz-shora.md`
+
+**Vrstva:** cestina-strazce (E1–E9)
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `vyděšení lidé dělají špatná rozhodnutí` → `vyděšení lidé se špatně rozhodují` (E4 — anglikalismus „make bad decisions"; přímá řeč Renn, ř. 57)
+
+2. `jinak by to nedávalo řád` → `jinak by to nesedělo` (E4 — anglikalismus, nepřirozená fráze; přímá řeč Hale, ř. 147)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- **E2 — uvozovky:** výhradně české „…" ve všech výskytech; počet „ (U+201E) = 38, počet " (U+201C) = 38, ASCII uvozovek = 0. Interpunkce přímé řeči správná.
+- **E1 — přítomný čas:** narativ důsledně přítomný; minulý čas v Rennině retrospektivní sekci (ř. 65–69, 79) záměrný — jde o vnitřní monolog rekonstruující proběhlé události, nikoliv nechtěný prokluz.
+- **E3 — koncovky 3. os. mn. č.:** „Nepostupují", „Neprovádějí" — správně; hovorové „ptaj", „počítaj", „maj" v Halově řeči záměrné.
+- **E5 — redundantní „svůj":** „SVÉHO MODULU" (ř. 63) — funkční, podmět odkazuje na vlastní modul v kontextu jiných modulů; ponecháno.
+- **E6 — přechodníky:** žádné v celém textu.
+- **E7 — berličky:** 5 výskytů „pak" rozmístěných po celé kapitole (178 ř.), netvoří tik; ponecháno.
+- **E9 — terminologie:** Kondominium, Legie, orbitální výtah, kluzáky, proudy, pečeť — vše v pořádku; velká/malá písmena správně.
+- **Hovorové tvary v Halově řeči:** „dovezený", „čerstvý", „odlitý", „celej", „ptaj", „počítaj" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Dva zásahy — oba E4 (anglikalismus v dialogu). Uvozovky, časy, přechodníky, terminologie bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 07-odlet
+
+**Datum:** 2026-06-16
+
+### Zásahy (1 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `použije jeho vlastní slova schválně` | `použije jeho slova schválně` | E5 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 31, počet " (U+201C) = 31, ASCII uvozovek (U+0022) = 0. Jednoduché uvozovky ‚…' v ř. 31 (citát uvnitř přímé řeči) párové a správné. Interpunkce přímé řeči správná ve všech výskytech (čárka/tečka uvnitř, uvozovací věta s malým písmenem).
+- **E1 — přítomný čas:** Narativ důsledně v přítomném čase. Ř. 47: „Reyever obešel... pošle" — perfektivní minulý čas v expozičním odstavci popisující kompletní akci; interpretováno jako záměr (vsuvka vysvětlující jak Reyever obchází rozkaz), nikoli nechtěný prokuzel. K posouzení hlas-strazce. Ř. 51: retrospektivní vsuvka v minulém čase správně.
+- **E3 — koncovky 3. os. mn. č.:** Všechna slovesa v narativu správně na -í (nepostupují, neprovádějí, odlétají, hýbou, odcházejí, nesou, mlčí, rozumějí). Hovorové zkrácené tvary „ptaj", „poslouchaj", „prohrávaj" v Halově přímé řeči jsou záměrný idiolekt vojáka — NESAHAT (E8).
+- **E4 — anglikalky:** Žádné nalezeny. „Hlášení se nepostupují" (2×, ř. 7 a 45) je opakující se termín světa, interpretován jako záměrný — k posouzení hlas-strazce.
+- **E5 — redundantní „svůj/vlastní":** Jeden zásah (viz výše). Ostatní výskyty „vlastní" nesou funkci (kabel svářečky, vlastní rozbor Legie, vlastní kůže jako kontrast ke slitině).
+- **E6 — přechodníky:** Žádné v celém textu. ✓
+- **E7 — berličky:** „pak" se vyskytuje 4× — v ř. 9 (idiomatické), ř. 69 (zdůraznění kontrastu), ř. 121 (2× ve výčtu sekvence). Netvoří tik, funkční.
+- **E9 — terminologie:** Legie, Soulad, Liga — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně.
+- **Pravopis a překlepy:** Bez nálezů.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E5, redundantní „vlastní"). Uvozovky, časy, přechodníky, terminologie, koncovky bez chyb.

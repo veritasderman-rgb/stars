@@ -274,3 +274,113 @@ Hale otočí destičku se snímkem mřížky ke světlu. Pointa ve dvou úderech
 - **Vos drží podezření**, že Reyever tají něco o Sirte (správně — souvisí se zvratem kap. 18, „poslali jsme tě tam").
 - Linka tajného rozboru (kap. 2/4/5) dotažena do důkazu; navazuje kap. 6 (rozkaz shora ututlat) a kap. 7 (Vos a vzorek).
 - **Vejvar** jako první ztráta s tváří — vzor pro „cenu" v dalších dechových kapitolách.
+
+---
+
+## Kap. 6 — „Rozkaz shora"
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší ohniska přes scénické střihy: jedna scéna z POV **Cassie Renn** (sama ve svém modulu — odhaluje její tlak shora a podtext); dále Vos a Hale ve scénách s Reyeverem. Dechová/politická kapitola, držená dialogem a podtextem, ne akcí.
+
+**Místo:** **základna Legie** nad městem Sirte. Konkrétní lokace: **velitelský modul** koloniální správy (dovezená dřevěná deska stolu, karafa s vodou — návaznost kap. 2); **Rennin vlastní modul** (těsnící dveře, zrcadlo na stěně, kontaktní destička); **ochoz základny** (Reyever × Hale); **dílna Halea** (olej, ozon, prach v zubech, kompresor za stěnou — návaznost kap. 4/5). Venku poušť, polední žár, orbitální výtah jako „jediné rovné světlo v křivé krajině" (opakující se obraz kapitoly).
+
+**Denní doba / čas:** **dva dny po rozboru (kap. 5)**, tj. cca čtvrtý–pátý den po boji o uzel. Depeše přijde v noci; ráno přijde Renn; poledne ochoz + dílna. Vše během jednoho dne.
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, čte tělo (ruce/ramena, ne oči — „desetina vteřiny, kterou tělo potřebuje, aby dohnalo tvář"). Odmítá odletět, dokud nezjistí původ zbraně.
+- **Cassia Renn** — kontraktorka koloniální **Ligy**; oslovení **„paní Rennová"**. Spisovná, diplomatická, říká A myslí B. Pije vodu z karafy jako gesto moci (dnes Reyeverovi NEnabídne = zpráva). Pod tlakem z úrovně nad sebou; jedna pravdivá věta: „Já bych si přála to nevědět taky." Vlastní POV scéna potvrzuje její dvojí dno a strach.
+- **mjr. Iliana Vos** — drží výsledek rozboru na vlastní destičce; ptá se Reyevera „na čí straně stojí". Když naštvaná, ztiší se. Slyší, že Reyever odmítá odletět — bere to skoro jako naději; trhlina se na okamžik přemostí.
+- **št. rtm. Brannick „Kovář" Hale** — obecná čeština, řemeslné metafory („výrobní číslo je odlitý dovnitř"). Rozklíčuje časovou značku depeše. Sahá na obrazovky nerad, na stroje rád.
+- Zmíněn **Vejvar** (padlý, kap. 3/5) jako měřítko ceny; **mužstvo** vycítí stažení z toho, jak se Liga balí.
+
+**Klíčové události:**
+1. V noci přijde **depeše shora**: operace Sirte se uzavírá, 3. expediční sbor stáhnout do 48 h, „povstalecký materiál" předat Lize k LIKVIDACI, ROZBORY se neprovádějí, hlášení nepostupují, incident uzavřít jako „místní nepokoje". Reyever pozná rozkaz k UTAJENÍ, ne k ústupu.
+2. Ráno Renn × Reyever. Renn rámuje stažení jako úlevu/úsporu („puška je jenom puška"). Reyever tlačí: „Ta puška neměla závěr." Renn rozvíjí dekadenci a strach velení: největší luxus Kondominia je NEVĚDĚT; „Kondominium nepadne v bitvě, padne ve chvíli, kdy někdo nahlas řekne, že je slabší, než předstírá." (návaznost na repliku z kap. 2).
+3. Reyever přitlačí: „Kdo vám dnes ráno volal?" Zachytí u Renn tu desetinu vteřiny (stejnou jako u zajatce/u ní nad fotkou). Dovodí, že Renn znala rozkaz dřív než správa, která ho podepsala → Renn NENÍ na vrcholu řetězu, taky jen uklízí na cizí pokyn.
+4. **Rennina POV scéna (sama v modulu):** přizná si, že ji Reyever prokoukl; ranní hovor přišel z úrovně „kde se nepodepisuje, jen rozhoduje". Citovaný pokyn shora: *„Stáhněte je. Materiál do pece. A ať se ten plukovník nezačne ptát na čísla."* Renin vnitřní otřes: *„Oni to věděli dřív než já."* — poprvé tuší, že nitka, za kterou tahala, je jen kratší kus delšího provazu. Smaže to, nasadí úsměv, jde dohlížet na sbalení. Podtext A/B potvrzen.
+5. Vos přinese výsledek rozboru, ptá se Reyevera napřímo (ne na vysvětlení rozkazu — na to, na čí straně stojí). **Reyever:** „Neodletíme, dokud nebudu vědět, kdo vyrobil tu zbraň." Vos to bere skoro jako naději; trhlina (kap. 5) se na okamžik přemostí. Reyever to označí za „odložení rozkazu", ne neuposlechnutí.
+6. Ochoz: Hale hlásí, že mužstvo už stažení vycítilo (Liga balí porcelán/dřevo). Reyever vysloví podezření, že stáhnutí je kvůli tomu, CO našli — někdo nahoře věděl předem. Hale připomene, že depeše nesou **časové značky** v řetězu pečetí, které nejdou smazat („výrobní číslo odlitý dovnitř").
+7. Hale v dílně rozloupne řetěz pečetí depeše vrstvu po vrstvě až k JÁDRU původního textu.
+8. **HOOK — ANTEDATACE:** časová značka jádra rozkazu je stará **víc než tři týdny — o šest dní DŘÍV, než Legie přiletěla na Sirte** (slezla z kluzáků), tj. před první ranou, před Vejvarovou smrtí. Rozkaz k uzavření operace byl napsán dřív, než operace začala. Reyever dovodí: „Oni nás sem neposlali, abychom Sirte vyřešili. Poslali nás sem, aby měli koho stáhnout." Past/utajení byly naplánované předem; někdo na druhém konci sektoru tři týdny čekal, až se Legie dostane k zakázané otázce.
+
+**Co kdo ví (stav na konci kap. 6):**
+- **Reyever ví/dovodí:** stažení je utajení, ne ústup; rozkaz je ANTEDATOVANÝ (vznikl 6 dní před příletem Legie) → celé to bylo nachystané předem; Legie byla vyslána, aby mohla být stažena. Renn není na vrcholu řetězu. NEZNÁ jméno toho, kdo na vrcholu je. Rozhodl se rozkaz „odložit" a vyšetřovat původ zbraně dál (otevřené neuposlechnutí na spadnutí).
+- **Renn ví:** víc, než přizná; dostává pokyny z úrovně nad sebou; sama poprvé tuší, že ji někdo používá stejně, jako ona používá Legii. Strach + podtext potvrzeny. (Napojení na Smíření čtenáři stále neodhaleno — jen prohloubeno „dvojí dno".)
+- **Vos ví:** že Reyever odmítá odletět kvůli původu zbraně → poprvé od trhliny (kap. 5) cítí, že stojí na téže straně; drží výsledek rozboru.
+- **Hale ví:** o antedataci (sám ji odhalil); kryje Reyevera dál.
+- **Mužstvo** vycítilo stažení, ne důvod; ptá se, proč se honem maže to, kvůli čemu padl Vejvar.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **Depeše/rozkaz shora** = formát úřední komunikace Kondominia: hlavička (kódy správy, pečeť), KAPITÁLKAMI psané jádro, řetěz schvalovacích **pečetí** s **časovými značkami** (odeslání / schválení / kterým proudem se táhla). KANONICKY: časové značky NEJDOU smazat bez rozbití celého řetězu pečetí („výrobní číslo odlitý dovnitř").
+- **ANTEDATACE rozkazu k stažení** = nosný důkaz, že utajení/past byly plánované PŘEDEM (jádro o 6 dní starší než přílet Legie). KANONICKÝ zvrat — předjímá zvrat aktu II (kap. 18 „poslali jsme tě tam, Adane" / Sirte byl test; kap. 15 hook „poslali jsme tě tam"). POZOR na soulad: tady Reyever získá fyzický důkaz předem plánovaného stažení; Sarn to verbálně potvrdí až v aktu II.
+- **Časový rámec:** Legie na Sirte ~3 týdny (Hale „prach v zubech od chvíle, co jsme před třemi týdny slezli z kluzáků", kap. 5); kap. 6 = den se stažením, 48 h na evakuaci → vede do kap. 7 (odlet).
+- **Rennin vlastní modul** (těsnící dveře, zrcadlo, kontaktní destička) — nová lokace; Rennino soukromé jednání.
+- Opakující se obraz kapitoly: **orbitální výtah = „jediné rovné světlo v křivé krajině"** (Reyeverův motiv).
+- Reyeverovo pravidlo čtení těla (desetina vteřiny, ruce/ramena ne oči) potvrzeno potřetí (Renn kap. 2, zajatec kap. 4, Renn kap. 6).
+- Pokyn shora citovaný Renn: *„ať se ten plukovník nezačne ptát na čísla"* — nit pro „čísla" (Smíření „mají pravdu v číslech", postavy.md / kap. 4 / Sarn).
+
+**Jak kapitola končí:**
+Hale odhalí antedataci. Reyever dovodí: „Poslali nás sem, aby měli koho stáhnout." Pointa ve dvou úderech: boj o Sirte skončil tím rozkazem dřív, než kdokoli vystřelil; a někdo na druhém konci sektoru čekal tři týdny, až se Legie dostane k otázce, kterou už dávno zakázal položit.
+
+**Otevřené nitky pro další kapitoly:**
+- **Antedatovaný rozkaz** = první tvrdý důkaz, že Sirte byla nachystaná předem → přímá příprava na zvrat kap. 15/18 (Sirte = test, „poslali jsme tě tam"). Reyever drží důkaz, nezná jméno toho nahoře.
+- **Reyever odmítá odletět** dokud nezjistí původ zbraně → otevřené střetnutí s rozkazem; navazuje kap. 7 (Legie nakonec odlétá; Vos tajně bere vzorek proti rozkazu).
+- **Renn pod tlakem shora**, sama používaná — prohlubuje její dvojí dno; eskaluje v kap. 10 (Renn schová zprávu) a kap. 14 (přizná část pravdy a zmizí).
+- **Vos × Reyever:** trhlina (kap. 5) na okamžik přemostěna společným cílem; ale podezření Vos o Sirte trvá (kap. 18).
+- Nit **„čísla"** (pokyn shora Renn) — propojit s argumentem Smíření/Sarna („pravda v číslech").
+
+---
+
+## Kap. 7 — „Odlet"
+
+> **TÍMTO KONČÍ AKT I (PRACH / Sirte).** Následuje AKT II — Přesuny (kap. 8 „Hladiny").
+
+**POV:** mjr. Iliana Vos (vševědoucí 3. os., přítomný čas; ohnisko pevně u Vos). Vedlejší hlasy přes dialog: Hale, Brázda, Reyever, navigátor. Dechová/přechodová kapitola — uzavírá poušť, otevírá vesmír.
+
+**Místo:** **základna Legie** nad městem Sirte při evakuaci → loď Legie. Konkrétní lokace: **rampa nákladního transportéru** (nakládání); **dílna Halea** (poloprázdná, kompresor už odpojený — návaznost kap. 5/6); **ochoz základny** (Vos × Reyever, naposledy nad městem); **pozorovací můstek** lodi (odlet, mělčina). Vně: pouštní deska, orbitální výtah jako „jediné rovné světlo v křivé krajině" (přebírá Reyeverův motiv z kap. 6).
+
+**Denní doba / čas:** poslední den evakuace, ve lhůtě 48 h ze stažení (kap. 6); cca pátý–šestý den po boji o uzel. Nakládání odpoledne → soumrak (odlet) → noc v mělčině (hook). Loď do hladin nemůže dřív než za ~4 hodiny od zvednutí (prodírání mělčinou).
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **mjr. Iliana Vos** — POV; přímá, úsečná; když naštvaná, ztiší se; obchází mrtvé/dívá se na to, co opouští, aby věděla, co nechává. Tajně si od Hala vyžádá a schová **vzorek cizí slitiny** — vědomě proti rozkazu i mimo vlastní Legii.
+- **plk. Adan Reyever** — na ochozu, naposledy nad Sirte; úsporný, hlas nezvyšuje. Schválil propašování těla i zbraně v chlazeném nákladu („biologický materiál, neevidovaný"). O Vosině vzorku NEVÍ. Vos nevysvětlí mlčení o Sirte (trvá z kap. 5).
+- **št. rtm. Brannick „Kovář" Hale** — v poloprázdné dílně; obecná čeština, řemeslné metafory. Vyřízne a NIKAM nezapíše malý vzorek (sotva nehet), dá ho Vos do holé dlaně s varováním nesahat holou rukou (ozvěna pojistky z kap. 4). „Tohle vám jednou nespravím."
+- **Brázda** — voják od těžkých zbraní (kap. 1/5); nese poslední bednu značenou na rozbor, neptá se.
+- **svob. Sálová** — zmíněna jako na palubě (přežila, kap. 3/5).
+- **navigátor** (bezejmenný) — na můstku ohlásí mělčinu a pak studený kontakt/vrak; dvakrát přepočítá výsledek (Reyeverův motiv „setina vteřiny").
+- Zmíněn **Vejvar** (padlý, kap. 3/5) mezi těmi, co zůstávají.
+
+**Klíčové události:**
+1. Nakládání na rampě; Legie odlétá, nechává Sirte i kolonii napospas. Vos počítá náklad, dívá se naposledy na město a výtah.
+2. V dílně Hale potvrdí: **tělo i zbraň jdou nahoru oficiálně-tajně v chlazeném nákladu** jako „biologický materiál, neevidovaný"; Liga si myslí, že to letí do pece (Reyever schválil — návaznost kap. 6). Cizí zbraň má Legie od první noci — NEJDE o krádež z bojiště.
+3. **Vos si vyžádá tajný vzorek** (kousek slitiny vyříznutý a nikam nezapsaný). Klíčové odlišení od Reyevera: Reyever podržel důkaz **pro Legii**; Vos chce kousek **jen pro sebe** — pojistku i proti vlastním lidem, aby se důkaz „potřetí neztratil". Hale jí ho dá do holé dlaně (slitina chladná, pak jako by se ohřála — ozvěna pojistky), varuje nesahat holou rukou.
+4. Ochoz: Vos × Reyever naposledy nad Sirte. Vos namítne, že nechávají 5 000 lidí napospas; Reyever: odejít = vzít s sebou důvod, proč sem někdo poslal zbraně (Soulad nepřišel pro Sirte, „díra s vodou") = „lehčí matematika". Vos cituje jeho vlastní slova. Tichá shoda v neposlušnosti: oba nesou něco, co se nesmí najít, a oba o tom mlčí — Vos to nazve **symetrií** (paralela k Reyeverovi). Vos se zeptá, jestli u toho jednou bude stát s ní; Reyever odpoví skoro-pravdou („budeme počítat oba… nebude se muset ptát, na čí straně stojí") — nevysvětlí mlčení o Sirte (trhlina trvá).
+5. **Odlet:** loď zvedá kotvu za soumraku, Sirte se propadá pod kýlovým klínem; výtah jako poslední rovná čára mizí za zakřivením. Loď stoupá, mělčina — do hladin ne dřív než za 4 h, prodírání systémem (kanon: mělčina = kde se nedá vyšplhat/uskočit, „ještě k chycení").
+6. **HOOK (konec aktu I):** na okraji mělčiny / ve volné vodě studený kontakt — **vrak**, který tam „nemá být" (mapy ji mají prázdnou, žádná bitva). Loď velká, mrtvá, clony stažené, klín studený, hrdlo k nim; po boku dlouhá rána s okraji slitými do hladka (jako díra cizí zbraně z kap. 3, jen tisíckrát větší). Vos pozná tělem dřív než hlavou: **ta loď nemá tvar postavený lidskou rukou.** Ostrý střih: „Spojte mě s plukovníkem. Hned."
+
+**Vzorek / důkazy (stav na konci kap. 7):**
+- **Tělo zajatce + cizí zbraň** = v chlazeném nákladu Legie, oficiálně-tajně, mimo evidenci Ligy/velení (Reyever schválil). Putuje do aktu II.
+- **Vosin tajný vzorek** = kousek slitiny (sotva nehet), NIKDE nezapsaný (ani v neevidované evidenci Legie), schovaný u Vos v náprsní kapse. Reyever o něm neví. KANON: Vosina osobní pojistka i proti vlastní straně.
+
+**Co kdo ví (stav na konci kap. 7):**
+- **Vos ví:** vše z kap. 5/6 + že odlet je stažení/utajení; nese tajný vzorek mimo všechny. Nově vidí vrak nelidského tvaru ve volné vodě — první vizuální náznak nepřítele přímo (po fyzickém důkazu značení v kap. 5).
+- **Reyever ví:** vše z kap. 6; schoval tělo+zbraň v nákladu. NEVÍ o Vosině vzorku. Volá ho Vos kvůli vraku (přechod do kap. 8).
+- **Hale ví:** o vzorku (sám ho vyřízl, kryje Vos i mimo Reyevera).
+- **Mužstvo** vrak ještě neví (hlásí ho navigátor Vos jako první).
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **Chlazený neevidovaný náklad** „biologický materiál, neevidovaný" = krytí pro propašované tělo + zbraň přes hranici (návaznost na tajný rozbor kap. 2/4/5).
+- **Vosin tajný vzorek slitiny** = nezapsaný kousek u Vos, osobní pojistka proti vlastní straně; paralela a kontrast k Reyeverovu „podržení pro Legii". Pozn. soulad s kontinuitou: NEJDE o krádež z bojiště — zbraň/tělo Legie má od kap. 1–5; novum je TAJNÉ PODRŽENÍ navzdory rozkazu k odevzdání/likvidaci (kap. 6).
+- **Mělčina v praxi:** ~4 h prodírání systémem od mělčiny k volné vodě, než se loď vyšplhá do hladin; v mělčině loď „ještě k chycení" (kanon z bible — první praktické užití před expozicí v kap. 8).
+- **kýlový klín** poprvé v praxi při startu (gradient padá rovnoměrně → posádka cítí jen lehkost, ne přetížení) — drobná předehra k expozičnímu medailonu fyziky v kap. 8.
+- **Vrak ve volné vodě** = nelidský tvar, clony stažené, klín studený, rána s okraji slitými do hladka (vizuální ozvěna cizí zbraně z kap. 3) — KANONICKÝ hook na přelomu aktů; otevírá akt II (kap. 8 „Hladiny": „po proudu je sleduje něco, co drží odstup").
+- Vosin charakterový podpis potvrzen: dívá se na to, co opouští/zabíjí, aby věděla (rozšíření „obchází mrtvé" z kap. 3); když naštvaná, ztiší se.
+
+**Jak kapitola končí:**
+Vos rozpozná, že vrak nemá tvar postavený lidskou rukou. Ostrý střih, úderná pointa: „Spojte mě s plukovníkem. Hned." (Konec aktu I.)
+
+**Otevřené nitky pro další kapitoly (do aktu II):**
+- **Vrak nelidského tvaru** = první přímý vizuál nepřítele → přímo navazuje na akt II (kap. 8 „něco, co drží odstup"; eskalace k prvnímu kontaktu se Souladem kap. 12/13).
+- **Vosin tajný vzorek** mimo Legii = osobní karta do budoucna; motor jejího pátrání po původu výzbroje (akt II); potenciální zdroj napětí Vos × Reyever, až vyjde najevo.
+- **Vos × Reyever:** tichá shoda v neposlušnosti (symetrie) přemosťuje trhlinu navenek, ale podezření Vos o Sirte trvá (kap. 18); Reyever stále nevysvětlil mlčení.
+- **Tělo + zbraň v nákladu** putují do aktu II (riziko zabavení na příští základně = důvod, proč si Vos vzala vlastní vzorek).
+- Sirte opuštěna napospas (5 000 lidí, padlí včetně Vejvara) = morální zátěž, kterou si Legie veze dál; cena „lehčí matematiky".
