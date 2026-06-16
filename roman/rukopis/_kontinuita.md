@@ -911,3 +911,61 @@ Renn volá z člunu před ránem, otevřeně jako vyjednavačka Smíření, jmen
 - **Smíření má pravdu v číslech + Kondominium se reálně rozpadá** = morální tlak, který Reyever musí v kap. 18–21 vyvrátit ne čísly, ale „jiným výsledkem" (Brázdův princip „seznam"; třetí cesta kap. 20/21).
 - **Renin člun s proudovou výstrojí** = Smíření má přístup k proudům mimo mapy → cesta k proudovému uzlu (kap. 20).
 - **Reyeverova zásada „šeptaná zpráva/nabídka hnije"** se přenesla na Vos (pustila depeši i bude chtít slyšet Renn nahlas) → transparentnost jako Reyeverův nástroj proti rozkladu důvěry.
+
+## Kap. 18 — „Klín"
+
+> **AKT III (SOULAD).** Konfrontační (dialogová) klíčová kapitola po politické kap. 17. Navazuje bezprostředně: **10. den oprav** *Kovadliny*, ráno/den po příletu Renn (kap. 17). Žádný boj — napětí drží souboj dvou kompetentních mužů v jedné místnosti. KLÍČOVÉ: první SETKÁNÍ REYEVER × SARN TVÁŘÍ V TVÁŘ (Renn ho zprostředkuje); Sarnovo jádro „Já nejsem zrádce. Jsem ten, kdo počítal."; PROHLOUBENÍ zvratu — Sirte = VERBOVACÍ TRYCHTÝŘ (padnout, nebo se osvědčit a být naverbován). HOOK: vlastní lidé Legie POPRVÉ OTEVŘENĚ zvažují, že Sarn má pravdu.
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší: adm. Dane Sarn (host na palubě). Vos a Hale jako přítomnost/hlas, NE jako POV. Renn zprostředkovatelka.
+
+**Místo:** těžký křižník **Kovadlina** v mělčině, 10. den oprav. Lokace: **dokovací límec/paluba** (přílet i odlet Sarna) → **důstojnická jídelna** (kovový stůl přišroubovaný k palubě — táž lokace co kap. 14/17) → zpět **dokovací paluba** (odlet, závěr s Vos). SETKÁNÍ JE NA *KOVADLINĚ* — Sarn přijde k Reyeverovi (logistika: Kovadlina chromá, nemůže za ním; Sarn si může dovolit přijít jako „věřitel", jistý čísly).
+
+**Denní doba / čas:** 10. den oprav; ráno/den po příletu Renn (kap. 17). Kapitola = jedno setkání (řádově hodina).
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, čte z rukou/ramen ne z očí; prasklé žebro z kap. 13 stále bodá (časová kotva, 10. den). Odmítne Sarna PODRUHÉ, teď tváří v tvář. NOVĚ: poprvé Sarnovi předloží konkrétní protičíslo (Melass 5211) jako chybu NE v součtu, ale v tom, CO Sarn počítá. Pustil setkání tak, že ho mužstvo slyší (zásada „šeptaná zpráva hnije").
+- **adm. Dane Sarn** — host; přijde SÁM, beze zbraně, v civilní kombinéze bez hodnosti, do mělčiny ke Kovadlině. Klidný, racionální, VYSVĚTLUJE (zrcadlo Reyevera); měří místnost dřív, než vejde celý. Suchý krátký smích bez radosti (= sdílený s Reyeverem, akademie). Idiolekt potvrzen z kap. 15.
+- **mjr. Iliana Vos** — u přepážky, ruka u pouzdra, oči na rukou hosta; naštvaná = ZA zlostí; v závěru přinese Reyeverovi špatnou zprávu (Brázdova otázka). NE POV.
+- **št. rtm. Brannick „Kovář" Hale** — na dokovací palubě, ruce od oleje, tváří se jako technik u límce; tichá hrozba. NE POV.
+- **Cassia Renn** — ZPROSTŘEDKUJE setkání (přijde s „větou", ne s nabídkou na destičce); beze zbraně; stojí vzadu mezi dvěma stranami; odejde se Sarnem. Bez druhého dna (jako kap. 17).
+- **Brázda** — NEvystupuje fyzicky ve scéně, ale KLÍČOVÝ v hooku: stranou u kanónu se Vos zeptal, jestli má pravdu admirál, NEBO Reyever (ne v číslech — v číslech už nikdo nepochybuje, ale jestli má pravdu REYEVER). = poprvé se mužstvo ptá.
+- Zmíněni: **Cuk**, „půlka noční směny" — stáli za přepážkou, slyšeli celé setkání.
+
+**Klíčové události:**
+1. Renn zprostředkuje setkání tváří v tvář: Sarn chce Reyevera vidět v jedné místnosti (ne přes pásmo). Důvod: odmítnutí na dálku (kap. 15) Sarn neumí přečíst — nesnese proměnnou, kterou nespočítá. Setkání bude NA Kovadlině, Sarn přijde sám do mělčiny (Reyeverova loď chromá; Sarn jako „věřitel", jistý čísly, si to může dovolit).
+2. Sarn vystoupí z límce sám, beze zbraně. První setkání za 30 let. Změří palubu (stopy po požáru, prázdné lože raketometu, čtyři vojáci u stěny). Reyever: „Pustil bys… spočítal bys, že chromá loď víc získá tím, že tě uvidí, než ztratí tím, žes na palubě."
+3. **JÁDRO (jídelna):** Sarn vyloží, proč přiletěl: „Já nejsem zrádce, Adane. Jsem ten, kdo počítal. To je celý rozdíl mezi námi." Argument: zrádce prodá své pro cizí zisk; Sarn nic neprodal, jen vyvodil z čísel jediné rozumné jednání. Reyever: „Poctivost není totéž co pravda. Vrah ti taky poctivě řekne, že tě zabije." Sarn: „Ale neřekl jsi mi, kde se mýlím v číslech. Za rok ne."
+4. **PROHLOUBENÍ ZVRATU — Sirte = VERBOVACÍ TRYCHTÝŘ (nový kanon nad kap. 15):** Sarn dovysvětlí druhou polovinu „poslali jsme tě tam". Sirte nebyl jen test, jestli Reyever zatáhne za nitku — byl TRYCHTÝŘ se dvěma konci a jedním vchodem: (a) MOŽNOST PRVNÍ — Reyever poslechne rozkaz misi ututlat/zamést/odletět/mlčet → je „drahý pes", vykuchaná jednotka, kterou Smíření nepotřebuje → necháme ji padnout samu (tiše, na schůzi, jako Kondominium), nemuseli bychom hnout prstem; (b) MOŽNOST DRUHÁ — Reyever zatáhne za nitku, neposlechne, zalže zaměstnavateli, schová důkazy, jde po stopě, zabije žací plavidlo → není pes, je jednotka, co poslouchá sebe ne formulář → „taková se neodepisuje, taková se verbuje". Z trychtýře nevedla cesta ven, jen dolů k Sarnovi. Sarnovo „řemeslo": nedonutit nepřítele, ale postavit mu chodbu tak úzkou, že si svobodně vybere jediné dveře, které tam jsou. Reyever byl manévrován od první duny — vlastně od akademie (cvičná bitva).
+5. **REYEVEROVO PROTIČÍSLO (nový beat):** Reyever předloží Melass = **5211** (kanon z kap. 16) jako číslo, které Sarn měl na tabuli, ale NEDAL do součtu, protože by mu pokazilo výsledek. Pointa: „To není chyba ve tvých číslech. Tvoje čísla sedí. To je chyba v tom, CO počítáš. Ty počítáš, kolik lidí zůstane naživu. Já počítám, jestli zůstanou lidmi, nebo se z nich stane položka na cizím seznamu." (= Reyeverův „jiný výsledek ze stejných čísel" z kap. 17 dostane konkrétní obsah = Brázdův princip „seznam" z kap. 17, teď vyřčený velitelem.) Sarn: „Položka, která dýchá, je pořád lepší než zahrada." Reyever: „Pro koho." — Sarn poprvé mlčí (mlčení patří jemu, ne Reyeverovi).
+6. **ODMÍTNUTÍ PODRUHÉ, TVÁŘÍ V TVÁŘ:** Reyever řekne ne znovu, nahlas, na lodi, kde ho slyší jeho lidé. Sarn to spočítal — a právě o to mu šlo: „Tvoje ne je tvoje. Ale tvoje Legie není ty. A ta právě poprvé slyší, že muž, kterému věří, neumí na moje čísla odpovědět ničím než tím, že odmítá."
+7. **SARNŮV ODCHOD (zasazení hooku):** Sarn nechce, aby Legie zradila Reyevera — chce MÍŇ: aby se vojáci sami zeptali, proč pro ně velitel nemá nic lepšího než hrdou smrt za soustavu, která je odepsala. „Naverbuje je matematika. Ta je trpělivější než já a nikdy nespí." Odejde s Renn do proudu mimo mapy.
+8. **HOOK (dokovací paluba, Vos):** Setkání slyšeli Brázda, Cuk, půlka noční směny (Reyever ho pustil nahlas schválně — „šeptaná zpráva hnije"). Vos sdělí Reyeverovi: Brázda se jí stranou (u kanónu) zeptal NE jestli má admirál pravdu v číslech (to už nikdo nezpochybňuje), ale jestli má pravdu REYEVER. Vos: „Tohle se mě nikdy nikdo z mužstva nezeptal. Vždycky věřili, že ji máte. Teď se ptají." = vlastní lidé Legie POPRVÉ OTEVŘENĚ zvažují, že Sarn má pravdu. Závěrečná pointa: Sarn nepřišel naverbovat Legii — přišel ji naučit otázku; a otázka je trpělivější než člověk a nikdy nespí.
+
+**Co kdo ví (stav na konci kap. 18):**
+- **Reyever ví:** Sirte byl verbovací trychtýř (padnout NEBO se osvědčit → naverbovat); byl manévrován od akademie/první duny; odmítl Sarna podruhé tváří v tvář; pojmenoval Sarnovi chybu (ne v součtu, ale v tom, CO počítá — „lidé vs. položky na seznamu"). VÍ, že mužstvo poprvé otevřeně zpochybňuje JEHO (ne čísla).
+- **Sarn ví:** odmítnutí spočítal; nešlo mu o Reyevera, ale o Legii, která teď slyšela, že Reyever na čísla nemá odpověď než odmítnutí; spoléhá, že „naverbuje matematika". Odešel živý, neudeřil.
+- **Vos ví:** totéž (byla u toho); nese hook (Brázdova otázka) Reyeverovi.
+- **Mužstvo (Brázda, Cuk, noční směna):** slyšelo celé setkání; Brázda poprvé nahlas (Vos) zpochybní Reyeverovu PRAVDU, ne jen čísla → vnitřní vzpoura na spadnutí (→ kap. 19).
+- **Renn:** zprostředkovala, odešla se Sarnem; bez druhého dna.
+
+**Nové zavedené detaily / fakta (držet dál):**
+- **SETKÁNÍ REYEVER × SARN TVÁŘÍ V TVÁŘ** proběhlo NA *Kovadlině* (Sarn přišel sám, beze zbraně, do mělčiny). KANON: první a zatím jediné osobní setkání dvou mužů; Sarn jako „věřitel" jistý čísly si dovolí přijít k chromé lodi; Reyever ho pustí, protože „chromá loď víc získá tím, že ho uvidí". NEOPAKOVAT dálkové jednání z kap. 15.
+- **Sarnovo jádro: „Já nejsem zrádce. Jsem ten, kdo počítal."** (= replika z postavy.md, teď v ději). Doplněk: zrádce prodá své pro cizí zisk; Sarn „nic neprodal, jen vyvodil z čísel jediné rozumné jednání".
+- **SIRTE = VERBOVACÍ TRYCHTÝŘ (PROHLOUBENÍ kap. 15 „poslali jsme tě tam"):** dva konce, jeden vchod: poslechnout rozkaz mlčet → „drahý pes" → nechat padnout samu (nepotřebná); NEBO zatáhnout za nitku/osvědčit se → „neodepisuje se, verbuje se". Z trychtýře nevede ven, jen dolů k Sarnovi. Reyever manévrován od první duny (od akademie). Sarnovo řemeslo: „postavit chodbu tak úzkou, že si nepřítel svobodně vybere jediné dveře, které tam jsou."
+- **Reyeverovo PROTIČÍSLO Melass 5211** (kanon kap. 16) jako argument: Sarnova čísla SEDÍ, ale chyba je v tom, CO počítá (lidé naživu vs. lidé jako „položky na seznamu"). = Reyeverův „jiný výsledek ze stejných čísel" (kap. 17) dostal konkrétní obsah; sjednoceno s Brázdovým principem „seznam" (kap. 17) — teď ho vyslovil velitel sám.
+- **Reyever odmítl Sarna PODRUHÉ** (poprvé dálkově kap. 15), teď tváří v tvář a NAHLAS před mužstvem (zásada „šeptaná zpráva hnije" z kap. 16/17 aplikována i na setkání).
+- **Sarnův záměr není zrada Legie vůči Reyeverovi, ale OTÁZKA:** aby se vojáci sami zeptali, proč velitel nenabízí víc než hrdou smrt; „naverbuje je matematika, ta je trpělivější a nikdy nespí". KANON mechaniky vnitřní krize Legie.
+- **Brázdova otázka (HOOK):** poprvé se člen mužstva ptá, jestli má pravdu REYEVER (ne jestli mají Smíření pravdu v číslech — to už nikdo nezpochybňuje). = kvalitativní posun krize důvěry: od „mají pravdu v číslech" k „má vůbec velitel pravdu". Brázda = týž, kdo v kap. 17 řekl „nejdu sloužit nikomu, kdo si vede seznam" → jeho pochybnost váží nejvíc.
+- Sarn přišel **sám, beze zbraně, v civilní kombinéze bez hodnosti**; měří místnost dřív, než vejde celý; suchý krátký smích bez radosti (sdílený s Reyeverem, akademie) — idiolekt potvrzen z kap. 15.
+- **Prasklé žebro Reyevera** (kap. 13) stále bodá = časová kotva (10. den oprav).
+
+**Jak kapitola končí:**
+Sarn odletí do proudu mimo mapy; setkání slyšelo mužstvo. Vos sdělí Reyeverovi Brázdovu otázku (jestli má pravdu REYEVER, ne admirál). Pointa: Sarn nepřišel naverbovat Legii — přišel ji naučit otázku; a otázka je trpělivější než člověk a nikdy nespí. = vlastní lidé Legie poprvé otevřeně zvažují, že Sarn má pravdu; vnitřní vzpoura na spadnutí.
+
+**Otevřené nitky (→ kap. 19 „Vzpoura na hraně"):**
+- **Brázdova otázka (má pravdu REYEVER?)** zasetá do mužstva → přímo živí kap. 19 (vnitřní krize Legie: zůstat, nebo se sklonit; Hale drží jednotku). Vnitřní vzpoura na spadnutí.
+- **Reyever odmítl Sarna podruhé, ale „protičíslem" (5211 / seznam), ne lepšími čísly** → třetí cesta (kap. 20/21): obrátit čísla výsledkem, ne argumentem („Soulad krvácí").
+- **Sarn spoléhá, že „naverbuje matematika"**, neudeřil → další střet bude u proudového uzlu (kap. 20), kam Smíření Legii vede; Sarnovy lodě tam (kap. 20 bitva).
+- **Vos × Reyever:** Vos nese hook, je za zlostí (ne naštvaná) — pochopení ceny Reyeverova mlčení dozrává (kap. 19 „Vos konečně pochopí cenu Reyeverova mlčení").
+- **Renn** odešla se Sarnem (zprostředkovatelka) → její osud/role pokračuje k uzlu (kap. 20/21).
+- POZOR (soulad): Sarnovo protičíslo Reyevera (5211, seznam) NESMÍ být v kap. 19–21 podáno jako „lepší čísla" — Reyeverova linie je důsledně „jiný výsledek/jiné měřítko ze stejných čísel", ne vyvrácení Sarnovy matematiky.
