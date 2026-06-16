@@ -1406,3 +1406,35 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Klitika a slovosled:** Bez nálezu.
 
 **Celkem zásahů: 1**
+
+---
+
+### Kapitola 16 — Pravda o Souladu
+
+**Soubor:** `/home/user/stars/roman/rukopis/16-pravda-o-souladu.md`
+**Vrstva:** E (mechanická čeština), průchod cestina-strazce
+**Datum:** 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Reyever zůstal na můstku schválně.` (ř. 79) | `Reyever zůstane na můstku schválně.` | E1 — prokluz do minulého času uprostřed akční scény; před i za větou přítomný čas |
+| `Sarn ji udělal taky.` (ř. 69) | `Sarn ji taky nabídl.` | E4 — anglikalismus „udělat nabídku" místo „nabídnout" |
+| `Práci, která dává smysl.` (ř. 137) | `Práci, která má smysl.` | E4 — anglikalismus „dávat smysl" (make sense); správně „mít smysl" |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 1 oprava (ř. 79). Ostatní výskyty minulého času jsou legitimní: přímá řeč odkazující na minulé události, dialogy Hlasu Souladu o historii péče, výsledky měření. Řádek 123 — „Stála za přepážkou, slyšela celé pásmo ... stála tam celou dobu a nešla blíž" — minulý čas legitimní jako vedlejší věta Reyeverova přítomného „pozná": odvozuje minulý stav z aktuálního pozorování. Ponecháno.
+- **E2 (uvozovky):** Počet „ (U+201E) = 38, počet " (U+201C) = 38, ASCII uvozovek (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu.
+- **E4 (anglikalky):** 2 opravy (ř. 69, 137). Viz tabulka. Řádek 29: „kolem vás mluvit nemá smysl" — v přímé řeči Hlasu Souladu; záměrná cizí kadence (instrukce: neopravovat). Ponecháno.
+- **E5 (redundantní svůj):** Výskyty „svou hladinu" (ř. 51), „svou jedinou notou" (ř. 105, 139) — „svou" funkční, ne redundantní (upřesňuje příslušnost). Bez zásahu.
+- **E6 (přechodníky):** Bez nálezu.
+- **E7 (berličky):** Bez hromadění — „nakonec" (ř. 91) funkční, ojedinělé.
+- **E8 (dvouvrstvost rejstříku):** Správná — vypravěč spisovný, Hlas Souladu záměrně cizí kadencí (instrukce: neopravovat), Reyever a Vos vojensky úsporní. Nesahat.
+- **E9 (terminologie):** Čisto. Soulad (velké), Legie (velké), Kondominium (velké), Smíření (velké), žací plavidlo (malé), mělčina/klín/proud (malá). Kovadlina kurzívou jako jméno lodi. Konzistentní.
+- **Překlepy/pravopis:** Bez nálezu.
+- **Klitika a slovosled:** Bez nálezu.
+
+**Celkem zásahů: 3**

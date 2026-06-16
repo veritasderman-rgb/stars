@@ -799,3 +799,57 @@ Renn odletí doprovodným člunem do proudu mimo mapy. Vos shrne Reyeverovi v do
 **Jak končí:** „Poslali jsme tě tam." — Legie byla Smířením testována/navedena už od Sirte.
 
 **Otevřené nitky (→ Akt III):** co teď Reyever udělá s odmítnutím; co je „uzel", kam Smíření Legii vede; přímý hlas Souladu (zatím jen přes Sarna); Rennin osud; jak Legie obrátí čísla.
+
+## Kap. 16 — „Pravda o Souladu" (ZAČÁTEK AKTU III)
+
+> **AKT III (SOULAD) — OTVÍRACÍ KAPITOLA.** Dialogová/ideová (dechová) kapitola po odhalení kap. 15. Navazuje: 8. den oprav *Kovadliny*, 2 dny po Sarnově volání (kap. 15). Žádný boj — napětí drží cizost a pokušení. KLÍČOVÉ: poprvé v celém textu promluví PŘÍMO **Hlas Souladu** (mimozemšťan), ne přes člověka (Sarn/Renn). Rozdíl proti kap. 15: chlad, cizí kadence, ABSENCE lidské omluvy; Přerod jako MILOSRDENSTVÍ a péče, ne dobývání. Děsivější tím, že nelže a není v tom nenávist.
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší ohnisko v závěru: mjr. Vos (stála za přepážkou, slyšela celé pásmo). Vyprávění drženo dialogem a podtextem.
+
+**Místo:** těžký křižník **Kovadlina** v opravách — **velitelské stání / můstek** (mapa nad pultem, pásmo). Mimo loď: cílový systém s **mělčinou**, ve které visí žací plavidlo Souladu; volná voda a proud, kam Legie nemůže. Reyever vede celý rozhovor NAHLAS na můstku (schválně, ne soukromě v mapovém stání jako se Sarnem v kap. 15).
+
+**Denní doba / čas:** 8. den oprav; 2 dny po Sarnově volání (kap. 15). Kapitola = jeden rozhovor (řádově desítky minut).
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, „počítá v bílém tichu"; nezvyšuje hlas; prasklé žebro z kap. 13 stále bodá (časová kotva). Rozhovor pustí NAHLAS na celý můstek schválně („šeptaná nabídka by hnila").
+- **Hlas Souladu** — POPRVÉ PŘÍMO (mimozemšťan, ne člověk). Idiolekt: česká slova, NElidská stavba vět; „něco mezi tím překládá". Bez emocí, bez omluvy, bez ironie; CIZÍ kadence, zahradnické/zemědělské obrazy, KONKRÉTNÍ čísla (ne aforismy). Mluví v množném („my"/„Soulad"), o sobě jako o „zahradníkovi" (slovo přijímá od lidí jako „malé, ale ujde"). Nelže. Pro něj je Přerod péče/léčba/milosrdenství.
+- **mjr. Iliana Vos** — vedlejší ohnisko v závěru; stála za přepážkou, slyšela vše; naštvaná = ztiší se. Pojmenuje rozdíl Sarn × Soulad („Sarn nás chtěl jako psy u plotu. Tahle věc nás chce jako vlky.").
+- **navigátor** (bezejmenný, týž typ) — hlásí kontakt z mělčiny; přepočítává; zapomíná dýchat.
+
+**Klíčové události:**
+1. Žací plavidlo (NOVÉ, třetí v textu — viz pozn.) vstoupí do systému z volné vody, dopluje do **mělčiny** a tam VISÍ — bez majáku, zbraně stažené, NEutíká, NEžne (žádná úroda). Vysílá otevřeně na *Kovadlinu*. Navigátor: není to Sarn, není to lidský nosič.
+2. Reyever pochopí, PROČ Soulad mluví poprvé za celou dobu: protože Legie zabila žací plavidlo (kap. 13). Ozvěna „dokud ho nepřinutíš". Pustí pásmo NAHLAS na můstek.
+3. **PRVNÍ PŘÍMÝ HLAS SOULADU.** Vyloží svou pravdu z první ruky (zahradnická logika):
+   - Dosud s lidmi nemluvil, protože nemělo smysl mluvit „k poli/plevelu"; mlčení = MĚŘENÍ, ne pohrdání. Legie rozlomením stonku (žací plavidlo) „položila první otázku" → Soulad MĚŘÍ ZNOVU.
+   - **Doktrína Přerodu z pohledu Souladu:** vybírá si světy podle tíhy/spektra hvězdy/vody; planeta s cizím (lidským) životem je „nemocná, nese život jako rána nese hnis"; Přerod = vyčištění rány + setba = LÉČBA/MILOSRDENSTVÍ, ne vražda/dobývání. „Planeta umře jako nemocná a vstane jako zdravá."
+   - **Melass: 5211 lidí** (přesné číslo — Soulad „počítá každého, co bere"). Dal jim „dlouhý zdravý čas místo krátkého nemocného". V jejich řeči milosrdenství; lidé pro to nemají slovo.
+   - V péči o zahradu NENÍ nenávist (zahradník plevel nenávidí? zná ho, počítá, vytrhá v správný čas) → děsivé právě absencí zloby.
+4. **NABÍDKA (pokušení, ne hrozba):** Soulad nemůže/nechce být všude; světy, které nepotřebuje (Sirte, většina lidských), ho nezajímají, ale „leží mezi jeho zahradami" → potřebuje **strážce plotu** z místního „plevele". Vazalství = v jeho řeči „PŘESAZENÍ" (vytrhnout rostlinu z místa, kde zajde, zasadit tam, kde žije/má užitek). Sarn i 6/9 osad Smíření = „přesazení, rostou, dýchají, mluví svou řečí". Čísla: lidstvo **187 soustav** (Soulad říká „sto osmdesát sedm"; 3 už jeho, 9 Smíření); Kondominium se NEskloní, ale ROZPADNE (jiný děj, stejně dobrý pro Soulad).
+5. **ZÁVĚREČNÝ HOOK — nabídka přímo Legii/Reyeverovi, znepokojivě lákavá:** Protože Legie zabila žací plavidlo (za 200 let pečování první zničené), Soulad ji vidí jako NÁSTROJ, ne plevel. Sarn nabídl jen přežití pod svým praporem (malé). Soulad nabízí VÍC: Legie nemá vlast, Kondominium ji odepsalo → Soulad jí dá **NEPŘÍTELE**. Daleko jsou druhy horší než Soulad (sežraly by i jeho); Legie by je lovila, bránila „opravdový, jen ne lidský život" před tím, co je horší než Soulad. „Bila by ses až do konce, jak chceš, jen za stranu, která neprohrává. Tví lidé by neumírali pro mrtvolu, ale pro něco, co roste." = Práci, kterou Legie už dělá, jen na poli, které vydrží. Soulad nechá Reyevera počítat, odpluje do volné vody, na rozloučenou PODĚKUJE, že rozlomila stonek („mrtvý plevel poznat nelze; jen ten, který se brání, stojí za přesazení").
+6. **ZÁVĚR (Vos):** Reyever přiznane, že rozhovor pustil nahlas SCHVÁLNĚ (každý na lodi teď ví totéž co on; šeptaná nabídka by hnila). Vos pojmenuje rozdíl: Sarn lhal o tom, že je to čisté — Soulad nelže ani o tom; Sarn chtěl Legii jako psy u plotu, Soulad jako vlky. Pointa: Sarn měl pravdu V ČÍSLECH; Soulad má pravdu V TOM, PO ČEM VOJÁK TOUŽÍ (práce se smyslem, strana, co neprohrává, smrt za něco, co roste) — a to je HORŠÍ. „Mnohem."
+
+**Co kdo ví (stav na konci kap. 16):**
+- **Reyever ví:** Soulad promluvil přímo (potvrdil Sarnovu verzi z první ruky, doplnil pohled „z výšky"); Přerod = pro Soulad léčba/milosrdenství, bez nenávisti; Soulad počítá přesně (5211, 187 soustav, 3 jeho, 9 Smíření); nabídka platí i LEGII a je jiná/lákavější než Sarnova (lov nepřátel horších než Soulad, „strana, co neprohrává"). NEROZHODL se — nechán „počítat".
+- **Vos ví:** totéž (slyšela celé pásmo); pojmenuje rozdíl Sarn (psi/lež o čistotě) × Soulad (vlci/nelže ani o tom). Sdílí Reyeverovo poznání, že nabídka Souladu je horší než Sarnova právě svou přitažlivostí.
+- **Posádka *Kovadliny*** SLYŠELA celý rozhovor (Reyever ho pustil nahlas schválně) → semínko vnitřní krize Legie (předjímá kap. 18/19: „vlastní lidé zvažují, že Sarn/Soulad má pravdu").
+- **Soulad:** změřil Legii jako nástroj hodný „přesazení"; nabídku nechal otevřenou; čeká, „prochází vždy někde poblíž".
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **HLAS SOULADU = první PŘÍMÝ kontakt s mimozemšťanem v textu** (dosud jen přes lidi: zajatec/Renn/Sarn). KANON idiolektu: česká slova v NElidské stavbě vět („něco mezi tím překládá, překlad sedí, ale originál rostl jinde"); bez emocí/omluvy/ironie; množné „my"/„Soulad"; sám sebe nazve „zahradník" (slovo přejaté od lidí). Obrazy ZAHRADNÍ/zemědělské + KONKRÉTNÍ čísla (NE prázdné aforismy). NELŽE. Přerod = pro něj péče/léčba/milosrdenství.
+- **Ž3acího plavidlo přijde MLUVIT, ne žnout** (nové, „třetí" plavidlo v textu po kap. 12 odplulo / kap. 13 zničeno): visí v mělčině, zbraně stažená vlákna, vysílá otevřeně; po rozhovoru odpluje do volné vody/proudu. KANON: Soulad mluví s lidmi POPRVÉ, protože Legie zabila plavidlo (kap. 13) — „mrtvý plevel poznat nelze; jen kdo se brání, stojí za přesazení". (Ozvěna logiky „dokud ho nepřinutíš".)
+- **Souladská doktrína z PRVNÍ RUKY (rozšiřuje bibli):** výběr světů dle tíhy/spektra/vody; cizí život = „nemoc / rána s hnisem"; Přerod = vyčištění + setba = léčba (planeta „umře nemocná, vstane zdravá"). Soulad počítá KAŽDÉHO, koho bere. NENÍ v tom nenávist (klíč hrůzy).
+- **„Přesazení"** = souladské slovo pro vazalství/Smíření (lidské „vazalství" Soulad označí za „úzké"): vytrhnout rostlinu z místa, kde zajde, zasadit, kde žije/má užitek. Sarn i osady Smíření = „přesazení".
+- **ČÍSLA (KANON, držet konzistentní):** Melass = **5211** lidí (upřesnění oproti „~5000" z kap. 12/13/14/15). Lidstvo = **187 soustav** (z toho 3 už Souladu, 9 Smíření). [Pozn.: kap. 14 mluvila o „6 koloniích Ligy" defektovavších — 9 soustav Smíření celkově je širší než jen Liga; držet 6 = Liga, 9 = Smíření celkem, neplést.]
+- **NABÍDKA SOULADU LEGII (nový prvek pokušení, ≠ Sarnův pakt z kap. 15):** ne hlídat plot jako Smíření, ale LOVIT nepřátele Souladu (druhy „horší než Soulad", které by sežraly i jeho) → Legie by se bila „za stranu, co neprohrává", za „život, co roste", ne za mrtvolu (Kondominium). = pokušení šité na vojenskou identitu Legie. KANONICKÝ hook do aktu III: existují i NESOULADOVÉ hrozby ve vesmíru (druhy nebezpečné i Souladu) — potenciál pro další knihy/akt.
+- Reyeverův tah: rozhovor PUSTIL NAHLAS na můstek schválně („šeptaná nabídka by hnila") → posádka slyšela; semínko vnitřní krize Legie.
+- Vosin podpis potvrzen: naštvaná = ztiší se; stála za přepážkou, nechala si dveře za zády. Formule rozdílu: Sarn = psi u plotu / lhal o čistotě; Soulad = vlci / nelže ani o tom.
+
+**Jak kapitola končí:**
+Žací plavidlo odpluje do proudu, na rozloučenou Souladem PODĚKUJE Legii, že rozlomila stonek. Vos pojmenuje, že nabídka Souladu je horší než Sarnova právě tím, po čem voják touží (smysl, vítězná strana, smrt za něco rostoucího). Reyever: „Mnohem." (Pokušení, ne hrozba — a o to děsivější.)
+
+**Otevřené nitky (→ akt III):**
+- **Nabídka Souladu visí otevřená** (Reyever „nechán počítat") → tlak na vnitřní soudržnost Legie (posádka slyšela) živí kap. 18 (Klín — vlastní lidé zvažují, že má pravdu) a kap. 19 (vzpoura na hraně).
+- **Sarn × Soulad jako dvě nabídky** (přežití pod praporem × lov za vítěznou stranu) → Reyever musí odmítnout OBĚ; třetí cesta = kap. 20/21 (obrátit čísla, „Soulad krvácí").
+- **Druhy „horší než Soulad"** = nový kanon (nesouladové hrozby) — rezerva pro vyústění/sérii (coda kap. 22 otvírá sérii).
+- **Soulad „prochází vždy někde poblíž", čeká na odpověď v mělčině** → předjímá střet u proudového uzlu (kap. 20), kam Smíření Legii vede.
+- **Posádka slyšela nabídku** = Reyeverovo vědomé riziko (transparentnost místo šepotu) → motor krize důvěry uvnitř Legie (Vos × Reyever, Hale jako lepidlo).
