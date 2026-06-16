@@ -260,11 +260,11 @@ Nemá čas na to vědět. Má čas na hrdlo stonku, které se na vteřinu otevř
 
 ---
 
-*KOVADLINA* SE VRHNE NA HRDLO ŽACÍHO PLAVIDLA jako kámen z praku, a Reyever ten náraz necítí, protože v něm na vteřinu přestane být.
+*KOVADLINA* SE VRHNE NA HRDLO ŽACÍHO PLAVIDLA a Reyever ten náraz necítí, protože v něm na vteřinu přestane být.
 
-Klín naplno. Poslední zub. Gradient se zlomí a loď zaúpí jako živá věc, kterou trhají vejpůl, a Reyevera to vrazí do zábradlí na totéž žebro, co mu praskl stín u Melassu, a on to pozná, až když je po všem.
+Klín naplno. Poslední zub. Gradient se zlomí a trup zaúpí na frekvenci, kterou Reyever neznal, zvuk kovu vtlačeného za mez, a Reyevera to vrazí do zábradlí na totéž žebro, co mu praskl stín u Melassu, a on to pozná, až když je po všem.
 
-Z pravého boku se ozve ten zvuk, který každý voják zná a nesnáší.
+Z pravého boku se ozve trhnutí — ne výbuch, spíš prasknutí v plechu — a pak ticho.
 
 A *Kovadlina* vrazí klín do nekrytého hrdla prvního stonku, ne střelou, klínem, celou hmotou těžkého křižníku do jediného místa, kde se ta narostlá věc nemůže krýt, protože je otevřená sama o sobě.
 

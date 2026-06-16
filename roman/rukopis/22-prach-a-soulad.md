@@ -80,7 +80,7 @@ POSTAVY DOLE NEJSOU VOJÁCI. To Calt nepozná — Calt by nepoznal vojáka od pe
 
 „Protože ty pušky maj.“ Sálová sleduje muže na střeše boudy, který si zapaluje. „Někdo jim je dal. A s puškou dostali i slib. Vždycky dostanou slib.“
 
-Calt nerozumí, ale pozná, že na vysvětlování není čas, a tak se ptá na to jediné, co ho doopravdy tlačí, co ho tlačí od chvíle, kdy ho na Andaru vysadili z lodi se jménem, které celá rota vyslovuje, jako by to byl talisman.
+Calt nerozumí, ale pozná, že na vysvětlování není čas, a tak se ptá na to jediné, co ho tlačí od chvíle, kdy ho na Andaru vysadili z lodi se jménem, které celá rota vyslovuje jako zaříkání.
 
 „Je to pravda? Co se říká. Že plukovník fakt rozlomil ty cizáky.“
 
@@ -122,17 +122,17 @@ Je to rychlé. Vždycky to prý je rychlé. Za minutu je dole ticho, jen vítr a
 
 Sjede do kotliny. Calt jde za ní, protože neví, co jiného dělat, a v té kotlině leží postavy tam, kde padly, a Sálová obchází jednu po druhé a dívá se jim do tváří, a Calt nechápe proč, dokud to neudělá taky.
 
-Nejsou to vojáci. Boty, ruce, mladí i staří. Jeden z nich, starý chlap s rozbitým rtem, ještě dýchá, krátce a chrčivě, a když nad ním Calt zůstane stát, otevře oči a podívá se na něj a v těch očích není strach, je v nich jen ta zvláštní jistota člověka, který se přestal bát.
+Nejsou to vojáci. Boty, ruce, mladí i staří. Jeden z nich, starý chlap s rozbitým rtem, ještě dýchá, krátce a chrčivě, a když nad ním Calt zůstane stát, otevře oči a podívá se na něj a v těch očích není strach, jsou v nich oči člověka, který se ho přestal bát.
 
 „Měli jste nás nechat přejít,“ vydechne. „Na správnou stranu. Vy to ještě nevíte, kluku, ale přijde to i na vás.“
 
 Calt nerozumí. Otevře pusu, aby se zeptal na kterou stranu, kdo vám to řekl, ale starý chlap dodýchá dřív, než stačí, a oči mu zůstanou otevřené, obrácené do toho běloskvoucího nebe.
 
-Calt se napřímí. V dlaních mu zůstal ten chrčivý dech a ta slova, která nezní jako slova vodního farmáře — *správná strana, přijde to i na vás* — naučená nazpaměť, cizí slova v cizí puse.
+Calt se napřímí. V dlaních mu zůstal ten chrčivý dech a ta slova, která nezní jako slova vodního farmáře — *správná strana, přijde to i na vás* — cizí slova v cizí puse.
 
 „Co to říkal,“ zeptá se Sálové. „Jakou stranu.“
 
-Sálová si dřepne u mrtvého a sebere mu z pásu zbraň. Je to puška, kterou Calt nezná. Nemá viditelný závěr, nemá zásobník, povrch má matný, barvy mokré břidlice, hladký, jako by nebyla sestavená, ale narostlá. Sálová ji zvedne a potěžká v ruce a chvíli ji jen drží, a v obličeji má něco, co tam předtím nebylo, něco velmi starého.
+Sálová si dřepne u mrtvého a sebere mu z pásu zbraň. Je to puška, kterou Calt nezná. Nemá viditelný závěr, nemá zásobník, povrch má matný, barvy mokré břidlice, hladký, jako by nebyla sestavená, ale narostlá. Sálová ji zvedne a potěžká v ruce a chvíli ji jen drží, a Calt vidí, jak se jí ruka trochu zpomalí — ne váhání, spíš poznání, jako když člověk sáhne na věc, na kterou si vzpomněl jinak, než vypadá.
 
 „To je ta otázka, kluku,“ řekne tiše. „Tahle. Přesně tahle.“ Zabalí zbraň do hadru, opatrně, jako by mohla kousnout. „Před dvaceti lety ji položila ženská na druhý straně jedný jiný pouště a od tý doby ji klade každej, kdo má v hlavě o trochu víc než spoušť.“ Vstane. „Někdo ti řekne, že je to špatná otázka. Ten někdo už je mrtvej. Já ti řeknu, že je to ta jediná správná, a žiju zatím líp než von.“
 
