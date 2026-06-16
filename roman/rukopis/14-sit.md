@@ -28,7 +28,9 @@ Hale se podívá na fotografii pilota dlouho.
 
 „Na Sirte umírali farmáři za větu, kterou se naučili nazpaměť,“ řekne pomalu. „Tady si chlap tu samou větu připnul na hruď a věří jí. To je rozdíl mezi tím, koho někdo navádí, a tím, kdo už navádí sám.“ Sebere odznak ze stolu, otočí ho ke světlu. „Tohle nenosí naváděnej, majore. Tohle nosí přesvědčenej.“
 
-„Kdo přesvědčí celý kolonie, aby se vzdaly?” řekne Vos.
+Vos se na něj podívá.
+
+„Kdo přesvědčí celý kolonie, aby se vzdaly?“
 
 „Někdo, kdo má lepší čísla než ty,“ řekne Hale, a položí odznak zpátky, přesně na to místo, odkud ho vzal.
 
@@ -200,6 +202,6 @@ Reyever se dívá na prázdné místo, kde tečka byla.
 
 Kovadlina úpí v opravách svou jedinou notu. Loď, co tak tak žije, na klidné vodě, tři týdny od nejbližší hvězdy.
 
-A Vos pochopí, proč je nikdo nezastavil — proč Kondominium mlčí, proč žací plavidlo nestřílelo, proč je stín pustil. Nepřítel není u brány. Síť, do které Legie celou dobu létala, není natažená před nimi.
+A Vos pochopí tělem dřív než hlavou, proč je nikdo nezastavil — proč Kondominium mlčí, proč žací plavidlo nestřílelo, proč je stín pustil. Nepřítel není u brány. Síť, do které Legie celou dobu létala, není natažená před nimi.
 
 Je utkaná z lidí. A jeden její oko právě odplul z jejich vlastní lodi.

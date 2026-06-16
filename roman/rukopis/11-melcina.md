@@ -14,7 +14,7 @@ Tichý polkne. „Jak dlouho do volný vody?“
 
 Mělčina je past, kterou nepostavil nikdo. Je to prostě místo, kde hvězda zakřivuje prostor tak natěsno, že se loď nemá do čeho zaklesnout — nedá se vyšplhat do hladin, nedá se uskočit, nedá se zmizet. Musí se prodírat sublightem, na kýlový klín, hodiny, od mělčiny k okraji, kde řeka konečně začíná a kde se teprve dá utéct. A celou tu dobu je loď nahá. K chycení.
 
-Hale to mužstvu nikdy neřekne takhle. Mužstvu řekne, že se jede pomalu, protože je tu mělko.
+Hale to mužstvu nikdy neřekne takhle. Mužstvu řekne, že se jede pomalu, protože je tu mělko. To zní líp.
 
 ---
 
@@ -214,7 +214,7 @@ Obrazovka po stínu zůstane prázdná. Žádná tečka. Žádný kód. Jen měl
 
 HALE STOJÍ DOLE U POHONU, dlaň na vychladlém gradientu, a chvíli nikdo nic neřekne.
 
-Pak po velitelském pásmu uslyší Reyevera. Nejtiššího, jaký kdy byl.
+Pak po velitelském pásmu uslyší Reyevera. Tichého. Nejtiššího, jaký kdy byl.
 
 „Vos,“ řekne plukovník. „Ten, kdo nás honil, právě odjel cestou, která na mapách není. Stejnou, jakou k nám přišla čistá depeše. Stejnou, jakou nás sledoval od mělčiny.“
 
@@ -226,7 +226,7 @@ Dole u pohonu si Hale otře dlaň o hadr, jako se otírá olej, který už nejde
 
 Daré koupila Legii deset minut a život celé lodi za jednu pravdu: ta věc se dá ranit. A vzala si k tomu jednu odpověď navíc, kterou nikdo nechtěl slyšet — kdo ovládá řeky, co nejsou na mapách, ten si vybírá, kdy bude lovit a kdy zmizí. Dneska zmizel.
 
-Mužstvu řekne, že utekli, že je to dobrý, že Daré byla nejlepší.
+Hale to mužstvu neřekne takhle. Mužstvu řekne, že utekli, že je to dobrý, že Daré byla nejlepší. To zní líp.
 
 Ale stroji, vychladlému gradientu pod dlaní, řekne pravdu, protože stroj je jediný, kdo ji unese:
 

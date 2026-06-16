@@ -12,7 +12,7 @@ Svět dole je zelený od pólu k pólu. Ne ta skvrnitá, žíhaná zeleň, jakou
 
 Navigátor přepočítá. Pak ještě jednou, Reyeverovým způsobem. „Podle map jo,“ řekne. „Kolonie Melass. Pět tisíc lidí, vodní zemědělství, registrovaná před dvanácti lety.“ Odmlčí se. „Majore, na téhle planetě nemá co růst. Spektrum hvězdy je špatný. Půda je špatná. Tady měli pěstovat řasy v nádržích pod plachtami.“
 
-Vos se dívá na tu zeleň a je jí zima — ne ze strachu, ale z pořádku.
+Vos se dívá na tu zeleň a poprvé za hodně dní jí není zima ze strachu, ale z něčeho jiného. Z pořádku.
 
 ---
 
@@ -82,7 +82,7 @@ REYEVER SE OZVE Z *KOVADLINY*, a Vos pozná, že se dívá na totéž shora.
 
 Chvíli je ticho v pásmu. Pak Reyever: „Zajatec na Sirte říkal, že hájíme mrtvolu. Že si vybrali stranu, která přežije.“ Odmlčí se. „Tohle je ta druhá strana, Vos. Tohle je, co se stane se světem, který si nevybral správně.“
 
-Vos zavře oči pod hledím, jen na vteřinu. Vidí umírajícího kolonistu u paty věže na Sirte — *nechte nás přejít na správnou stranu*. Teď stojí v tom, co ta věta znamená, a chápe, proč ji ten člověk říkal tak tiše.
+Vos zavře oči pod hledím, jen na vteřinu. Vidí umírajícího kolonistu u paty věže na Sirte, jak prosí, nechte nás přejít na správnou stranu. Tehdy nevěděla, co ta věta znamená. Teď stojí v tom, co znamená, a chápe, proč ji ten člověk říkal s takovou hrůzou v hlase.
 
 „Plukovníku,“ ozve se navigátor do pásma, a hlas mu poprvé za celou misi zakolísá. „Na odvrácené straně planety mám kontakt. Velký. Stoupá z atmosféry.“
 
@@ -98,7 +98,7 @@ VĚC SE ZVEDNE ZA OBZOREM, a Vos ji uvidí dřív přístrojem než okem.
 
 Na čidle člunu naskočí tvar, který stoupá od povrchu na vzdálené straně planety, pomalu, beze spěchu, jako by ho gravitace nezajímala. Vos přepne na dálkový pohled a chvíli nedýchá.
 
-Je to plavidlo. Žací plavidlo — Vos to slovo nikdy předtím nepoužila, ale tělo ho zná dřív než hlava, stejně jako poznalo odznak, stejně jako poznalo vrak. Je obrovské, tiché a krásné způsobem, ze kterého se Vos chce pozvracet.
+Je to plavidlo. Žací plavidlo — Vos to slovo nikdy předtím nepoužila, ale tělo ho zná dřív než hlava, stejně jako poznalo odznak, stejně jako poznalo vrak. Je obrovské. Je tiché. A je krásné způsobem, ze kterého se Vos chce pozvracet.
 
 Nemá hrany. Nemá nýty, švy, panely, antény, nic z toho, co dělá loď lodí. Je celé z jednoho kusu, plynulé, narostlé — táž křivka, jakou má cizí zbraň místo chladicího žebrování, jen tisíckrát větší, roztažená do tvaru, který je dokonale symetrický kolem středu. Dvě poloviny sevřené kolem osy. Stonek a dvě poloviny. Vos pozná ten tvar, protože ho viděla na hrudi zajatého důstojníka, vyleštěný do malého odznaku. Tady ho má nad hlavou, velký jako město, a chápe, že odznak nebyl symbol. Byl portrét.
 
@@ -130,7 +130,7 @@ Vos to sleduje na čidle, nevěří tomu, čeká léčku, manévr, fintu, cokoli
 
 „Nestřílej,“ řekne Reyever. Tiše. „Everette, nestřílej. Drž clony a nehýbej se.“
 
-Vos stojí na mrtvé planetě a dívá se nahoru, jak se ta věc velká jako město vzdaluje od jediné lodi, kterou mohla rozdrtit jedinou ranou. Nebojuje. Neutíká. Nevyjednává. Obrátí se a odejde, jako zahradník, který dokončil záhon a jde k dalšímu, a hlína, po které šlapal, ho nezajímá, protože hlína se neptá.
+Vos stojí na mrtvé planetě a dívá se nahoru, jak se ta věc velká jako město vzdaluje od jediné lodi, kterou mohla rozdrtit jedinou ranou, a nerozdrtí ji. Nebojuje. Neutíká. Nevyjednává. Prostě se obrátí a odejde, klidně, jako zahradník, který dokončil záhon a jde k dalšímu, a hlína, po které šlapal, ho nezajímá, protože hlína se neptá.
 
 Plavidlo dosáhne výšky, kde mělčina ostatní lodě drží, a tam neuvázne. Zatne se do prostoru, kde *Kovadlina* hodinu úpěla, a vyšplhá pryč jednou hladkou křivkou, do proudu, který na žádné lidské mapě není.
 

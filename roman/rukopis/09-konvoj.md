@@ -78,7 +78,7 @@ EVERETT ZA PULTEM ZBRANÍ je voják, kterého Vos zná osm let, a za celou tu do
 
 „Nedovol mu to,“ řekne Reyever. „Drž se mu na boku. Křiž ho.“
 
-Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, nutí ji volit: klín čelem nebo bok. Cokoli nepřítel zvolí, jednu stranu obnaží.
+Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, nutí ji volit: nastav klín čelem a nech odkrytý bok, nebo chraň bok a nech odkryté hrdlo. Cokoli nepřítel zvolí, jednu stranu obnaží.
 
 Eskorta volí špatně, protože nemá z čeho volit dobře.
 

@@ -110,7 +110,7 @@ Reproduktor chvíli mlčí.
 
 „Sečetl,“ řekne Reyever. „Vyšlo mi totéž co tobě. Soulad je silnější. Kondominium padne. Smíření má v číslech pravdu.“ Odmlčí se. „A pořád ne.“
 
-„Proč.” Sarn nežadoní. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
+„Proč.“ Sarn nežadoní. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
 
 „Protože strana, která přežije, není strana,“ řekne Reyever. „Je to počasí. Ty ses nepřidal k lidem, Dane. Ty ses přidal k tomu, co vyhraje. To je rozdíl, který ty nevidíš, a já ti ho nevysvětlím, protože kdybych ho uměl vysvětlit, dal by se přepočítat. A on se přepočítat nedá.“
 

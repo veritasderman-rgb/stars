@@ -84,7 +84,7 @@ Renn vyjde z cely a venku se na okamžik zastaví, ruku na studené přepážce,
 
 VOS NAJDE RENN na chodbě a Renn pozná na jejím postoji, že to není náhoda.
 
-Major stojí příliš zpříma, ruce příliš volné. Renn to o ní ví: když je Vos naštvaná, ztiší se. Teď je tichá.
+Major stojí příliš zpříma, ruce příliš volné. Když je naštvaná, ztiší se — Renn to o ní ví, naučila se to na Sirte, kde Vos kdysi ztišila hlas tak, že se před ním celý velitelský modul přikrčil. Teď je tichá.
 
 „Mluvila jste s ním,“ řekne Vos.
 
@@ -110,7 +110,7 @@ Vos se nepohne. Pak řekne, o stupeň tišeji:
 
 „Vy víte, co je ten odznak.“
 
-Renn se usměje, tím profesionálním, ničím neříkajícím úsměvem, který nosí do jednání. „Kdybych to věděla,“ řekne, „byla bych vám to neřekla. To je taky rozdíl mezi námi.“ Mine ji na chodbě, blízko, a cítí, jak za ní Vos nespustí oči — Renn si vzpomene na Sálovou, jak ležela na střeše s puškou a čekala.
+Renn se usměje, tím profesionálním, ničím neříkajícím úsměvem, který nosí do jednání. „Kdybych to věděla,“ řekne, „byla bych vám to neřekla. To je taky rozdíl mezi námi.“ Mine ji na chodbě, blízko, a cítí, jak za ní Vos nespustí oči, jako odstřelovačka, která si značí cíl a šetří ránu.
 
 ---
 
@@ -156,7 +156,7 @@ Zpráva je krátká.
 
 A pod tím, kde jiní mívají podpis, ten symetrický tvar. Stonek a dvě poloviny. Zahrada.
 
-Renn ho čte dlouho. Pak se na chodbě ozvou kroky — rovnoměrné, Reyeverovy, ten člověk obchází loď v noci jako motor, co nemá vypínač. Renn neslyší, jestli se zastaví u jejích dveří. Možná ano. Možná jen jde kolem.
+Renn ho čte dlouho. Pak se na chodbě ozvou kroky — pomalé, věcné, klidné kroky Reyevera, který v noci obchází loď, protože nespí, nebo spí tak, že obchází loď. Renn neslyší, jestli se zastaví u jejích dveří. Možná ano. Možná jen jde kolem.
 
 Zhasne obrazovku.
 
