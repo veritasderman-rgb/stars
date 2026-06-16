@@ -112,7 +112,7 @@ Třetí flotila se stáhla z celého pohraničního ramene. Oficiálně „konso
 
 Vos pustí záznam dál do lodi, celý, nesestříhaný. Reyever ji to naučil, aniž to kdy řekl: šeptaná zpráva hnije.
 
-Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Umírá samo. Z únavy, z rozkolu, ze tří měsíců, kdy nešlo říct ani ano, ani ne.
+Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Ono umírá samo, z únavy, jako starý muž, který přestal mít důvod vstávat.
 
 A do té trhliny vráží Smíření, klidně, trpělivě, soustavu po soustavě, a nabízí jediné, co Kondominium nabídnout přestalo: že zítra ještě budeš.
 

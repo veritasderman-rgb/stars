@@ -58,7 +58,7 @@ Teď stojí a dívá se, jak jeho flotila krvácí vedle flotily Souladu, oba sa
 
 „Můžeme zabít muže, který nás právě porazil,“ řekne Sarn. „A získat tím přesně nic, protože past už sklapla a my jsme v ní, ať on žije, nebo ne.“ Otočí se od mapy. „Šetřete palbu na Soulad. Ten nás v téhle louži zabije dřív než Reyever. Reyever nás zabil včera.“
 
-Renn stojí vedle něj a drží se zábradlí oběma rukama. Oči má na mapě, ne na Sarnovi — to Sarn na ní pozná dřív, než ona otevře ústa.
+Renn stojí vedle něj a drží se zábradlí oběma rukama, a Sarn na ní vidí to, co se v ní zlomilo už v půlce bitvy a co se teď láme dolámat.
 
 „Vy jste řekl, že nikdy neprohrál,“ řekne. Hlas má suchý. „Protože nikdy nebojoval bitvu, kterou si nevybral. A tuhle —“
 
@@ -76,7 +76,7 @@ Reyever stojí v červeném světle, drží si bok a chvíli neodpoví. Dole se 
 
 „Dejte ho sem,“ řekne.
 
-V pásmu zazní Sarnův hlas, a Reyever ho pozná na první slovo, jako vždycky, jen je v něm tempo, které Sarn nikdy neměl — příliš rovné, bez prodlev, jakým mluví člověk, který přestal zároveň počítat i hovořit.
+V pásmu zazní Sarnův hlas, a Reyever ho pozná na první slovo, jako vždycky, jen je v něm něco, co tam za třicet let nebylo. Sarn mluví jako člověk, který položil tabulku na stůl a poprvé od ní odstoupil.
 
 „Adane.“
 

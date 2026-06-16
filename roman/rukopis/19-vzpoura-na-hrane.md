@@ -36,11 +36,11 @@ Nikdo neřekne nic.
 
 Brázda zvedne hlavu. Má v očích tu únavu, kterou Hale zná od chlapů, co viděli moc dun a moc prázdných pancířů.
 
-„Dobře, Kováři,” řekne Brázda. „Když to chceš slyšet nahlas. Spočítal jsem to. A vyšlo mi, že admirál má pravdu.”
+„Dobře, Kováři,“ řekne Brázda. „Když to chceš slyšet nahlas. Spočítal jsem to. A vyšlo mi, že admirál má pravdu.“
 
 Sálová přestane čistit pušku.
 
-„Soulad má pravdu,” řekne Brázda dál. „Kondominium se rozpadá, to nám major přečetla z depeše, a major nelže. Sarn má pravdu v číslech, to nezpochybňuje už ani plukovník, ten dědek to admirálovi řekl rovnou do ksichtu, slyšeli jsme to. A když má pravdu nepřítel i náš velitel zároveň, tak já se ptám, Kováři — za co tady ještě sedím? Za vodu na Sirte? Za soustavu, co mě odepsala dřív, než jsem vzlétl? Nebo za to, že se starej bojí přiznat, že prohrál?“
+„Soulad má pravdu,“ řekne Brázda dál. „Kondominium se rozpadá, to nám major přečetla z depeše, a major nelže. Sarn má pravdu v číslech, to nezpochybňuje už ani plukovník, ten dědek to admirálovi řekl rovnou do ksichtu, slyšeli jsme to. A když má pravdu nepřítel i náš velitel zároveň, tak já se ptám, Kováři — za co tady ještě sedím? Za vodu na Sirte? Za soustavu, co mě odepsala dřív, než jsem vzlétl? Nebo za to, že se starej bojí přiznat, že prohrál?“
 
 Hale ho nechá domluvit. Pak se podívá po hangáru, po těch unavených ksichtech, a ví, že tohle není Brázda. Tohle mluví celý hangár Brázdovou pusou, protože Brázda mluví málo, a proto když promluví, mluví za všechny.
 
@@ -58,7 +58,7 @@ Brázda mlčí dlouho.
 
 „Tys to řekl skoro jako plukovník,“ řekne nakonec.
 
-„No vidíš,“ řekne Hale a vstane, protože ví, kdy přestat, a tohle je ta chvíle. „A toho ty nemáš rád zrovna kvůli tomu, co? Že má pravdu zrovna ten, co ti nikdy nic nevysvětlí.“ Sebere ze země hadr a hodí ho Brázdovi do klína. „Slož ten kanón, Brázdo. Ať počítáš cokoli, slož ten kanón. Nechci tě vidět druhej den čumět na rozházenou bednu jako na něco, co se nedá dát zpátky. To je horší pohled než jakákoli matematika.“
+„No vidíš,“ řekne Hale a vstane, protože ví, kdy přestat, a tohle je ta chvíle. „A toho ty nemáš rád zrovna kvůli tomu, co? Že má pravdu zrovna ten, co ti nikdy nic nevysvětlí.“ Sebere ze země hadr a hodí ho Brázdovi do klína. „Slož ten kanón, Brázdo. Ať počítáš cokoli, slož ten kanón. Nechci tě vidět druhej den čumět na rozházenou bednu jako kluk na rozbitou hračku. To je horší pohled než jakákoli matematika.“
 
 Odejde dřív, než mu může někdo odpovědět, protože odpověď by celou věc jen zalila betonem, a beton se pak musí odsekávat.
 
