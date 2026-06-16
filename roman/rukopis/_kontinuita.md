@@ -529,3 +529,68 @@ Vos se zeptá důstojníka, co je ten odznak. Důstojník: „To je strana, kter
 **Jak končí:** Renn zatají tajnou zprávu, ráno Reyeverovi zalže poprvé „celou větou".
 
 **Otevřené nitky:** kdo je patron (jméno); co je „strana, která přežije" (Smíření); co čeká u uzlu; kdy Reyever/Vos odhalí Rennino dvojí dno.
+
+---
+
+## Kap. 11 — „Mělčina"
+
+> **AKT II (PŘESUNY).** Bojová/honičková kapitola. Navazuje bezprostředně na kap. 10 — *Kovadlina* sjela z proudu na 6. hladině do mělčiny cílového systému; nepojmenovaný stín ji sleduje od kap. 8. Žánrově: napínavá honička v gravitační mělčině + oběť zadního voje + paralelní montáž dvou lodí. POZOR na soulad: kap. 10 končí v noci v proudu (Renn dostane tajnou zprávu); kap. 11 začíná poté, co loď sjede z proudu dolů do mělčiny cílového systému (sjezd z hladin do mělčiny u cíle stopy výzbroje).
+
+**POV:** št. rtm. Brannick „Kovář" Hale (vševědoucí 3. os., přítomný čas; ohnisko pevně u Hala, dole u pohonu). Vedlejší ohniska přes velitelské pásmo a sdílenou obrazovku: Reyever, Vos, navigátor (vše na můstku, Hale to slyší/sleduje zdola). Halův idiolekt: obecná čeština, suchý humor, řemeslné metafory (loď = stroj, „stroj je poctivej na rozdíl od lidí", chrání mužstvo zlehčením pravdy).
+
+**Místo:** těžký křižník **Kovadlina** — Hale **dole u pohonu** (pult pohonu, přepážka, gradient pod dlaní, sdílená obrazovka stažená k pultu). Můstek jen přes pásmo. Vně: **mělčina** cílového systému (u hvězdy, nelze šplhat/uskočit) → **okraj / volná voda** → **šplh do hladin** (1., 2.). Stín nakonec mizí do **slepé mělčiny** stranou, do **proudu, který na mapách Kovadliny není**.
+
+**Denní doba / čas:** navazuje na kap. 10 (noc v proudu). Loď sjela z proudu na 6. hladině před ~hodinou, prodírá se mělčinou. Celá kapitola = jedna honička: prodírání mělčinou → oběť *Kovářky* (~10 min zdržení) → posledních pár minut k volné vodě → šplh → hook (stín mizí). Řádově hodina.
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **št. rtm. Brannick „Kovář" Hale** — POV, dole u pohonu; obecná čeština, řemeslné metafory; mužstvu říká zlehčenou verzi pravdy, stroji říká pravdu celou.
+- **plk. Adan Reyever** — na můstku, jen po pásmu; úsporný, „nejtišší, když je nejhůř"; vydá rozkaz k oběti zadního voje; v závěru dovodí, že stín ovládá proudy mimo mapy.
+- **mjr. Iliana Vos** — na můstku; když se bojí/je naštvaná, ZTIŠÍ se; dívá se na to, co umírá kvůli rozhodnutí, u kterého byla; zaznamená, že Daré stín ZASÁHLA (pod hrdlem) → „ta věc se dá ranit".
+- **kpt. Daré** — velitelka **korvety doprovodu Kovářka**. RETROAKTIVNĚ ztotožněna s **por. Daré** ze Sirte (kap. 1, velitelka 2. družstva, ptala se „co to teda je?"); za akt-break povýšena a převelena k doprovodu lodí. Věcná, neptá se dvakrát. PŘIJME oběť bez váhání. **PADLA** (viz ztráty). Klíčové repliky: „Rozumím, plukovníku."; „Nemám deset minut, plukovníku. Mám osm. Dvě si beru."
+- **navigátor** (bezejmenný, týž typ jako kap. 7/8/9) — hlásí kontakty, přepočítává Reyeverovým způsobem (dvakrát/třikrát).
+- **Tichý** — NOVÁ jmenovaná postava: **mladý operátor pohonu** pod Halem; tichý, vyděšený, hlásí, že gradient kouše. (Použitelná drobná stálice strojovny.)
+- Zmíněn **stín / pronásledovatel** — nepojmenovaný (nit z kap. 8/9/10), tady poprvé částečně VIDĚN (viz nové detaily).
+
+**Klíčové události:**
+1. *Kovadlina* se prodírá mělčinou cílového systému (sjela z proudu); stín ji sleduje dolů, drží odstup. Hale zdola: v mělčině nikdo neuteče nahoru, dokud nedojede k volné vodě → loď „k chycení".
+2. Stín POPRVÉ zkrátí odstup a začne dohánět. Navigátor: doženou *Kovadlinu* ~10 min před okrajem volné vody.
+3. Reyever povolá **korvetu Kovářka (kpt. Daré)** a zadá **oběť zadního voje**: korveta má stínu „stát v hrdle" (křížení T, klín na klín), zdržet ho ~10 min, aby zbytek Legie doplul k vodě a vyšplhal. Reyever otevřeně řekne, že korveta neobstojí. Daré přijme bez otázky.
+4. Hale dole napíná pohon nad míru („mělčina trhá gradient po krajích") — koupit Daré metry. Tichý hlásí, že gradient kouše; trhlina v klínu se rozšiřuje, stroj „poctivě" hlásí, kolik zbývá (cca 7 min do prasknutí, volná voda za 11 → nesedící rovnice).
+5. **Paralelní montáž:** *Kovářka* se odlepí, otočí klín čelem do mělčiny, jde stínu do hrdla (křížení T). Stín musí zpomalit a natáčet clony → kupuje to Legii čas.
+6. **Stín se poprvé částečně UKÁŽE** (když natočí bok): NENÍ celý — polovina trupu se „ztrácí", jako by někdo loď nakreslil a setřel jednu stranu; čidla ho hlásí „jako kov a zároveň jako nic". Schválně se neukazuje celý. Hale tomu nerozumí („stroj mi poprvé za 30 let neodpověděl").
+7. Stín udeří na *Kovářku* JEDINOU ranou (ne salvou), která **projde clonou, jako by tam nebyla** (ozvěna cizí zbraně ze Sirte, jen v lodním měřítku). Daré NEUSTOUPÍ — opře se blíž, klín na klín; odmítne Reyeverův rozkaz k ústupu replikou „Mám osm. Dvě si beru."; stáhne se stínu pod hrdlo (kam clony nesahají) a vypálí vše.
+8. **Kovářka VYŘAZENA/zničena** (klín studený, žádné kódy, nikdo se neozývá). ALE: Daré stín ZASÁHLA pod hrdlem — nepotopila, ale RANILA (z místa pod hrdlem jde „porucha v tvaru, rozmazaný inkoust"). Zpomalil. **Důkaz: ta věc se dá ranit.**
+9. Stín (zraněný, pomalejší) přesto vyrazí za *Kovadlinou* k volné vodě. Hale „pustí pohonu uzdu" naposledy, gradient se roztrhne o kus víc, ale loď skočí a přejde **okraj mělčiny do volné vody** (hvězda „pustí", tlak za hrudní kostí poleví). Trhlina v klínu vydržela „o jeden zub".
+10. Reyever: „Šplh. Hned." *Kovadlina* se topí do 1./2. hladiny, pryč.
+11. **HOOK — stín NEJDE nahoru za nimi:** místo aby šplhal za kořistí, ve zraněné mělčině **změní kurz STRANOU**, do „slepé/ploché mělčiny", kde podle všech map Kovadliny NENÍ žádný okraj, řeka ani nic. Tam — kde se nedá vyšplhat ani uskočit — **zrychlí a ZMIZÍ do proudu, který na mapách Kovadliny není**. Obrazovka po něm prázdná. Reyever dovodí: stín odjel **toutéž cestou mimo mapy, jakou přišla „čistá" depeše (kap. 10) a jakou Legii sledoval od mělčiny (kap. 8)** → potvrzení, že **nepřítel ovládá proudy mimo lidské mapy**; Legie za ním nemohla, ani kdyby chtěla. Pointa (Hale ke stroji): **„My jsme neutekli, kamaráde. Von nás pustil."**
+
+**Ztráty:**
+- **kpt. Daré PADLA** spolu s celou posádkou **korvety Kovářka** (zničena při oběti zadního voje). PRVNÍ jmenovaná ztráta aktu II a první ztracená LOĎ Legie. Daré = bývalá por. Daré ze Sirte (kap. 1) → emocionální váha (známá tvář z aktu I).
+- Legie jinak unikla; *Kovadlina* poškozený (natržený gradient/klín „o jeden zub", k opravě), ale celá.
+- Stín: NEzničen, ale RANĚN (zásah pod hrdlo od Daré); unikl do proudu mimo mapy.
+
+**Co kdo ví (stav na konci kap. 11):**
+- **Hale ví:** stín se schválně neukazuje celý (nedokreslený tvar, „kov i nic"); jeho rána prošla clonou jako by clona nebyla; stín ovládá proudy mimo mapy a Legii „pustil" (neutekli sami). Mužstvu říká zlehčenou verzi (utekli, Daré byla nejlepší).
+- **Vos ví:** Daré stín ZASÁHLA pod hrdlem → „ta věc se dá ranit" (klíčová naděje; předjímá akt III „Soulad krvácí", kap. 21).
+- **Reyever ví/dovodí:** stín ovládá proudy mimo lidské mapy (totéž jako depeše kap. 10 a sledování kap. 8) → nepřítel je „uvnitř" a má geografii, kterou lidstvo nezná; za ním se nedá jít. NEZNÁ jeho totožnost (Soulad? Smíření/Sarn?).
+- **Renn** v kapitole NEvystupuje; její tajná zpráva (kap. 10) o „uzlu" stále platí, neodhalena.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **korveta Kovářka** = lehká korveta doprovodu Legie (ostrý klín, tenké clony, „pes kolem stáda"); ZNIČENA v kap. 11. Velela jí kpt. Daré. (Pozor: jméno lodi „Kovářka" rezonuje s Halem „Kovář", ale jde o jinou věc — loď, ne osoba.)
+- **kpt. Daré** = bývalá **por. Daré** ze Sirte (kap. 1), převelena k doprovodu, PADLÁ v kap. 11. Nelze ji už použít jako živou.
+- **Tichý** = mladý operátor pohonu pod Halem (drobná stálice strojovny, použitelný dál).
+- **Mělčina takticky (kanon doplněn):** v mělčině se loď prodírá sublightem na klín, „k chycení"; nelze šplhat/uskočit; honička od mělčiny k volné vodě, kde teprve jde šplh — prostor pro oběť zadního voje (přesně dle bible 01). Napínání pohonu v mělčině **trhá gradient/klín po krajích** (riziko prasknutí klínu) — nová technická cena spěchu.
+- **Stín částečně viděn (kanon vizuálu nepřítele):** loď, která se **schválně neukazuje celá** — polovina trupu se „ztrácí", čidla hlásí „kov i nic"; útočí **jedinou ranou (ne salvou), která projde clonou** (ozvěna cizí zbraně ze Sirte v lodním měřítku). Lze RANIT (zásah pod hrdlo = „porucha v tvaru, rozmazaný inkoust"). NEPOJMENOVÁN (Soulad/Smíření neodhaleno).
+- **Proudy mimo mapy v praxi:** stín zmizí ze **slepé/ploché mělčiny** stranou do **proudu, který na mapách Kovadliny není** — tam, kde lidská čidla žádný okraj/řeku nemají. Potvrzuje kanon kap. 10 (depeše šla proudem mimo mapy) a kap. 8 (sledování od mělčiny). KANON: nepřítel ovládá gravitační proudy mimo lidskou geografii → vybírá si, kdy loví a kdy zmizí; za ním se nedá jít (předjímá kap. 20 „proudový uzel"). 
+- **„Ta věc se dá ranit"** = první důkaz zranitelnosti nepřítele (Vos, díky Daré) → předjímá akt III (kap. 21 „Krev Souladu").
+- Halův podpis potvrzen/rozšířen: stroji říká pravdu, mužstvu zlehčenou verzi („to zní líp"); „stroj je poctivej na rozdíl od lidí"; loď drží „vlastníma rukama".
+
+**Jak kapitola končí:**
+Stín nejde nahoru za Legií, ale zmizí stranou do proudu, který na mapách Kovadliny není (totáž cesta jako čistá depeše a jako sledování od mělčiny). Reyever dovodí, že nepřítel ovládá proudy mimo lidské mapy a že za ním nelze. Úderná pointa Hala ke stroji: **„My jsme neutekli, kamaráde. Von nás pustil."**
+
+**Otevřené nitky pro další kapitoly:**
+- **Nepřítel ovládá proudy mimo mapy** (potvrzeno potřetí: kap. 8 sledování, kap. 10 depeše, kap. 11 únik) → strategický motiv aktu II/III; přímá předehra k **proudovému uzlu** (kap. 20), kde Reyever obrátí znalost proudů proti nepříteli.
+- **„Stín nás pustil"** = nepřítel mohl udeřit, ale zvolil zmizet → motiv, že nepřítel Legii zatím nechce zničit, ale sledovat/pozorovat (rezonuje s kap. 10: „až přiletíte k uzlu, ať jsou připravení poslouchat"; a s žacím plavidlem kap. 12, které „ustoupí, nebojuje"). Otázka „proč nás nezabil" táhne dál.
+- **„Ta věc se dá ranit"** (Daré, Vos) = naděje pronesená do aktu III (kap. 21 „Soulad krvácí").
+- **Cena oběti:** Daré + posádka Kovářky = první ztracená loď a první jmenovaná ztráta aktu II; morální zátěž „lehčí matematiky" (rezonuje s opuštěnou Sirte, kap. 7). Reyever opět obětoval menší část pro celek bez vysvětlování — potenciální nový bod napětí Vos × Reyever (vztah dle postavy.md).
+- **Stín stále NEIDENTIFIKOVÁN** (Soulad? Smíření/Sarn?) — táhne se dál; částečný vizuál (nedokreslená loď, rána skrz clonu) je první přímý dojem nepřítele v lodním měřítku (po vraku kap. 7 a souladské nákladní lodi kap. 9).
