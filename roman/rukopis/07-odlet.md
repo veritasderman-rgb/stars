@@ -106,7 +106,7 @@ Vítr přejde po ochozu a přinese ten nasládlý prach, který Hale proklíná.
 
 Stojí spolu mlčky a Vos cítí ten kousek slitiny v náprsní kapse, těsně u žeber, kde ho nikdo nehledá. Nepoví mu o něm. Reyever schoval celé tělo a celou zbraň před Ligou a před velením — a jí neřekl proč mlčí o Sirte. Tak ona schová jeden kousek před ním. Není to pomsta. Je to symetrie. Oba teď nesou něco, co se nesmí najít, a oba o tom mlčí, a možná je to to jediné, v čem si dnes opravdu rozumějí.
 
-Napadne ji, že možná tohle je velení: ne rozkazy, ne plán, ale to, co si nechá pro sebe. Reyever ji to učí, aniž jí to řekne. Učí ji to tím, že mlčí, a ona se to učí tím, že mlčí taky. Je to ošklivá lekce a Vos ji nenávidí o to víc, že chápe, proč je nutná.
+Napadne ji, že tohle dělá z velitele velitel: ne rozkazy, ne plán, ale to, co si nechá pro sebe. Reyever ji to učí, aniž jí to řekne. Učí ji to tím, že mlčí, a ona se to učí tím, že mlčí taky. Je to ošklivá lekce a Vos ji nenávidí o to víc, že chápe, proč je nutná.
 
 „Plukovníku,“ řekne Vos. „Když přijde den, kdy nám tohle bude muset někdo vysvětlit — a ten den přijde. Budete u toho stát se mnou? Nebo budu zase počítat poslepu?“
 

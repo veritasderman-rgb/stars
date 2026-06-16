@@ -39,7 +39,7 @@ Brázda chvíli mlčí. Pak řekne to, co říkají všichni, protože nic lepš
 
 „Byl to mizernej kluk,“ opraví ho Hale. „Střílel jako přerostlej slepej a smrděl jako fretka. Za tři tejdny se nenaučil zavázat botu tak, aby mu nepadala. Byl to mizernej, neschopnej, ukecanej kluk a já bych dal měsíční žold za to, aby tady teď seděl a žvanil mi do práce.“ Strčí si do pusy další lžíci té šedi. „Tak je to s lidma. Mizerný a stejně ti chybí. Stroje jsou v tomhle poctivý. Mizernej stroj nikdo neoplakává.“
 
-Brázda na to nemá odpověď a Hale od něj žádnou nečeká. Sedí spolu v olejovém pachu a jedí palivo a venku za plechovou stěnou hučí kompresor základny, pravidelně, bez přestávky a bez zájmu.
+Brázda na to nemá odpověď a Hale od něj žádnou nečeká. Sedí spolu v olejovém pachu a jedí palivo a venku za plechovou stěnou hučí kompresor základny, pravidelně, jako srdce, které nikoho nemiluje, ale aspoň nepřestává.
 
 ---
 
@@ -129,7 +129,7 @@ Vos chvíli mlčí. Pak položí otázku, kterou Hale celou dobu čekal, protož
 
 „A na náměstí,“ řekne. „Když mě stáhl. Tři minuty před průlomem. Nechal mi tam dva mrtvé a neřekl proč.“ Otočí se k Halovi, a teď je v jejím hlase ta tichá tvrdost, která je horší než křik. „Vy jste s ním. Vy víte, jak myslí. Tak mi řekněte, Kováři, mezi námi dvěma a tím zatraceným prachem — měl důvod, nebo si jen rád nechává karty u sebe?“
 
-Hale by mohl lhát. Ale Vos by to poznala ze způsobu, jakým by odpověděl příliš rychle, a pak by mu nevěřila nic z toho, co řekne potom.
+Hale by mohl lhát. Bylo by to snazší. Ale lhát Vos je jako lhát motoru — pozná to, a pak ti to vybouchne v ruce.
 
 „Měl důvod,“ řekne Hale. „Druhé družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
 
