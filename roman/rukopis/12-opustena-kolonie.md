@@ -68,7 +68,7 @@ Tvary. Lidské tvary. Ne těla — z těch už zbyl jen obrys, vepsaný do té z
 
 Nikdo z mužstva nepromluví. Brázda sklopí těžkou pušku k zemi, protože ji nemá kam namířit. Sálová odvrátí hledí a Vos slyší v pásmu, jak polkne.
 
-Vos zůstane stát a dívá se, protože je to její pravidlo a protože ho dnes nezruší — dívat se na to, co umřelo, aby věděla. Jenže poprvé neví, na co se dívá. Nejsou to padlí. Nejsou to ani uklizení nepřátelé. Je to úklid. Někdo přišel a uznal, že tahle planeta je nemocná lidmi, a vyléčil ji. Vysázel je zpátky do půdy, srovnal do řad, a počkal, až bude zase ticho.
+Vos zůstane stát a dívá se, protože je to její pravidlo a protože ho dnes nezruší — dívat se na to, co umřelo, aby věděla. Tady jí to pravidlo poprvé nic nedá; dívá se a nic se v ní nesrovná do počtu, na který je zvyklá. Jenže poprvé neví, na co se dívá. Nejsou to padlí. Nejsou to ani uklizení nepřátelé. Je to úklid. Někdo přišel a uznal, že tahle planeta je nemocná lidmi, a vyléčil ji. Vysázel je zpátky do půdy, srovnal do řad, a počkal, až bude zase ticho.
 
 „Tohle není válka,“ řekne Vos do pásma, tiše, protože tišeji už neumí. „Tohle je zahradničení.“
 

@@ -162,7 +162,7 @@ Deset minut Legie dostala. A k tomu jednu pravdu navíc: ta věc se dá ranit.
 
 Gradient mu kouše do dlaně. Trhlina po krajích klínu se rozšiřuje, stroj mu poctivě hlásí, kolik mu zbývá, a je to míň, než potřebuje. Hale stojí nad pultem, oběma rukama na přepážce, jako by loď držel pohromadě vlastníma rukama, a možná že trochu jo. Plech pod dlaněmi mu hučí do kostí, jemně, nervózně, vyšší notou, než má znít — tak drnčí závit, který se chystá strhnout.
 
-„Ještě čtyři minuty, ty mrcho,“ řekne pohonu, něžně. „Daré ti koupila čtyři minuty za celou loď. Tak je nepromrhej.“
+„Ještě čtyři minuty, ty mrcho,“ řekne pohonu, něžně. „Daré ti koupila čtyři minuty za celou loď. Tak je nepromrhej.“ Mluví na stroj, aby nemusel počítat, kolik lidí znal jménem na *Kovářce*; čísla na gradientu jsou jediná, která dnes unese.
 
 Stín za zádí se pohne. Zraněný, pomalejší, ale pohne se — vyrazí za nimi, za *Kovadlinou*, zbytek cesty k volné vodě, protože pochopí, že korveta byla cena a že kořist je pořád na dosah.
 

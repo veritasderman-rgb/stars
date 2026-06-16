@@ -150,7 +150,7 @@ Navigátor se opře dozadu a podívá se na Reyevera s tváří člověka, kter�
 
 „Nedá se setřást, plukovníku,“ řekne. „Ať udělám cokoli, von to udělá za mnou. Jako by věděl, kam sáhnu, dřív než tam sáhnu.“
 
-Reyever se dívá na tu tečku dlouho. Můstek mlčí. Loď plave po neviditelné řece tmou bez hvězd, hluboko v hladinách, kde se nedá utéct ani se schovat, a vzadu, na samém okraji světa, drží někdo odstup tak přesně, že to není pronásledování.
+Reyever se dívá na tu tečku dlouho. Třicet let velel lodím, které někoho honily; nezvykl si na to, jak jinak vypadá svět z druhé strany dostřelu. Můstek mlčí. Loď plave po neviditelné řece tmou bez hvězd, hluboko v hladinách, kde se nedá utéct ani se schovat, a vzadu, na samém okraji světa, drží někdo odstup tak přesně, že to není pronásledování.
 
 Je to doprovod.
 

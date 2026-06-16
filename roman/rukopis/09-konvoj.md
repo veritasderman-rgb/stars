@@ -156,7 +156,7 @@ Lidské hlasy. Lidské ruce. Lidské tváře pod cizími přilbami.
 
 Vos to čekala, a stejně ji to zasáhne pod žebra. Někde v ní žije tichá naděje, že tahle loď bude plná těch, kdo psali nelidské značení do slitiny. Že nepřítel bude konečně mít tvar, na který se dá střílet bez tohohle.
 
-Není. Nepřítel má pořád lidskou tvář. Vozí cizí zbraně lidskýma rukama a vzdává se lidským hlasem.
+Není. Nepřítel má pořád lidskou tvář. Vozí cizí zbraně lidskýma rukama a vzdává se lidským hlasem. A část jí, kterou nemá ráda, by byla radši, kdyby se nevzdávali — to by se zítra spalo líp než s tím, že je nechala dožít výslechu.
 
 „Zbraně na zem,“ řekne Vos do vnějšího reproduktoru, a hlas má tišší, než zamýšlela, protože když je naštvaná, ztiší se. „Ruce za hlavu. Kdo poslechne napoprvé, dožije se výslechu.“
 

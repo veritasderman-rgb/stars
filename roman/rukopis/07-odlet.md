@@ -16,7 +16,7 @@ Vos se na bednu podívá. Stará vojenská přepravka, plech otlučený o tisíc
 
 „Do skladu,“ řekne. „Já si ji vyzvednu sama.“
 
-Brázda přikývne a odnese ji do útrob. Neptá se. To je na téhle Legii to dobré — lidé, kteří se neptají, dokud se ptát nemá.
+Brázda přikývne a odnese ji do útrob. Neptá se. To je na téhle Legii to dobré — lidé, kteří se neptají, dokud se ptát nemá. Vos chvíli stojí s prázdnýma rukama a chybí jí ta bedna; aspoň ta byla úkol, který se dal nést po rampě nahoru.
 
 ---
 
@@ -68,7 +68,7 @@ Hale chvíli mlčí. Kompresor základny už neběží — odpojili ho ráno —
 
 „Já vám ho dám,“ řekne Hale nakonec. „Ne protože je to chytrý. Je to pitomý. Ale protože jsem v životě potkal dva druhy lidí. Ty, co se ptaj, a ty, co jen poslouchaj.“ Položí jí ten kousek do dlaně, do holé dlaně, poprvé bez rukavice. Slitina je chladná. Pak ne — pak jako by se na okamžik ohřála, ale to je nejspíš jen teplo její vlastní kůže. „A ty, co poslouchaj, prohrávaj tyhle války. Tak to schovejte hluboko, majore. A nesahejte na to holou rukou. Pamatujte, co dělal ten kousek v hlavě toho chlapa.“
 
-Vos sevře dlaň. Ten kousek je menší než zub. Váží míň, než by měl.
+Vos sevře dlaň. Ten kousek je menší než zub. Váží míň, než by měl. Drží ho a poprvé jí nepřipadá, že kryje Reyevera — připadá jí, že se kryje před ním, a ta myšlenka jí nechutná tak málo, jak by měla.
 
 „Děkuju, Kováři.“
 
