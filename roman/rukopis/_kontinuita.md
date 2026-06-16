@@ -1175,3 +1175,68 @@ Past sklapla — Smíření i Soulad zaklíněni v mělčině, Soulad krvácí. 
 - **Reyever nese jména (Vos, Brázda) a tíhu sám** → coda zrcadlí poušť ze začátku (nový rekrut, nová Sirte, stejná volba); Reyever → mladý rekrut jako nositel.
 - **Sarn + Renn přežili** zaklíněni v louži — osud otevřený (možná coda / další díl).
 - ***Kovadlina* bez klínu, vytažená k volné vodě** — loď přežila, ale zmrzačená; logistika do cody.
+
+---
+
+## Kap. 22 — „Prach a soulad" (CODA / KONEC ROMÁNU)
+
+> **AKT III (SOULAD). ZÁVĚREČNÁ KAPITOLA / CODA. KONEC ROMÁNU.** Tišší, reflexivní, hořko-nadějné doznění ~2 měsíce po proudovém uzlu. Dvoudílná stavba: (A) POV Reyever — rozpad Kondominia dokonán, Legie se mění v bezdomovecké žoldnéřské jádro odporu; (B) přechod na MLADÉHO REKRUTA (Calt) na nové pouštní kolonii — POSLEDNÍ SCÉNA ZRCADLÍ KAP. 1 (poušť, čekání, léčka, volba; incipit i závěrečná pointa s motivem prachu „drží se všeho a nikdy si nic nenechá"). Otevírá sérii (ne cliffhanger). Reyever je tu už LEGENDA, ne fyzicky přítomen ve 2. části.
+
+**POV:** dvojí. (A) plk. Adan Reyever (vševědoucí 3. os., přítomný čas; stání *Kovadliny*, depešová mapa; vedlejší ohnisko Hale). (B) **rekrut Calt** (nová POV postava, nositel zrcadla) na kolonii Andar; vedlejší ohnisko svob. Sálová. Přechod „A→B" přes scénický střih + věta, že Reyever je teď jméno, ne muž.
+
+**Místo:** (A) paluba/stání *Kovadliny*, pořád bez klínu, ~2 měsíce po uzlu, na cestě ke kolonii **Mełhav** (Věrní, ti od vlečných lodí z kap. 21). (B) pouštní kolonie **Andar** — nová „Sirte": kotlina s vodním kolektorem (kruhové síto na rosu, betonová nádrž, plechová bouda) — VĚDOMÉ zrcadlo kap. 1.
+
+**Denní doba:** (A) neurčená paluba; (B) poslední hodina noci → úsvit, léčka časovaná na chvíli, kdy slunce praží obráncům do očí (přesné zrcadlo kap. 1).
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV části A; prach „se drží všeho" i na palubě; nechává svou legendu RŮST (neopravuje ji); nese tíhu (Vos, Brázda) sám. V části B fyzicky NEvystupuje — je jen JMÉNO/legenda vyslovovaná v hangárech.
+- **št. rtm. Brannick „Kovář" Hale** — část A; obecná čeština, řemeslné metafory; pojmenuje, že z Legie jsou teď žoldáci; metafora „sloužili jsme mrtvole, teď sloužíme tomu, co po ní zbylo". Stále drží mrtvý pohon „mostem s prasklým nosníkem".
+- **Calt** — NOVÁ POSTAVA, rekrut, 19 let, obecná čeština, nezkušený; nositel zrcadla. Na první léčce; cukne sebou; cílí na hruď (ne na člověka); přizná, že by se „radši sklonil" (volba Smíření). Obchází mrtvé jako Sálová. Slyší naučenou frázi z úst umírajícího kolonisty (zrcadlo kap. 1/3). KANON: je „první" — coda otevírá sérii.
+- **svob. Sálová** — odstřelovačka z Vosiny čety (kap. 3/5), PŘEŽILA proudový uzel; teď stará veteránka, mentorka Calta. Nese paměť Sirte i uzlu; cituje (nejmenuje) Reyeverovu i Vosinu repliku. „Nikdy nemine." NOSITELKA kontinuity přes celý román.
+
+**Klíčové události:**
+1. **(A) Rozpad Kondominia dokonán:** Reyever na depešové (ne bojové) mapě sleduje, jak přibývají „plné kroužky" (sklonily se = Smíření) vs. „prázdné" (ještě ne = Věrní). Kondominium padá „na schůzích, v depeších, beze střelby" (sjednoceno s kap. 2 Renn: „padne na schůzi"). Flotily staženy k jádru, pohraničí otevřené.
+2. **(A) Legie = bezdomovecké žoldnéřské jádro odporu:** sbor je „papír a papír shořel"; není armáda státu (stát se rozpadl), ale toho, co po státu zbylo. Mełhav (Věrní) najímá „toho, kdo rozlomil Soulad" — nabídne vodu/palivo/hangár. Hale to pojmenuje: „Sme žoldáci... nikdo nám to neřek." Reyever: vždycky jimi byli, jen teď je platí „lepší zaměstnavatel" (ten, kdo se nesklonil; „ten, komu sloužím, aspoň nelže, že umírá").
+3. **(A) Reyever nechává LEGENDU růst:** pověst říká, že rozlomil Soulad, neříká, kolik to stálo; Reyever ji neopravuje (velitel, který opraví legendu, dokáže, že ji potřebuje opravit). Nese cenu sám.
+4. **PŘECHOD A→B:** „Reyever je tou dobou jméno, ne muž" — jméno vyslovované v hangárech jako talisman/důkaz, že cizí věc lze rozlomit. Muž je o tři kolonie dál.
+5. **(B) ZRCADLO KAP. 1 — léčka na Andaru:** rekrut Calt + Sálová leží v duně nad kotlinou s vodním kolektorem; léčka časovaná na slunce do očí obráncům; obránci = vodní farmáři/kolonisti (NE vojáci) s cizími puškami. Přepad rychlý.
+6. **(B) Caltova VOLBA (jádro cody):** Calt přizná, že by se „radši sklonil, aby se dalo žít" (Smíření). Sálová bez opovržení: je to dobrá odpověď, většina ji dala, Smíření „mají v číslech pravdu, nejsou padouši"; Reyever o tom ví víc a stejně si vybírá druhou stranu „ne protože je správná, protože je jeho". Stejná volba jako na Sirte, předaná dál.
+7. **(B) Naučená fráze se VRACÍ (zrcadlo kap. 1/3):** umírající starý kolonista Caltovi: „Měli jste nás nechat přejít na správnou stranu... přijde to i na vás" — cizí slova v cizí puse, naučená. Calt: „Na kterou stranu? Kdo vám to řekl?" — kolonista dodýchá bez odpovědi (přesné zrcadlo Vos kap. 3 i zajatce kap. 1).
+8. **(B) Cizí zbraň + „špatná otázka" zrcadlena:** Sálová sebere mrtvému cizí pušku (matná, barvy mokré břidlice, bez závěru/zásobníku, „narostlá" — přesný popis z kap. 1), zabalí ji do hadru. Cituje (nejmenuje) Reyeverovu pointu z kap. 1 („někdo ti řekne, že je to špatná otázka — ten někdo už je mrtvej") a Vosinu otázku „kdo umírajícím slibuje strany" (kap. 3) jako „tu jedinou správnou otázku".
+9. **(B) ZÁVĚR — otevření série:** rota letí dál (vždy další kolonie, úsvit, kotlina). Závěrečný obraz: voda vsákne do písku, „který se drží všeho... a přesto si nikdy nic nenechá" (PŘÍMÉ zrcadlo poslední věty kap. 1, rozšířené o „jména, sliby, mrtvé i živé"). Calt nese otázku, „na kterou nikdo nezná lehkou odpověď, a neví, že je první. Že tahle byla první." = otevřený obzor, ne cliffhanger; tohle byla první kampaň.
+
+**ZTRÁTY / STAV (KANON — držet dál):**
+- ***Kovadlina*** — ŽIVÁ, STÁLE BEZ KLÍNU (~2 měsíce po uzlu; klín se neopraví na vyčerpané kolonii); pořád skřípe; Hale drží pohon „mostem s prasklým nosníkem".
+- **Reyever** — žije; legenda; nese tíhu sám; v části B nepřítomen fyzicky (jen jméno).
+- **Hale** — žije, na *Kovadlině*; pojmenoval žoldnéřství Legie.
+- **svob. Sálová** — žije, PŘEŽILA proudový uzel („vrátila se každá desátá"); teď veteránka-mentorka na Andaru. Most kontinuity přes celý román.
+- **Calt** — nová žijící postava (rekrut, 19); nositel zrcadla/série.
+- **Vos, Brázda** — PADLÍ (kap. 20/21); v kap. 22 jen jako Reyeverova tíha / nevyslovené.
+
+**Co kdo ví (stav na konci kap. 22 / románu):**
+- **Reyever ví:** Kondominium se hroutí dokonale (beze střelby); Legie je teď bezdomovecký žoldnéřský odpor sloužící Věrným; svou legendu nechává růst, cenu nese sám.
+- **Hale ví:** z Legie jsou žoldáci bez státu; volí „lepší zaměstnavatele" (Věrné).
+- **Sálová ví:** celou historii od Sirte po uzel; předává volbu i „tu správnou otázku" dál mladým; ví, že vítězství u uzlu bylo „k ničemu i k jediné věci, na které záleží" (= volba).
+- **Calt neví NIC** o pozadí — je na začátku oblouku (zrcadlo Reyevera/Vos z kap. 1/3); zatím by se „radši sklonil"; teprve „si vybere".
+
+**Nové zavedené detaily / fakta (držet dál — pro PŘÍPADNOU SÉRII):**
+- **Calt** — nová POV postava, rekrut (19 let), nositel zrcadla, „první" nové generace; otevřený oblouk (volba bojovat × sklonit se).
+- **svob. Sálová jako veteránka-mentorka** — POVÝŠENÍ funkce z vedlejší postavy (kap. 3/5) na nositelku kontinuity/paměti celého románu; přežila proudový uzel; „nikdy nemine".
+- **kolonie Andar** — nová pouštní kolonie, vědomé zrcadlo Sirte (kotlina, kolektor, voda, cizí zbraně u kolonistů); nový bod kampaně.
+- **kolonie Mełhav** — kolonie Věrných (ti od vlečných lodí z kap. 21), první „zaměstnavatel" Legie po pádu Kondominia; nabízí vodu/palivo/hangár.
+- **LEGIE = ŽOLDNÉŘSKÉ JÁDRO ODPORU** — KANON dokonán (sjednoceno s bible.md §4): ne armáda státu, ale toho, co po státu zbylo; slouží za žold těm, kdo se nesklonili (Věrným). Reyever: „vždycky jsme byli žoldáci, Kondominium nás jen platilo natolik, abychom si mysleli, že sloužíme jemu."
+- **REYEVER = LEGENDA** — od cody je Reyever spíš jméno/talisman („rozlomil Soulad") než fyzická postava; legendu nechává záměrně růst, cenu (Vos, Brázda) nese sám.
+- **DEPEŠOVÁ MAPA: plný kroužek = Smíření (sklonili se), prázdný = Věrní (ještě ne)** — vizuální zkratka štěpení lidstva; plných přibývá.
+- **NAUČENÁ FRÁZE PŘEŽILA 20 LET** — „přejít na správnou stranu / přijde to i na vás" se vrací v ústech umírajícího kolonisty na Andaru (kap. 1/3 → kap. 22); ideologie Smíření trvá a šíří se dál.
+- **„ŠPATNÁ × SPRÁVNÁ OTÁZKA"** — Reyeverova pointa z kap. 1 („to je špatná otázka") převrácena Sálovou na „tu jedinou správnou otázku" (kdo umírajícím slibuje strany — Vosin motiv z kap. 3). Tématický uzávěr i otevření.
+- **ČAS:** coda ~2 měsíce po proudovém uzlu (kap. 20/21).
+
+**Jak kapitola (a román) končí:**
+Rekrut Calt po první léčce na Andaru nese v sobě nezodpověditelnou otázku o „správné straně" a vlastní volbě; rota letí dál za další kolonií. Voda z probité nádrže se vsákne do písku, „který se drží všeho — hledí, závěru, potu, jmen, slibů, mrtvých i živých — a přesto si nikdy nic nenechá" (zrcadlo poslední věty kap. 1). Poslední věty románu: **„...a neví, že je první. / Že tahle byla první."** = otevřený obzor / otevření série; tohle byla první kampaň, ne konec války.
+
+**Otevřené nitky (→ PŘÍPADNÁ SÉRIE / další díl):**
+- **Sad za 9 plavidly** (kap. 21) nespočítatelný → válka se Souladem pokračuje.
+- **Štěpení Věrní × Smíření** se prohlubuje (depešová mapa); Kondominium fakticky zaniklo.
+- **Sarn + Renn** (přežili kap. 21) — osud otevřený pro další díl.
+- **Calt + Sálová** = nová generace nositelů, otevřený oblouk volby → motor případné série.
+- ***Kovadlina* bez klínu** — Legie potřebuje novou loď / opravu; logistický tah dál.
