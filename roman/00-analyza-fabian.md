@@ -1,9 +1,15 @@
 # Rozbor předlohy — Robert Fabian: *Mariňáci*
 
-Pracovní analýza zdrojového textu (`Fabian_R-Mariňáci.txt`, ~12 950 řádků,
-~1,1 MB, celý román). Slouží jako referenční měřítko tempa a vypravěčského
-způsobu pro nový příběh. Nový text má **vlastní děj** — z předlohy se přebírá
-*řemeslo a hlas*, ne zápletka.
+Pracovní analýza zdrojového textu (jediný `*.txt` v kořeni repa,
+~12 950 řádků, ~1,1 MB, celý román). Slouží jako referenční měřítko tempa
+a vypravěčského způsobu pro nový příběh. Nový text má **vlastní děj** —
+z předlohy se přebírá *řemeslo a hlas*, ne zápletka.
+
+> **Pozn. k názvu souboru:** název obsahuje diakritiku v **rozloženém**
+> tvaru (NFD — kombinující háček a čárka), takže přesný řetězec
+> `Fabian_R-Mariňáci.txt` napsaný ve složeném tvaru (NFC) na něj na Linuxu
+> *nesedí* a `Read`/`cat` selže. Na soubor se odkazuj **globem**
+> `Fabian_R-*.txt` (např. `f=$(ls Fabian_R-*.txt)`), ne přesným jménem.
 
 ---
 

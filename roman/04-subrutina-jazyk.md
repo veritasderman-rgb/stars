@@ -15,7 +15,9 @@ Spustit beze změny, jen krmit biblí tohoto projektu (`roman/01-svet-bible.md`,
 `roman/02-postavy.md`):
 
 - **`CLAUDE.md`** — orchestrace, 7 vrstev, smyčka max. 3 cykly, konvergence,
-  nedestruktivní git workflow. Platí. (Jen pořadí vrstev upravit, viz D.)
+  nedestruktivní git workflow. Platí, ale **pořadí vrstev a cesty je nutné
+  zapojit** — viz D (pořadí) a F (zapojení do orchestrátoru). Bez toho jede
+  starý cyklus LOFTu.
 - **`konzistence`** — bible + kontrola soudržnosti. Klíčové pro glosář termínů
   (kýlový klín, hladiny, proudy, Přerod…) — nejednotnost terminologie je
   v SF častější průšvih než v erotice.
@@ -126,13 +128,32 @@ Konkrétní průšvihy, na které je čeština v military SF náchylná. Tohle j
 
 ---
 
-## F) Jak to spustit (po napsání rukopisu)
+## F) Než to půjde spustit — zapojení do orchestrátoru (TODO)
 
-1. Rukopis (nebo kapitoly) do `roman/rukopis/`.
+> **Pozor — nic z (D) zatím NENÍ zapojené.** Existující `CLAUDE.md`
+> a `sefredaktor.md` (systém LOFTu) pořád plánují **starý 7vrstvý cyklus**
+> s `klise-lovec` a **bez** `cestina-strazce`, a jsou hard-coded na cestu
+> `rukopis/` (ne `roman/rukopis/`). Kdo dnes spustí `sefredaktor`, dostane
+> erotikou laděný cyklus na špatné cestě. Tyhle soubory **záměrně neměníme**,
+> dokud běží redakce LOFTu — přepis by ji rozbil.
+
+Před prvním během redakce tohoto románu je tedy nutné jedno z:
+
+- **A) Oddělený orchestrátor.** Zkopii `CLAUDE.md` + `sefredaktor.md` upravit
+  pro tento projekt: pořadí vrstev dle (D), `klise-lovec` → `klise-scifi`,
+  doplnit `cestina-strazce`, vstup/výstup nasměrovat na složku rukopisu
+  tohoto románu. (LOFT systém zůstane netknutý.)
+- **B) Explicitní spuštění.** Orchestrátor nepoužít a vrstvy dle (D) zavolat
+  ručně přes `Task` na jmenované agenty.
+
+## G) Jak to spustit (po zapojení dle F)
+
+1. Rukopis (nebo kapitoly) do **`rukopis/`** (konvence existujícího
+   `CLAUDE.md`; pokud zvolíš jinou cestu, srovnej ji v orchestrátoru).
 2. `git checkout -b redakce/cyklus-1`.
-3. Orchestrátor (`sefredaktor` / `CLAUDE.md`) projede vrstvy dle pořadí v (D).
+3. Orchestrátor projede vrstvy dle pořadí v (D) — **až po zapojení dle F**.
 4. Konvergence < 0,5 % vět → konec; jinak max. 3 cykly.
 5. Finál + `REDAKCE-LOG.md`.
 
 > Tato fáze projektu = **jen analýza a plán**. Strážci se spustí, až bude
-> text. Teď jsou připraveni „na sucho".
+> text a až bude orchestrátor zapojený dle (F). Teď jsou připraveni „na sucho".
