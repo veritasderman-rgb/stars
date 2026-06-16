@@ -1,6 +1,6 @@
 # 9. Konvoj
 
-KONVOJ SE OBJEVÍ NA ČIDLECH jako řada teček, které se ještě nevědí, že umřou. Vos stojí na velitelském stání *Kovadliny*, ruce za zády, a počítá. Šest teček. Pět je shluk, jeden se táhne kus napřed. Pět nákladních, jeden eskortní — křižník menší třídy, než je *Kovadlina*, ale ne o tolik, aby se dal podcenit.
+KONVOJ SE OBJEVÍ NA ČIDLECH jako řada teček, které ještě nevědí, že umřou. Vos stojí na velitelském stání *Kovadliny*, ruce za zády, a počítá. Šest teček. Pět je shluk, jeden se táhne kus napřed. Pět nákladních, jeden eskortní — křižník menší třídy, než je *Kovadlina*, ale ne o tolik, aby se dal podcenit.
 
 Plují po proudu na šesté hladině, klidně, jistě, jako lidé, kteří jezdí touhle řekou tak často, že přestali poslouchat, co se za nimi vynořuje ze tmy.
 
@@ -144,7 +144,7 @@ Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho, co umí.
 
 PŘEPADOVÁ ČETA VSTUPUJE DO CIZÍ LODI hrdlem dokovacího límce, ve skafandrech, v tom tichu, které není tichem, protože v něm slyší vlastní dech a tep a šustění výstroje o trup. Vos jde druhá, hned za Brázdou, který nese těžkou pušku tak, jako jiní nosí deštník.
 
-Cizí náklad páchne jinak. Vos to pozná i přes filtr skafandru — ne olejem a ozonem jako *Kovadlina*, ale něčím sladším, vzdáleně rostlinným, jako vzduch ve skleníku. Chodby jsou užší, světla teplejší, a všechno má ten plynulý tvar, který Vos zná z cizí zbraně, jako by loď nebyla sestavená, ale narostlá.
+Cizí loď páchne jinak. Vos to pozná i přes filtr skafandru — ne olejem a ozonem jako *Kovadlina*, ale něčím sladším, vzdáleně rostlinným, jako vzduch ve skleníku. Chodby jsou užší, světla teplejší, a všechno má ten plynulý tvar, který Vos zná z cizí zbraně, jako by loď nebyla sestavená, ale narostlá.
 
 A posádka jsou lidé.
 

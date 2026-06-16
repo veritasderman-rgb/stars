@@ -114,7 +114,7 @@ Reyever neodpoví hned. Drží hrnek, nepije, dívá se na navigátorův pult, k
 
 VOS PŘIJDE NA MŮSTEK ve chvíli, kdy si Reyever myslí, že nejhorší část přechodu mají za sebou.
 
-Nemá ji. Vos to pozná na navigátorovi dřív, než ho slyší promluvit — pozná to na jeho zádech, na tom, jak se nad pult nahlíží a tuhne, na ruce, která stojí nad ovladačem a nedopadá. Je to ta setina vteřiny, o které mluví Reyever, kdy tělo dohání tvář. Vos ji zná. Naučila se ji od něj.
+Nemá ji. Vos to pozná na navigátorovi dřív, než ho slyší promluvit — pozná to na jeho zádech, na tom, jak se nad pult naklání a tuhne, na ruce, která stojí nad ovladačem a nedopadá. Je to ta setina vteřiny, o které mluví Reyever, kdy tělo dohání tvář. Vos ji zná. Naučila se ji od něj.
 
 „Plukovníku,“ řekne navigátor, a hlas má plochý tím způsobem, jakým voják mluví, když se snaží neznít vyděšeně. „Mám kontakt. Za námi. V proudu.“
 

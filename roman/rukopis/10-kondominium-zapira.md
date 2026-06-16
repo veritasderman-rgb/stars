@@ -40,11 +40,11 @@ Renn neodpoví hned. To je chyba, a ví to ve chvíli, kdy ji dělá — to zav�
 
 „Máte pětadvacet beden něčeho, co podle úřadu neexistuje, na lodi, která tam podle úřadu není, plnou lidí, které jste podle úřadu nikdy nezajal.“ Renn položí destičku na stůl, lícem dolů. „Vy si pořád myslíte, že problém je, že vám nevěří. Problém je, že vám věří moc dobře. A proto vás škrtli.“
 
-Reyever sedne si na lavici, poprvé. Pro něj je to gesto, ne pohodlí — postavit se výš nebo níž než ten, s kým mluví, je rozhodnutí jako každé jiné.
+Reyever si sedne na lavici, poprvé. Pro něj je to gesto, ne pohodlí — postavit se výš nebo níž než ten, s kým mluví, je rozhodnutí jako každé jiné.
 
 „Vysvětlete mi to,“ řekne. „Já jsem voják. Vy jste politik. Tohle je vaše krajina, ne moje.“
 
-Renn ho má za to skoro ráda — za tu poctivost, se kterou přizná, kde je doma a kde ne. Skoro. Být politika znamená nedat na nikom skoro nic.
+Renn ho má za to skoro ráda — za tu poctivost, se kterou přizná, kde je doma a kde ne. Skoro. Být političkou znamená nedat na nikom skoro nic.
 
 „Kondominium drží pohromadě jediná věc,“ řekne. „Monopol na hladinový pohon. Nic víc. Žádná láska, žádná vlajka, žádný společný bůh — jen to, že nikdo jiný neumí převézt loď mezi hvězdami tak levně jako ono. To je celá ta říše, plukovníku. Účetní knížka s děly.“ Přejde ke stěně, k zhasnuté mapě. „A účetní knížka má jedno pravidlo, které je starší než Kondominium: co nezapíšeš, to nedlužíš. Vy jste našel věc, kterou nikdo neumí zaúčtovat. Cizí zbraň, cizího nepřítele, cizí ruku v pohraničí. Zapsat ji znamená přiznat, že Kondominium není schopné ubránit vlastní hranice. A to je jediná věc, kterou si dovolit nemůže. Ne prohrát bitvu — to přežije. Přiznat, že je slabší, než předstírá. Na tu chvíli čeká třicet kolonií, aby změnily strany.“
 
@@ -66,7 +66,7 @@ Na hrudi má odznak. Renn ho nezná a zároveň ho zná — pozná ho tělem dř
 
 „Vy jste ta, co rozhoduje.“ Prohlédne si ji, beze spěchu, jako se prohlíží mapa. „Plukovník rozhoduje, koho zabít. Vy rozhodujete, jestli to mělo cenu. To je těžší.“
 
-Renn nesedne si. Stát znamená moct odejít.
+Renn si nesedne. Stát znamená moct odejít.
 
 „Co je ten odznak,“ řekne. Neptá se. Chce slyšet, jak na to odpoví.
 
