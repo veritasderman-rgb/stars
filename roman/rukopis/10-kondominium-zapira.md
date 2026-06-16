@@ -54,7 +54,7 @@ Renn ho má za to skoro ráda — za tu poctivost, se kterou přizná, kde je do
 
 ---
 
-ZAJATEC SEDÍ V CELE, kterou *Kovadlina* nemá, protože válečné lodě nestaví vězení, jen je improvizují — vyklizená kabina pomocné navigace, dveře zvenčí zajištěné, jeden voják na chodbě. Renn žádala, aby ho směla vidět. Reyever ji nechá. Neptá se proč, a to ji znepokojuje víc než kdyby se ptal.
+ZAJATEC SEDÍ V CELE, kterou *Kovadlina* nemá, protože válečné lodě nestaví vězení, jen je improvizují — vyklizená kabina pomocné navigace, dveře zvenčí zajištěné, jeden voják na chodbě. Renn žádá, aby ho směla vidět. Reyever ji nechá. Neptá se proč, a to ji znepokojuje víc než kdyby se ptal.
 
 Důstojník sedí rovně. Padesátník, šedý na spáncích, ruce na kolenou, klidný. Renn ten klid pozná — je to klid člověka, který spočítal víc věcí než ona. Zná pár takových. Jeden z nich jí kdysi vysvětlil, proč se nedá vyhrát, a udělal to tak laskavě, že mu skoro poděkovala.
 
@@ -70,7 +70,7 @@ Renn nesedne si. Stát znamená moct odejít.
 
 „Co je ten odznak,“ řekne. Neptá se. Chce slyšet, jak na to odpoví.
 
-Důstojník se dotkne ho špičkou prstu, opatrně. „Major se ptala na totéž,“ řekne. „Řekl jsem jí pravdu. Vám řeknu jinou pravdu, protože vy ji unesete.“ Odmlčí se. „Je to pozvánka. Major slyšela hrozbu. Vy slyšíte pozvánku, protože ji znáte. Že ano.“
+Důstojník se ho dotkne špičkou prstu, opatrně. „Major se ptala na totéž,“ řekne. „Řekl jsem jí pravdu. Vám řeknu jinou pravdu, protože vy ji unesete.“ Odmlčí se. „Je to pozvánka. Major slyšela hrozbu. Vy slyšíte pozvánku, protože ji znáte. Že ano.“
 
 Renn drží ramena klidná. Drží tvář klidnou. Drží i to třetí, hlubší, na co Reyever ještě nemá jméno, ale po čem už hmatá — to, co tělo dělá, když ho zaskočí věc, kterou nesmí nikdo vidět.
 
