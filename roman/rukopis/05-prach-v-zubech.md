@@ -2,7 +2,7 @@
 
 DÍLNA NA ZÁKLADNĚ je jediné místo na Sirte, kde Hale dýchá pořádně. Páchne to tu olejem, ozonem ze svářečky a tím nasládlým prachem, co se drží všeho na téhle planetě a leze i tam, kam by neměl, do závěrů, do kloubů pancířů, do plic. Hale ho má v zubech od chvíle, co sem před třemi týdny slezli z kluzáků. Skřípe mu mezi stoličkami pokaždé, když zatne čelist, a on ji zatíná hodně, protože co jiného se na téhle díře dá dělat.
 
-Je hodina po půlnoci. Po boji o uzel uplynuly dva dny a Hale od té doby spal možná pět hodin, rozsekaných na kousky tak malé, že se nedají dát dohromady. Sedí na převrácené bedně mezi dvěma demontovanými pancíři a čistí závěr své pušky, kterou čistit nepotřebuje. Dělá to, protože ruce, které mají co dělat, nemyslí. A on dneska myslet nechce.
+Je hodina po půlnoci. Po boji o uzel uplynuly dva dny a Hale od té doby spal možná pět hodin, rozsekaných na kousky tak malé, že se nedají dát dohromady. Sedí na převrácené bedně mezi dvěma demontovanými pancíři a čistí závěr pušky, kterou čistit nepotřebuje. Dělá to, protože ruce, které mají co dělat, nemyslí. A on dneska myslet nechce.
 
 Před ním na ponku leží čtyři komplety bojové výstroje. Tři jsou na opravu. Jeden ne.
 
@@ -130,7 +130,7 @@ Vos chvíli mlčí. Pak položí otázku, kterou Hale celou dobu čekal, protož
 
 Hale by mohl lhát. Bylo by to snazší. Ale lhát Vos je jako lhát motoru — pozná to, a pak ti to vybouchne v ruce.
 
-„Měl důvod,“ řekne Hale. „Druhý družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
+„Měl důvod,” řekne Hale. „Druhé družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
 
 „A druhá?“
 
@@ -148,7 +148,7 @@ VOS NAJDE REYEVERA na můstku velitelského modulu o hodinu později a Hale je u
 
 Vos nezačne zeširoka. Vos nikdy nezačíná zeširoka.
 
-„Na Sirte jste mě stáhl z náměstí tři minuty před tím, než jsem to měla,“ řekne. „Dva mrtví. Žádný důvod. Teď vím, že důvod byl — druhé družstvo. Co chci vědět je, proč jste mi to neřekl. Ani potom. Ani teď.“
+„Na Sirte jste mě stáhl z náměstí tři minuty před tím, než jsem to měla,“ řekne. „Dva mrtví. Žádný důvod. Teď vím, že důvod byl — druhé družstvo. Chci vědět, proč jste mi to neřekl. Ani potom. Ani teď.“
 
 Reyever stojí u průzoru, ruce za zády, a dívá se na orbitální výtah, jako by ho ta otázka nezajímala. Ale Hale ho zná. Vidí, jak se mu mezi lopatkami usadil ten klid, který stojí víc síly než křik.
 
