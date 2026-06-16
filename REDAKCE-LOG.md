@@ -1092,3 +1092,82 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - Hovorové tvary v přímé řeči vojáků (seš, svejch, svejch, plejtvaj, nemaj, tahaj, vzdaj) — záměrný rejstřík, NESAHAT.
 
 **Celkové hodnocení:** Kapitola je jazykově velmi čistá. Přítomný čas drží konzistentně, uvozovky jsou výhradně české, přechodníky nulové, terminologie v pořádku (Legie velká, žádné FTL termíny v pozemní scéně). Tři mechanické chyby opraveny.
+
+---
+
+## roman/rukopis/03-voda-a-vytah.md — jazyková vrstva (cestina-strazce)
+
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `šetří muničí` → `šetří munici` (E3/pravopis — „munič" neexistuje; správný tvar 4. pádu je „munici")
+2. `se sklopenou hlaveň` → `se sklopenou hlavní` (pravopis — „hlaveň" je 1./4. pád; instrumentál = „hlavní")
+3. `dotkne hlavní pušky` → `dotkne se hlavně pušky` (pravopis + syntax — „hlavní" je adjektivum; podstatné jméno „hlaveň" ve 2. pádě = „hlavně"; sloveso „dotknout" vyžaduje „se" + genitiv)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- Přítomný čas: drží se konzistentně; vsuvky s minulostí (Kovař v kotlině, Reyeverův tentýž úsvit) jsou správně v minulém čase.
+- Uvozovky: výhradně české „…" ve všech výskytech.
+- Přechodníky: žádné.
+- Koncovky 3. os. mn. č.: „střílejí", „počítají", „slyšíte", „povalují se" — vše na -í, v pořádku.
+- Anglikalky: žádné nalezeny.
+- „svůj": „svého velitele" (ř. 83) — funkční, podmět Vos odkazuje na vlastního velitele; „U své strany" (ř. 113) — kontrastní použití oproti „u druhé", funkční.
+- Berličky „pak/potom": čtyři výskyty celkem, rozmístěné, netvoří tik. Ponecháno.
+- Terminologie: žádné FTL termíny (hladiny/proudy/mělčina) v pozemní scéně. „Orbitální výtah" konzistentní. Legie (velká) nefiguruje, Sirte správně.
+- Hovorové tvary v přímé řeči vojáků: záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Tři opravy — jde o omyly v tvarosloví podstatného jména „hlaveň" a neexistující tvar „munič". Styl, tempo ani obsah nedotčeny.
+
+---
+
+## Jazyková kontrola — `roman/rukopis/04-zajatec.md`
+
+**Vrstva:** cestina-strazce (E1–E9)
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `Ale Reyever ho sledoval. Reyever sleduje ruce ... a viděl to` → `Ale Reyever ho sleduje. Reyever sleduje ruce ... a vidí to` (E1 — prokluzy do minulého času uvnitř akční scény; odstavec začíná přítomným „Muž se nehne", pak dvakrát sklouzne do minulého „sledoval" / „viděl" a zpět; opraveno na konzistentní přítomný čas)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- **E2 — uvozovky a interpunkce přímé řeči:** výhradně české „…" ve všech výskytech; uvozovací věty s malým písmenem a správnou čárkou/tečkou uvnitř uvozovek; žádná chybějící interpunkce.
+- **E3 — koncovky 3. os. mn. č.:** „přivezli", „potřebovaly", „nesli" — všechny tvary správně; žádné chybné -i místo -í.
+- **E4 — anglikalky:** „právě se rozhodl ji neříct" (správně česky); žádné kalouzy „udělal rozhodnutí", „to nedává smysl"; slovosled přirozený.
+- **E5 — redundantní „svůj":** „udělalo svoji práci" (ř. 115) — funkční přivlastnění (výkon toho objektu, ne cizí práce), ponecháno.
+- **E6 — přechodníky:** žádné v celém textu.
+- **E7 — berličky:** dva výskyty „pak" (ř. 77 a 97), oba v různých sekcích, netvoří tik; ponecháno.
+- **E9 — terminologie:** Kondominium, Legie, Sirte — vše s velkým písmenem; Liga (koloniální) konzistentně velká; žádné FTL termíny, kde by bylo nutno hlídat tvar.
+- **E1 — minulý čas v závěru (ř. 139):** „Za třicet let honil povstalce... Věděl, jak vypadá nepřítel..." — záměrný retrospektivní kontrast k pointě „Tenhle nemá nic z toho"; funkce je obecná zkušenostní reference, nikoliv nechtěný prokluz; ponecháno.
+- **Hovorové tvary v Halově řeči:** „Sahej", „kdybysme", „Stejnej kov" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově výrazně čistá. Jeden zásah — dvojí nechtěný prokluz minulého času uvnitř akční scény (ř. 67). Žádné uvozovkové chyby, přechodníky, anglikalky ani tvaroslovné omyly.
+
+---
+
+## Jazyková kontrola — `roman/rukopis/05-prach-v-zubech.md`
+
+**Vrstva:** cestina-strazce (E1–E9)
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `čistí závěr své pušky` → `čistí závěr pušky` (E5 — redundantní „své"; podmět je jasný, přivlastnění zbytné)
+2. `„Druhý družstvo.` → `„Druhé družstvo.` (shoda přídavného jména se středním rodem „družstvo"; překlep v přímé řeči Halea, ř. 133)
+3. `Co chci vědět je, proč jste mi to neřekl.` → `Chci vědět, proč jste mi to neřekl.` (E4 — anglikalka „What I want to know is"; přímá řeč Vos, ř. 151)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- **E2 — uvozovky a interpunkce přímé řeči:** výhradně české „…" ve všech výskytech; žádné ASCII uvozovky; uvozovací věty s malým písmenem a správnou interpunkcí uvnitř uvozovek. Počet „ (U+201E) = počet " (U+201C); ASCII uvozovek = 0.
+- **E3 — koncovky 3. os. mn. č.:** „vědí", „říkají", „mají", „tihli vědí" — všechny tvary správně na -í; hovorové „šetřej/vymluví" v přímé řeči vojáků záměrné.
+- **E1 — přítomný čas:** narativ důsledně přítomný; minulý čas jen ve vsuvkách/vzpomínkách (ř. 15 Vejvarova epizoda, ř. 75 vzpomínka na zátylek — oba záměrné); ř. 5 „spal" = přirozený retrospektivní odkaz, OK.
+- **E6 — přechodníky:** žádné v celém textu.
+- **E7 — berličky:** 7 výskytů „pak" rozložených v celé kapitole (212 ř.), netvoří lokální tik; ponecháno.
+- **E4 — ostatní anglikalky:** žádné další kalouzy; slovosled přirozený.
+- **E5 — ostatní „svůj":** „Hale tu svoji" (ř. 47) — kontrastní přivlastnění (Sálová vs. Hale), funkční; ponecháno.
+- **E9 — terminologie:** Legie, Kondominium — velká písmena správně; „pojistka" (implant) konzistentně; žádné FTL termíny v kapitole.
+- **Hovorové tvary v řeči vojáků:** „voni", „vona", „tejdny", „nejsem", „řikal" — záměrný rejstřík, NESAHAT.
+- **ř. 9 — „patřil/jmenoval":** minulý čas v přítomném narativu — záměrný efekt (Vejvar je mrtvý, pancíř mu patřil); ponecháno; k posouzení hlas-strazce.
+
+**Celkové hodnocení:** Kapitola jazykově čistá. Tři zásahy: 1× E5 (redundantní „své"), 1× shoda rodu přídavného jména, 1× E4 (anglikalka v řeči Vos). Žádné uvozovkové chyby, přechodníky ani prokluzy časů mimo záměrné vsuvky.
