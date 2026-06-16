@@ -1586,3 +1586,76 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **K posouzení hlas-strazce:** Ř. 265: „totéž žebro, co mu praskl stín u Melassu" — „stín" je pravděpodobně záměrná metafora/neologismus; mechanicky nesrozumitelné, ale mohlo by být autorský výraz.
 
 **Celkem zásahů: 2**
+
+## Jazyková kontrola — `roman/rukopis/22-prach-a-soulad.md`
+
+**Soubor:** `/home/user/stars/roman/rukopis/22-prach-a-soulad.md`
+**Vrstva:** E (mechanická čeština), průchod cestina-strazce
+**Datum:** 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `ale která dává smysl, jakmile se ukáže` (ř. 39) | `ale která má smysl, jakmile se ukáže` | E4 — anglikalizmus „dává smysl" (z angl. „makes sense"); vypravěčská řeč |
+| `a počítá své prázdné kroužky` (ř. 51) | `a počítá prázdné kroužky` | E5 — redundantní „své": podmět věty (Reyever/Muž) je jednoznačný vlastník, přivlastňovací zájmeno nadbytečné |
+| `Ruka na zbrani mu zvlhla a on ji utírá o písek` (ř. 111) | `Ruka na zbrani mu vlhne a on ji utírá o písek` | E1 — prokluz do minulého času v akční scéně; okolní narativ důsledně v přítomném čase (nedýchá, nalepí, utírá, je) |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 1 oprava (ř. 111). Ostatní výskyty minulého času jsou legitimní: vsuvky s minulostí/expozicí (ř. 9: Renn kdysi na Sirte; ř. 19: dal důkaz na dně louže; ř. 57: Sálová byla na Sirte), vedlejší věty závislé na přítomném ději (ř. 117: „tvrději, než čekal"; ř. 39: „poruchu, kterou nečekal" — relativní minulost).
+- **E2 (uvozovky):** Počet „ (U+201E) = 28, počet " (U+201C) = 28, U+201D = 0, ASCII (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu ve vypravěčské řeči. Tvary v přímé řeči (maj, chtěj, říkaj, dívaj, smějou) jsou záměrná obecná čeština — zachováno.
+- **E4 (anglikalky):** 1 oprava (ř. 39). Ostatní potenciální kalky jsou buď v přímé řeči (záměr) nebo přirozené české vazby.
+- **E5 (redundantní svůj):** 1 oprava (ř. 51). Žádné další výskyty.
+- **E6 (přechodníky):** Bez nálezu. Ř. 121 „vstává, oklepává si písek" je souřadná konstrukce, nikoli přechodník.
+- **E7 (berličky):** Jediný výskyt „pak" (ř. 33) je v přímé řeči Haleho — záměrný dialekt. Čisto.
+- **E9 (terminologie):** Čisto. Soulad, Legie, Kondominium, Smíření (velká); proudový uzel (malé). Název kapitoly „Prach a soulad" — „soulad" s malým „s" je název, nikoli odkaz na civilizaci Velký Soulad; ponecháno.
+- **Klitika/slovosled:** Bez nálezu. Všechna klitika na správné pozici.
+- **Přechody po sponě:** Bez nálezu.
+- **Překlepy/pravopis:** Bez nálezu.
+
+**Celkem zásahů: 3**
+
+---
+
+# ZÁVĚREČNÉ SHRNUTÍ — DOKONČENÍ RUKOPISU (Prach a soulad)
+
+**Datum dokončení:** 2026-06-16
+
+## Co vzniklo
+- Nový román **Prach a soulad** (vojenská space opera, kniha první) —
+  **22 kapitol, ~52 200 slov**, finál spojen v `roman/_finalni.md`.
+- Psáno kapitolu po kapitole (každá v samostatném subagentovi kvůli udržení
+  kontextu), 3. osoba + přítomný čas v duchu předlohy (Fabian, *Mariňáci*).
+- Tři akty: I. Prach (Sirte, kap. 1–7), II. Přesuny (vesmír, kap. 8–15),
+  III. Soulad (odhalení a vyústění, kap. 16–22).
+
+## Jazyková subrutina (uplatnění)
+Každá kapitola prošla strážcem `cestina-strazce`. Nejčastější opakované
+zásahy napříč rukopisem (vzorce, které autor v žánru hlídá):
+1. **Prokluzy do minulého času** v přítomném narativu (zdaleka nejčastější).
+2. **Uvozovky** — sjednoceno na české „…"; odchyceny hybridy s ASCII " a dvě
+   zbloudilé U+201D (`”`) v kap. 5 a 7 (doplněna kontrola do strážce E2).
+3. **Slovosled klitik** (si/se na 2. pozici), zvratnost, **být + instrumentál**
+   — doplněno do strážce jako check E10 podle opakovaných nálezů.
+4. Anglikalky („udělal rozhodnutí", „dává smysl"), redundantní „svůj".
+
+## Konzistence
+- Bible rukopisu průběžně v `roman/rukopis/_kontinuita.md` (sekce po kapitolách).
+- Vyřešené rozpory: bilance ztrát na Sirte (9 obránců = 5 mrtvých + 4 zajatí);
+  kolize jmen (des. Holan ≠ Hale „Kovář"); úprava POV kap. 21 po smrti Vos.
+
+## Silné pasáže / nesahat
+- Otevírací léčka v dunách (kap. 1) a její zrcadlo v codě (kap. 22) —
+  motiv „prach se drží všeho, a přesto si nikdy nic nenechá".
+- Konfrontace Reyever × Sarn (kap. 15, 18) — ideový souboj, „mám pravdu
+  v číslech" × „strana, která přežije, není strana, je to počasí".
+- Přímý hlas Souladu (kap. 16) — cizí zahradnická kadence.
+- Smrt Vos jako tajená cena pasti u uzlu (kap. 20–21).
+
+## Doporučený další krok
+Spustit nad `roman/_finalni.md` (nebo nad kapitolami) plný **redakční cyklus**
+podle `roman/04-subrutina-jazyk.md` (vrstvy: konzistence → klišé → smysly →
+vnitřní hlas → dialog → rytmus → čeština → strážce hlasu). Před spuštěním
+zapojit orchestrátor dle sekce F daného dokumentu.

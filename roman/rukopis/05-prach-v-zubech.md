@@ -130,7 +130,7 @@ Vos chvíli mlčí. Pak položí otázku, kterou Hale celou dobu čekal, protož
 
 Hale by mohl lhát. Bylo by to snazší. Ale lhát Vos je jako lhát motoru — pozná to, a pak ti to vybouchne v ruce.
 
-„Měl důvod,” řekne Hale. „Druhé družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
+„Měl důvod,“ řekne Hale. „Druhé družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
 
 „A druhá?“
 

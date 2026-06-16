@@ -94,7 +94,7 @@ To Reyevera otočí. Ne prudce; Reyever se nepohybuje prudce. Ale otočí.
 
 Vos to ví. Je to čistá matematika a má pravdu. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
 
-„To je lehčí matematika,” řekne, a použije jeho slova schválně.
+„To je lehčí matematika,“ řekne, a použije jeho slova schválně.
 
 Reyever je pozná. Něco se mu v koutku úst skoro pohne; ne úsměv, na to je vojákem příliš dlouho.
 
