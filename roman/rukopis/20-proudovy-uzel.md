@@ -238,7 +238,7 @@ Ticho.
 
 „Vy mě posíláte —“
 
-„Posílám vás krýt nájezd, majore. Tu ránu nepřežije nikdo, kdo bude první. A já potřebuju, aby byl první někdo jiný než *Kovadlina*, protože *Kovadlina* musí dojet až do hrdla. Jinak je to všechno zadarmo.“ Reyever se na vteřinu odmlčí. V té vteřině nepočítá. V té vteřině dělá to jediné, co si nikdy nedovolí déle než vteřinu — ví, koho posílá. Pak se vrátí k číslu, protože číslo unese a tohle ne. „To není rozkaz, který chci dát.“
+„Posílám vás krýt nájezd, majore. Tu ránu nepřežije nikdo, kdo bude první. A já potřebuju, aby byl první někdo jiný než *Kovadlina*, protože *Kovadlina* musí dojet až do hrdla. Jinak je to všechno zadarmo.“ Reyever se na vteřinu odmlčí. V té vteřině ví, koho posílá — a víc než vteřinu si to nedovolí. „To není rozkaz, který chci dát.“
 
 Vos to dořekne za něj, tiše, větu, kterou ji naučil on.
 
