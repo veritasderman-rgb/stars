@@ -656,36 +656,119 @@ Stín nejde nahoru za Legií, ale zmizí stranou do proudu, který na mapách Ko
 - **Kolonie Melass přerozena** = první konkrétní cena doktríny Přerodu; morální/existenční zátěž Legie veze dál (rezonuje s opuštěnou Sirte a Daré).
 - POZOR na soulad s aktem III: slovo „Soulad" je v kap. 12 použito jako Vosino/autorské pochopení PODSTATY nepřítele, ne jako Legii známé jméno frakce; explicitní doktrína a „Hlas Souladu" přicházejí až kap. 16 — držet, aby kap. 13–15 nepředběhly odhalení.
 
+---
+
 ## Kap. 13 — „První kontakt"
 
-**POV:** Reyever (přepadová část závěru POV Vos). Dějiště: paluba *Kovadliny* a mělčina u napůl Přerozené planety, 3 dny po Melassu (kolonie z kap. 12). Pak vrak žacího plavidla.
+> **AKT II (PŘESUNY).** Bojová kapitola, tonální vrchol „měřítka hrozby". Navazuje na kap. 12 — tři dny po tom, co první žací plavidlo u Melassu odplulo bez boje. *Kovadlina* po stopě výzbroje dorazí k DALŠÍ soustavě, kde žne DRUHÉ žací plavidlo. PRVNÍ přímý vesmírný STŘET se Souladem: Legie s vysokou cenou žací plavidlo zničí. Hook: ve vraku lidské tělo v souladské funkci = první fyzický důkaz kolaborace lidí se Souladem (krok ke Smíření).
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší ohniska přes scénické střihy: Hale dole u pohonu (descent, smrt Tichého); Vos (závěr — vrak, hook). Bojová scéna: krátké údery, jednovětné odstavce, paralelní montáž můstek/pohon.
+
+**Místo:** soustava za další řekou (NOVÁ, nepojmenovaná) — planeta v PŮLI Přerodu (jedna polokoule pouštní, druhá už kovově zelená). *Kovadlina* z volné vody vjede do **mělčiny** cílového systému, kde žne žací plavidlo. Lokace: velitelské/mapové stání *Kovadliny*, pohon (Hale), povrch planety (cíl bombardování úrody), vrak žacího plavidla (komora u zlomu po stonku).
+
+**Denní doba / čas:** ~3 dny po kap. 12 (přílet + plánování + boj během řádově hodin). Vstup do vraku = TŘETÍ DEN po boji (plavidlo musí vychladnout).
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, „nejtišší, když je nejhůř"; přijme rozkaz, který nechce dát („To není rozkaz, který chci dát. Je to rozkaz, který platí."); v boji utrpí prasklé žebro. Pochopí MĚŘÍTKO hrozby.
+- **št. rtm. Brannick „Kovář" Hale** — dole u pohonu; obecná čeština, řemeslné metafory; stroji říká pravdu; nažene klín naplno na taranní ránu („vystřelím loď jako kámen z praku"). Ztratí Tichého i další.
+- **mjr. Iliana Vos** — na můstku, pak velí přepadové četě do vraku; když je naštvaná, ZTIŠÍ se; konfrontuje cenu vítězství; NAJDE tělo kolaboranta a pozná tělem dřív než hlavou, „kdo drží Soulad pohromadě".
+- **Everett** — operátor zbraní *Kovadliny* (kap. 9/12); klidný; vyprázdní celou loď do zádě plavidla.
+- **navigátor** (bezejmenný, týž typ) — hlásí kontakty, přepočítává Reyeverovým způsobem.
+- **Brázda** — voják od těžké pušky (kap. 1/5/7/9/12); ve vraku, „nemá pušku na co namířit".
+- **Tichý** — mladý operátor pohonu pod Halem (zaveden kap. 11); **PADL** v kap. 13 (rána, co prošla bokem clonou). Nelze ho už použít jako živého.
 
 **Klíčové události:**
-1. Legie najde DRUHÉ žací plavidlo (větší než tři *Kovadliny*; „stonek a dvě poloviny"). Reyever se rozhodne ho DONUTIT k boji: plavidlo žne úrodu a je vlákny zakotvené v atmosféře — dokud žne, nemůže vyšplhat (~2 min stažení vláken). Reyever: „Zahradník se neshýbá pro kámen na poli. Shýbne se, když mu někdo šlape po záhonu."
-2. *Kovadlina* vjede do mělčiny (do pasti z vlastní vůle). Nejdřív salva na zem/úrodu (plavidlo ignoruje), pak salva do VLÁKEN (kotvy) → plavidlo se otočí bránit úrodu → nastaví záď.
-3. Boj: jediná rána Souladu projde clonou *Kovadliny*, „jako by clona nebyla" (= cizí zbraň ze Sirte, x1000). Kovadlina vyprázdní vše do nekryté zádě/pod hrdlo → plavidlo ochromeno, nemůže šplhat. Pak, bez munice, Hale udělá „klín naplno" — vrazí kýlový klín *Kovadliny* do hrdla plavidla jako kámen z praku (totéž udělala *Kovářka* stínu v kap. 11) → plavidlo se rozlomí napůl po stonku.
-4. Vrak (3. den): přepadová četa (Vos + Brázda) vstoupí. Interiér „narostlý" (žádný můstek/pulty). HOOK/REVEAL.
+1. *Kovadlina* dorazí k DRUHÉMU žacímu plavidlu, které žne planetu v půli Přerodu. Reyever odmítá znovu „být puštěn" — rozhodne plavidlo zabít, dokud žne (vlákna ho drží v mělčině jako kotva, je pomalé jako Legie).
+2. PLÁN (mapové stání): nelze vyhrát silou (jedna jejich rána projde clonou). Vyhraje LEST + ochota umírat. Plavidlo se na Legii nepodívá jako na soupeře → musí se DONUTIT otočit zlou stranou: Legie zničí jeho ÚRODU (bombardování povrchu + roztržení žacích vláken) — „zahradník se shýbne, když mu někdo šlape po záhonu".
+3. *Kovadlina* vjede do mělčiny (Hale dole; smrt Tichého předznamenána descentem). Salva do vláken roztrhne kotvu; plavidlo se POPRVÉ otočí (chrání úrodu).
+4. BOJ: plavidlo udeří jedinou ranou skrz clonu (ozvěna stínu z kap. 11) — *Kovadlina* zasažena pravý bok, ztráty (Tichý + 2). Legie leze plavidlu k nekryté ZÁDI (klín ho nutí ukázat záda), Everett vyprázdní VŠECHNY baterie do zádě/hrdla pohonu — plavidlo RANĚNO, uvázne v mělčině (nemůže šplhat).
+5. Baterie suché. Reyever nažene přes Hala KLÍN NAPLNO a *Kovadlina* TARANEM vrazí klín do nekrytého hrdla plavidla (jako Daré stínu, kap. 11, jen úspěšně) → žací plavidlo ROZLOMENO PO STONKU napůl. PRVNÍ žací plavidlo, které lidská loď zničila.
+6. Cena: skoro celý křižník za jedno plavidlo (Tichý + další mrtví, pravá baterie utržená, klín natržený „o jeden zub", Reyever prasklé žebro). Reyever pochopí MĚŘÍTKO: Soulad jich má víc, než má Legie zubů na klínu.
+7. **HOOK (vrak, třetí den):** Vos s přepadovou četou vejde do vraku (narostlé nitro bez mostků/pultů/míst pro lidi). V komoře u zlomu najdou LIDSKÉ TĚLO — celé, oblečené, NEpřerozené, vsazené do výklenku narostlého přesně podle postavy, propojené ZÁTYLKEM svazkem vláken cizí slitiny s plavidlem (jako navigátor s lodí). Na hrudi „zahradní" odznak (stonek a dvě poloviny = kap. 9/10/12). Člověk SLOUŽIL Souladu — řídil/byl zapojen do žacího plavidla. Pointa: „Jednoho. A je jeden z nás."
 
-**Ztráty (vysoké):**
-- **Tichý** (mladý operátor pohonu) — mrtev (rána skrz clonu). „A další" — půlka posádky pohonu.
-- *Kovadlina*: pravá baterie utržená, levá prázdná, trhlina v klínu „jak pěst", pohon ochromený; loď přežila „o jeden zub". Reyever má zlomené žebro.
+**Ztráty:**
+- **Tichý PADL** (mladý operátor pohonu, kap. 11) + nejmenovaní z posádky pohonu („dva lidi, jejichž jména Hale zná") + další; Hale shrne „na loď dost". PRVNÍ jmenovaná ztráta s tváří v aktu II po Daré.
+- *Kovadlina* těžce poškozena: pravá baterie utržená, levá vystřílená, pohon z poloviny vyřazený, klín natržený „o jeden zub", Reyever prasklé žebro. Loď přežila „tak tak".
+- **DRUHÉ žací plavidlo ZNIČENO** (rozlomeno po stonku) — první zničené žací plavidlo Souladu lidskou lodí.
 
-**REVEAL (zásadní):**
-- Žací plavidla NEJSOU autonomní — **řídí je zapojený ČLOVĚK**: ve vraku najdou lidské tělo ve výklenku, který kolem něj plavidlo narostlo, spojené ze ZÁTYLKU svazkem cizích vláken (slitina barvy mokré břidlice) s lodí — „jako navigátor s lodí, ruka s nástrojem". Ne pojistka, ne zbraň: spojení.
-- Tělo nese „zahradní" odznak (světlý kov, čistší než břidlicová slitina; stonek a dvě poloviny) — týž jako důstojník z konvoje (kap. 9). = znak kolaborantů/Smíření.
-- Vos chápe: Soulad „neletí sám. Někdo mu sedí v zátylku. Někdo lidský." → most k odhalení Smíření.
+**Co kdo ví (stav na konci kap. 13):**
+- **Reyever ví:** žací plavidlo se DÁ zabít — lstí (vzít úrodu → donutit otočit zlou stranou), ochotou umřít blíž, taranem do hrdla; ale za skoro celý křižník. Pochopil MĚŘÍTKO: Soulad je o stupeň výš a má přesilu, ne neporazitelnost. Nezná totožnost kolaboranta z vraku ani organizaci za tím (Smíření zatím nepojmenováno).
+- **Vos ví:** v žacím plavidle SEDĚL ČLOVĚK, zapojený zátylkem, se „zahradním" odznakem → lidé SLOUŽÍ Souladu fyzicky (kolaborace má tělo). Pozná to tělem; první fyzický důkaz, který povede ke Smíření (kap. 14–18). Konfrontuje Reyevera cenou vítězství (vztah Vos × Reyever).
+- **Hale ví:** loď zabila plavidlo, ale za Tichého a další; mužstvu řekne zlehčenou verzi (jako vždy).
+- **Renn/Smíření/Sarn** v kapitole NEvystupují.
 
-**Co kdo ví (nově):**
-- Reyever/Vos/Legie: Soulad je silnější, ale NE neporazitelný — dokázáno vlastní lodí (ne z hlášení). Cena: skoro celý křižník za jedno plavidlo; Soulad jich má mnohem víc.
-- Legie poprvé ví, že žací plavidla pilotují lidé.
+**Nové zavedené detaily / termíny (držet dál):**
+- **DRUHÉ žací plavidlo** = stejný kanon vizuálu jako kap. 12 (stonek a dvě poloviny, narostlé, bez švů, větší než tři *Kovadliny*); žne planetu v PŮLI Přerodu. ZNIČENO. (Pozn.: první plavidlo z kap. 12 odplulo, žije.)
+- **Žací plavidlo se DÁ zabít (kanon taktiky, dle bible „o stupeň výš, ne neporazitelný"):** žne → vlákna ho drží v mělčině jako KOTVA → je pomalé jako lidská loď; nepovažuje Legii za soupeře, ale OHROžení ÚRODY ho donutí otočit se a chránit ji (ukáže nekrytou záď/hrdlo). Slabina = ZÁĎ/HRDLO (clony tam nesahají, jako u všech lodí). Zabito kombinací: roztržení žacích vláken (kotva) + vyprázdnění baterií do zádě + TARAN klínem do hrdla. CENA: skoro celý křižník.
+- **Útok žacího plavidla:** jediná rána (ne salva), která PROJDE CLONOU jako by clona nebyla (ozvěna cizí zbraně ze Sirte a stínu z kap. 11, v lodním měřítku).
+- **TARAN klínem do hrdla** = krajní lidská taktika („vystřelit loď jako kámen z praku" naplno do nekrytého hrdla); ozvěna Daré (kap. 11, stínu pod hrdlo), tady poprvé ÚSPĚŠNĚ proti žacímu plavidlu. Trhá vlastní klín („o jeden zub").
+- **KOLABORANT VE VRAKU (KANONICKÝ nový prvek — první fyzický důkaz lidí ve službách Souladu):** lidské tělo, CELÉ a NEpřerozené (na rozdíl od „zasázených" z Melassu), vsazené do výklenku narostlého přesně podle postavy, propojené ZÁTYLKEM svazkem vláken CIZÍ SLITINY (barva mokré břidlice) s plavidlem — jako pilot/navigátor zapojený do lodi. Na hrudi „zahradní" odznak (stonek a dvě poloviny, světlý kov — TÝŽ jako důstojník z konvoje kap. 9 a odznak/portrét plavidla kap. 12). = lidé SLOUŽÍ Souladu, ovládají/jsou napojeni na souladskou techniku. Předjímá odhalení Smíření (kap. 14–18). POZOR: „pojistka" v zátylku ze Sirte (kap. 4) = jiná funkce (umlčení); zde = SPOJENÍ/řízení, ale stejná cizí slitina → tatáž souladská hmota propojuje lidi s technikou.
+- **Vnitřek žacího plavidla (kanon):** narostlé nitro bez hran/švů/mostků/pultů/obrazovek; chodby jako nitro plodu; sladký, rostlinný, skleníkový pach (jako souladská nákladní loď kap. 9, tisíckrát silnější); ŽÁDNÉ místo pro lidskou obsluhu — kromě JEDNOHO výklenku s kolaborantem.
+- Reyeverův podpis potvrzen: „To není rozkaz, který chci dát. Je to rozkaz, který platí." (= idiolekt z postavy.md).
 
-**Nové detaily/termíny (držet):**
-- **Melass** = kolonie v Přerodu z kap. 12 (kde plavidlo Legii nechalo žít — „nestáli za ránu").
-- Taktika „klín naplno" = ram kýlovým klínem do hrdla (sebevražedně riskantní; *Kovářka* tak zničila stín v kap. 11; *Kovadlina* tak dorazila plavidlo).
-- Žací plavidlo: kotveno vlákny při žních, v mělčině pomalé; clona nekryje záď/hrdlo (jako u lidských lodí).
-- Důstojníci *Kovadliny*: **Everett** (palba/zbraně), navigátor (bezejmenný), Hale (pohon), Vos, Reyever. Voják **Brázda** (přepadová četa; zaveden v kap. 12).
-- Lidé řídící plavidla = zapojení zátylkem; „zahradní" odznak ze světlého kovu.
+**Jak kapitola končí:**
+Vos ve vraku najde lidské tělo zapojené do žacího plavidla, se „zahradním" odznakem. Reyever po pásmu: „Kolik." Vos: „Jednoho. A je jeden z nás." (= první fyzický důkaz lidské kolaborace se Souladem; krok k odhalení Smíření.)
 
-**Jak končí:** Vos hlásí: „Našli jsme posádku. Jednoho. A je jeden z nás."
+**Otevřené nitky pro další kapitoly:**
+- **Kolaborant ve vraku = první fyzický důkaz, že lidé slouží Souladu** → přímo živí kap. 14 „Síť" (stopa vede ke Smíření) a kap. 15/18 (Sarn). Tělo + odznak + zátylkové spojení = materiál k rozboru (linka jako tělo/zbraň ze Sirte, kap. 2/4/5).
+- **„Žací plavidlo se dá zabít, ale za skoro celý křižník"** = Reyeverovo MĚŘÍTKO hrozby → matematika, kterou později obrátí Sarn (kap. 18, „spočítej to") a Reyever vyvrátí výsledkem (kap. 20/21 „Soulad krvácí"); potvrzuje naději z kap. 11 („ta věc se dá ranit") v měřítku CELÉHO zničení.
+- **Cena (Tichý + loď) bez plného vysvětlení** = další zářez do vztahu Vos × Reyever (rezonuje s Daré kap. 11, Sirte kap. 3); Vos konfrontuje, Reyever nese.
+- **TARAN do hrdla** jako krajní taktika → předjímá flotilní vyústění u proudového uzlu (kap. 20).
+- **První plavidlo (kap. 12) žije, druhé (kap. 13) mrtvé** → Soulad má přesilu; jedno zničené plavidlo děj neobrací, jen dokazuje, že to JDE.
+- POZOR (soulad s aktem III): „Soulad" stále jako pochopení podstaty, ne Legii známé jméno frakce; kolaborant z vraku je první TĚLO, ale organizace (Smíření, Sarn) se pojmenuje až kap. 14–15/18. Držet, aby kap. 13 nepředběhla.
 
-**Otevřené nitky:** kdo jsou ti lidé v zátylcích plavidel (Smíření?); proč slouží; kolik žacích plavidel Soulad má; co čeká u uzlu.
+## Kap. 14 — „Síť"
+
+> **AKT II (PŘESUNY).** Vyšetřovací/politická (dechová) kapitola po bojové kap. 13. Navazuje bezprostředně: *Kovadlina* je pátý den v opravách po zničení žacího plavidla (kap. 13). Žádný boj — napětí drží podtext, konfrontace dialogu a odhalení. KLÍČOVÁ kapitola: poprvé v textu zazní jméno **Smíření**; Renn přizná část pravdy a ZMIZÍ (odejde ke svému tajnému patronovi). Skládání střípků z aktů I–II v jeden obraz.
+
+**POV:** mjr. Iliana Vos (hlavní ohnisko) + Cassia Renn (vedlejší ohnisko přes scénické střihy — Rennina kajuta, dok). Vševědoucí 3. os., přítomný čas. Žádný střih do mužského POV jako hlavního (Reyever jen vedlejší hlas/přítomnost).
+
+**Místo:** těžký křižník **Kovadlina** v opravách. Konkrétní lokace: **důstojnická jídelna** (poradní místnost — kovový stůl přišroubovaný k palubě, lavice; návaznost kap. 10) → **navigační kabina** (Vos studuje registr kolonií; pult, šálek) → **Rennina kajuta** (těsná, lůžko u stěny, jedna obrazovka; návaznost kap. 10) → **dok Kovadliny** (odlet člunu). Vně: klidná voda (loď v opravách), mělčina poblíž, proud mimo mapy.
+
+**Denní doba / čas:** pátý den po boji s žacím plavidlem (kap. 13). Kapitola = jedna noc/den vyšetřování + konfrontace + odchod Renn (řádově hodiny přes noc do rána). Kovadlina stojí na klidné vodě, nešplhá (opravy).
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **mjr. Iliana Vos** — POV; přímá, úsečná, naštvaná = ZTIŠÍ se; obchází/dívá se na to, co opouští/zabila, aby věděla; pozná „setinu vteřiny, kdy tělo dohání tvář" (od Reyevera); značí si Renn „jako odstřelovačka" (návaznost kap. 10). Skládá střípky v jeden obraz.
+- **Cassia Renn** — vedlejší POV; spisovná, diplomatická, uhýbavá, A/B podtext; ramena drží klidná i proti čtení z těla. ZDE poprvé promluví bez brnění, za sebe (ne za Ligu), přizná napojení na Smíření a ODEJDE z lodi.
+- **plk. Adan Reyever** — vystupuje krátce (navigační kabina + dok), jen jako hlas/přítomnost, NE jako POV; úsporný; spí tak, že obchází loď; nedá včas rozkaz Renn zadržet. Vysloví „defektují".
+- **št. rtm. Brannick „Kovář" Hale** — v jídelně; obecná čeština, řemeslné metafory („nástěnka šílence", odznak nosí „přesvědčenej, ne naváděnej"); RETROAKTIVNĚ: té noci po proudu (kap. 10) nedržel hlídku u pohonu, ale hlídal KANÁLY → zachytil, že na Renninu kajutu přišel signál (viz nové detaily).
+- **navigátor** (bezejmenný, týž typ) — nechá Vos pult v kabině; zachytí odlet člunu pozdě (půl cesty pryč).
+- Zmíněn **stín/doprovod** (nepojmenovaný, kap. 8/11) — drží odstup u mělčiny; pošle Renn doprovodný člun.
+
+**Klíčové události:**
+1. Vos v jídelně rozloží VŠECHNY důkazy aktu I–II (foto zbraně ze Sirte, šestiúhelníková mřížka + nelidské značení kap. 5, hlášení konvoje kap. 9, odznak z konvoje, záznam Melassu kap. 12, foto pilota z vraku kap. 13). Pozná, že „stonek a dvě poloviny" je STEJNÝ tvar pětkrát (zbraň/odznak konvoje/žací plavidlo/pilot/dlažba Melassu) = jedna věc, jeden původce. Hale potvrdí: odznak nosí přesvědčený, ne naváděný — někdo už navádí sám.
+2. Vos v navigaci projede registr ~30 kolonií Ligy: **ŠEST kolonií tiše DEFEKTOVALO** za poslední 4 měsíce — přestaly vysílat běžná hlášení, přestaly platit Lize, přestaly žádat o zásoby; NEPADLY, NEHOŘÍ, NEVOLAJÍ o pomoc; pořád lidské, jen přešly. Po jedné, v rozestupech (skryté). Melass mezi nimi NENÍ (ten je mrtvý/přerozený). Reyever pojmenuje: „Defektují." Vos váže na umírajícího kolonistu ze Sirte („na kterou stranu").
+3. Vos konfrontuje Renn v kajutě. Odhalí, že Renn ráno po proudu (kap. 10) zalhala „Kondominium mlčí" CELOU větou — a že té noci přišel na Renninu kajutu signál z proudu mimo mapy (Hale hlídal kanály, ví že přišel + odkud, NE co v něm bylo). Vos: „Vy nemlčíte ke Kondominiu. Vy mlčíte k nám. A mluvíte s nimi."
+4. Renn přizná ČÁST pravdy (poprvé za sebe, ne za Ligu): jméno patrona NEZNÁ (kompartmentace, pravda — tělo neuhne), ALE vysvětlí PROČ kolonie přešly = doktrína Souladu (vybírá si světy, přepíše „nemocné", zbytek = vazalství; „strana, která přežije" = pozvánka, ne hrozba; Smíření má PRAVDU V ČÍSLECH, nekarikovat). **Poprvé v textu vysloví JMÉNO: „Smíření."** Přizná, že k nim patří — ne ze zrady, ale protože spočítala, že Reyeverova válka je nevyhratelná a ona „nechce být zahrada". Přizná dvojí dno: „Já vím obojí. Že vás potřebuju a že vás zrazuju."
+5. Vos na okamžik vidí v Renn člověka (ne hráčku) a udělá KROK od dveří — to je její chyba. Renn ten krok čekala: otočí destičku, na kterou „celé dny nic nepsala" (LÍCEM NAHORU — nebyla prázdná, čekala na chvíli odeslání) a ODEŠLE signál se zahradním podpisem do proudu mimo mapy = ŽÁDOST O ČLUN (ne zpráva o Vos). Renn: „To není dárek. To je rozloučení." Vos ji popadne za paži; Renn se nebrání, ale řekne, že ji Vos zavřít nedovede („vy obcházíte mrtvé… nedovedete zavřít živého, který vám řekl jedinou celou pravdu").
+6. **Renn ZMIZÍ:** doprovodný člun Souladu se odlepí od mělčiny; Renn dojde k dokovacímu límci s jedinou taškou, klidná. Stráž ji nezastaví (neměla rozkaz zastavit kontraktorku Ligy u vlastního člunu); Reyever rozkaz nedal včas (spal / obcházel loď). Vos doběhne pozdě. Člun u mělčiny NEUVÁZNE — vyšplhá jednou křivkou do proudu, který na mapách Kovadliny není (jako stín/depeše/žací plavidlo) → pryč, kam Legie nemůže.
+
+**Co kdo ví (stav na konci kap. 14):**
+- **Vos ví:** že hnutí se jmenuje **SMÍŘENÍ** (poprvé pojmenováno); že 6 kolonií Ligy tiše defektovalo (přešlo dobrovolně, ne dobyto); doktrínu Souladu z Renniných úst (vybírá světy / vazalství / „strana, která přežije" = pozvánka; Smíření má pravdu v číslech); že **Renn k Smíření patří** a odešla ke svému patronovi. STÁLE NEZNÁ jméno patrona/Sarna (Renn ho taky nezná). Nese pocit viny, že Renn „nechala jít" (udělala krok od dveří).
+- **Reyever ví:** totéž co Vos (Vos mu to v doku shrne) — Smíření, defekce, Rennino dvojí dno potvrzeno. Pojmenoval „defektují". Nedal včas rozkaz Renn zadržet.
+- **Renn:** přiznala část pravdy (doktrína, jméno Smíření, vlastní napojení), zatajila/nezná jméno patrona; ODEŠLA z lodi ke Smíření (k „uzlu", kde na ni „strana, která přežije, počká" — kap. 10).
+- **Hale ví:** že na Renninu kajutu přišel té noci (kap. 10) signál z proudu mimo mapy (hlídal kanály); ne obsah.
+- **Mužstvo** vesměs nevystupuje (loď v opravách).
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **SMÍŘENÍ poprvé POJMENOVÁNO v textu** (Renn ho vysloví Vos). KANON: lidské hnutí kolonií, které spočítaly vazalství > odpor; ne zrádci/kolaboranti v jejich vlastní řeči — „lidé, kdo se smířili s tím, co se spočítat dá". Mají PRAVDU V ČÍSLECH (bible: nekarikovat). Renn je členka — ne ze zrady, z výpočtu. (Pozn. souladu s aktem III: jméno **Sarn** zde NEPADNE — Renn patrona nezná; Sarn se odhalí až kap. 15.)
+- **„Defekce" kolonií:** ŠEST kolonií Ligy (z ~30) za poslední 4 měsíce tiše přešlo ke Smíření — přestaly vysílat/platit/žádat zásoby; NEPADLY, pořád lidské; přešly DOBROVOLNĚ, po jedné, skrytě (rozestupy). Melass mezi nimi NENÍ (přerozen, kap. 12). KANON: tiché defekce pohraničí = klín Smíření do lidstva v praxi (bible: Smíření štípe Kondominium zevnitř).
+- **Reyeverovo slovo „defektují"** = pojmenování tichého přechodu kolonií.
+- **Renn k Smíření patří** = její dvojí dno EXPLICITNĚ přiznáno (čtenáři odhaleno už v kap. 10; teď přiznáno Vos i nahlas). Důvod: výpočet, ne zrada; „nechci být zahrada".
+- **Renn NEZNÁ jméno patrona** (potvrzeno znovu, kompartmentace — kap. 10): zná „jen ruku, která píše, a hlas, který kdysi vysvětlil čísla". → Sarnovo jméno zůstává neodhalené do kap. 15.
+- **Rennina destička** = celé dny vypadala prázdná, ale zpráva na ní byla připravená; Renn čekala na chvíli odeslání. Odešle signál se ZAHRADNÍM PODPISEM (stonek a dvě poloviny, bez hlavičky/pečeti) do proudu mimo mapy = žádost o doprovodný člun. (Návaznost na tajný kanál z kap. 10.)
+- **Hale hlídal KANÁLY** (ne pohon) té noci v kap. 10 → zachytil příchod signálu na Renninu kajutu (ne obsah). RETROAKTIVNÍ doplnění k hooku kap. 10 — drží: nikdo na lodi nezná OBSAH tajné zprávy, ale Hale ví, že PŘIŠLA a odkud (proud mimo mapy).
+- **Doprovodný člun Souladu/Smíření** = malé plavidlo, odlepí se od mělčiny, u mělčiny NEUVÁZNE, vyšplhá křivkou do proudu mimo mapy (souladská technika, ozvěna žacího plavidla kap. 12) → odveze Renn pryč, kam Legie nemůže. KANON: Smíření má přístup k souladské dopravě (proudy mimo lidské mapy).
+- **Pětinásobné opakování tvaru „stonek a dvě poloviny"** explicitně sečteno Vos: zbraň (struktura, kap. 5) / odznak konvoje (kap. 9) / žací plavidlo (kap. 12) / pilot ve vraku (kap. 13) / dlažba Melassu (kap. 12) = jeden původce (Soulad). Vos to skládá v jeden obraz.
+- Vosin podpis potvrzen: naštvaná = ztiší se; obchází/dívá se na to, co opouští — zde její „počestnost" (nedovede zavřít živého, co řekl pravdu) se obrátí PROTI ní (Renn unikne).
+
+**Jak kapitola končí:**
+Renn odletí doprovodným člunem do proudu mimo mapy. Vos shrne Reyeverovi v doku: hnutí se jmenuje Smíření, kolonie defektují, Renn k nim patřila a měla v číslech pravdu. Vos přizná „nechala jsem ji jít"; Reyever: „Ona šla. To není totéž." Pointa: nepřítel není u brány — síť, do které Legie létala, je utkaná z LIDÍ, a jedno její oko právě odplulo z jejich vlastní lodi.
+
+**Otevřené nitky pro další kapitoly:**
+- **Smíření pojmenováno** → přímo živí kap. 15 (Sarn = vůdce flotily Smíření, Reyeverův spolužák; první „rozhovor" na dálku, nabídka paktu) a akt III (kap. 16–18: doktrína Souladu, Klín, „já nejsem zrádce, jsem ten, kdo počítal").
+- **Renn odešla ke Smíření** → vrátí se v kap. 17 jako VYJEDNAVAČKA Smíření (synopse kap. 17 hook). Linka Renn ↔ Vos (pátračka × hráčka) pokračuje: Vos ji „nechala jít", dluh/vina = budoucí napětí při návratu Renn.
+- **Patron NEZNÁMÝ jménem** (Renn ho nezná) → Sarnovo odhalení rezervováno pro kap. 15 (NEPŘEDBÍHAT).
+- **„Strana, která přežije, na ně počká u uzlu"** (kap. 10) → Renn odešla touž logikou; předjímá proudový uzel (kap. 20) a setkání u něj.
+- **Defekce kolonií** = klín Smíření v praxi; morální šeď (Smíření má pravdu v číslech) → Vosino téma „nepřítel není jen cizí" (kap. 17).
+- **Doprovod/stín u mělčiny** poslal Renn člun → potvrzuje, že stín (kap. 8/11) je spjat se Smířením/Souladem a „čekal"; rezonuje s „nepřítel nás pustil" / „připravení poslouchat u uzlu".
