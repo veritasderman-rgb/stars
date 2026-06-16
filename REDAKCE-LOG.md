@@ -302,6 +302,39 @@ Cílené škrty mrtvých zesilovadel, frázovité vaty a kostrbatých vazeb. Kap
 
 ---
 
+### cestina-strazce — kap. 21 (Krev Souladu) — 2026-06-16
+
+**Soubor:** `roman/rukopis/21-krev-souladu.md`
+
+**Zásahy: 2**
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `uzná to, aniž se shrbí.` | `uzná to, aniž by se shrbil.` | E6 |
+| `řekne Hale, aniž otočí hlavu.` | `řekne Hale, aniž by otočil hlavu.` | E6 |
+
+Obě chyby jsou stejného typu: vazba „aniž + přítomný čas indikativ" bez „by" v narativním pásmu vypravěče. Správná česká norma vyžaduje „aniž by + minulé příčestí" (konjunktivní vedlejší věta).
+
+**Uvozovky:** „ = 43, " = 43, ASCII " = 0. Párování v pořádku.
+
+**Přechodníky (pravé):** 0 nalezeno.
+
+**Koncovky 3. os. mn. č.:** v pořádku (`perou`, `prohrávají`, `vyhasínají` apod.).
+
+**Redundantní svůj/jeho/její:** 0 redundantních nálezů.
+
+**Anglikalky:** 0 nalezeno.
+
+**Klitika a zvratnost:** v pořádku.
+
+**Terminologie (E9):** Legie, Soulad, Smíření, hladiny, clony, kýlový klín — konzistentní s glosářem.
+
+**Čas (E1):** Narativ důsledně v přítomném čase. Minulý čas se vyskytuje pouze: (a) ve vsuvkách o bezprostřední předminulosti v rámci scény (záměrné), (b) v přímé řeči postav mluvících o minulosti (správně), (c) ve frázích popisujících zvyk/historii Vos a Legie (záměrné).
+
+**K posouzení (hlas-strazce):** Řádky 107 a 117 byly opraveny. Jde o narativní pásmo vypravěče (ne Haleho dialog), kde hovorová zkratka „aniž + indikativ" sedí méně než v přímé řeči — proto opraveno.
+
+---
+
 ### cestina-strazce — kap. 19 (Vzpoura na hraně) — 2026-06-16
 
 **Soubor:** `roman/rukopis/19-vzpoura-na-hrane.md`

@@ -1103,3 +1103,75 @@ Past sklapla — Smíření i Soulad zaklíněni v mělčině, Soulad krvácí. 
 - **VĚCNÝ ROZPOR K VYŘEŠENÍ (logováno, viz CLAUDE.md):** synopse uvádí mjr. Vos jako POV kap. 21 a „část pravdy o Sirte konečně vyřčena Vos". V kap. 20 však Vos PADLA (vědomá oběť — silnější dotažení synopsního hooku „cena, kterou Reyever tají", a oblouku Vos „převzetí břemene → smrt smířená"). PŘI PSANÍ KAP. 21 NUTNO ROZHODNOUT: (a) Vos přežila (změnit kap. 20 — *Hřeb* poškozen, ne zničen), NEBO (b) kap. 21 přepsat na POV Reyever/Hale a „pravdu o Sirte" vyřknout jinak (např. Hale Vosině památce, nebo Reyever Halovi). DOPORUČENÍ: varianta (b) — smrt Vos je silnější a sedí na hook „cena, kterou Reyever tají". Reyeverovo nevyslovené závěrečné jméno v kap. 20 MŮŽE být „Vos" (dořešit v kap. 21).
 - ***Kovadlina* bez klínu, uvězněná v mělčině** → logistická nitka pro kap. 21 (jak se dostane z louže, nebo zda vůbec).
 - **Renn** se „v bitvě poprvé od Sirte zlomila" → její oblouk k tragické postavě (kap. 21).
+
+## Kap. 21 — „Krev Souladu"
+
+> **AKT III (SOULAD). PŘEDPOSLEDNÍ KAPITOLA.** Reflexivní/emocionální doznění bitvy z kap. 20. Navazuje bezprostředně: minuty až hodiny PO sklapnutí pasti u proudového uzlu; *Kovadlina* leží bez klínu na dně mělčiny pánve. KLÍČOVÉ: Soulad KRVÁCÍ (důkaz, že vazalství NENÍ jediná matematika — krví, ne argumentem); poslední rozhovor Reyever × Sarn (po otevřeném pásmu); Reyeverova TŘETÍ CESTA (vykoupení skrz VÝSLEDEK, ne ospravedlnění — vrátil lidstvu VOLBU, ne vítězství); Reyever konečně VYSLOVÍ pravdu o Sirte/mlčení — pozdě, do prázdna nad Vosinou nepřítomností; **Reyeverovo nevyslovené jméno z hooku kap. 20 = VOS.** HOOK: vítězství je jen DÍLČÍ — Kondominium se hroutí dál; tohle byla PRVNÍ kampaň, ne poslední.
+
+**ÚPRAVA SYNOPSE (řešení věcného rozporu z kap. 20):** Synopse uváděla Vos jako POV kap. 21 a „pravdu o Sirte vyřčenou Vos". Vos však v kap. 20 PADLA. Realizace: **POV = REYEVER** (vedlejší ohnisko Hale; střihy do Sarna/Renn). „Pravda o Sirte"/Reyeverovo mlčení se uzavírá JINAK — Reyever ji unese sám a vysloví ji NAHLAS až teď, do prázdného stání nad nepřítomnou Vos, s hořkou ironií, že to dokáže říct, až když ji ta, které to patří (Vos), už neslyší. = varianta (b) z poznámky kap. 20.
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší ohniska přes scénické střihy: št. rtm. Hale (pohon/paluba) + adm. Sarn (můstek vlajkové lodi Smíření, s Renn). Vos NEvystupuje (padlá v kap. 20) — je přítomna jen jako nepřítomnost (prázdné místo u stání, vyhaslá tečka *Hřebu* na mapě, zvyk „Konec").
+
+**Místo:** **pánev proudového uzlu**, dno mělčiny, kde leží *Kovadlina* bez klínu (z kap. 20). Lokace: velitelské stání *Kovadliny* (Reyever) → pohon *Kovadliny* (Hale, mrtvá baterie, Brázdův rozložený kanón na ponku) → můstek vlajkové lodi Smíření (Sarn, Renn) → zpět stání → dokovací paluba (závěr, vlečení z louže). Záběry na pánev plnou vyhaslých lodí obou stran.
+
+**Denní doba / čas:** bezprostředně po sklapnutí pasti (kap. 20, 6. den lhůty); doznívání bitvy → ticho. Závěr: „za devět hodin" připlují dvě vlečné lodě Věrných a vytáhnou *Kovadlinu* z louže k volné vodě.
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, poprvé pod tlakem ztráty (drženo v PODTEXTU, ne v patosu — nezlomí se, „není to v něm"); prasklé žebro (kap. 13/20) stále bodá při každém nádechu = časová/tělesná kotva. Odmítne Sarnovi dát číslo ceny (jako u uzlu). Vysloví pravdu o Sirte do prázdna. Nevyslovené jméno = Vos (vysloví ho nahlas podruhé, do tmy).
+- **adm. Dane Sarn** — na můstku vlajkové lodi Smíření; PORAŽEN, ale NE POKOŘEN; přestal počítat (tabulka v louži neplatí — jen jeden směr, dolů). Odmítne dostřelit nehybnou *Kovadlinu* (nic by nezískal). Po pásmu uzná Reyeverovo vítězství („Vyhráls. Já ti nezávidím, cos vyhrál."), žádá číslo ceny — nedostane je. Idiolekt z kap. 15/18/20.
+- **št. rtm. Brannick „Kovář" Hale** — vedlejší POV/ohnisko; obecná čeština, řemeslné metafory (most s prasklým nosníkem, baterie = zlomenina, co nesroste, vyhrát bitvu = řemeslo, po kterém zbude dílna plná nespravitelných věcí); tichý žal. Třikrát volal na *Hřeb* → ticho (ví, co znamená loď, co se třikrát neozve). Brázdův rozložený kanón nechá ležet (Brázda slíbil, že ho složí, a nesložil) = žal vyložený v součástkách.
+- **Cassia Renn** — na můstku Smíření vedle Sarna; dokoná se zlom z kap. 20 („láme se dolámat"); připomene Sarnovi vlastní větu („nikdy nebojoval bitvu, kterou si nevybral... a tuhle si vybral on"). Bez druhého dna.
+- **mjr. Iliana Vos** — PADLÁ (kap. 20). NEvystupuje. Přítomna jako nepřítomnost.
+- **Brázda** — PADLÝ — KANON POTVRZEN (v kap. 20 jen implicitní). Reyever Halovi: poslal ho napřed sám na trup s děly, „byl to zub, který musel držet... držel. Pak přestal." Brázdův nedokončený kanón = symbol.
+- **Tichý** — padlý dříve (kap. 13); zmíněn (mladý od pohonu „dostal Tichého místo").
+- Bezejmenní: navigátor *Kovadliny*; dva mladí od pohonu; spojař Sarna; posádky dvou vlečných lodí Věrných.
+
+**Klíčové události:**
+1. **Doznění bitvy (stání):** Soulad krvácí — devět stonků hasne jeden po druhém; v louži se Smíření i Soulad perou „každý proti tomu, kdo je blíž" (zahradník a pes v jedné kleci). Navigátor: „Ten cizí kov. On krvácí." Reyever bez triumfu — cítí jen bodající žebro a „o jeden hlas míň na stání, než má být" (Vos).
+2. **Hale na pohonu:** klín pryč (poslední zub na taran v kap. 20), baterie = spečená hmota, co nesroste; *Kovadlina* je loď, ale nehybná. Hale volal na *Hřeb* třikrát → ticho. Černý humor jako ventil (most s prasklým nosníkem).
+3. **Sarnův můstek:** Sarn přestal diktovat (správné rozkazy nejdou splnit — v louži jen jeden směr). Odmítne dostřelit *Kovadlinu*. Šetří palbu na Soulad. Renn dokoná zlom. Poslední stonek se rozlomí — „Soulad přestal krvácet. Vykrvácel."
+4. **POSLEDNÍ ROZHOVOR REYEVER × SARN (otevřené pásmo):** Sarn uzná past („postavil jsi mi chodbu tak úzkou..." — sjednoceno s kap. 18 trychtýř); pozná, že Reyever nechtěl JEHO porazit, ale ROZLOMIT JEDEN STONEK, aby lidstvo vidělo, že to JDE (= „čísla vazalství dostala nový řádek"). Sarn: „Já tě nepochopím, Adane... Já bych ty lidi udržel naživu. Ty jsi je nechal padnout, aby zůstali lidmi." Žádá číslo ceny → Reyever ODMÍTNE (jako u uzlu, kap. 20). Sarn: „Vyhráls. Já ti nezávidím, cos vyhrál." = poražen, ne pokořen.
+5. **Reyever × Hale (pohon, žal):** Reyever sjede za Halem. Potvrzení: *Hřeb*/Vos ztracena; Brázda padlý (poslán napřed sám, „držel, pak přestal"). Halův žal = Brázdův rozložený kanón na ponku, který Hale NESLOŽÍ (Brázda slíbil složit, nesložil). Konkrétní detail místo deklarace.
+6. **PRAVDA O SIRTE — vyřčená pozdě, do prázdna (jádro kapitoly, uzavření linky mlčení):** Reyever sám na stání u prázdného místa, kde „slýchal" Vos (z uzavřeného pásma). Vysloví NAHLAS do prázdna, co měl říct jí: rozkaz stáhnout Vos 3 min před průlomem na Sirte NEBYL záchrana — byla to FIXACE obrany čelem, aby 2. družstvo prošlo bokem; potřeboval Vos DOOPRAVDY v nebezpečí, aby tomu uvěřil nepřítel; stálo to 2 její muže; věděl to předem; mlčel, „protože velitel, který vysvětlí, je velitel, kterého lze přemluvit" (kap. 5/19); nesl to 2 roky, nechal ji věřit, že se spletl, „bylo to lacinější než pravda". Hořká ironie: dokáže to říct, AŽ když to slyší jen prázdné stání, „když ta, které to patří, nemůže říct Konec". Reyever se NEZLOMÍ (drženo v podtextu).
+7. **NEVYSLOVENÉ JMÉNO = VOS:** Reyever do tmy řekne PODRUHÉ jediné slovo, které řekl už u uzlu do prázdna (kap. 20 hook, „jméno na seznamu, který si nevede"): **„Vos."** = explicitní uzavření hooku kap. 20.
+8. **TŘETÍ CESTA / VÝSLEDEK (závěr, dokovací paluba):** Za 9 hodin připlují DVĚ vlečné lodě VĚRNÝCH (z kolonie, co ještě nesklonila hlavu) a vytáhnou *Kovadlinu* z louže za kabel. Reyever shrne třetí cestu: ne kolaborace, ne čistá sebevražda — použil VÝSLEDEK (důkaz, že Soulad lze ranit), aby vrátil lidstvu VOLBU (ne dobrou, jen volbu). Vykoupení skrz výsledek, ne ospravedlnění — „většina lidstva to nikdy nepochopí... uvidí louži plnou mrtvých lodí a zeptá se, co tím získal." „To je všechno, co Reyever vrátil. Ne vítězství. Volbu."
+9. **HOOK (dílčí vítězství):** Hale: „Tak sme vyhráli." Reyever: „Vyhráli jsme jednu." Za 9 plavidly Souladu stojí nespočítatelný sad; Kondominium se rozpadá dál (na schůzích, beze střelby), žádný rozlomený stonek to nezmění. Závěrečná pointa: **„Vyhráli jsme první. Ne poslední."**
+
+**ZTRÁTY / STAV (KANON — držet dál):**
+- **mjr. Iliana Vos — PADLÁ** (potvrzeno z kap. 20; *Hřeb* zničen). V kap. 21 nevystupuje, jen jako nepřítomnost.
+- **Brázda — PADLÝ — POTVRZENO EXPLICITNĚ** (v kap. 20 jen implikováno; kap. 21 to dořekne ústy Reyevera: poslán sám na trup s děly, „držel, pak přestal").
+- **9 žacích plavidel Souladu** (devět stonků) — VYHASLÝCH/ROZLOMENÝCH; Soulad u uzlu „vykrvácel". (Pozn.: za nimi stojí mnohem větší nespočítatelný sad — hrozba trvá.)
+- **flotila Smíření** — rozbita/zaklíněna v rovině v mělčině; Sarn + Renn přežívají na vlajkové lodi (v louži, osud flotily otevřený — zaklíněni v pánvi).
+- **loď *Hřeb*** — zničena (kap. 20).
+- ***Kovadlina*** — ŽIVÁ, BEZ KLÍNU; vytažena z mělčiny VLEČNÝMI LODĚMI VĚRNÝCH; šplhá k volné vodě (kde se zase dá utíkat i pronásledovat). Hale, navigátor, dva mladí od pohonu, Reyever přežívají.
+- **Reyever** — prasklé žebro (kap. 13/20) stále bodá; psychicky nese tíhu, nezlomí se navenek.
+
+**Co kdo ví (stav na konci kap. 21):**
+- **Reyever ví:** vyhráli první kampaň, ne válku; Soulad lze ranit (důkaz existuje); vrátil lidstvu VOLBU, ne vítězství; většina to nepochopí. Vyslovil pravdu o Sirte (pozdě, do prázdna) — uzavřel ji sám. Nese jméno Vos i Brázdy. Ví, že za 9 plavidly stojí nespočítatelný sad a Kondominium se hroutí dál.
+- **Sarn ví:** prohrál; chyba nebyla v součtu, ale v tom, CO počítal; Reyever nechtěl jeho porazit, ale rozlomit stonek pro důkaz; číslo ceny nedostal; uznal Reyeverovo vítězství bez ponížení. Přežil, zaklíněn v louži.
+- **Hale ví:** klín pryč, loď nehybná; Vos i Brázda ztraceni; nese žal (Brázdův kanón nechá rozložený). Po vlečení loď stoupá.
+- **Renn ví:** zlom dokonán; Reyever si bitvu vybral (proti vlastní dřívější Sarnově tezi).
+- **Mužstvo / Legie:** „kapitulace" byla past, vyšla, Soulad krvácí → vnitřní krize z kap. 18/19 dostala „jiný výsledek ze stejných čísel" V PRAXI (ne argumentem). Cenu (Vos, Brázda) znají jako ztrátu; Reyeverovo jméno/pravdu o Sirte NE (vyřčeno do prázdna).
+
+**Nové zavedené detaily / fakta (držet dál):**
+- **REYEVEROVO NEVYSLOVENÉ JMÉNO (hook kap. 20) = VOS** — explicitně dořečeno. KANON: jméno „na seznamu, který si nevede", které Reyever řekl do prázdna u uzlu (kap. 20), je VOS; v kap. 21 ho vysloví podruhé do tmy po vyřčení pravdy o Sirte.
+- **LINKA SIRTE/MLČENÍ UZAVŘENA** — Reyever vysloví pravdu o nevysvětleném rozkazu (kap. 3) NAHLAS, ale do PRÁZDNA (Vos mrtvá), pozdě. Hořká ironie: dokáže to říct, až když to neslyší ta, které to patří. NEUZAVÍRÁ se dialogem s Vos (ta padla), nýbrž Reyeverovým samomluvným doznáním. Mechanika mlčení potvrzena z kap. 5/19 („velitel, který vysvětluje, jde přemluvit").
+- **TŘETÍ CESTA = VÝSLEDEK, NE OSPRAVEDLNĚNÍ:** Reyever nevolí kolaboraci ani čistou sebevraždu — použije výsledek bitvy (důkaz, že Soulad krvácí) k tomu, aby vrátil lidstvu VOLBU (ne vítězství, ne dobrou volbu — jen volbu mezi vazalstvím a odporem, který přestal být nemožný). Vykoupení skrz výsledek; „většina ho nikdy nepochopí". KANON Reyeverova oblouku (sjednoceno s postavy.md: „vrátí lidstvu volbu").
+- **SOULAD KRVÁCÍ = DOKÁZÁNO V PRAXI:** „vazalství není jediná matematika" — krví, ne argumentem; cizí narostlý kov „krvácí" světlem (ne červeň); 9 stonků vyhaslo. Sjednoceno s kap. 18/20 „jiný výsledek ze stejných čísel".
+- **SARN PORAŽEN, NE POKOŘEN:** odmítl dostřelit nehybného protivníka (nic by nezískal); uznal vítězství („Vyhráls. Já ti nezávidím, cos vyhrál."); „muž, který celý život počítal, pozná druhého, který počítal líp, a uzná to, aniž se shrbí". Sarnova klíčová formulace rozdílu: „Já bych ty lidi udržel naživu. Ty jsi je nechal padnout, aby zůstali lidmi." Sarn + Renn přežívají zaklíněni v louži.
+- **BRÁZDŮV ROZLOŽENÝ KANÓN** (z kap. 19, dva dny ho nedával dohromady) = Halův žal; Hale ho NESLOŽÍ, nechá ho ležet rozložený („některé věci se nechávají rozložené schválně, aby bylo vidět, kde někdo skončil"). Brázda slíbil ho složit, nesložil. KONKRÉTNÍ detail ztráty místo deklarace.
+- **VLEČNÉ LODĚ VĚRNÝCH** vytáhnou *Kovadlinu* z louže (řešení nitky „loď bez klínu uvězněná v mělčině" z kap. 20). KANON: existuje kolonie Věrných, která ještě nesklonila hlavu a pošle pomoc → zárodek „Legie jako jádro odporu" (kap. 22 coda).
+- **VÍTĚZSTVÍ JE DÍLČÍ:** za 9 plavidly Souladu stojí nespočítatelný sad (hrozba trvá); Kondominium se rozpadá dál (na schůzích, beze střelby) — rozlomený stonek to nezmění. „Vyhráli jsme první. Ne poslední." → přímý most ke kap. 22 (coda: rozpad Kondominia, Legie bezdomovecké jádro odporu, otevření série).
+- Halovy metafory rozšířeny: baterie bez klínu = zlomenina, co nesroste; „vyhrát bitvu je řemeslo jako každé jiné — uděláš to dobře a zůstane ti po tom dílna plná věcí, co se nespraví"; „loď, která se třikrát neozve" (= je ztracená).
+- **Prasklé žebro Reyevera** (kap. 13/20) stále bodá = časová/tělesná kontinuita.
+
+**Jak kapitola končí:**
+*Kovadlinu* vytáhnou vlečné lodě Věrných z mělčiny k volné vodě. Reyever shrne, že nevrátil lidstvu vítězství, ale VOLBU (a většina to nepochopí). Hale: „Tak sme vyhráli." Reyever: „Vyhráli jsme jednu." Reyever spočítá, že za 9 plavidly stojí nespočítatelný sad a Kondominium se hroutí dál nezávisle na bitvě. Pointa: **„Vyhráli jsme první. Ne poslední."** = vítězství dílčí, tohle byla první kampaň, ne konec války.
+
+**Otevřené nitky (→ kap. 22 „Prach a soulad" — coda):**
+- **Vítězství dílčí, Kondominium se hroutí dál** → přímo živí codu (rozpad Kondominia; Legie jako bezdomovecké jádro odporu, ne armáda státu).
+- **Vlečné lodě Věrných** (kolonie, co nesklonila hlavu) = zárodek jádra odporu kolem Legie → coda.
+- **Nespočítatelný sad za 9 plavidly** = hrozba Souladu trvá, válka pokračuje → otevírá sérii.
+- **Reyever nese jména (Vos, Brázda) a tíhu sám** → coda zrcadlí poušť ze začátku (nový rekrut, nová Sirte, stejná volba); Reyever → mladý rekrut jako nositel.
+- **Sarn + Renn přežili** zaklíněni v louži — osud otevřený (možná coda / další díl).
+- ***Kovadlina* bez klínu, vytažená k volné vodě** — loď přežila, ale zmrzačená; logistika do cody.
