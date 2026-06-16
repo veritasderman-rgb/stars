@@ -140,6 +140,6 @@ Loď úpí svou jedinou notou, osmý den v opravách, kulhavá, vystřílená, t
 
 „A to je horší,“ řekne Vos.
 
-Reyever se dívá na proud, kam odplulo žací plavidlo, které mu poděkovalo.
+Reyever se dívá na proud, kam odplulo žací plavidlo, které mu poděkovalo. Ta věc mu nabídla přesně to, co si za třicet let nikdy nedovolil chtít nahlas — válku, která má smysl —, a vědět, že po tom touží, je horší než vědět, že je to past.
 
 „Mnohem,“ řekne.

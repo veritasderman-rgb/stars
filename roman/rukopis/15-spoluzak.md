@@ -66,7 +66,7 @@ Reyever položí dlaň na pult, vedle pásma. Kov je pod ní studený od přechl
 
 „Ne.“ Poprvé je v Sarnově hlase něco ostřejšího, hned to ale srovná. „Já lidem ulehčuju to, co přijde tak jako tak. Poslouchej čísla, Adane, protože čísla nelžou a já vím, že je posloucháš radši než lidi. Soulad má v tomhle rameni galaxie přesilu, kterou ti nepopíšu jinak než takhle: tys za jedno žací plavidlo dal skoro celý křižník. Oni jich mají víc, než má Legie zubů na klínu. Kolik křižníků má Kondominium? A kolik jich pošle sem, na pohraničí, které už odepsalo? Sečti to. Já čekám.“
 
-Reyever to sečte. Vyjde mu, co Sarnovi.
+Reyever to sečte. Vyjde mu, co Sarnovi. A na tom je to nejtěžší — ne že Sarn lže, ale že nelže, a že tu samou věc, kterou Reyever drží před mužstvem jako tajemství, drží i Sarn, jen ji obrátil na opačnou stranu rovnice.
 
 ---
 

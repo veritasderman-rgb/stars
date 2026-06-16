@@ -162,7 +162,7 @@ Ne o den. Ne o dva, kolik trvalo, než se rozkaz prokousal řetězem schválení
 
 V dílně je ticho. Kompresor za stěnou buší pravidelně, jako srdce stroje, který neví, co právě jeho lidé zjistili.
 
-Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno číslo: šest.
+Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno číslo: šest. Šest dní předtím, než Vejvar uviděl Sirte, už někdo věděl, že se Vejvar vrátí v pytli — a Reyever to mužstvu neřekne, protože velitel, který tohle vysloví nahlas, je velitel, kterého už nikdo nedonutí jít dál.
 
 Nikdo nepíše rozkaz k uzavření operace, která ještě nezačala. Pokud neví, že začne. Pokud neví, co se na ní najde. Pokud to celé nechystal sám.
 

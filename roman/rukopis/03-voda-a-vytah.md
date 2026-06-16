@@ -26,7 +26,7 @@ Pásmo ztichne. Vos čeká. Tohle umí. Čekat, dokud se situace nepřežene př
 
 DESÁTNÍK HOLAN POTŘEBUJE DVĚ MINUTY na to, aby se přesunul podél zborcené zdi k místu, odkud na věž vidí, a deset vteřin na to, aby tam zemřel.
 
-Vos to neuvidí celé. Uvidí jen, jak se opatrný stín přesune do mezery mezi dvěma panely, jak tam na zlomek vteřiny strne, a jak ho mezera vyplivne zpátky, už ne jako stín, ale jako věc bez ladnosti, která padá špatně. Odstřelovač na věži nečekal na hlavu u země. Čekal na pohyb u zdi.
+Vos to neuvidí celé. Uvidí jen, jak se opatrný stín přesune do mezery mezi dvěma panely, jak tam na zlomek vteřiny strne, a jak ho mezera vyplivne zpátky, už ne jako stín, ale jako věc bez ladnosti, která padá špatně. Odstřelovač na věži nečekal na hlavu u země. Čekal na pohyb u zdi. Provedu, řekl Holan, a ona poslala jeho, ne sebe; první, co ji napadne, není on, ale to, kdo půjde po něm, a za tu rychlost se nestihne ani stydět.
 
 „Holan je dole!“ křikne někdo. „Holan je dole, sakra, je za tou zdí, nemůžu k němu!“
 

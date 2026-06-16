@@ -112,7 +112,7 @@ Vos by se zeptala, napadne Reyevera. Vos se ptá na všechno. Ale Vos je dneska 
 
 Reyever obchází kotlinu. Tohle je ta část, kterou nemá rád a kvůli které sem chodí osobně. Ne vítězství — to je řemeslo. Účet.
 
-Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá pach, který Reyever zná z každé jiné poušti a který je pokaždé stejný, jako by smrt byla jediná věc, která se nestěhuje. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
+Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá pach, který Reyever zná z každé jiné poušti a který je pokaždé stejný, jako by smrt byla jediná věc, která se nestěhuje. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib. Do hlášení napíše „povstalci“, protože tak zní zadání, a to slovo mu v puse leží stejně cize jako tomu starci s rozbitým rtem to jeho.
 
 „Plukovníku?“ Jeden ze zajatců, ten starší, zvedne hlavu. Má rozbitý ret a oči člověka, který se přestal bát a teď už jen mluví. „My nejsme banda. My jsme přešli na správnou stranu. Vy to ještě nevíte, ale přijde to i na vás. Měli byste přestat bránit mrtvolu.“
 

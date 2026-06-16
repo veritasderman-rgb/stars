@@ -126,7 +126,7 @@ Vos se nepohne.
 
 „Tak tomu říkáte vy.“ Renn pokrčí rameny, poprvé ne diplomaticky, jen unaveně. „Oni tomu říkají strana, která přežije. Dej Souladu světy, které si vybral. Ty, které nechce, si nech — jako jeho poddaný. A kdo se vzepře, bude přerozený i s planetou. To je nabídka. Ne hrozba. Pozvánka. Tak mi to řekl ten zajatec, a měl pravdu, a vy jste ho slyšela taky.“
 
-„To není přežití,“ řekne Vos. „To jsou řetězy.“
+„To není přežití,“ řekne Vos. „To jsou řetězy.“ Řekne to rychle, aby to bylo řečené dřív, než si stačí spočítat, kolik z její čety by řetězy přijalo, kdyby je někdo nabídl Vejvarovi místo prázdného pancíře.
 
 „Ano,“ řekne Renn klidně. „Řetězy. A řetězy se nosí dál než hrdá smrt. To je to, co je na tom nejhorší, majore. Ne že lžou. Oni nelžou. Oni mají pravdu v číslech. Pět tisíc lidí na Melassu bylo statečných a teď jsou zahrada. Třicet kolonií Ligy nemá jednu loď. Kondominium stahuje flotily domů a předstírá, že nepřítel není, protože připustit ho znamená připustit, že prohraje. A do té trhliny, do toho ticha, přijde někdo a nabídne lidem, že nemusejí umřít. Vy byste tu nabídku neodmítla snadno, kdybyste viděla čísla, která vidím já.“
 

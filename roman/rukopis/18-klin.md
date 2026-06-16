@@ -88,7 +88,7 @@ V jídelně je ticho, do kterého úpí loď svou jedinou notou.
 
 „Sirte tě netestoval, jestli jsi dost dobrý, abys přežil,“ řekne Sarn. „Sirte tě třídil. Buď spadneš sám a my máme klid, nebo se osvědčíš a my tě chceme. Z toho trychtýře nevedla cesta ven, Adane. Vedla jen dolů, ke mně. Ať jsi udělal cokoli, skončil jsi tady, u tohoto stolu. Zařídil jsem to tak, abys neměl jinou možnost než tu, kterou by sis vybral sám. To je celý můj řemeslo. Nedonutit nepřítele. Postavit mu chodbu tak úzkou, že si v ní svobodně vybere jediné dveře, které tam jsou.“
 
-Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, někdo za něj vyprojektoval předem.
+Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, někdo za něj vyprojektoval předem. Nejhorší na tom není, že byl veden. Nejhorší je, že každý ten krok by udělal znovu — a že tedy mezi svobodou a Sarnovým trychtýřem nikdy nebyl rozdíl, který by Reyever poznal zevnitř.
 
 „Manévroval jsi mě od první duny,“ řekne.
 

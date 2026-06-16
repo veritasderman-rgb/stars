@@ -116,7 +116,7 @@ Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí 
 
 A do té trhliny vráží Smíření, klidně, trpělivě, soustavu po soustavě, a nabízí jediné, co Kondominium nabídnout přestalo: že zítra ještě budeš.
 
-Vos sedí dlouho ve tmě. Pak vstane, protože velitel ve tmě nesedí, a jde mezi muže.
+Vos sedí dlouho ve tmě. Nezhasla pult proto, aby přemýšlela; zhasla ho proto, aby nikdo neviděl, jak dlouho jí trvá nenajít na Sarnových číslech chybu. Pak vstane, protože velitel ve tmě nesedí, a jde mezi muže.
 
 ---
 

@@ -116,7 +116,7 @@ Rána, co prošla bokem, mu utrhla kus pravé baterie a vzala s sebou dva lidi, 
 
 „Tichý!“ křikne. „Přepoj pravej okruh na levej. Hned.“
 
-Tichý neodpovídá. Hale se otočí a vidí proč. Mladý operátor leží u pultu na zádech, a clonou, která tam nebyla, mu prošlo cosi, co nenechalo díru, jen místo, kde Tichý přestal být celý. Hale se nezastaví. Sám přepojí okruh, sám zatáhne za páku, sám položí dlaň na přepážku.
+Tichý neodpovídá. Hale se otočí a vidí proč. Mladý operátor leží u pultu na zádech, a clonou, která tam nebyla, mu prošlo cosi, co nenechalo díru, jen místo, kde Tichý přestal být celý. Hale se nezastaví. Zastavit se znamená dívat se, a na to bude čas, až loď přežije nebo nepřežije. Sám přepojí okruh, sám zatáhne za páku, sám položí dlaň na přepážku.
 
 „Ještě ne, kamaráde,“ řekne stroji. „Plukovník potřebuje záda tý věci. Tak mu je dovez.“
 
@@ -222,7 +222,7 @@ Vos se dívá na vrak dlouho. „A stál skoro celý křižník.“
 
 „Stál. A příště to bude stát víc, protože příště už nebude překvapení.“
 
-Měřítko hrozby konečně dostalo tvar. Jedno žací plavidlo za skoro celý křižník — a Soulad jich má víc, než kolik má Legie zubů na klínu.
+Měřítko hrozby konečně dostalo tvar. Jedno žací plavidlo za skoro celý křižník — a Soulad jich má víc, než kolik má Legie zubů na klínu. Reyever to číslo nevysloví. Drží ho sám, jako drží všechno, co by mužstvu vzalo spánek; je to jediné velení, kterému ještě věří — neříkat nahlas, co se nedá unést nahlas.
 
 ---
 
