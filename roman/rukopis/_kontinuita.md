@@ -384,3 +384,59 @@ Vos rozpozná, že vrak nemá tvar postavený lidskou rukou. Ostrý střih, úde
 - **Vos × Reyever:** tichá shoda v neposlušnosti (symetrie) přemosťuje trhlinu navenek, ale podezření Vos o Sirte trvá (kap. 18); Reyever stále nevysvětlil mlčení.
 - **Tělo + zbraň v nákladu** putují do aktu II (riziko zabavení na příští základně = důvod, proč si Vos vzala vlastní vzorek).
 - Sirte opuštěna napospas (5 000 lidí, padlí včetně Vejvara) = morální zátěž, kterou si Legie veze dál; cena „lehčí matematiky".
+
+---
+
+## Kap. 8 — „Hladiny"
+
+> **TÍMTO ZAČÍNÁ AKT II (PŘESUNY / vesmír).** Předchozí kap. 7 uzavřela akt I (Prach / Sirte). Žánrový posun: z pouštní koloniální špíny do vesmírného přesunu a fyziky pohonu.
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; hlavní ohnisko). Vedlejší ohniska přes scénické střihy: **Hale** (operátor pohonu, technický pohled na šplh) a v závěru **Vos** (přijde na můstek na hook). Akčně-expoziční kapitola: medailon FTL ukázaný dějem + napětí navigace + hook.
+
+**Místo:** **velitelský můstek** těžkého křižníku **Kovadlina** (vlajková/mateřská loď Legie) — pulty navigace a pohonu, zadní přepážka, velitelské stání oddělené zábradlím, noční režim světel. Vně: mělčina hvězdného systému → volná voda → hladiny (FTL vrstvy) → gravitační proud na šesté hladině. Za okny tma bez hvězd (hvězdy zůstaly v reálném prostoru).
+
+**Denní doba / čas:** **bezprostředně navazuje na konec kap. 7** — Legie odletěla ze Sirte, minula vrak nelidského tvaru v mělčině. Kapitola: ~5 h po startu (konec prodírání mělčinou, ohlášené „4 h do hladin" z kap. 7 uplynuly) → volná voda → šplh do hladin → +1 h plavby v proudu → hook. Vrak z konce kap. 7 Legie **minula a nechala za zádí** (Reyever zakázal prohledávat — stát v mělčině = nabídnout se).
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, čte tělo (setina vteřiny), rozhoduje o hloubce hladiny a o nezastavení u vraku. Velitelské metafory věcné, ne emocionální. Glosa: „To není past, kterou někdo nastražil. To je past, kterou udělala galaxie."
+- **št. rtm. Brannick „Kovář" Hale** — vedlejší ohnisko; obecná čeština, řemeslné metafory (loď = stroj, co se dá/nedá spravit; „hladina se dá akorát přežít", „tady nahoře se to spravuje blbě"). Dohlíží na operátora pohonu při šplhu.
+- **mjr. Iliana Vos** — přijde na můstek až v poslední scéně (na hook); když se bojí/je naštvaná, ztiší se; pozná „setinu vteřiny" na navigátorovi (naučila se ji od Reyevera). Vysloví otázku „jak dlouho už za námi jede".
+- **navigátor** (bezejmenný, týž typ jako v kap. 7) — vede šplh, vstup do proudu, pokusy setřást kontakt; dvakrát přepočítá (Reyeverův motiv). Idiolekt: věcný, obecná, profesionální u hlášení.
+- **operátor pohonu** (bezejmenný) — napíná kýlový klín pod Halovým dohledem.
+
+**Klíčové události:**
+1. **Vrak za zádí:** Reyever zakázal prohledat vrak z konce kap. 7 — minuli ho v mělčině, nezastavili (stát v mělčině = zranitelnost). Vrak dávno mimo dosah.
+2. **Prodírání mělčinou** dokončeno (~5 h od startu), loď se blíží volné vodě, kde teprve může šplhat do hladin.
+3. **Medailon FTL dějem (kýlový klín → šplh):** loď překročí okraj mělčiny — hvězda „pustí", tlak povolí (lehkost za hrudní kostí). Operátor **napne kýlový klín** pomalu (Hale: „loď ti řekne, kdy je připravená"). *Kovadlina* se „topí nahoru" hladinami: náklon, který není v žádné rovině; světla klesnou na noční režim (pohon bere proud); hluboké podprahové vibrace v přepážkách; za okny tma bez hvězd. Šplhá přes 1.–3. hladinu.
+4. **Reyever — velitelský medailon hloubky:** drobné opravy navigátora (půl stupně sem/tam, „jako hladit nervózní zvíře"); pravidlo „hloubka kouše" — hlubší proud táhne rychleji, ale větší turbulence; existuje hladina, „ze které se loď nevrátí" (nikdo neví která). Reyever odmítne jet hlouběji kvůli rychlosti: „Tři dny navíc jsou levnější než loď. Šestá hladina."
+5. **Proudy dějem:** navigátor najde **gravitační proud na 6. hladině** (řeka zakřivení), táhne přímo do cílového sektoru. Loď do něj vstoupí — přestane šplhat, začne plavat; vibrace se ustálí na jedné notě; zdánlivá rychlost stoupá. Na obrazovce proud = pole čísel + obkroužená dráha, ne „modrá stuha".
+6. **Stopa výzbroje** vede tímto směrem: tělo + zbraň + vzorek slitiny ukazují do sektoru za proudem; Legie jde jedinou cestou, která tam vede. Hale varuje: vrak seděl u **ústí** tohoto proudu „jako by ho tam někdo položil". Reyever: „To není past, kterou někdo nastražil. To je past, kterou udělala galaxie. Ti chytří ji jen používají."
+7. **HOOK — pronásledovatel/doprovod:** navigátor zachytí **kontakt za zádí, v proudu**, na druhém konci dosahu. Loď pod pohonem (žádný vrak), ale **nevysílá** (žádný kód/maják). Drží 6. hladinu i proud, jede přesně za nimi. Reyever zkouší zrychlit (kontakt zrychlí), zpomalit (zpomalí), vyklouznout přes 7. hladinu a vrátit se jinde (kontakt se vrátí, stejný odstup). **Nedá se setřást** — „jako by věděl, kam sáhnu, dřív než tam sáhnu". Není to pronásledování, je to **doprovod** (drží přesný odstup). Vos: „Jak dlouho už za námi jede?" Navigátor dopočítá zpět: **od mělčiny, od chvíle, co vyšplhali — byl tam celou dobu.** Pointa: „Někdo je s nimi v řece od první hladiny. A čekal, až to zjistí sami."
+
+**Co kdo ví (stav na konci kap. 8):**
+- **Reyever ví:** stopa výzbroje vede do sektoru za proudem; jedou jedinou cestou (proud = úzké hrdlo); vrak u ústí proudu nebyl náhoda; někdo je sleduje od mělčiny a nedá se setřást. NEZNÁ totožnost kontaktu (kdo, čí loď, Soulad/Smíření/Kondominium).
+- **Hale ví:** technicky šplh i proud zvládli; vyslovil podezření na souvislost vrak↔ústí proudu.
+- **Vos ví:** je sledována loď celé Legie; pozná na navigátorovi „setinu vteřiny"; nese dál tajný vzorek (z kap. 7) — v kap. 8 nezmíněn explicitně, ale platí.
+- **Posádka můstku** kontakt vidí; neumí ho setřást ani identifikovat.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **Kovadlina** = **vlajková/mateřská loď Legie**, **těžký křižník**; „kolem které se Legie sbalila jako pěst kolem dlaně". KANONICKÝ název lodi 3. expedičního sboru — držet ve všech dalších vesmírných kapitolách (9–15, 20–22). Skloňování: Kovadlina, Kovadliny, Kovadlině, Kovadlinu, Kovadlině, Kovadlinou.
+- **velitelský můstek Kovadliny** = pulty navigace + pohonu, zadní přepážka (operátor pohonu), velitelské stání u zábradlí, noční režim světel — použitelná lokace pro akt II.
+- **Medailon FTL v praxi (kanon pro další kapitoly):**
+  - **mělčina** = u hvězdy nelze šplhat/uskočit; hvězda „tlačí", v zubech; po překročení okraje „pustí" (lehkost za hrudní kostí).
+  - **kýlový klín** se „napíná" pomalu na okraji volné vody; loď se pak „topí nahoru" do hladin (náklon mimo rovinu, ne přetížení).
+  - **hladiny** = vrstvy stlačeného času; šplh = vibrace (podprahové) + pokles světel (pohon bere proud) + tma bez hvězd za okny; číslují se (1., 2., 3. … 6., 7.); hlubší = rychlejší a turbulentnější; existuje neznámá nejhlubší hladina, ze které se loď nevrátí.
+  - **proudy** = gravitační řeky na dané hladině; loď do nich vstoupí (přestane šplhat, plave; vibrace se ustálí; rychlost stoupá); na čidlech = pole čísel + dráha, ne vizuální stuha; jezdí se „po proudu", tvrdá ruka = řeka odhodí.
+  - **6. hladina** = „rozumná, hodná"; **7. hladina** = „hází" (turbulence). Reyeverovo pravidlo: nezvedat hloubku kvůli rychlosti, „hloubka kouše".
+- **proud jako strategické úzké hrdlo** v praxi: jediná cesta do sektoru → kdo to ví, ví, kde čekat (předjímá bitvu o proudový uzel, kap. 20).
+- **Reyeverovo pravidlo** sledování kontaktu: zrychlit/zpomalit/změnit hladinu jako test; idiom „setina vteřiny, kdy tělo dohání tvář" přenesen na Vos (učí se od něj).
+
+**Jak kapitola končí:**
+Kontakt v proudu se nedá setřást (drží odstup = doprovod, ne hon). Navigátor dopočítá, že jede za nimi **od mělčiny / od prvního šplhu**. Úderná pointa ve dvou větách: „Někdo je s nimi v řece od první hladiny. A čekal, až to zjistí sami."
+
+**Otevřené nitky pro další kapitoly:**
+- **Neznámý doprovod v proudu** = hlavní hook do kap. 9/11 (kap. 11 „Mělčina" = pronásledování od mělčiny k volné vodě, „pronásledovatel zmizí do proudu, který na mapách není"). Totožnost neodhalena (Soulad? Smíření/Sarn? Kondominium?) — táhne napětí aktu II.
+- **Vrak u ústí proudu** (z kap. 7) propojen s proudem jako úzkým hrdlem → stopa výzbroje + geografie galaxie; sbíhá se k prvnímu kontaktu (kap. 12/13) a k proudovému uzlu (kap. 20).
+- **Kovadlina** zavedena jako domovská loď — držet název a typ (těžký křižník) ve všech vesmírných scénách.
+- **Vos** na můstku, nese vzorek dál; její pátrání po původu výzbroje pokračuje (kap. 9 přepad konvoje).
+- **Reyeverova doktrína proudů** („past, kterou udělala galaxie") = předehra k jeho finálnímu využití proudů jako pasti v kap. 20.
