@@ -1308,6 +1308,34 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 
 ---
 
+## Vrstva E (jazyková mechanika) — kap. 11-melcina
+
+**Datum:** 2026-06-16
+
+### Zásahy (3 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `přestala jen dívat a začala lézt blíž... pochopila, že tohle je její chvíle` | `přestane jen dívat a začne lézt blíž... pochopí, že tohle je její chvíle` | E1 — trojice sloves v minulém čase uvnitř přítomné akční scény (ř. 41) |
+| `Stín zpomalil.` | `Stín zpomalí.` | E1 — prokluz do minulého času v přítomné scéně (ř. 155) |
+| `pochopil, že korveta byla cena` | `pochopí, že korveta byla cena` | E1 — prokluz do minulého času v přítomné scéně (ř. 167); „byla" ponecháno — referuje na korvetu jako věc minulosti (právě ztracena) |
+
+### Průběh kontroly
+
+- **E1 — přítomný čas:** Tři prokluzy do minulého času uvnitř akčního narativu. Přípustné minulé časy ponechány: ř. 5 (Kovadlina sjela/sklouzla — expozice situace hodinu před scénou), ř. 23 (Plukovník je nejtišší — výsledek patnáctileté zkušenosti), ř. 57 (Daré, co kdysi na Sirte uzavírala — referenční vsuvka), ř. 59 (plukovník nezavřel kanál — expozice), ř. 125 (jaký Vos ještě neviděla — relativní minulost), ř. 191 (kde ho Daré zabrzdila — čerstvá minulá událost v příčinné vedlejší větě), ř. 229 (Daré byla nejlepší — hodnocení mrtvé v řeči).
+- **E2 — uvozovky:** Počet „ (U+201E) = 70, počet " (U+201C) = 70, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči bez chyb.
+- **E3 — koncovky mn. č.:** Bez nálezů. „doženou" správně.
+- **E4 — anglikalky:** Bez nálezů.
+- **E5 — redundantní „svůj":** ř. 9 „svému operátorovi" — přípustné (rozlišuje), ř. 103 „svůj nekrytý bok" — přípustné (referuje na podmět stínu). Bez zásahů.
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „pak" 4× (ř. 31, 63, 207, 217) — rozmístěné, funkční, netvoří tik. „najednou" 1× (ř. 183) — funkční moment uvolnění. Bez zásahů.
+- **E9 — terminologie:** kýlový klín, clony, hrdlo, mělčina, hladiny, proudy — vše malá písmena, konzistentní. Legie — velké písmeno správně.
+- **Pravopis a překlepy:** Bez nálezů.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Tři zásahy, všechny E1. Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
+
+---
+
 ## Vrstva E (jazyková mechanika) — kap. 10-kondominium-zapira — doplňkový průchod
 
 **Datum:** 2026-06-16

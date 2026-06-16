@@ -38,7 +38,7 @@ STÍN ZRYCHLÍ, a navigátor to ohlásí způsobem, jakým se hlásí špatné p
 
 „Zkracuje to, plukovníku. Poprvý. Celou dobu držel odstup — teď se hrne.“
 
-Reyever stojí u zábradlí, ruce za zády, a dívá se na obrazovku, na kterou se ta druhá tečka konečně přestala jen dívat a začala lézt blíž. Není to vrak. Je to loď pod plným klínem, tichá, bez kódu, bez majáku, ta samá, co Legii visí za zádí od první hladiny — a teď, když oba uvázli v mělčině a oba se plazí stejnou rychlostí k stejnému okraji, pochopila, že tohle je její chvíle.
+Reyever stojí u zábradlí, ruce za zády, a dívá se na obrazovku, na kterou se ta druhá tečka konečně přestane jen dívat a začne lézt blíž. Není to vrak. Je to loď pod plným klínem, tichá, bez kódu, bez majáku, ta samá, co Legii visí za zádí od první hladiny — a teď, když oba uvázli v mělčině a oba se plazí stejnou rychlostí k stejnému okraji, pochopí, že tohle je její chvíle.
 
 „Ví, že nemůžeme nahoru,“ řekne Reyever, spíš pro sebe. „Tak nás chce dohnat tady. V mělčině. Kde se nedá utéct, jenom bít.“
 
@@ -152,7 +152,7 @@ Na můstku nikdo nezajásá, protože není proč. A nikdo netruchlí, protože 
 
 „Zasáhli ho,“ řekne Vos tiše. „Daré ho zasáhla. Pod hrdlem. Vidím to.“
 
-A je to tak. Stín zpomalil. Ta tmavá nedokreslená věc visí v mělčině, kde ji *Kovářka* nechala, a z místa pod hrdlem jí jde cosi ven — ne oheň, ne dým, jen porucha v tom tvaru, jako když se rozmaže inkoust. Daré ho nepotopila. Korveta na to nikdy neměla. Ale ranila ho. Pustila mu krev — jestli to, co z té věci jde, je krev.
+A je to tak. Stín zpomalí. Ta tmavá nedokreslená věc visí v mělčině, kde ji *Kovářka* nechala, a z místa pod hrdlem jí jde cosi ven — ne oheň, ne dým, jen porucha v tom tvaru, jako když se rozmaže inkoust. Daré ho nepotopila. Korveta na to nikdy neměla. Ale ranila ho. Pustila mu krev — jestli to, co z té věci jde, je krev.
 
 Deset minut Legie dostala. A k tomu jednu pravdu navíc: ta věc se dá ranit.
 
@@ -164,7 +164,7 @@ Gradient mu kouše do dlaně. Trhlina po krajích klínu se rozšiřuje, stroj m
 
 „Ještě čtyři minuty, ty mrcho,“ řekne pohonu, něžně. „Daré ti koupila čtyři minuty za celou loď. Tak je nepromrhej.“
 
-Stín za zádí se pohne. Zraněný, pomalejší, ale pohne se — vyrazí za nimi, za *Kovadlinou*, zbytek cesty k volné vodě, protože pochopil, že korveta byla cena a že kořist je pořád na dosah.
+Stín za zádí se pohne. Zraněný, pomalejší, ale pohne se — vyrazí za nimi, za *Kovadlinou*, zbytek cesty k volné vodě, protože pochopí, že korveta byla cena a že kořist je pořád na dosah.
 
 „Hrne se za náma,“ hlásí navigátor. „Pomalejc. Ale hrne.“
 
