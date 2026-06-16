@@ -1171,3 +1171,29 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **ř. 9 — „patřil/jmenoval":** minulý čas v přítomném narativu — záměrný efekt (Vejvar je mrtvý, pancíř mu patřil); ponecháno; k posouzení hlas-strazce.
 
 **Celkové hodnocení:** Kapitola jazykově čistá. Tři zásahy: 1× E5 (redundantní „své"), 1× shoda rodu přídavného jména, 1× E4 (anglikalka v řeči Vos). Žádné uvozovkové chyby, přechodníky ani prokluzy časů mimo záměrné vsuvky.
+
+---
+
+## Jazyková kontrola — `roman/rukopis/06-rozkaz-shora.md`
+
+**Vrstva:** cestina-strazce (E1–E9)
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `vyděšení lidé dělají špatná rozhodnutí` → `vyděšení lidé se špatně rozhodují` (E4 — anglikalismus „make bad decisions"; přímá řeč Renn, ř. 57)
+
+2. `jinak by to nedávalo řád` → `jinak by to nesedělo` (E4 — anglikalismus, nepřirozená fráze; přímá řeč Hale, ř. 147)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- **E2 — uvozovky:** výhradně české „…" ve všech výskytech; počet „ (U+201E) = 38, počet " (U+201C) = 38, ASCII uvozovek = 0. Interpunkce přímé řeči správná.
+- **E1 — přítomný čas:** narativ důsledně přítomný; minulý čas v Rennině retrospektivní sekci (ř. 65–69, 79) záměrný — jde o vnitřní monolog rekonstruující proběhlé události, nikoliv nechtěný prokluz.
+- **E3 — koncovky 3. os. mn. č.:** „Nepostupují", „Neprovádějí" — správně; hovorové „ptaj", „počítaj", „maj" v Halově řeči záměrné.
+- **E5 — redundantní „svůj":** „SVÉHO MODULU" (ř. 63) — funkční, podmět odkazuje na vlastní modul v kontextu jiných modulů; ponecháno.
+- **E6 — přechodníky:** žádné v celém textu.
+- **E7 — berličky:** 5 výskytů „pak" rozmístěných po celé kapitole (178 ř.), netvoří tik; ponecháno.
+- **E9 — terminologie:** Kondominium, Legie, orbitální výtah, kluzáky, proudy, pečeť — vše v pořádku; velká/malá písmena správně.
+- **Hovorové tvary v Halově řeči:** „dovezený", „čerstvý", „odlitý", „celej", „ptaj", „počítaj" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Dva zásahy — oba E4 (anglikalismus v dialogu). Uvozovky, časy, přechodníky, terminologie bez chyb.
