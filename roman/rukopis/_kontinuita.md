@@ -60,3 +60,52 @@ Reyever zabalí cizí zbraň do pytle na důkazy, Daré se ptá „co to teda je
 - Kdo Sirte vyzbrojil cizí slitinou? (hlavní mystérium aktu I)
 - Reyever už tuší, že „povstání" je faleš (slovo „povstalci" se mu nelíbí) — rozvíjí se v kap. 2 (Renn lže, on mlčí).
 - Naučená ideologická fráze zajatce = první stopa ke Smíření/Souladu.
+
+---
+
+## Kap. 2 — „Špinavá mise"
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas). Cassia Renn je hlavní protějšek scény, ale ohnisko zůstává u Reyevera (synopse uvádí „POV Reyever, Renn" — řešeno jedním hlavním POV dle pravidla tempa). Vedlejší ohnisko v závěru: Hale.
+
+**Místo:** **velitelský modul koloniální správy** na **základně Legie** nad městem Sirte (prosklená stěna s výhledem na město a orbitální výtah). Třetí scéna: **ochoz základny** venku. Modul je dekadentní — dovezená dřevěná deska stolu, skleničky, přechlazená klimatizace jako projev luxusu.
+
+**Denní doba / čas:** **téhož dne krátce po přepadu z kap. 1** (Reyever říká, že noc měl za sebou před úsvitem; Renn zná hlášení). Probíhá **prachová bouře** — viditelnost mizivá, město a výtah se ztrácejí v hnědé cloně.
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, pozoruje, mlčí; čte lež z těla, ne z očí.
+- **Cassia Renn** — kontraktorka koloniální **Ligy**, zástupkyně, která Legii najala. Oslovení: **„paní Rennová"** (Reyever), jméno **Cassia Renn**, příjmení **Renn / Rennová**. Spisovná, uhlazená, diplomatická; říká A, myslí B. Pije vodu z karafy (gesto moci).
+- **št. rtm. Brannick „Kovář" Hale** — vystupuje ve třetí scéně na ochozu; obecná čeština, řemeslné metafory („tři vysvětlení = výmluvy", „kočka v dílně"). Má cizí zbraň ve své dílně v pytli na důkazy.
+- **mjr. Iliana Vos** — NEvystupuje fyzicky; zmíněna jako ta, komu Reyever nechá zbraň tajně poslat na rozbor, „až přiletí".
+
+**Klíčové události:**
+1. Briefing Reyever × Renn. Renn chválí „čistou práci", zaokrouhluje na „9 zadržených, 0 ztrát"; Reyever opraví na **7 mrtvých, 4 zadržení** (drží čísla z kap. 1).
+2. Renn rámuje farmáře jako „povstalce"; tvrdí, že žízeň 50 farmářů v jednu noc „někdo zorganizoval" — zlehčuje a zároveň zveličuje dle potřeby.
+3. Renn otevřeně líčí dekadenci velení: Kondominium chce **klid, ne pravdu**; Legie = drahá koloniální policie; „Kondominium nepadne v bitvě, padne na schůzi." (Velká pravda jako paraván před malou lží o Sirte.)
+4. Reyever předloží **fotografii cizí zbraně** na destičce, sleduje Renninu reakci. Zachytí setinu vteřiny zaváhání — Renn ví, co to je.
+5. Renn nabídne tři protichůdná vysvětlení (pašerácký import → prototyp velmoci → „nechtějte vědět všechno"), zabalí výhrůžku do laskavosti („budete méně zvědavý, dostanete víc zaplaceno").
+6. Reyever nahlas „bere na vědomí", vnitřně ví, že Renn lže o rozsahu i o tom, co ví.
+7. Na ochozu Hale potvrdí čtení („tři důvody = výmluva"). Reyever **zruší předání zbraně Lize** a nařídí Halovi poslat ji tajně Vos na rozbor mimo evidenci Ligy; jako krytí použít „standardní rozbor neznámé výzbroje v laboratoři Legie".
+
+**Co kdo ví (stav na konci kap. 2):**
+- **Reyever ví**, že Renn lže o rozsahu „povstání" a zná původ cizí zbraně; tají to. Sám se rozhodl zbraň nepředat a vyšetřovat dál — přestává dělat to, za co je placen.
+- **Renn ví** víc, než přizná (zná původ zbraně, je napojená na Smíření — čtenáři zatím neodhaleno); ví, že Reyever je nebezpečný tím, že umí mlčet.
+- **Hale ví** o Reyeverově rozhodnutí zatajit/přesměrovat zbraň a kryje ho.
+- **Vos** zatím neví nic; zbraň jí teprve dorazí (váže se na kap. 7, kde sama bere vzorek — pozn.: nyní jí Reyever zbraň posílá oficiálně-tajně už zde).
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **koloniální Liga** = zaměstnavatel Legie na Sirte; Renn je její zástupkyně/kontraktorka.
+- **velitelský modul** koloniální správy na základně Legie nad městem; dekadentní vybavení (dřevěná deska, přechlazeno).
+- Gesto moci na Sirte: **nabídnout vodu** z karafy (cennější než whisky); odmítnout = taky gesto.
+- Reyeverova metoda čtení lži: **z těla/rukou/ramen, ne z očí**; „setina vteřiny, kterou tělo potřebuje, aby dohnalo tvář".
+- Halova zásada: **tři vysvětlení jedné otázky = výmluva**, jedna pravda stačí.
+- Krytí pro zadrženou zbraň: „**rozbor neznámé výzbroje v laboratoři Legie**" — mimo evidenci Ligy.
+- Renin diplomatický idiolekt potvrzen: zdvořilá, ztišuje hlas u „důvěrností", balí výhrůžky do laskavosti.
+
+**Jak kapitola končí:**
+**Silnější varianta hooku:** Reyever lež prokoukl A navíc si **cizí zbraň nechá** — zruší předání Lize a nechá ji tajně poslat Vos na rozbor. Závěrečné obrazy: poklepe si na kapsu s fotografií zbraně, „kterou už nikomu nepředá"; bouře „hledá skulinu"; pointa: „Klid stojí draho. Pravda víc. A on právě přestal platit za klid."
+
+**Otevřené nitky pro další kapitoly:**
+- Reyever vědomě porušuje zadání Ligy (zatajuje důkaz) — staví se proti zaměstnavateli; eskaluje do kap. 6 (rozkaz shora misi ututlat).
+- Renn zná původ zbraně a lže — její dvojí dno (napojení na Smíření) se rozkrývá v kap. 10/14.
+- Zbraň míří k Vos na rozbor mimo evidenci — propojit s kap. 5 (Hale najde nelidské značení) a kap. 7 (Vos a vzorek).
+- Reyever ↔ Renn: souboj „kdo koho používá" otevřen; Renn ho podcenila jako koupitelného.
