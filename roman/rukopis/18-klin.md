@@ -48,7 +48,7 @@ Sarn nakloní hlavu. Je v tom pohybu něco z akademie, z kluka, který řešil �
 
 V DŮSTOJNICKÉ JÍDELNĚ JE STUDENÉ SVĚTLO a kovový stůl přišroubovaný k palubě, a Sarn si k němu sedne tak, jako by ho znal, ač ho vidí poprvé.
 
-Reyever sedne naproti. Mezi nimi je deska holého kovu, na které ještě před hodinou ležely Vosiny papíry s jednatřiceti křížky. Vos je sklidila. Sarn ten prázdný stůl chvíli pozoruje, jako by na něm ty papíry stejně viděl.
+Reyever sedne naproti. Mezi nimi je deska holého kovu, studená jako všechno na téhle lodi, na které ještě před hodinou ležely Vosiny papíry s jednatřiceti křížky. Vos je sklidila. Sarn ten prázdný stůl chvíli pozoruje, jako by na něm ty papíry stejně viděl.
 
 „Vím, co jsi na něm měl rozložené,“ řekne. „Jednatřicet soustav. Sečetli jste to.“ Položí ruce na desku, dlaněmi dolů, klidně. „Tak nemusíme začínat tím, jestli mám pravdu. Tu část máme za sebou. Oba víme, že ji mám.“
 

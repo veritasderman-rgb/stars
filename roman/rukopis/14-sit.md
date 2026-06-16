@@ -38,7 +38,7 @@ Vos se na něj podívá.
 
 VOS SI VYTÁHNE Z EVIDENCE NAVIGACE SEZNAM kolonií v sektoru a stráví nad ním noc, a než přijde ráno, vidí vzorec, který by radši neviděla.
 
-Sedí v koutě navigační kabiny, kde jí navigátor nechal pult a šálek něčeho horkého a vlastní rozum. Promítá si registr kolonií za proudem — třicet osad Ligy, ty, které Renn zastupuje, ty, které Legii zaplatily, aby je hlídala.
+Sedí v koutě navigační kabiny, kde jí navigátor nechal pult a šálek něčeho horkého a vlastní rozum. Šálek dávno vychladl; obejme ho dlaněmi, ne aby se ohřála, ale aby měly ruce co držet. Promítá si registr kolonií za proudem — třicet osad Ligy, ty, které Renn zastupuje, ty, které Legii zaplatily, aby je hlídala.
 
 Ne všechny mlčí stejně.
 
@@ -142,7 +142,7 @@ V kabině je ticho, do kterého úpí loď.
 
 „Vy jste si nás najala,“ řekne Vos. „Legii. Abychom umírali za kolonie, které jste mezitím prodávala.“
 
-„Já jsem si vás najala, protože meč člověk potřebuje, i když ho zradí,“ řekne Renn, a poprvé jí hlas o vlas zakolísá, ta setina vteřiny, kterou tělo potřebuje, aby dohnalo tvář. „To je to, co ze mě dělá horšího člověka, než jste vy, majore. Já vím obojí najednou. Že vás potřebuju a že vás zrazuju. A nosím to, protože někdo to nosit musí.“
+„Já jsem si vás najala, protože meč člověk potřebuje, i když ho zradí,“ řekne Renn, a poprvé jí hlas o vlas zakolísá, ta setina vteřiny, kterou tělo potřebuje, aby dohnalo tvář. Vos slyší pod tou větou, jak Renn polkne nasucho. „To je to, co ze mě dělá horšího člověka, než jste vy, majore. Já vím obojí najednou. Že vás potřebuju a že vás zrazuju. A nosím to, protože někdo to nosit musí.“
 
 ---
 

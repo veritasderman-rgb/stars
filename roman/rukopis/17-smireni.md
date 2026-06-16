@@ -122,7 +122,7 @@ Vos sedí dlouho ve tmě. Pak vstane, protože velitel ve tmě nesedí, a jde me
 
 V HANGÁRU ZA ODSTAVENÝMI TRANSPORTÉRY KOUŘÍ MUŽSTVO, a Vos do toho koutu chodí málo, protože je to jejich, ne velitelské, a dnes večer ví, že má jít, protože velitel, který nechodí mezi muže, je velitel, který se diví, až mu jednou nepřijdou.
 
-Sálová čistí pušku, kterou čistit nemusí. Brázda sedí na bedně s těžkým kanónem rozloženým na hadru, kus po kuse, a nedává ho zpátky dohromady, jen na něj kouká. Cuk mluví, protože když Cuk mlčí, slyší ten zvuk v přepážkách, a to nesnese.
+Kout páchne studeným kouřem a olejem ze samopalu na hadru. Sálová čistí pušku, kterou čistit nemusí. Brázda sedí na bedně s těžkým kanónem rozloženým na hadru, kus po kuse, a nedává ho zpátky dohromady, jen na něj kouká. Cuk mluví, protože když Cuk mlčí, slyší ten zvuk v přepážkách, a to nesnese.
 
 „Já ti řikám,“ povídá Cuk komusi, „ona ta věc nelhala. To je na tom to blbý. Sarn, ten kecal, ten z toho dělal vejlet do ráje. Ale ta druhá věc — ta řekla rovnou, ‚budete dělat to, co děláte, akorát za stranu, co neprohrává‘. A to —“
 
@@ -156,7 +156,7 @@ VOS SE VRACÍ NA MŮSTEK PŘED RÁNEM, když navigátor mění směnu a loď je 
 
 „Kontakt,“ hlásí navigátor. Mladý, vyspalý míň než loď. „Malé plavidlo. Lidská konstrukce, kondominijní kýl, starý typ. Ale kýl má proudovou výstroj, kterou na takovou loď nikdo nemontuje. Vyšplhalo z proudu, který v mapách nemáme.“
 
-Vos cítí, jak jí ztuhnou ramena, dřív než pochopí proč. Tělo dohání tvář o setinu vteřiny — to ji naučil Reyever a od něj to nenávidí nejvíc.
+Vos cítí, jak jí ztuhnou ramena, dřív než pochopí proč, a v ústech jí vyschne na suchý kovový pach, který zná z chvíle před každou ranou. Tělo dohání tvář o setinu vteřiny — to ji naučil Reyever a od něj to nenávidí nejvíc.
 
 „Maják?“
 

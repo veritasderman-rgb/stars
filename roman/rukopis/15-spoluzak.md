@@ -58,7 +58,7 @@ Reyever mlčí. Mlčení je odpověď, kterou Sarn čeká, a Reyever to ví, a p
 
 „Kondominium stahuje flotily domů,“ pokračuje Sarn. Klidně, krok za krokem, jako řešil úlohy na tabuli. „Ne proto, že je zbabělé. Proto, že počítá taky — jen počítá, jak vyklidit pohraničí tak, aby to vypadalo jako strategie, a ne jako útěk. Tebe odepsalo dřív, než jsi vzlétl ze Sirte. Tvoje Legie je položka, kterou už škrtli. Víš to. Cítil jsi to na té antedatované depeši. Já jsem ji viděl celou.“
 
-Reyever položí dlaň na pult, vedle pásma. Žebro ho při tom pohybu bodne.
+Reyever položí dlaň na pult, vedle pásma. Kov je pod ní studený od přechlazené klimatizace, jediný luxus, který si Legie dovezla na pohraničí. Žebro ho při tom pohybu bodne.
 
 „Soulad,“ řekne Sarn, „nepřišel dobýt lidstvo. To je první věc, kterou tvoji vojáci nepochopí, dokud nebude pozdě. Nechce, co máme my. Vybírá si světy podle gravitace, podle spektra hvězdy, podle vody — a ty přepíše. Viděl jsi Melass. Pět tisíc lidí, kteří byli stateční, a teď jsou zahrada. To je to, co dělá s těmi, kdo se postaví. Ne mučení. Ne msta. Úklid.“
 

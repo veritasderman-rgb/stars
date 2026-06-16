@@ -228,7 +228,7 @@ Měřítko hrozby konečně dostalo tvar. Jedno žací plavidlo za skoro celý k
 
 PŘEPADOVÁ ČETA VSTOUPÍ DO VRAKU TŘETÍ DEN, když je plavidlo dost studené, aby se do něj dalo vlézt, a Vos jde druhá, hned za Brázdou, který nese těžkou pušku, kterou tu nebude mít na co namířit.
 
-Uvnitř je vrak horší než cokoli, co Vos čekala. Není to loď ani mršina lodi. Je to vnitřek něčeho, co narostlo — chodby bez hran, stěny přecházející do podlahy bez švu, prostory tvarované jako nitro plodu. A všechno páchne tím vzdáleně rostlinným, sladkým pachem, který Vos zná z konvoje, jen tisíckrát silnějším, pachem věci, která žila a teď tlí. Nikde žádné mostky, pulty, obrazovky. Žádné místo pro nic, co by mělo ruce a oči a dýchalo.
+Uvnitř je vrak horší než cokoli, co Vos čekala. Není to loď ani mršina lodi. Je to vnitřek něčeho, co narostlo — chodby bez hran, stěny přecházející do podlahy bez švu, prostory tvarované jako nitro plodu. Stěny pod rukavicí nejsou studené jako kov; drží vlažno jako kůže pár hodin po smrti. A všechno páchne tím vzdáleně rostlinným, sladkým pachem, který Vos zná z konvoje, jen tisíckrát silnějším, pachem věci, která žila a teď tlí. Nikde žádné mostky, pulty, obrazovky. Žádné místo pro nic, co by mělo ruce a oči a dýchalo.
 
 Až v jedné komoře, hluboko u zlomu, kde se plavidlo přerazilo po stonku, najdou tělo.
 
