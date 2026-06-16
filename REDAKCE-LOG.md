@@ -1223,3 +1223,104 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Pravopis a překlepy:** Bez nálezů.
 
 **Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E5, redundantní „vlastní"). Uvozovky, časy, přechodníky, terminologie, koncovky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 08-hladiny
+
+**Datum:** 2026-06-16
+
+### Zásahy (1 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `jak se nad pult nahnul a ztuhl, na ruce, která se zastavila nad ovladačem a nedopadla` | `jak se nad pult nahlíží a tuhne, na ruce, která stojí nad ovladačem a nedopadá` | E1 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 41, počet " (U+201C) = 41, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči správná ve všech výskytech (čárka/tečka uvnitř, uvozovací věta s malým písmenem). Žádný hybrid.
+- **E1 — přítomný čas:** Narativ důsledně přítomný. Jeden nechtěný prokuzel do minulého času v přítomné akční scéně (ř. 117): „nahnul", „ztuhl", „se zastavila", „nedopadla" — Vos pozoruje navigátora v přítomném okamžiku, ne ve vzpomínce. Opraveno na přítomný čas. Vsuvka „Naučila se ji od něj" v témže odstavci správně v minulém čase (expozice o minulosti). Dále: ř. 79 „Stál v hladinách stokrát a pokaždé se naučil" a ř. 87 „Reyever takovou loď viděl" jsou vsuvky s Reyeverovou zkušeností z minulosti — správně.
+- **E3 — koncovky 3. os. mn. č.:** Bez chyb. Hovorové zkrácené tvary „dělaj", „maj" v Halově řeči záměrný idiolekt — NESAHAT.
+- **E4 — anglikalky:** Žádné nalezeny.
+- **E5 — redundantní „svůj":** „svůj pult" (ř. 15) — funkční, podmět odkazuje na vlastní pult v kontextu sdíleného prostoru; ponecháno. „svou práci" (ř. 53) — idiomaticky správné. „jeho pultu" (ř. 61) — potřebné pro identifikaci (navigátorův vs. Reyeverův pult).
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „pak" se vyskytuje 4× rozmístěně po celé kapitole (168 ř.). Netvoří tik; funkční.
+- **E9 — terminologie:** Legie, Soulad — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně. Terminologie jednotná.
+- **Pravopis a překlepy:** Bez nálezů.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E1, čtyři slovesa v minulém čase v přítomné akční scéně). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 09-konvoj
+
+**Datum:** 2026-06-16
+
+### Zásahy (2 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Eskorta natočila bok proti střele … *Kovadlina* sjela z proudu o vlas níž a vyšplhala bokem, do té roviny, kterou eskorta odkryla, když se otáčela.` | `Eskorta natočí bok proti střele … *Kovadlina* sjede z proudu o vlas níž a vyšplhá bokem, do té roviny, kterou eskorta odkryje, když se otáčí.` | E1 |
+| `Někde v ní žila tichá naděje` | `Někde v ní žije tichá naděje` | E1 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 41, počet " (U+201C) = 41, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči správná ve všech výskytech. Žádný hybrid.
+- **E1 — přítomný čas:** Dva prokluzy opraveny. (1) Ř. 57: celý odstavec „Vos to vidí" je v přítomném čase, ale čtyři slovesa popisující pohyb eskorty a *Kovadliny* sklouzla do minulého — natočila/sjela/vyšplhala/odkryla → natočí/sjede/vyšplhá/odkryje. (2) Ř. 157: „žila tichá naděje" popisuje vnitřní stav Vos v přítomném okamžiku scény → „žije". Ostatní minulé časy jsou záměrné vsuvky s minulostí (vzpomínka na Sirte, výcvik, Everettových 8 let) nebo výsledkový perfekt v kontextu.
+- **E3 — koncovky 3. os. mn. č.:** Bez chyb. Všechna slovesa 3. os. mn. č. v narativu na -í (nesahají, nasazují, neodvažují). Hovorové zkrácené tvary v přímé řeči vojáků záměrné — NESAHAT.
+- **E4 — anglikalky:** Žádné nalezeny. Slovosled přirozený, žádné kalouzy.
+- **E5 — redundantní „svůj":** Žádné výskyty „svůj/svou" v celém textu.
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „Pak" se vyskytuje 3× (ř. 131, 177, 199) — rozmístěné, netvoří tik; funkční.
+- **E9 — terminologie:** Legie, Kondominium — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně. „kondominijní" (adjektivum) — správně malé k. Terminologie jednotná.
+- **Pravopis a překlepy:** Bez nálezů.
+- **Hovorové tvary v přímé řeči vojáků:** „napnutej", „čistej", „studenej", „neporušenej", „pravým" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Dva zásahy — oba E1 (prokluzy do minulého času v přítomných akčních/scénových momentech). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 10-kondominium-zapira
+
+**Datum:** 2026-06-16
+
+### Zásahy (3 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Renn požádala, aby ho směla vidět. Reyever ji nechal. Neptal se proč` | `Renn žádala, aby ho směla vidět. Reyever ji nechá. Neptá se proč` | E1 |
+| `Sedí ve své kajutě, té přidělené, těsné` | `Sedí v kajutě, té přidělené, těsné` | E5 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 75, počet " (U+201C) = 75, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči správná ve všech výskytech (čárka/tečka uvnitř, uvozovací věta s malým písmenem). Žádný hybrid. „ne" (ř. 3) — jednoduché uvozovky správně párové.
+- **E1 — přítomný čas:** Narativ důsledně přítomný. Jeden blok prokluzu do minulého času v přechodové větě (ř. 57): „požádala/nechal/Neptal se" — popis bezprostředně předcházejícího děje napsaný v minulém čase, i když zbytek scény je přítomný. Opraveno. Vsuvky s minulostí (ř. 9 depeše s historickými fakty, ř. 25 Haleovo varování na Sirte, ř. 59 charakterizace postavy, ř. 87 Vosina vzpomínka na Sirte, ř. 135 Rennin retrospektivní monolog) jsou správně v minulém čase — záměrné vsuvky.
+- **E3 — koncovky 3. os. mn. č.:** „mívají" (ř. 79), „sklánějí" (ř. 141) — správně na -í. Hovorové „existujou" (ř. 129) v Reyeverově přímé řeči — záměrný idiolekt, NESAHAT.
+- **E4 — anglikalky:** Žádné nalezeny. Slovosled přirozený.
+- **E5 — redundantní „svůj":** Jeden zásah — „své kajutě" opraveno na „kajutě" (podmět jednoznačný, přivlastnění zbytné; vedlejší věta „té přidělené" ihned upřesňuje). „jejím postoji" (ř. 85) — nutné, odkazuje na Vos, ne na podmět Renn; ponecháno. „jejích dveří" (ř. 159) — záměrné 3. os., ponecháno.
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „Pak" se vyskytuje 4× (ř. 13, 109, 137, 159) — rozmístěné, netvoří tik; funkční.
+- **E9 — terminologie:** Kondominium, Legie, Liga — velká písmena správně. proudy, mělčina — malá písmena správně. Terminologie jednotná.
+- **Pravopis a překlepy:** Bez nálezů.
+- **ř. 71, 111, 123 — otázky bez otazníku:** „Co je ten odznak," / „Vy víte, co je ten odznak." / „Proč horší." — záměrný styl (tón prohlášení, ne otázky); k posouzení hlas-strazce.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Tři zásahy: 1× E1 (trojice sloves v minulém čase v přechodové větě přítomné scény), 1× E5 (redundantní „své"). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 10-kondominium-zapira — doplňkový průchod
+
+**Datum:** 2026-06-16
+
+### Zásahy (2 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Renn žádala, aby ho směla vidět.` | `Renn žádá, aby ho směla vidět.` | E1 — prokluz do minulého času uvnitř přítomné scény (ř. 57) |
+| `Důstojník se dotkne ho špičkou prstu` | `Důstojník se ho dotkne špičkou prstu` | pravopis/syntax — nesprávný slovosled reflexivního slovesa (ř. 73) |
+
+### Průběh kontroly
+
+- **E1:** Ověřeno. Scéna Renniny návštěvy cely je přítomný narativ; „žádala" bylo nechtěné glide do minulého času. Opraveno na „žádá". Ostatní minulé časy v kapitole jsou legitimní retrospektivní vsuvky (ř. 9, 25, 59, 87, 135).
+- **E2 — uvozovky:** Počet „ (U+201E) = 40, počet " (U+201C) = 40, ASCII uvozovek (U+0022) = 0. Stav ověřen.
+- **E3–E9:** Bez dalších nálezů nad rámec předchozího průchodu.
