@@ -83,6 +83,9 @@ Konkrétní průšvihy, na které je čeština v military SF náchylná. Tohle j
   (*„Teď," zašeptá.* / *„Pohyb!" křikne Vos.*).
 - Čárka/tečka **uvnitř** uvozovek dle pravidla. Hlídat chybějící interpunkci
   před uvozovací větou (reálná chyba v předloze).
+- **Zavírací uvozovka = U+201C** („…“), ne ASCII (U+0022) ani U+201D.
+  Hlídat HYBRID „text+ASCII (správná otevírací, špatná zavírací) — strážce ho
+  snadno přehlédne. Test: počet „ == počet “ a ASCII uvozovek = 0.
 
 ### E3. Koncovky sloves 3. os. mn. č. (-í, ne -i)
 - „inkasují", „účinkují", „míří", „postupují" — ne „inkasuji" atd.
