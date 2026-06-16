@@ -130,13 +130,13 @@ Dojde ke dveřím jídelny. U nich se zastaví a otočí se ještě jednou.
 
 „Není to zrada, Adane,“ řekne. „Až k tomu dojde. Bude to jen chvíle, kdy poslední rozumný člověk na téhle lodi spočítá to, co jsem spočítal já. A nebudeš to ty. Ty počítáš stejně dobře jako já. Ty jen máš to neštěstí, že ti vyjde správný výsledek a ty ho nepřijmeš.“
 
-Odejde. Renn jde za ním, a u dveří se na vteřinu zastaví u Vos, a neřekne nic, protože všechno, co by se dalo říct, je pravda, a pravda je tady na obou stranách, a to je to nejhorší.
+Odejde. Renn jde za ním, a u dveří se na vteřinu zastaví u Vos, a neřekne nic. Oči mají na sobě ani vteřinu. Pak Renn projde dveřmi.
 
 ---
 
 NA DOKOVACÍ PALUBĚ SE LÍMEC ZAVŘE ZA SARNOVÝM ČLUNEM, a Reyever stojí a dívá se, jak se odlepuje od mělčiny a vyšplhá jednou křivkou do proudu, který na mapách Legie není.
 
-Vos přijde a postaví se vedle něj. Naštvaná není. Tohle je za zlostí, někde, kde zlost nestačí.
+Vos přijde a postaví se vedle něj. Dívá se za tečkou na obrazovce dokovacího pultu, která mizí z dosahu klínu.
 
 „Slyšeli to,“ řekne. Tiše. „Brázda, Cuk, půlka noční směny. Stáli za přepážkou. Slyšeli každé slovo.“
 

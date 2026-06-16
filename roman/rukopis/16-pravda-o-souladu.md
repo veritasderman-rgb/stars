@@ -84,7 +84,7 @@ V mapovém stání by byla tlumená červeň a soukromí. Reyever zůstane na m�
 
 ---
 
-REYEVER MLČÍ DLOUHO, a poprvé to mlčení není zbraň, kterou drží proti druhému, ale ticho, ve kterém čeká, co přijde, protože ví, že nejhorší část nepřišla.
+REYEVER MLČÍ DLOUHO, a poprvé to mlčení není zbraň, kterou drží proti druhému, ale ticho, ve kterém čeká, co přijde, protože nabídka ještě nespadla na stůl celá.
 
 Soulad ji nechá dozrát. Umí čekat. Čekání je část péče.
 
