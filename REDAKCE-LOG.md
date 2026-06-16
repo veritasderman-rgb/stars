@@ -302,6 +302,33 @@ Cílené škrty mrtvých zesilovadel, frázovité vaty a kostrbatých vazeb. Kap
 
 ---
 
+### cestina-strazce — kap. 19 (Vzpoura na hraně) — 2026-06-16
+
+**Soubor:** `roman/rukopis/19-vzpoura-na-hrane.md`
+
+**Zásahy: 2**
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `„Ale popleť sis dvě věci, Brázdo` | `„Ale popleť si dvě věci, Brázdo` | E — klitika/zvratnost |
+| `protože ji unaví ji obcházet` | `protože ji unaví obcházet` | překlep (zdvojené „ji") |
+
+**Uvozovky:** U+201E „ = 35, U+201C " = 35, ASCII " (U+0022) = 0. Párování v pořádku.
+
+**Přítomný čas (E1):** Narativ důsledně v přítomném čase. Minulý čas použit správně — výhradně v expozičních vsuvkách (popis stavu lodi v řádku 5: „poskládal", „naučila"; výuka od Reyevera v ř. 103, 115) a v Vosině retrospektivním monologu o Sirte (ř. 147). Žádné nechtěné prokluzy.
+
+**Přechodníky (E6):** 0 nalezeno.
+
+**Redundantní svůj (E5):** Ř. 29 „tím svým suchým pohledem" — „svým" dodává charakterizační důraz (její typický pohled), nikoli pouhé přivlastňování. Ponecháno.
+
+**Koncovky 3. os. mn. č. (E3):** Všechny formy v pořádku (počítají, sedí, čekají). Tvary slyšeli/věřili/počítali jsou minulý čas — správně.
+
+**Berličky (E7):** „pak" použito 2× na 200 řádků — přijatelné.
+
+**Terminologie (E9):** Soulad, Smíření, Legie, Kondominium — velká písmena v pořádku. kýlový klín malým — v pořádku.
+
+---
+
 **Počet zásahů:** 49
 
 **Tři nejčastější vzorce:**
