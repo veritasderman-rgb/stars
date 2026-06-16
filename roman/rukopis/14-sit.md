@@ -118,7 +118,7 @@ Renn se na ni dívá a poprvé za celou dobu na lodi necítí potřebu mluvit za
 
 „Tak mluvte.“
 
-„Protože spočítaly totéž, co spočítám každý, kdo to vydrží spočítat celé,“ řekne Renn. „Soulad nepřišel dobýt lidstvo, majore. To je to, co plukovník pořád nechce slyšet, protože je voják a voják potřebuje nepřítele, který chce to, co máme my. Soulad nechce, co máme my. Soulad si vybírá světy, které se mu hodí, přepíše je — viděla jste Melass — a zbytek, ty díry s vodou, jako byla Sirte, ty, co mu za úklid nestojí, nechá být. Za jediné podmínky.“
+„Protože spočítaly totéž, co spočítá každý, kdo to vydrží spočítat celé,“ řekne Renn. „Soulad nepřišel dobýt lidstvo, majore. To plukovník nechce slyšet, protože voják potřebuje nepřítele, který chce totéž co on. Soulad nechce, co máme my. Vybere si světy, které se mu hodí, přepíše je — viděla jste Melass — a zbytek, ty díry s vodou jako Sirte, nechá být. Za jedinou podmínku.“
 
 Vos se nepohne.
 

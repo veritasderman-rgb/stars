@@ -46,11 +46,11 @@ Reyever si sedne na lavici, poprvé. Pro něj je to gesto, ne pohodlí — posta
 
 Renn ho má za to skoro ráda — za tu poctivost, se kterou přizná, kde je doma a kde ne. Skoro. Být političkou znamená nedat na nikom skoro nic.
 
-„Kondominium drží pohromadě jediná věc,“ řekne. „Monopol na hladinový pohon. Nic víc. Žádná láska, žádná vlajka, žádný společný bůh — jen to, že nikdo jiný neumí převézt loď mezi hvězdami tak levně jako ono. To je celá ta říše, plukovníku. Účetní knížka s děly.“ Přejde ke stěně, k zhasnuté mapě. „A účetní knížka má jedno pravidlo, které je starší než Kondominium: co nezapíšeš, to nedlužíš. Vy jste našel věc, kterou nikdo neumí zaúčtovat. Cizí zbraň, cizího nepřítele, cizí ruku v pohraničí. Zapsat ji znamená přiznat, že Kondominium není schopné ubránit vlastní hranice. A to je jediná věc, kterou si dovolit nemůže. Ne prohrát bitvu — to přežije. Přiznat, že je slabší, než předstírá. Na tu chvíli čeká třicet kolonií, aby změnily strany.“
+„Kondominium drží pohromadě jediná věc,“ řekne. „Monopol na hladinový pohon. Žádná láska, žádná vlajka — jen to, že nikdo jiný neumí převézt loď mezi hvězdami tak levně. To je celá ta říše. Účetní knížka s děly.“ Přejde ke stěně, k zhasnuté mapě. „A ta má pravidlo starší než ona sama: co nezapíšeš, to nedlužíš. Vy jste našel věc, kterou nikdo neumí zaúčtovat. Zapsat ji znamená přiznat, že si Kondominium neubrání vlastní hranice. To si dovolit nemůže. Prohrát bitvu přežije. Přiznat slabost ne. Na tu chvíli čeká třicet kolonií.“
 
 „Takže to radši neexistuje.“
 
-„Takže to radši neexistuje,“ přikývne Renn. „Největší luxus, který si Kondominium kupuje, plukovníku, není dovezené dřevo ani voda v karafě. Je to nevědět. Platí celé flotily za to, aby nevěděly. A vy jste jim přivezl vědění zabalené v pětadvaceti bednách, a čekáte, že vám za to poděkují.“ Otočí se. „Oni za to nepoděkují. Oni to zakopou. A s tím, kdo to vykopal, naloží jako s každou nepříjemnou účetní položkou — odepíšou ho.“
+„Takže to radši neexistuje,“ přikývne Renn. „Největší luxus, který si Kondominium kupuje, není dovezené dřevo ani voda v karafě. Je to nevědět. Platí celé flotily za to, aby nevěděly. A vy jim přivezete vědění v pětadvaceti bednách a čekáte, že poděkují.“ Otočí se. „Nepoděkují. Zakopou to. A toho, kdo to vykopal, odepíšou jako každou nepříjemnou položku.“
 
 ---
 
@@ -126,7 +126,7 @@ Položí na stůl destičku. Renn ji nezvedne. Pozná hlavičku úřední depeš
 
 „Nevím.“
 
-„Vy znáte cestu, kterou ta depeše šla,“ řekne Reyever. „Hale ji rozebral. Táhla se proudem, který na žádných koloniálních mapách není. Stejným proudem, ze kterého za námi celou dobu kouká loď, kterou neumím setřást. Depeše přišla tou cestou. Ten, kdo nás sleduje, ji nesl.“ Položí dlaň na stůl, klidně. „Kdo má lodě v proudech, které nejsou na mapách, paní Rennová? Ne Kondominium. Kondominium stahuje flotily domů. Kondominium ani neví, že tyhle proudy existujou.“
+„Vy znáte cestu, kterou ta depeše šla,“ řekne Reyever. „Hale ji rozebral. Táhla se proudem, který na koloniálních mapách není. Stejným, ze kterého za námi celou dobu kouká loď, co neumím setřást. Nesl ji ten, kdo nás sleduje.“ Položí dlaň na stůl, klidně. „Kdo má lodě v proudech mimo mapy, paní Rennová? Ne Kondominium. To stahuje flotily domů. To ani neví, že ty proudy existujou.“
 
 Renn drží ramena klidná. Drží tvář. Tohle je ta chvíle, kvůli které celý život cvičila — kdy člověk, který čte těla, hledá v ní prasklinu, a ona ji nesmí dát.
 

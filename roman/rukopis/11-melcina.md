@@ -6,7 +6,7 @@ Stojí dole u pohonu, dlaň na přepážce, a ten tlak zná. Je to ta samá nep�
 
 „Stín za zádí,“ ozve se navigátor po vnitřním pásmu. „Sleduje nás dolů. Drží odstup.“
 
-Hale si odplivne stranou, do koše na hadry. „No jasně že drží odstup,“ řekne svému operátorovi pohonu, mladému klukovi, co se jmenuje Tichý a celou hladinu nepromluvil. „Von ví to samý co my. Že odsuď nikdo neuteče nahoru, dokud nedojede k volný vodě. Tak proč by spěchal.“
+Hale si odplivne stranou, do koše na hadry. „No jasně že drží,“ řekne svému operátorovi pohonu, mladému klukovi, co se jmenuje Tichý a celou hladinu nepromluvil. „Von ví to samý co my. Odsuď nikdo neuteče nahoru, dokud nedojede k vodě. Tak proč by spěchal.“
 
 Tichý polkne. „Jak dlouho do volný vody?“
 
@@ -46,7 +46,7 @@ Vos se dívá na obrazovku. „Doženou nás dřív, než dojedeme k vodě?“
 
 Navigátor počítá. Přepočítá. Reyeverův člověk, ten neřekne číslo, dokud si není jistý.
 
-„Jo,“ řekne nakonec. „O kus. Doženou nás tak deset minut před okrajem. Deset minut, kdy nás budou mít a my je.“
+„Jo,“ řekne nakonec. „O kus. Tak deset minut před okrajem. Deset minut, kdy nás budou mít a my je.“
 
 Reyever neřekne nic dlouho. Pak: „Spojte mě s *Kovářkou*.“
 

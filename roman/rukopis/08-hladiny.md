@@ -70,7 +70,7 @@ Reyever přejde k jeho pultu. Na obrazovce není řeka vidět tak, jak by si to 
 
 „Jak hluboko jsme?“ zeptá se Reyever.
 
-„Šestá hladina. To je rozumný. Hlubší proudy táhnou rychlejc, ale —“ Navigátor zaváhá, jako voják, který má před velitelem vyslovit věc, již velitel zná líp než on. „— ale hloubka kouše. Šplhat se dá, dokud loď drží. Sedmá, osmá, devátá — pokaždý víc rychlosti a pokaždý víc turbulence. A někde dole je hladina, ze který se loď nevrátí. Nikdo neví která, protože ten, kdo to zkusil, to nepřišel říct.“
+„Šestá. To je rozumný.“ Navigátor zaváhá, jako voják, který má před velitelem vyslovit věc, již velitel zná líp než on. „Hlubší táhnou rychlejc. Ale hloubka kouše. A někde dole je hladina, ze který se loď nevrátí.“ Pokrčí rameny. „Která, to nikdo neví. Ten, kdo to zkusil, to nepřišel říct.“
 
 „Šestá stačí,“ řekne Reyever.
 
@@ -82,7 +82,7 @@ Dívá se na navigátora, na to, jak ten člověk pracuje. Žádné velké pohyb
 
 „Drž ho na šestce,“ řekne Reyever. „Nezvedej se, dokud nemusíš.“
 
-„Nezvedám,“ řekne navigátor. „Šestka je hodná. Sedmička už hází. Dál dolů jsem nejel a nemám v plánu.“
+„Nezvedám,“ řekne navigátor. „Šestka je hodná. Sedmička hází. Dál jsem nejel a nemám v plánu.“
 
 Reyever přikývne. Hloubka kouše — to je první věc, kterou se navigátor v Legii naučí, a poslední, na kterou v pokušení zapomene. Hlubší proud táhne dvakrát, třikrát rychleji, zkrátí týdny na dny. A pak jednou loď do hloubky sjede o hladinu níž, než unese, turbulence ji chytne za kýl a roztrhne ji na cáry dřív, než stačí vyskočit zpátky. Reyever takovou loď viděl. Nezůstalo z ní nic, co by se dalo pohřbít.
 
@@ -96,7 +96,7 @@ Reyever přikývne. Hloubka kouše — to je první věc, kterou se navigátor v
 
 HALE PŘINESE REYEVEROVI HRNEK něčeho, co se na téhle lodi vydává za kávu, a opře se vedle něj o zábradlí, které odděluje velitelské stání od pultů. Loď teď jede klidně. Po hodině v proudu si na vibrace tělo zvyklo a můstek si dovolil polevit o ten jeden stupeň.
 
-„Tak takhle se cestuje,“ řekne Hale. „Loď nese řeka, posádka si může na chvíli sednout, a já se akorát modlím, aby se nic nerozbilo, protože tady nahoře se to spravuje blbě.“ Upije. Zašklebí se na chuť — vlažná, po přepáleném kovu, jak ji ohřáli na topném tělese, co nemá co dělat s vařením. „Víš, co je na hladinách nejhorší, plukovníku? Že tu nejde o sílu. Dole, na zemi, kdyžs měl problém, šláp si na plyn a projel ho. Tady ne. Tady čím víc tlačíš, tím víc tě to roztrhá. Musíš jet po proudu a doufat, že tě řeka veze tam, kam chceš, a ne tam, kam chce ona.“
+„Tak takhle se cestuje,“ řekne Hale. „Loď nese řeka, posádka si může na chvíli sednout, a já se akorát modlím, aby se nic nerozbilo, protože tady nahoře se to spravuje blbě.“ Upije. Zašklebí se na chuť — vlažná, po přepáleném kovu, jak ji ohřáli na topném tělese, co nemá co dělat s vařením. „Víš, co je na hladinách nejhorší, plukovníku? Že tu nejde o sílu. Dole sis šláp na plyn a problém projel. Tady čím víc tlačíš, tím víc tě to roztrhá. Musíš jet po proudu a doufat, že tě řeka veze tam, kam chceš, a ne kam chce ona.“
 
 „A veze?“
 

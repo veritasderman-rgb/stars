@@ -28,7 +28,7 @@ DÍLNA HALEA JE UŽ POLOPRÁZDNÁ, když do ní Vos sejde. Ponk je holý, nářa
 
 Hale zvedne destičku, položí ji na holý ponk. Vedle ní cizí zbraň — matnou, barvy mokré břidlice, lehčí, než vypadá, zabalenou v průhledném pytli na důkazy. A vedle ní úplně malý kousek, sotva nehet, vyříznutý z téže slitiny.
 
-„Tělo už je naložený,“ řekne Hale. „Zabalený, zapečetěný, v chlazení. Putuje s náma jako náklad ‚biologický materiál, neevidovaný‘. Zbraň jakbysmet.“ Poklepe na pytel kloubem a ozve se ten tlumený, plný zvuk, žádná dutina uvnitř. „Tohle všechno jde nahoru. Oficiálně-tajně. Plukovník to schválil. Liga si myslí, že to letí do pece.“
+„Tělo je naložený,“ řekne Hale. „Zapečetěný, v chlazení. Jede s náma jako ‚biologický materiál, neevidovaný‘. Zbraň jakbysmet.“ Poklepe na pytel kloubem a ozve se ten tlumený, plný zvuk, žádná dutina uvnitř. „Všechno nahoru. Plukovník to schválil. Liga si myslí, že to letí do pece.“
 
 Vos se na to dívá. Na zbraň, na destičku, na obraz mřížky, který tam Hale nechal svítit — síť drobných šestiúhelníků a v rohu ty tři skupinky znaků, které nenapsala lidská ruka.
 
@@ -62,7 +62,7 @@ Hale neodpoví hned. Drží ten kousek mezi prsty a dívá se na ni tím pomalý
 
 „To není to samý, co dělá plukovník. Von to schovává pro Legii. Vy si to chcete schovat sama. Mimo nás. Mimo něj.“ Hale to neřekne jako výtku. Řekne to jako počet. „To je vaše pojistka proti vlastním lidem.“
 
-„To je moje pojistka proti tomu,“ řekne Vos tiše, „aby se to potřetí ztratilo. Jednou to chtěla Liga do pece. Podruhé to plukovník schoval do nákladu, který může někdo na příští základně zabavit dřív, než Hale rozbalí bednu. Já chci jeden kousek, který nebude nikde. Ani v jeho evidenci, ani v té neevidované. Jen u mě.“
+„To je moje pojistka proti tomu,“ řekne Vos tiše, „aby se to potřetí ztratilo. Jednou to chtěla Liga do pece. Podruhé to plukovník schoval do nákladu, který může někdo na příští základně zabavit dřív, než ho rozbalíte. Já chci jeden kousek, co nebude nikde. Ani u něj. Jen u mě.“
 
 Hale chvíli mlčí. Kompresor základny už neběží — odpojili ho ráno — a v té dílně je ticho, na jaké tu nikdo není zvyklý; jen kov chladne a tu a tam tichounce lupne, jak se smršťuje.
 
@@ -90,7 +90,7 @@ To Reyevera otočí. Ne prudce; Reyever se nepohybuje prudce. Ale otočí.
 
 „Vejvar a ostatní.“ Vos drží jeho pohled. „A pět tisíc lidí dole ve městě, kteří zítra zjistí, že odešel poslední, kdo je hlídal před tím, co jim sliboval strany. Necháváme jim poušť a otázku, na kterou jim nikdo neodpoví.“
 
-„Necháváme jim přežití,“ řekne Reyever. „Soulad — kdokoli za tím stojí — nepřišel pro Sirte. Sirte je díra s vodou. Až odletíme, přestane je někdo vyzbrojovat, protože už nebudou na nic potřeba. To je to nejlepší, co pro ně můžu udělat. Odejít a vzít s sebou důvod, proč sem někdo poslal zbraně.“
+„Necháváme jim přežití,“ řekne Reyever. „Kdokoli za tím stojí, nepřišel pro Sirte. Sirte je díra s vodou. Až odletíme, přestane je někdo vyzbrojovat. Nebudou na nic potřeba.“ Odmlčí se. „To je to nejlepší, co pro ně umím. Odejít a vzít si důvod s sebou.“
 
 Vos to ví. Je to čistá matematika a sedí. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
 
@@ -146,7 +146,7 @@ Vos to nejdřív vidí jako stín na čidlech. Tvar, který se nehýbe, který n
 
 „Vrak,“ řekne Vos.
 
-„To je ten problém, majore.“ Navigátor zvedne hlavu a v nočním světle má tvář člověka, který právě dvakrát přepočítal výsledek, protože se odmítá usadit. „Tady žádnej vrak nemá bejt. Tahle volná voda je čistá. Mapy ji maj prázdnou. Žádná bitva, žádná ztráta, nic, co by se tu mohlo potopit.“
+„To je ten problém, majore.“ Navigátor zvedne hlavu a v nočním světle má tvář člověka, který právě dvakrát přepočítal výsledek, protože se odmítá usadit. „Tady žádnej vrak nemá bejt. Voda je čistá, mapy ji maj prázdnou. Žádná bitva. Není se tu co potopit.“
 
 Vos přejde k pultu. Cítí, jak se za ní můstek stáhne — posádka přestala dělat to, co dělala, a začala poslouchat, tím způsobem, jakým vojáci poslouchají ticho, které tam nepatří.
 

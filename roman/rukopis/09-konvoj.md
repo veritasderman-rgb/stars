@@ -34,7 +34,7 @@ Hale je dole u pohonu, kde patří. Vos slyší jeho hlas po vnitřním pásmu, 
 
 Reyever stojí klidně, ruce za zády, a sleduje, jak se vzdálenost na obrazovce krátí. Mluví tiše, jen pro ni a pro navigátora.
 
-„Eskorta je vpředu. Náklad za ní. To je chyba, kterou dělá každý, kdo se cítí doma. Postavili štít před sebe, ne za sebe.“ Ukáže prstem. „My nepřijdeme zepředu. Přijdeme z boku a seshora, do té roviny, kde nás eskorta nemá. A než se stačí otočit, budeme jí za hrdlem.“
+„Eskorta vpředu, náklad za ní. Chyba každého, kdo se cítí doma. Štít před sebou, ne za sebou.“ Ukáže prstem. „Nepřijdeme zepředu. Z boku a seshora. Než se stačí otočit, jsme jí za hrdlem.“
 
 Vos zná tu fyziku zpaměti, naučila se ji ve výcviku jako básničku, kterou člověk odříká dřív, než jí porozumí. Loď nemůže střílet skrz vlastní kýlový klín — klín kryje shora a zdola, takže palba míří do boků a do hrdla. Boky chrání clony, ty boční gravitační stěny, které ohnou a roztříští všechno, co přiletí. Ale clony se nedají natáhnout přes hrdlo a přes záď. Tam je loď nahá.
 
@@ -74,7 +74,7 @@ Reyever přikývne. „Tak mu vezmeme i to ostatní.“
 
 EVERETT ZA PULTEM ZBRANÍ je voják, kterého Vos zná osm let, a za celou tu dobu ho neviděla zvýšit hlas. Nezvýší ho ani teď. Hlásí čísla tak klidně, jako by četl seznam zásob, a ta čísla jsou lodě a lidé.
 
-„Eskorta se snaží otočit hrdlem k nám,“ říká. „Chce nastavit klín čelem. Pomalu mu to jde — má díru v pravým boku, táhne to.“
+„Eskorta se otáčí hrdlem k nám,“ říká. „Chce klín čelem. Jde jí to pomalu. Má díru v pravým boku, táhne to.“
 
 „Nedovol mu to,“ řekne Reyever. „Drž se mu na boku. Křiž ho.“
 
