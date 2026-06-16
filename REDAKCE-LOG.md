@@ -1521,3 +1521,35 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **K posouzení hlas-strazce:** Ř. 71: „byl vždycky dobrý v tom poznat" — minulý čas v přítomné scéně; může být záměrná retrospektiva charakterové vlastnosti.
 
 **Celkem zásahů: 2**
+
+---
+
+## Jazyková kontrola — `roman/rukopis/20-proudovy-uzel.md`
+
+**Soubor:** `/home/user/stars/roman/rukopis/20-proudovy-uzel.md`
+**Vrstva:** E (mechanická čeština), průchod cestina-strazce
+**Datum:** 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Čelo klínu Smíření už sjelo za *Kovadlinou* do hrdla` (ř. 117) | `Čelo klínu Smíření už sjíždí za *Kovadlinou* do hrdla` | E1 — prokluz do minulého času v akční scéně; okolní narativ v přítomném čase (řekne, zvedne, vidí, klesá) |
+| `velitel předního klínu se nestihl otočit — sjel za kapitulací hrdlem napřed` (ř. 167) | `velitel předního klínu se nestihl otočit — jede za kapitulací hrdlem napřed` | E1 — prokluz do minulého času; okolní narativ v přítomném čase (vypustí, drží, sype) |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 2 opravy (ř. 117, 167). Ostatní výskyty minulého času jsou legitimní: Sarnovo retrospektivní uvažování (ř. 81, 131, 135, 137 — záměrné hodnotící vsuvky), vedlejší věty závislé na přítomném „vidí" (ř. 129: „vidí, jak se... propadlo"), odkaz na minulou událost u Melassu (ř. 265: „co mu praskl stín u Melassu" — vsuvka s minulostí), přímá řeč postav odkazující na historické události.
+- **E2 (uvozovky):** Počet „ (U+201E) = 60, počet " (U+201C) = 60, U+201D = 0, ASCII (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu. Všechny tvary mn. č. jsou správné (-í).
+- **E4 (anglikalky):** Bez nálezu.
+- **E5 (redundantní svůj):** Bez výskytu „svůj" v textu. Čisto.
+- **E6 (přechodníky):** Bez nálezu.
+- **E7 (berličky):** Jediný výskyt „najednou" (ř. 229) je příslovce uvnitř souvětí („se neotočí najednou"), nikoli berlička časové návaznosti. Čisto.
+- **E9 (terminologie):** Čisto. Soulad, Smíření, Legie (velká); kýlový klín, clony, hladiny, proudy, mělčina, hrdlo, křížení T (malá/konzistentní).
+- **Klitika/slovosled:** Bez nálezu. Všechna klitika na 2. pozici po podmětu.
+- **Přechody po sponě:** Bez nálezu.
+- **Překlepy/pravopis:** Bez nálezu.
+- **K posouzení hlas-strazce:** Ř. 265: „totéž žebro, co mu praskl stín u Melassu" — „stín" je pravděpodobně záměrná metafora/neologismus; mechanicky nesrozumitelné, ale mohlo by být autorský výraz.
+
+**Celkem zásahů: 2**

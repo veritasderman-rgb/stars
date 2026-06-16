@@ -1026,3 +1026,80 @@ Reyever v hangáru oznámí, že u uzlu KAPITULUJE (předá souřadnice kapitula
 - **Vos převzala břemeno** (pochopila cenu mlčení, smířila se, nese tajemství pasti sama) → její oblouk k „převzetí Reyeverova břemene" dozrává (kap. 21: část pravdy o Sirte konečně vyřčena Vos).
 - **Hale tuší cosi o Sirte „očima montéra"** a slíbil Vos to říct „až bude čas" → otevřená nitka (možná kap. 21).
 - **Smíření čeká u uzlu** (Sarn + souladská žací flotila, kam Smíření Legii vede; Renn se Sarnem) → kap. 20 bitva, kap. 21 poslední rozhovor Sarn × Reyever.
+
+## Kap. 20 — „Proudový uzel"
+
+> **AKT III (SOULAD). AKČNÍ VRCHOL ROMÁNU.** Velká flotilní bitva u proudového uzlu; nejvyšší tempo z celé knihy. Navazuje bezprostředně na kap. 19: falešná „kapitulace" oznámená v hangáru je ve skutečnosti PAST. Reyever vláká pod rouškou kapitulace flotilu Smíření I žací plavidla Souladu do gravitační mělčiny v pánvi uzlu, kde se nedá vyšplhat do hladin a musí se bít klín na klín v rovině — čímž zruší jejich přesilu v hladinách. Geografie a chytrost, ne zázrak. HOOK: past sklapne, ale za cenu, kterou Reyever TAJÍ.
+
+**POV:** plk. Adan Reyever (hlavní ohnisko, vševědoucí 3. os., přítomný čas). Vedlejší ohniska přes střihy: adm. Dane Sarn (můstek vlajkové lodi Smíření) + Hale (pohon *Kovadliny*). Paralelní montáž obou flotil (Legie × Smíření/Soulad). Vos jako hlas po pásmu (na *Hřebu*), NE jako POV.
+
+**Místo:** **proudový uzel** = křižovatka tří gravitačních proudů, hrdlo mezi dvěma hvězdami; **pánev uzlu** (kotlina v prostoru, kam padají tři proudy do jediné točny), na jejím dně **mělčina** u menší z hvězd (ze které se nešplhá). Lokace: velitelské/mapové stání *Kovadliny*; pohon *Kovadliny* (Hale); můstek vlajkové lodi Smíření (Sarn, Renn).
+
+**Denní doba / čas:** **6. den** od ultimáta (lhůta z kap. 19 vyprší „za devět hodin" na začátku kapitoly). Kapitola = sled hodin: nájezd do hrdla → sestup do mělčiny → bitva → doznění. (Časová kotva: kap. 19 = 11. den oprav + ultimátum; kap. 20 = 6. den lhůty.)
+
+**Jmenované postavy (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, ledově klidný i v bitvě; prasklé žebro (z kap. 13) si znovu narazí o totéž místo při finálním taranu. Plán nesl sám; oběti spočítal předem a nese je sám.
+- **adm. Dane Sarn** — na můstku vlajkové lodi Smíření; jako jediný na své straně vytuší, že „všechno sedí příliš"; pozdě pochopí, že chyba nebyla v součtu, ale v tom, CO počítal („Reyever přiletěl prohrát tak, aby ho šli sledovat dolů"). Idiolekt z kap. 15/18. Přežívá bitvu, na konci mluví s Reyeverem po otevřeném pásmu.
+- **št. rtm. Brannick „Kovář" Hale** — na pohonu *Kovadliny*; obecná čeština, řemeslné metafory; varuje, že klín drží o JEDEN zub a ten vystačí na JEDNU věc — buď vyvézt loď z mělčiny ven, NEBO taran naplno, ne obojí. Reyever volí taran → *Kovadlina* zůstává v mělčině bez klínu. Přežívá.
+- **mjr. Iliana Vos** — velitelka *Hřebu* (druhá loď Legie); volací znak „Volání jedna"; hlas po pásmu. Provede křížení T na přední klín Smíření. Reyever ji pošle krýt nájezd *Kovadliny* (vsune *Hřeb* mezi *Kovadlinu* a žací plavidlo) — *Hřeb* dostane ránu místo *Kovadliny* a NEPŘEŽIJE. Vos POPRVÉ bez zlosti přijme rozkaz („čin se neoznamuje předem"). **Vos na konci kapitoly umírá** (loď zničena, z mělčiny se nešplhá).
+- **Brázda** — voják od těžkých zbraní (kap. 1/5/17/19); Reyever ho poslal napřed SÁM na bezposádkový trup s děly (kotva pasti). **Brázda na konci kapitoly mlčí/studený** (trup vyřazen) — silně implikováno padlý. (POZOR: jeho smrt je v textu implicitní, ne explicitně potvrzená jako Vosina — pokud bude potřeba v kap. 21, lze potvrdit.)
+- **Cassia Renn** — na můstku vlajkové lodi Smíření vedle Sarna; jako jediná na své straně nahlas zapochybuje („A co když ne"); v bitvě „se v ní poprvé od Sirte něco zlomí". Bez druhého dna (jako kap. 17/18).
+- Bezejmenní: navigátor *Kovadliny*; dva mladí od pohonu (na místě po padlém Tichém, kap. 13); velitel předního klínu Smíření; spojař Sarna.
+
+**Klíčové události:**
+1. 6. den, lhůta vyprší za 9 hodin. Reyever odešle na otevřeném pásmu „kapitulační souřadnice" (krytí). Třetí proud = vlasová čára, kterou Reyever sám dokreslil podle tří mrtvých lodí; Soulad ho ovládá a myslí, že jen on.
+2. Sarn vidí flotilu Smíření (dvě hladiny, klín) + nad ní 9 žacích plavidel Souladu (devět stonků, osmnáct polovin) v proudu mimo mapy. Renn zapochybuje, Sarn věří číslům: „Adan nikdy nebojoval bitvu, kterou si nevybral. Tuhle mu vybrala jeho loď." Pustí Reyevera hrdlem sám.
+3. Reyever vjede do hrdla sám; *Hřeb* (Vos) poslal napřed tiše dolů k mělčině. Vos ví, že z mělčiny se nešplhá.
+4. Reyever na otevřeném pásmu „přijme jednání" a žádá doprovod k vlajkové lodi. Sarn nenajde ve slovech žádný šev — a PRÁVĚ proto se poprvé za 30 let zarazí: „všechno sedí příliš."
+5. Reyever řekne „Kles." — *Kovadlina* sjede po TŘETÍM proudu (vlasová čára) níž do pánve, k mělčině. Z hladin to vypadá jako přiblížení k vlajkové lodi pro přesazení.
+6. Přední klín Smíření sjede za *Kovadlinou* do hrdla (doprovod ke kapitulaci) → propadne se do mělčiny, ODKUD SE NEŠPLHÁ. Žací plavidla Souladu sestoupí taky (vůně úrody). Sarn pozdě pochopí past, rozkaz „šplhejte zpátky" už nejde splnit.
+7. *Kovadlina* dosedne na dno k *Hřebu* a k druhé, slabé tečce = bezposádkový trup s **Brázdovými děly** (kotva pasti, Vos ji celou dobu neviděla). Reyever: „Zvedněte clony. Tohle není kapitulace."
+8. **BITVA V ROVINĚ (klín na klín):** v mělčině neplatí hladiny ani přesila; jen kdo natočí bok dřív. *Hřeb* provede **křížení T** na hrdlo předního klínu Smíření; clony dělané na dálku v louži selhávají (není dálka). Paralelní montáž: Sarn diktuje správné rozkazy, ale nemá tabulku; Renn se láme.
+9. **TARAN:** žací plavidlo se otáčí k *Kovadlině* hrdlem napřed (jako u Melassu, kap. 13). Reyever pošle *Hřeb* (Vos) krýt nájezd = vsune ho mezi *Kovadlinu* a stonek. Žací plavidlo udeří jedinou ránou (projde clonou jako na Sirte) → **zničí *Hřeb*** místo *Kovadliny*. *Kovadlina* využije otevřené hrdlo a **vrazí klín naplno (poslední zub) do hrdla prvního stonku** — taran jako v kap. 13. První stonek rozlomen po stonku.
+10. **PAST SKLAPLA:** flotila Smíření i Soulad zaklíněny v mělčině v rovině, nikdo se nevyšplhá; Soulad krvácí v louži.
+11. Poslední rozhovor Vos × Reyever po pásmu: Vos pochopí, že ji Reyever poslal do mělčiny vědomě (jako na Sirte — tajil to, aby nehrála líp a nedostala se ven, aby tomu uvěřil i nepřítel). Bez zlosti: „Čin se neoznamuje předem. Konec." Pásmo *Hřebu* zhasne (Vos mrtvá).
+12. **HOOK / TAJEMSTVÍ:** Sarn po otevřeném pásmu žádá Reyevera o jediné, čemu věří — číslo, kolik ho past stála. Reyever odmítne dát číslo („z téhož důvodu, z jakého jsem ti 30 let neřekl nic, co se dá spočítat"). Vypne pásmo a do prázdna řekne **jediné slovo — jméno na „seznamu, který si nevede" — které NIKOMU na lodi nepoví.** = cena, kterou Reyever vědomě obětoval a TAJÍ.
+
+**ZTRÁTY (KANON — držet dál):**
+- **mjr. Iliana Vos — PADLÁ.** Loď *Hřeb* zničena jedinou ranou žacího plavidla, když Reyever Vos poslal krýt nájezd *Kovadliny* (vsunout se mezi *Kovadlinu* a stonek). Z mělčiny by se *Hřeb* nevyšplhal ani s pohonem — Reyever jí ho vědomě neposlal. Vos zemřela smířená, bez zlosti, jako jediná chápající cenu. (POZOR pro kap. 21: synopse uvádí Vos jako POV kap. 21 a „část pravdy o Sirte konečně vyřčena Vos" — TOHLE JE TEĎ V ROZPORU. Viz „Věcný rozpor" níže.)
+- **Brázda — implicitně padlý.** Sám na bezposádkovém trupu s děly (kotva pasti); na konci „už mlčící, už studený". Smrt implikovaná, ne explicitně dořečená.
+- **loď *Hřeb*** — zničena (druhá loď Legie kromě *Kovadliny*).
+- **bezposádkový trup s Brázdovými děly** — vyřazen.
+- **klín *Kovadliny*** — poslední („jeden") zub spotřebován na taran; *Kovadlina* zůstává ŽIVÁ, ale BEZ KLÍNU, uvězněná v mělčině pánve, „nikam se nepohne". (Hale, navigátor, dva mladí od pohonu, Reyever přežívají.)
+- **Reyever** — znovu si narazil totéž prasklé žebro (kap. 13) o zábradlí při taranu.
+- Nepřítel: 1 žací plavidlo Souladu (první stonek) rozlomeno taranem; přední klín Smíření rozbit křížením T a v rovině; obě nepřátelské flotily zaklíněné v mělčině (→ doznívá v kap. 21 „Soulad krvácí").
+
+**CO REYEVER TAJÍ (KANON — klíčový hook):**
+- Konkrétní **cenu pasti** = neřekne nikomu, ani Sarnovi (číslo), ani Halovi, ani (mrtvé) Vos. Vrcholí závěrečným nevysloveným **jménem** („jméno na seznamu, který si nevede"), které si nechá pro sebe a NIKOMU na *Kovadlině* nepoví.
+- TEXT ZÁMĚRNĚ NEUVÁDÍ, čí to jméno je — drženo jako tajemství do dalších kapitol (kandidáti: Vos / Brázda / někdo, koho obětoval vědomě; NEROZHODNUTO, prostor pro kap. 21). NEPROZRAZOVAT/NEDOROZHODOVAT bez návaznosti.
+- Mechanika tajení = táž jako Sirte (kap. 3/19): cenu nese sám, nerozdělí ji na ty, kdo by ji prozradili tím, že o ní vědí; „velitel, který vysvětluje, je velitel, kterého lze přemluvit".
+
+**Co kdo ví (stav na konci kap. 20):**
+- **Reyever ví:** celý plán a celou cenu; past sklapla; *Hřeb*/Vos a Brázda byli vědomá oběť; *Kovadlina* je živá, ale bez klínu, uvězněná v mělčině. Tají číslo i závěrečné jméno.
+- **Sarn ví:** byl stažen do mělčiny i s Souladem; chyba nebyla v součtu, ale v tom, CO počítal; Reyever odmítl dát číslo. Přežil, mluvil s Reyeverem (→ kap. 21 poslední rozhovor).
+- **Hale ví:** klín je pryč (poslední zub na taran), loď se nepohne; *Hřeb*/Vos ztracena (ptal se „A *Hřeb*?", odpověď nedostal). Přežil.
+- **Mužstvo / Legie:** „kapitulace" byla past (poznali to v okamžiku „Tohle není kapitulace"); past vyšla; Soulad krvácí → vnitřní krize z kap. 18/19 dostává „jiný výsledek ze stejných čísel" v praxi (doznívá kap. 21). Cenu (Vos, Brázda) znají jako ztrátu; závěrečné Reyeverovo jméno NE.
+
+**Nové zavedené detaily / fakta (držet dál):**
+- **PROUDOVÝ UZEL = křižovatka tří proudů**, hrdlo mezi dvěma hvězdami; **pánev uzlu** (kotlina v prostoru, tři proudy padají do jediné točny) s **mělčinou** na dně u menší hvězdy. KANON geografie bitvy.
+- **TŘETÍ PROUD = vlasová čára mimo mapy**, kterou Reyever dokreslil sám podle tří mrtvých lodí; Soulad ho ovládá a myslí, že jen on. Reyever ji použil jako sestupovou trasu do mělčiny (z hladin neodlišitelnou od přiblížení k vlajkové lodi pro přesazení).
+- **PRINCIP PASTI:** stáhnout přesilu do mělčiny, kde NEJSOU hladiny → přesila v hladinách je k ničemu, bije se klín na klín v rovině, vyhrává kdo natočí bok dřív; clony dělané na dálkovou tříšť v louži selhávají (není dálka). Geografie + chytrost, ne zázrak/zbraň. KANON taktiky.
+- **loď *Hřeb*** = druhá loď Legie (vedle *Kovadliny*), velí jí Vos; zničena v kap. 20.
+- **bezposádkový trup s Brázdovými děly** = „kotva" pasti, poslaná napřed; jediná živá duše na něm Brázda.
+- **Flotila Souladu u uzlu:** 9 žacích plavidel = „devět stonků a osmnáct polovin" (každé plavidlo = stonek + dvě poloviny, viz kap. 13). KANON počtu pro kap. 21.
+- **Sarnovo pochopení chyby:** „chyba nebyla v součtu, byla v tom, co počítal — počítal, že Reyever přiletěl prohrát; Reyever přiletěl prohrát tak, aby ho šli sledovat dolů." Sjednoceno s Reyeverovým protičíslem z kap. 18 (chyba v tom, CO se počítá).
+- **TARAN klínem do hrdla** zopakován jako vrchol (po kap. 13): poslední zub klínu naplno = jedna věc (taran NEBO únik, ne obojí — Halovo pravidlo). Po taranu *Kovadlina* BEZ KLÍNU, uvězněná v mělčině.
+- **Reyeverovo prasklé žebro** (kap. 13) si narazí znovu o totéž místo při taranu = časová/tělesná kontinuita.
+- Vosin podpis potvrzen naposled: naštvaná = ztiší se; tělo dohání tvář o setinu vteřiny; volací znak „Volání jedna"; radiový „Konec".
+- Reyeverova zásada potvrzena v praxi: „to není rozkaz, který chci dát — je to rozkaz, který platí"; „čin se neoznamuje předem" (kap. 19).
+
+**Jak kapitola končí:**
+Past sklapla — Smíření i Soulad zaklíněni v mělčině, Soulad krvácí. *Hřeb*/Vos a (implicitně) Brázda mrtví; *Kovadlina* živá, ale bez klínu, uvězněná. Sarn po pásmu žádá číslo ceny; Reyever odmítne dát jakékoli číslo, vypne pásmo a do prázdna řekne jediné nevyslovené **jméno** („jméno na seznamu, který si nevede"), které NIKOMU na lodi nepoví. Pointa: cena pasti = tajemství, které Reyever vědomě nese sám.
+
+**Otevřené nitky (→ kap. 21 „Krev Souladu"):**
+- **„Soulad krvácí"** = jiný výsledek ze stejných čísel V PRAXI (ne argumentem) → kap. 21 to dořekne; vnitřní krize Legie (kap. 18/19) se rozhodne výsledkem u uzlu.
+- **Poslední rozhovor Sarn × Reyever** — Sarn přežil, žádal číslo a nedostal je → kap. 21 „Sarn poražen, ale ne pokořen; jejich poslední rozhovor".
+- **CO REYEVER TAJÍ** (číslo ceny + nevyslovené jméno) → napětí do kap. 21 (synopse: „část pravdy o Sirte konečně vyřčena"). Jméno NENÍ v textu určeno — drženo otevřené.
+- **VĚCNÝ ROZPOR K VYŘEŠENÍ (logováno, viz CLAUDE.md):** synopse uvádí mjr. Vos jako POV kap. 21 a „část pravdy o Sirte konečně vyřčena Vos". V kap. 20 však Vos PADLA (vědomá oběť — silnější dotažení synopsního hooku „cena, kterou Reyever tají", a oblouku Vos „převzetí břemene → smrt smířená"). PŘI PSANÍ KAP. 21 NUTNO ROZHODNOUT: (a) Vos přežila (změnit kap. 20 — *Hřeb* poškozen, ne zničen), NEBO (b) kap. 21 přepsat na POV Reyever/Hale a „pravdu o Sirte" vyřknout jinak (např. Hale Vosině památce, nebo Reyever Halovi). DOPORUČENÍ: varianta (b) — smrt Vos je silnější a sedí na hook „cena, kterou Reyever tají". Reyeverovo nevyslovené závěrečné jméno v kap. 20 MŮŽE být „Vos" (dořešit v kap. 21).
+- ***Kovadlina* bez klínu, uvězněná v mělčině** → logistická nitka pro kap. 21 (jak se dostane z louže, nebo zda vůbec).
+- **Renn** se „v bitvě poprvé od Sirte zlomila" → její oblouk k tragické postavě (kap. 21).
