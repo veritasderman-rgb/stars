@@ -501,3 +501,31 @@ Vos se zeptá důstojníka, co je ten odznak. Důstojník: „To je strana, kter
 - **Doprovod za zádí** neidentifikován dál (nit kap. 8 → kap. 11 „Mělčina").
 - **Lidská tvář nepřítele potvrzena** (proxy s vírou) → morální šeď Smíření (bible: „mají v číslech pravdu", nekarikovat); předjímá Vosino téma „nepřítel není jen cizí" (kap. 17).
 - **Everett** zaveden jako použitelná postava můstku do bojových kapitol (11, 20).
+
+## Kap. 10 — „Kondominium zapírá"
+
+**POV:** Cassia Renn (+ Reyever, Vos). Dějiště: paluba křižníku *Kovadlina* (Rennina těsná kajuta, důstojnická jídelna jako poradní místnost, improvizovaná cela = vyklizená kabina pomocné navigace). Čas: 8 h po zajetí konvoje (kap. 9), pak 2 h v proudu a noc.
+
+**Klíčové události:**
+1. Depeše Kondominia: oficiálně POPÍRÁ vše — konvoj neexistuje, výzbroj nezachycena, 3. expediční sbor „není v sektoru" (měl se stáhnout do jádra). Pokud Legie přepadla, „jako piráti, na vlastní odpovědnost velitele". Renn si pro sebe napíše: *Zametají.*
+2. Renn × Reyever: Renn vysvětlí dekadenci — Kondominium drží pohromadě jen monopol na hladinový pohon („účetní knížka s děly"); pravidlo „co nezapíšeš, to nedlužíš"; největší luxus = „nevědět". Legie přivezla vědění, které nelze zaúčtovat → odepíšou ji.
+3. Renn navštíví zajatce (důstojník ~50, šedé spánky, klidný, „zahradní" odznak: stonek a dvě poloviny). Řekne jí, že odznak je POZVÁNKA, ne hrozba, a že ona ji „zná". Naráží na ni jako na zasvěcenou. Varuje, ať se Reyever neptá nahlas — připomene zajatce z kap. 4, co si „zlomil vaz sám od sebe" (implantát).
+4. Vos konfrontuje Renn na chodbě: „Kdo platí vás?" Liga = 30 kolonií bez jediné lodi. Renn uhýbá; Vos ji teď otevřeně podezírá (značí si ji „jako odstřelovačka").
+5. Reyever (přes Halův rozbor depeše): depeše je PRAVÁ (pečeť i datum sedí), ale šla PROUDEM, který není na žádných koloniálních mapách — týmž, ze kterého je sleduje nepojmenovaný stín. Závěr: nepřítel, který vyzbrojuje planety, píše i oficiální rozkazy Kondominia zevnitř. „Nepřítel, který už je uvnitř a píše nám poštu."
+6. **HOOK:** Renn v noci dostane na tajný kanál (bez hlavičky/pečeti) zprávu podepsanou zahradním symbolem: *„Major se ptá moc. Plukovník hledá jméno. Až přiletíte k uzlu, ať jsou oba připravení poslouchat. Strana, která přežije, na ně počká."* Ráno Reyeverovi zalže: „Nic. Kondominium mlčí." (= potvrzení Rennina dvojího dna.)
+
+**Co kdo ví (nově):**
+- ČTENÁŘ teď ví, že Renn je napojená na tajného patrona (Smíření) — dostává kódované zprávy se zahradním podpisem. Sama NEZNÁ jeho jméno (kompartmentace): zná „jen ruku, která píše, a hlas, který kdysi vysvětlil čísla". Nezná → nemůže prodat.
+- Reyever tuší: nepřítel má jméno, není to velmoc ani pašerák; má lodě v proudech mimo mapy; píše rozkazy Kondominia. Ještě nezná Rennino napojení (ale „hmatá" po něm).
+- Vos otevřeně podezírá Renn.
+
+**Nové detaily/termíny (držet):**
+- Kondominijní doktrína: „co nezapíšeš, to nedlužíš"; luxus = nevědět; monopol na hladinový pohon = jediné pojivo říše.
+- **Proudy mimo koloniální mapy** — patron je má, Kondominium o nich ani neví. Stín sleduje Legii právě jimi; nesl i tu „čistou" depeši.
+- **uzel** (proudový uzel) — Legie k němu míří; patron tam na ně počká (předjímá kap. 20 „Proudový uzel").
+- Zahradní odznak/symbol = stonek a dvě poloviny; znak Smíření/Souladu (ještě nepojmenováno).
+- Renn = 3 roky píše Lize „věty, na které se musí odpovědět ano"; vycvičená držet ramena klidná i proti Reyeverovu čtení z těla.
+
+**Jak končí:** Renn zatají tajnou zprávu, ráno Reyeverovi zalže poprvé „celou větou".
+
+**Otevřené nitky:** kdo je patron (jméno); co je „strana, která přežije" (Smíření); co čeká u uzlu; kdy Reyever/Vos odhalí Rennino dvojí dno.
