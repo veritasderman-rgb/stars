@@ -655,3 +655,37 @@ Stín nejde nahoru za Legií, ale zmizí stranou do proudu, který na mapách Ko
 - **Žací plavidlo šplhá do proudu mimo mapy** (počtvrté: kap. 8/10/11/12) = potvrzení souladské geografie → předehra k proudovému uzlu (kap. 20).
 - **Kolonie Melass přerozena** = první konkrétní cena doktríny Přerodu; morální/existenční zátěž Legie veze dál (rezonuje s opuštěnou Sirte a Daré).
 - POZOR na soulad s aktem III: slovo „Soulad" je v kap. 12 použito jako Vosino/autorské pochopení PODSTATY nepřítele, ne jako Legii známé jméno frakce; explicitní doktrína a „Hlas Souladu" přicházejí až kap. 16 — držet, aby kap. 13–15 nepředběhly odhalení.
+
+## Kap. 13 — „První kontakt"
+
+**POV:** Reyever (přepadová část závěru POV Vos). Dějiště: paluba *Kovadliny* a mělčina u napůl Přerozené planety, 3 dny po Melassu (kolonie z kap. 12). Pak vrak žacího plavidla.
+
+**Klíčové události:**
+1. Legie najde DRUHÉ žací plavidlo (větší než tři *Kovadliny*; „stonek a dvě poloviny"). Reyever se rozhodne ho DONUTIT k boji: plavidlo žne úrodu a je vlákny zakotvené v atmosféře — dokud žne, nemůže vyšplhat (~2 min stažení vláken). Reyever: „Zahradník se neshýbá pro kámen na poli. Shýbne se, když mu někdo šlape po záhonu."
+2. *Kovadlina* vjede do mělčiny (do pasti z vlastní vůle). Nejdřív salva na zem/úrodu (plavidlo ignoruje), pak salva do VLÁKEN (kotvy) → plavidlo se otočí bránit úrodu → nastaví záď.
+3. Boj: jediná rána Souladu projde clonou *Kovadliny*, „jako by clona nebyla" (= cizí zbraň ze Sirte, x1000). Kovadlina vyprázdní vše do nekryté zádě/pod hrdlo → plavidlo ochromeno, nemůže šplhat. Pak, bez munice, Hale udělá „klín naplno" — vrazí kýlový klín *Kovadliny* do hrdla plavidla jako kámen z praku (totéž udělala *Kovářka* stínu v kap. 11) → plavidlo se rozlomí napůl po stonku.
+4. Vrak (3. den): přepadová četa (Vos + Brázda) vstoupí. Interiér „narostlý" (žádný můstek/pulty). HOOK/REVEAL.
+
+**Ztráty (vysoké):**
+- **Tichý** (mladý operátor pohonu) — mrtev (rána skrz clonu). „A další" — půlka posádky pohonu.
+- *Kovadlina*: pravá baterie utržená, levá prázdná, trhlina v klínu „jak pěst", pohon ochromený; loď přežila „o jeden zub". Reyever má zlomené žebro.
+
+**REVEAL (zásadní):**
+- Žací plavidla NEJSOU autonomní — **řídí je zapojený ČLOVĚK**: ve vraku najdou lidské tělo ve výklenku, který kolem něj plavidlo narostlo, spojené ze ZÁTYLKU svazkem cizích vláken (slitina barvy mokré břidlice) s lodí — „jako navigátor s lodí, ruka s nástrojem". Ne pojistka, ne zbraň: spojení.
+- Tělo nese „zahradní" odznak (světlý kov, čistší než břidlicová slitina; stonek a dvě poloviny) — týž jako důstojník z konvoje (kap. 9). = znak kolaborantů/Smíření.
+- Vos chápe: Soulad „neletí sám. Někdo mu sedí v zátylku. Někdo lidský." → most k odhalení Smíření.
+
+**Co kdo ví (nově):**
+- Reyever/Vos/Legie: Soulad je silnější, ale NE neporazitelný — dokázáno vlastní lodí (ne z hlášení). Cena: skoro celý křižník za jedno plavidlo; Soulad jich má mnohem víc.
+- Legie poprvé ví, že žací plavidla pilotují lidé.
+
+**Nové detaily/termíny (držet):**
+- **Melass** = kolonie v Přerodu z kap. 12 (kde plavidlo Legii nechalo žít — „nestáli za ránu").
+- Taktika „klín naplno" = ram kýlovým klínem do hrdla (sebevražedně riskantní; *Kovářka* tak zničila stín v kap. 11; *Kovadlina* tak dorazila plavidlo).
+- Žací plavidlo: kotveno vlákny při žních, v mělčině pomalé; clona nekryje záď/hrdlo (jako u lidských lodí).
+- Důstojníci *Kovadliny*: **Everett** (palba/zbraně), navigátor (bezejmenný), Hale (pohon), Vos, Reyever. Voják **Brázda** (přepadová četa; zaveden v kap. 12).
+- Lidé řídící plavidla = zapojení zátylkem; „zahradní" odznak ze světlého kovu.
+
+**Jak končí:** Vos hlásí: „Našli jsme posádku. Jednoho. A je jeden z nás."
+
+**Otevřené nitky:** kdo jsou ti lidé v zátylcích plavidel (Smíření?); proč slouží; kolik žacích plavidel Soulad má; co čeká u uzlu.
