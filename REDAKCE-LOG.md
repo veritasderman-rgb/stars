@@ -1063,3 +1063,32 @@ Dále drobná interpunkce v kap. 31 (čárky před vedlejšími větami u „kde
 - **kap. 33 — Posledně.** Záměrný minimalismus, závěrečná tečka rukopisu. Nesahat.
 - **Refrény kabelu** (kap. 26 ř. 253: *„Tady jsem. Pořád jsem tady."*; kap. 27 ř. 149: *„Tady jsem. Pořád jsem tady."* / *„Vím."*; kap. 33 celá): Bibli explicitně označený leitmotiv, NESAHAT.
 - **Ležatá osmička** se v této závěrečné sekci neobjevuje přímo, ale je odkazována (kap. 30 ř. 67 položka roku „osmička"). NESAHAT princip.
+
+---
+
+## ROMÁN: Prach a soulad — jazyková vrstva (cestina-strazce)
+
+### Kapitola 01 — Léčka v dunách (`roman/rukopis/01-lecka-v-dunach.md`)
+
+Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
+
+**Zásahy (3 opravy):**
+
+1. `sběrný potrubí` → `sběrné potrubí` **(shoda přídavného jména se středním rodem; E3/pravopis)**
+   — „potrubí" je neutrum, přídavné jméno musí být „sběrné", nikoliv maskulinum „sběrný".
+
+2. `Reyever sázky neschvaluje a nikdy nezakázal.` → `Reyever sázky neschvaluje a nikdy nezakazuje.` **(E1 — proklunutí do minulého času v narativním prézentu)**
+   — Celý odstavec je v přítomném čase (popis habituálního chování), „nezakázal" je jediné sloveso v minulém čase bez výslovného náznaku retrospektivy.
+
+3. `Hale došel ke dveřím, sedl si zády ke stěně na bednu a začal nahlas, klidně a podrobně líčit` → `Hale dojde ke dveřím, sedne si zády ke stěně na bednu a začne nahlas, klidně a podrobně líčit` **(E1 — tři slovesa minulého času v aktivní akční scéně)**
+   — Celá scéna s boudou je v prézentu; vysvětlovací vsuvka „ne proto, že by… ale protože" popisuje děj probíhající ve scéně, nikoliv vzdálenou minulost.
+
+**Bez zásahu (k posouzení / záměrné):**
+
+- „uzavřela kruh" (ř. 21) — výsledkový perfekt po radiovém hlášení; pohybuje se na hranici, ale kontext vojenského hlášení o dokončeném úkolu to odůvodňuje. K posouzení hlas-strazce.
+- „kondominijní" (ř. 125) — standardní tvoření adjektiva od „Kondominium"; ponecháno.
+- „jak drželi zbraně" / „dal pušku a slib" (ř. 115) — legitimní relativní minulost vůči prezentní scéně.
+- Čtyři výskyty „pak" (ř. 53, 83, 87, 135) — rozmístěné, netvoří tik; dva jsou v autorově větném rytmu (Halova puška štěkne — „a pak se pomalu položí"; „pak na devět padlých"), nepůsobí jako berlička. Ponecháno.
+- Hovorové tvary v přímé řeči vojáků (seš, svejch, svejch, plejtvaj, nemaj, tahaj, vzdaj) — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola je jazykově velmi čistá. Přítomný čas drží konzistentně, uvozovky jsou výhradně české, přechodníky nulové, terminologie v pořádku (Legie velká, žádné FTL termíny v pozemní scéně). Tři mechanické chyby opraveny.
