@@ -1223,3 +1223,29 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Pravopis a překlepy:** Bez nálezů.
 
 **Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E5, redundantní „vlastní"). Uvozovky, časy, přechodníky, terminologie, koncovky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 08-hladiny
+
+**Datum:** 2026-06-16
+
+### Zásahy (1 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `jak se nad pult nahnul a ztuhl, na ruce, která se zastavila nad ovladačem a nedopadla` | `jak se nad pult nahlíží a tuhne, na ruce, která stojí nad ovladačem a nedopadá` | E1 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 41, počet " (U+201C) = 41, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči správná ve všech výskytech (čárka/tečka uvnitř, uvozovací věta s malým písmenem). Žádný hybrid.
+- **E1 — přítomný čas:** Narativ důsledně přítomný. Jeden nechtěný prokuzel do minulého času v přítomné akční scéně (ř. 117): „nahnul", „ztuhl", „se zastavila", „nedopadla" — Vos pozoruje navigátora v přítomném okamžiku, ne ve vzpomínce. Opraveno na přítomný čas. Vsuvka „Naučila se ji od něj" v témže odstavci správně v minulém čase (expozice o minulosti). Dále: ř. 79 „Stál v hladinách stokrát a pokaždé se naučil" a ř. 87 „Reyever takovou loď viděl" jsou vsuvky s Reyeverovou zkušeností z minulosti — správně.
+- **E3 — koncovky 3. os. mn. č.:** Bez chyb. Hovorové zkrácené tvary „dělaj", „maj" v Halově řeči záměrný idiolekt — NESAHAT.
+- **E4 — anglikalky:** Žádné nalezeny.
+- **E5 — redundantní „svůj":** „svůj pult" (ř. 15) — funkční, podmět odkazuje na vlastní pult v kontextu sdíleného prostoru; ponecháno. „svou práci" (ř. 53) — idiomaticky správné. „jeho pultu" (ř. 61) — potřebné pro identifikaci (navigátorův vs. Reyeverův pult).
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „pak" se vyskytuje 4× rozmístěně po celé kapitole (168 ř.). Netvoří tik; funkční.
+- **E9 — terminologie:** Legie, Soulad — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně. Terminologie jednotná.
+- **Pravopis a překlepy:** Bez nálezů.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E1, čtyři slovesa v minulém čase v přítomné akční scéně). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
