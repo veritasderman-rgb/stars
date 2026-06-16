@@ -1197,3 +1197,29 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Hovorové tvary v Halově řeči:** „dovezený", „čerstvý", „odlitý", „celej", „ptaj", „počítaj" — záměrný rejstřík, NESAHAT.
 
 **Celkové hodnocení:** Kapitola jazykově velmi čistá. Dva zásahy — oba E4 (anglikalismus v dialogu). Uvozovky, časy, přechodníky, terminologie bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 07-odlet
+
+**Datum:** 2026-06-16
+
+### Zásahy (1 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `použije jeho vlastní slova schválně` | `použije jeho slova schválně` | E5 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 31, počet " (U+201C) = 31, ASCII uvozovek (U+0022) = 0. Jednoduché uvozovky ‚…' v ř. 31 (citát uvnitř přímé řeči) párové a správné. Interpunkce přímé řeči správná ve všech výskytech (čárka/tečka uvnitř, uvozovací věta s malým písmenem).
+- **E1 — přítomný čas:** Narativ důsledně v přítomném čase. Ř. 47: „Reyever obešel... pošle" — perfektivní minulý čas v expozičním odstavci popisující kompletní akci; interpretováno jako záměr (vsuvka vysvětlující jak Reyever obchází rozkaz), nikoli nechtěný prokuzel. K posouzení hlas-strazce. Ř. 51: retrospektivní vsuvka v minulém čase správně.
+- **E3 — koncovky 3. os. mn. č.:** Všechna slovesa v narativu správně na -í (nepostupují, neprovádějí, odlétají, hýbou, odcházejí, nesou, mlčí, rozumějí). Hovorové zkrácené tvary „ptaj", „poslouchaj", „prohrávaj" v Halově přímé řeči jsou záměrný idiolekt vojáka — NESAHAT (E8).
+- **E4 — anglikalky:** Žádné nalezeny. „Hlášení se nepostupují" (2×, ř. 7 a 45) je opakující se termín světa, interpretován jako záměrný — k posouzení hlas-strazce.
+- **E5 — redundantní „svůj/vlastní":** Jeden zásah (viz výše). Ostatní výskyty „vlastní" nesou funkci (kabel svářečky, vlastní rozbor Legie, vlastní kůže jako kontrast ke slitině).
+- **E6 — přechodníky:** Žádné v celém textu. ✓
+- **E7 — berličky:** „pak" se vyskytuje 4× — v ř. 9 (idiomatické), ř. 69 (zdůraznění kontrastu), ř. 121 (2× ve výčtu sekvence). Netvoří tik, funkční.
+- **E9 — terminologie:** Legie, Soulad, Liga — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně.
+- **Pravopis a překlepy:** Bez nálezů.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E5, redundantní „vlastní"). Uvozovky, časy, přechodníky, terminologie, koncovky bez chyb.
