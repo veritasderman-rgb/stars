@@ -1118,3 +1118,28 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - Hovorové tvary v přímé řeči vojáků: záměrný rejstřík, NESAHAT.
 
 **Celkové hodnocení:** Kapitola jazykově velmi čistá. Tři opravy — jde o omyly v tvarosloví podstatného jména „hlaveň" a neexistující tvar „munič". Styl, tempo ani obsah nedotčeny.
+
+---
+
+## Jazyková kontrola — `roman/rukopis/04-zajatec.md`
+
+**Vrstva:** cestina-strazce (E1–E9)
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `Ale Reyever ho sledoval. Reyever sleduje ruce ... a viděl to` → `Ale Reyever ho sleduje. Reyever sleduje ruce ... a vidí to` (E1 — prokluzy do minulého času uvnitř akční scény; odstavec začíná přítomným „Muž se nehne", pak dvakrát sklouzne do minulého „sledoval" / „viděl" a zpět; opraveno na konzistentní přítomný čas)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- **E2 — uvozovky a interpunkce přímé řeči:** výhradně české „…" ve všech výskytech; uvozovací věty s malým písmenem a správnou čárkou/tečkou uvnitř uvozovek; žádná chybějící interpunkce.
+- **E3 — koncovky 3. os. mn. č.:** „přivezli", „potřebovaly", „nesli" — všechny tvary správně; žádné chybné -i místo -í.
+- **E4 — anglikalky:** „právě se rozhodl ji neříct" (správně česky); žádné kalouzy „udělal rozhodnutí", „to nedává smysl"; slovosled přirozený.
+- **E5 — redundantní „svůj":** „udělalo svoji práci" (ř. 115) — funkční přivlastnění (výkon toho objektu, ne cizí práce), ponecháno.
+- **E6 — přechodníky:** žádné v celém textu.
+- **E7 — berličky:** dva výskyty „pak" (ř. 77 a 97), oba v různých sekcích, netvoří tik; ponecháno.
+- **E9 — terminologie:** Kondominium, Legie, Sirte — vše s velkým písmenem; Liga (koloniální) konzistentně velká; žádné FTL termíny, kde by bylo nutno hlídat tvar.
+- **E1 — minulý čas v závěru (ř. 139):** „Za třicet let honil povstalce... Věděl, jak vypadá nepřítel..." — záměrný retrospektivní kontrast k pointě „Tenhle nemá nic z toho"; funkce je obecná zkušenostní reference, nikoliv nechtěný prokluz; ponecháno.
+- **Hovorové tvary v Halově řeči:** „Sahej", „kdybysme", „Stejnej kov" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově výrazně čistá. Jeden zásah — dvojí nechtěný prokluz minulého času uvnitř akční scény (ř. 67). Žádné uvozovkové chyby, přechodníky, anglikalky ani tvaroslovné omyly.

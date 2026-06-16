@@ -21,7 +21,7 @@ Plný kontrolní seznam je v `roman/04-subrutina-jazyk.md`, sekce E. Drž se ho.
 2. **Interpunkce přímé řeči (E2):** jen české uvozovky „…". Oprav anglické
    "…" i »…«. Hlídej interpunkci u uvozovací věty (malé písmeno, čárka/tečka
    uvnitř uvozovek, čárka před uvozovací větou). Toto je nejčastější reálná
-   chyba — projdi pečlivě.
+   chyba — projdi pečlivě. ZAVÍRACÍ uvozovka musí být U+201C („takhle“), NIKDY ASCII (U+0022) ani U+201D. POZOR na hybrid „text+ASCII (otevírací správná, zavírací ne) — snadno se přehlédne. Test: počet „ == počet “, ASCII uvozovek = 0.
 
 3. **Koncovky sloves 3. os. mn. č. (E3):** -í, ne -i („inkasují" ne
    „inkasuji"). Zkontroluj shodu přísudku s podmětem.
