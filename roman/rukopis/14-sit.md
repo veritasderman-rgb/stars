@@ -28,9 +28,7 @@ Hale se podívá na fotografii pilota dlouho.
 
 „Na Sirte umírali farmáři za větu, kterou se naučili nazpaměť,“ řekne pomalu. „Tady si chlap tu samou větu připnul na hruď a věří jí. To je rozdíl mezi tím, koho někdo navádí, a tím, kdo už navádí sám.“ Sebere odznak ze stolu, otočí ho ke světlu. „Tohle nenosí naváděnej, majore. Tohle nosí přesvědčenej.“
 
-Vos se na něj podívá.
-
-„Kdo přesvědčí celý kolonie, aby se vzdaly?“
+„Kdo přesvědčí celý kolonie, aby se vzdaly?” řekne Vos.
 
 „Někdo, kdo má lepší čísla než ty,“ řekne Hale, a položí odznak zpátky, přesně na to místo, odkud ho vzal.
 
@@ -44,7 +42,7 @@ Ne všechny mlčí stejně.
 
 Šest kolonií přestalo vysílat běžná hlášení v posledních čtyřech měsících. Ne najednou. Po jedné, po dvou, v rozestupech, jako by někdo otáčel knoflíky postupně, aby si toho nikdo nevšiml. Žádná z nich nehlásí útok. Žádná nevolá o pomoc. Prostě se odmlčely — přestaly platit poplatky Lize, přestaly žádat o zásoby, přestaly se chovat jako kolonie, která chce přežít a potřebuje k tomu zbytek lidstva.
 
-Vos to projede dvakrát. Pak třikrát, Reyeverovým způsobem.
+Vos to projede třikrát.
 
 Melass na seznamu není. Melass je mrtvý, přerozený, zelený od pólu k pólu. Ale těch šest žije. Vysílají dost na to, aby navigace věděla, že tam někdo je. Jen přestaly mluvit s lidstvem.
 
@@ -88,7 +86,7 @@ Renn se zvedne, protože stát znamená moct odejít, i když odejít nelze. Pos
 
 „Neříkejte mi zase, že byste mi to neřekla.“ Vos se nepohne ode dveří. „Tu větu už jste na mě použila. Na chodbě. Řekla jste, že kdybyste věděla, co je ten odznak, byla byste mi to neřekla, a že je to rozdíl mezi námi.“ Naklání se o vlas blíž. „Já si vás značím od Sirte, paní Rennová. Jako odstřelovačka. A vy víte, co dělá odstřelovač — čeká, až ten druhý udělá druhou chybu. Vy jste ji právě udělala.“
 
-Renn drží ramena klidná. Stálo ji to roky cviku, držet ramena klidná, a nikdy je nedržela proti někomu, kdo na ně nekouká, aby je přečetl, ale aby viděl, kde se zlomí.
+Renn drží ramena klidná. Stálo ji to roky cviku — a nikdy je nedržela proti někomu, kdo se nedívá, aby je přečetl, ale aby viděl, kde se zlomí.
 
 „Jakou chybu.“
 
@@ -202,6 +200,6 @@ Reyever se dívá na prázdné místo, kde tečka byla.
 
 Kovadlina úpí v opravách svou jedinou notu. Loď, co tak tak žije, na klidné vodě, tři týdny od nejbližší hvězdy.
 
-A Vos pochopí tělem dřív než hlavou, proč je nikdo nezastavil — proč Kondominium mlčí, proč žací plavidlo nestřílelo, proč je stín pustil. Nepřítel není u brány. Síť, do které Legie celou dobu létala, není natažená před nimi.
+A Vos pochopí, proč je nikdo nezastavil — proč Kondominium mlčí, proč žací plavidlo nestřílelo, proč je stín pustil. Nepřítel není u brány. Síť, do které Legie celou dobu létala, není natažená před nimi.
 
 Je utkaná z lidí. A jeden její oko právě odplul z jejich vlastní lodi.

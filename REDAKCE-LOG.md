@@ -335,6 +335,59 @@ Obě chyby jsou stejného typu: vazba „aniž + přítomný čas indikativ" bez
 
 ---
 
+### klise — kap. 11–15 (*Prach a soulad*) — 2026-06-16
+
+**Soubory:** `11-melcina.md`, `12-opustena-kolonie.md`, `13-prvni-kontakt.md`, `14-sit.md`, `15-spoluzak.md`
+
+**Celkem zásahů: 16** (viz níže po kapitolách)
+
+**kap. 11 — 3 zásahy**
+- `Pak po velitelském pásmu uslyší Reyevera. Tichého. Nejtiššího, jaký kdy byl.` → `...Nejtiššího, jaký kdy byl.` — „Tichého." jako samostatná věta redundantně předjímá superlativ v téže větě.
+- `a zapamatuje si to na zbytek života:` → `a zapamatuje si to:` — „na zbytek života" je heroická/patetická klišé fráze; záměr zachycení je v tom, co si zapamatuje — ne v ozdobném trvání.
+- `Vos stojí vedle. Když se bojí, ztiší se, a tak se zeptá tiše:` → `Vos se dívá na obrazovku. „Doženou nás..."` — „Když se bojí, ztiší se" je vnucená charakterová expozice z bible uprostřed akce. Tišší hlášení při přímém pohledu na data ukáže stav bez komentáře.
+
+Ponecháno záměrně: motivický vzorec „Mužstvu neřekne takhle / mužstvu řekne X" se v kap. 11 opakuje třikrát (s. 17, 229, 230–233) — strukturní refrénn Haleho dvojí tváře (co smí říct mužstvu / co je pravda). Odpis by zničil architekturu závěru.
+
+**kap. 12 — 4 zásahy**
+- `poprvé za hodně dní jí není zima ze strachu, ale z něčeho jiného. Z pořádku.` → `je jí zima — ne ze strachu, ale z pořádku.` — „poprvé za hodně dní" je narativní lepidlo; „z něčeho jiného" oddaluje pointu o vteřinu zbytečně.
+- `Je obrovské. Je tiché. A je krásné způsobem...` → `Je obrovské, tiché a krásné způsobem...` — symetrická triáda tří krátkých vět jako samostatných úderů je AI vzorec eskalace; sloučení zachovává výčet, ale bere mu patetický rytmus.
+- `Vos zavře oči... Tehdy nevěděla, co ta věta znamená. Teď stojí v tom, co znamená, a chápe, proč ji ten člověk říkal s takovou hrůzou v hlase.` → vložení přímé citace fráze a nahrazení „s takovou hrůzou v hlase" za „tak tiše" — „hrůza v hlase" je obecná emocionální eskalace bez smyslového zakotvení; Vosino vlastní pravidlo (naštvaná zmlkne) i kontinuita naznačují, že umírající mluvil tiše, ne s hrůzou.
+- `Vos stojí na mrtvé planetě a dívá se nahoru... Nebojuje. Neutíká. Nevyjednává. Prostě se obrátí a odejde, klidně, jako zahradník...` → vypuštěno „Prostě se obrátí a odejde, klidně, " (přebytečný komentář před přirovnáním, které ho lépe říká). „Prostě" je mrtvé zesilovadlo.
+
+**kap. 13 — 5 zásahů**
+- `Nejnebezpečnější nepřítel je ten, kdo se na tebe podívá a nevidí soupeře, jen pozdější práci.` → přeformulováno jako vsuvka do myšlenky, nikoli jako fortune-cookie sentece — věta působila jako vytržená ze žánrového motta.
+- `Hale se ozve od stěny. Suchá, pomalá obecná čeština.` → vypuštěno autorské sdělení o způsobu řeči těsně před replikou — čtenář již ví, jak Hale mluví (11 kapitol charakterizace).
+- odkaz na Kovářku v závěru akcové sekvence zkrácen z opisné věty na elipsu.
+- `Celou tu dobu visí na okraji obrazovky vrak... dvě poloviny, které se rozcházejí jako rozevřená kniha.` → `Na okraji obrazovky visí vrak... dvě poloviny pomalu se rozcházející.` — „Celou tu dobu" je narativní lepidlo; „jako rozevřená kniha" je generické přirovnání nesedící do světa scény.
+- „Tiše, protože když je naštvaná, ztiší se." ve Vosině replice → „Tiše." — opakovaná charakterová exposition-in-action narušuje plynulost; Vosino ticho mluví samo.
+- `A Vos pochopí tělem dřív než hlavou...` → `A Vos pochopí...` — „tělem dřív než hlavou" je opakující se vzorec AI prózy (totéž v kap. 12, 14); viz níže.
+- `„Plukovníku," řekne Vos do pásma, a slyší vlastní hlas zdálky.` → bez „a slyší vlastní hlas zdálky" — generická emocionální eskalace (dissociace), která podkopává Vosino přímé jednání ve scéně.
+
+**kap. 14 — 3 zásahy**
+- `Vos to projede dvakrát. Pak třikrát, Reyeverovým způsobem.` → `Vos to projede třikrát.` — „Reyeverovým způsobem" jako charakterizační refrénn se v díle opakuje; v analytické scéně (Vos sama u navigace) působí jako automatismus.
+- `Vos se na něj podívá. // „Kdo přesvědčí..."` → sloučeno `„Kdo přesvědčí..." řekne Vos.` — zbytečný prázdný meziskok; pohled bez obsahu je narativní vata.
+- `Renn drží ramena klidná. Stálo ji to roky cviku, držet ramena klidná, a...` → `...Stálo ji to roky cviku — a...` — opakování „držet ramena klidná" v téže větě zdůrazňuje bez přidání; komprese drží rytmus.
+- `A Vos pochopí tělem dřív než hlavou, proč je nikdo nezastavil...` → `A Vos pochopí, proč...` — viz vzorec „tělem dřív než hlavou".
+
+**kap. 15 — 2 zásahy**
+- `Vidí v ní Vejvarův prázdný pancíř, Tichého na zádech u pultu pohonu, Daré a loď, kterou stín vzal za deset minut. Vidí čísla...` → „Vidí" nahrazeno fragmenty bez slovesa (Vejvarův pancíř. Tichý. Daré.). Reyever v nejvypjatějším momentu nekomentuje, přijímá — telegrafická forma odpovídá jeho idiolektu.
+- `„Proč." Není to v Sarnově hlase prosba. Je to táž otázka...` → `„Proč." Sarn nežadoní. Je to táž otázka...` — „Není to... prosba" je negační expozice místo přímého pozorování.
+- `REYEVER VSTANE OD PULTU, protože vsedě se hůř mlčí, a žebro mu připomene...` → `REYEVER VSTANE OD PULTU a žebro mu připomene...` — vedlejší věta „protože vsedě se hůř mlčí" je autorský komentář k pohybu, který je srozumitelný i bez vysvětlení.
+- `...a Reyever čeká, jestli Sarn vypne pásmo, nebo udeří, protože odmítl, a odmítnutí mívá cenu.` → bez „protože odmítl, a odmítnutí mívá cenu" — narativní lepidlo; situace mluví sama.
+
+**Tři nejčastější vzorce (kap. 11–15):**
+1. **„tělem dřív než hlavou"** — v kap. 12, 13 i 14; opakující se AI vzorec pro emocionální pochopení. V každém výskytu nahrazeno přímou formulací pochopení.
+2. **Charakterová expozice vložená do akce** — „Když se bojí, ztiší se" (kap. 11), „Tiše, protože když je naštvaná, ztiší se" (kap. 13) — bible-charakteristika vložená do scény opakovaně. Vosino chování mluví samo.
+3. **Narativní lepidlo a autorský komentář k pohybu** — „celou tu dobu", „protože odmítl", „protože vsedě se hůř mlčí", „prostě se obrátí a odejde, klidně" — věty vysvětlující, co obraz nebo replika říkají samy.
+
+**Záměrně ponecháno:**
+- Motivický vzorec „Mužstvu neřekne takhle / mužstvu řekne X / to zní líp" (kap. 11) — refrénn Haleho dvojí tváře, strukturní.
+- Tři-úderná kadence „Nebojuje. Neutíká. Nevyjednává." (kap. 12) — záměrná rytmická triáda popisující behaviorální absenci; ne emocionální eskalace, ale taxonomie absence.
+- „Poprvé je to férová bída." (kap. 13) — suchá pointová věta v Reyeverově perspektivě; neklišé.
+- Sarnovův akademický realismus v monologu (kap. 15) — záměrný žánrový kontrast s Reyeverovým mlčením.
+
+---
+
 ### cestina-strazce — kap. 19 (Vzpoura na hraně) — 2026-06-16
 
 **Soubor:** `roman/rukopis/19-vzpoura-na-hrane.md`

@@ -8,7 +8,7 @@ Reyever stojí na velitelském stání *Kovadliny*, ruce za zády, a dívá se n
 
 „Vím, jak je velké,“ řekne Reyever.
 
-Vedle stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko. Nejnebezpečnější nepřítel je ten, kdo se na tebe podívá a nevidí soupeře, jen pozdější práci.
+Vedle stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko — nepřítel, který tě nevidí jako soupeře, tě vidí jako pozdější práci.
 
 „Plukovníku,“ řekne Vos tiše. „Minule jste řekl nestřílet.“
 
@@ -30,7 +30,7 @@ Nechá to viset ve vzduchu. Hale stojí u stěny, šmouhu oleje na předloktí. 
 
 Přejde k mapě. „Plavidlo žne. Visí v mělčině, vlákna spuštěná do atmosféry. Dokud žne, nemůže pryč — vlákna ho drží u země jako kotva. A v mělčině je pomalé jako my. Natáhnout vlákna a vyšplhat, to chvíli trvá; u Melassu jsem ty vteřiny počítal. Dost na to, aby se k němu loď dostala dřív, než zvedne kotvu. Ale jenom k hrdlu nebo k zádi. Do clony nemá smysl pálit nic.“
 
-Hale se ozve od stěny. Suchá, pomalá obecná čeština. „To znamená dostat se mu za záda, dokud má hubu plnou planety. A k tomu ho musíš donutit, aby se otočil zlou stranou k tobě. A von se neotočí, protože mu na tobě nesejde. Nedáš ránu věci, která se na tebe nepodívá.“
+Hale se ozve od stěny. „To znamená dostat se mu za záda, dokud má hubu plnou planety. A k tomu ho musíš donutit, aby se otočil zlou stranou k tobě. A von se neotočí, protože mu na tobě nesejde. Nedáš ránu věci, která se na tebe nepodívá.“
 
 „Nepodívá se na nás,“ souhlasí Reyever. „Podívá se na to, co děláme.“ Otočí mapu k planetě. „Plavidlo žne úrodu. Když mu ji vezmeš, musí se otočit a chránit ji — proto sem přiletělo. Zahradník se neshýbá pro kámen na poli. Shýbne se, když mu někdo šlape po záhonu.“
 
@@ -164,7 +164,7 @@ Loď vyprázdnila vše do té jediné rány a žací plavidlo přesto žije, kro
 
 Dole je chvíli ticho. Pak Hale, a hlas má tišší, než ho Reyever kdy slyšel. „Mám trhlinu v klínu jak pěst a půlku posádky pohonu na podlaze. Můžu ti dát jednu věc. Klín naplno na jednu ránu — naženu do něj všechno a vystřelím loď jako kámen z praku.“ Odmlčí se. „Akorát ti nezaručim, že na konci budem ještě loď, a ne kýbl dílů.“
 
-Reyever se dívá na to nekryté hrdlo pod přídí plavidla, kam *Kovadlina* nemá čím vystřelit — ale kam se dá vrazit. *Kovářka* to udělala stínu, do místa, kde i nedokreslená věc musí mít loď.
+Reyever se dívá na to nekryté hrdlo pod přídí plavidla, kam *Kovadlina* nemá čím vystřelit — ale kam se dá vrazit, jako *Kovářka* vrazila stínu.
 
 „Naplno,“ řekne Reyever. „Do hrdla. Klínem na klín.“
 
@@ -212,9 +212,9 @@ Reyever zavře oči, jen na vteřinu. „Ztráty.“
 
 ---
 
-REYEVER SEJDE K MRTVÝM, až když je loď v bezpečí — když se dovleče z mělčiny k volné vodě a vyšplhá pryč. Celou tu dobu visí na okraji obrazovky vrak žacího plavidla, dvě poloviny, které se rozcházejí jako rozevřená kniha.
+REYEVER SEJDE K MRTVÝM, až když je loď v bezpečí — když se dovleče z mělčiny k volné vodě a vyšplhá pryč. Na okraji obrazovky visí vrak žacího plavidla, dvě poloviny pomalu se rozcházející.
 
-Vos přijde k němu ve volné vodě. „Vyplatilo se to?“ Tiše, protože když je naštvaná, ztiší se. „Tichý. Pravá baterie. Pohon. Pro jednu mrtvou loď, na kterou nás Soulad ani nebere jako stranu ve válce.“
+Vos přijde k němu ve volné vodě. „Vyplatilo se to?” Tiše. „Tichý. Pravá baterie. Pohon. Pro jednu mrtvou loď, na kterou nás Soulad ani nebere jako stranu ve válce.”
 
 „Ptáte se špatně, majore,“ řekne Reyever, oči na vraku. „Ne jestli se to vyplatilo. Ptejte se, co teď víme. Že krvácí. Že ta věc o stupeň výš, kterou jsme nedokázali ani naštvat, leží támhle ve dvou kusech, protože jsme byli ochotní umřít blíž, než čekala.“ Otočí se k ní. „Soulad je silnější. Ale ne neporazitelný. A nevíme to z hlášení o stínu — víme to z vlastní lodi.“
 
@@ -242,9 +242,9 @@ Vos se přinutí podívat mu na hruď.
 
 Na uniformě má odznak. Čistší linie, světlý kov, ne ta břidlicová slitina. Dvě poloviny, které jsou si zrcadlem, sevřené kolem středu, ze kterého vychází stonek. Ten samý odznak, jaký nosil důstojník z konvoje. Ten samý tvar, jaký měla nad hlavou žací plavidlo.
 
-A Vos pochopí tělem dřív než hlavou, co vlastně drží Soulad pohromadě. Cizí věc, která se na lidstvo nedívá jako na stranu ve válce, neletí sama. Někdo jí sedí v zátylku. Někdo lidský.
+A Vos pochopí, co drží Soulad pohromadě. Cizí věc, která se na lidstvo nedívá jako na stranu ve válce, neletí sama. Někdo jí sedí v zátylku. Někdo lidský.
 
-„Plukovníku,“ řekne Vos do pásma, a slyší vlastní hlas zdálky. „Našli jsme posádku.“
+„Plukovníku,” řekne Vos do pásma. „Našli jsme posádku.”
 
 Chvíli je v pásmu ticho.
 

@@ -14,7 +14,7 @@ Tichý polkne. „Jak dlouho do volný vody?“
 
 Mělčina je past, kterou nepostavil nikdo. Je to prostě místo, kde hvězda zakřivuje prostor tak natěsno, že se loď nemá do čeho zaklesnout — nedá se vyšplhat do hladin, nedá se uskočit, nedá se zmizet. Musí se prodírat sublightem, na kýlový klín, hodiny, od mělčiny k okraji, kde řeka konečně začíná a kde se teprve dá utéct. A celou tu dobu je loď nahá. K chycení.
 
-Hale to mužstvu nikdy neřekne takhle. Mužstvu řekne, že se jede pomalu, protože je tu mělko. To zní líp.
+Hale to mužstvu nikdy neřekne takhle. Mužstvu řekne, že se jede pomalu, protože je tu mělko.
 
 ---
 
@@ -42,7 +42,7 @@ Reyever stojí u zábradlí, ruce za zády, a dívá se na obrazovku, na kterou 
 
 „Ví, že nemůžeme nahoru,“ řekne Reyever, spíš pro sebe. „Tak nás chce dohnat tady. V mělčině. Kde se nedá utéct, jenom bít.“
 
-Vos stojí vedle. Když se bojí, ztiší se, a tak se zeptá tiše: „Doženou nás dřív, než dojedeme k vodě?“
+Vos se dívá na obrazovku. „Doženou nás dřív, než dojedeme k vodě?”
 
 Navigátor počítá. Přepočítá. Reyeverův člověk, ten neřekne číslo, dokud si není jistý.
 
@@ -134,7 +134,7 @@ Nečeká, až se korveta natočí. Nehraje křížení T podle tabule. Pošle je
 
 „Kapitánko, ustupte,“ řekne Reyever do pásma. „Splnila jste to. Ustupte, dokud máte klín.“
 
-Daré odpoví, a Hale to dole slyší, a zapamatuje si to na zbytek života:
+Daré odpoví, a Hale to dole slyší, a zapamatuje si to:
 
 „Nemám deset minut, plukovníku. Mám osm. Dvě si beru.“
 
@@ -214,7 +214,7 @@ Obrazovka po stínu zůstane prázdná. Žádná tečka. Žádný kód. Jen měl
 
 HALE STOJÍ DOLE U POHONU, dlaň na vychladlém gradientu, a chvíli nikdo nic neřekne.
 
-Pak po velitelském pásmu uslyší Reyevera. Tichého. Nejtiššího, jaký kdy byl.
+Pak po velitelském pásmu uslyší Reyevera. Nejtiššího, jaký kdy byl.
 
 „Vos,“ řekne plukovník. „Ten, kdo nás honil, právě odjel cestou, která na mapách není. Stejnou, jakou k nám přišla čistá depeše. Stejnou, jakou nás sledoval od mělčiny.“
 
@@ -226,7 +226,7 @@ Dole u pohonu si Hale otře dlaň o hadr, jako se otírá olej, který už nejde
 
 Daré koupila Legii deset minut a život celé lodi za jednu pravdu: ta věc se dá ranit. A vzala si k tomu jednu odpověď navíc, kterou nikdo nechtěl slyšet — kdo ovládá řeky, co nejsou na mapách, ten si vybírá, kdy bude lovit a kdy zmizí. Dneska zmizel.
 
-Hale to mužstvu neřekne takhle. Mužstvu řekne, že utekli, že je to dobrý, že Daré byla nejlepší. To zní líp.
+Mužstvu řekne, že utekli, že je to dobrý, že Daré byla nejlepší.
 
 Ale stroji, vychladlému gradientu pod dlaní, řekne pravdu, protože stroj je jediný, kdo ji unese:
 

@@ -90,7 +90,7 @@ Reyever mlčí dlouho. V tom mlčení Sarn poprvé nepokračuje. Čeká, jako č
 
 ---
 
-REYEVER VSTANE OD PULTU, protože vsedě se hůř mlčí, a žebro mu připomene, že stát ho zatím stojí víc než hlas v reproduktoru.
+REYEVER VSTANE OD PULTU a žebro mu připomene, že stát ho stojí víc než hlas v reproduktoru.
 
 „Nabízíš mi něco,“ řekne. „Celou dobu kroužíš kolem. Renn jsi nechal odejít, mě jsi nechal najít stopu, plavidlo jsi mi nechal zabít. Tos všechno udělal proto, abys teď mohl říct jednu větu. Tak ji řekni.“
 
@@ -100,7 +100,7 @@ REYEVER VSTANE OD PULTU, protože vsedě se hůř mlčí, a žebro mu připomene
 
 „Pakt,“ potvrdí Sarn. „Já ti dávám slovo, žádný formulář. Moje slovo jsi kdysi bral. Přidej se ke Smíření a tvoje Legie přežije válku, kterou Kondominium prohraje bez tebe i s tebou. To je nabídka. Stejná, jakou jsem dal šesti koloniím, které žijí. Stejná, jakou Soulad dal mně.“
 
-Reyever se dívá do prázdné mapy. Vidí v ní Vejvarův prázdný pancíř, Tichého na zádech u pultu pohonu, Daré a loď, kterou stín vzal za deset minut. Vidí čísla, která mu Sarn předložil, a nenajde v nich chybu, protože v nich žádná není.
+Reyever se dívá do prázdné mapy. Vejvarův pancíř. Tichý na zádech u pultu pohonu. Daré a loď za deset minut. Vidí čísla, která mu Sarn předložil, a nenajde v nich chybu, protože v nich žádná není.
 
 „Ne,“ řekne.
 
@@ -110,13 +110,13 @@ Reproduktor chvíli mlčí.
 
 „Sečetl,“ řekne Reyever. „Vyšlo mi totéž co tobě. Soulad je silnější. Kondominium padne. Smíření má v číslech pravdu.“ Odmlčí se. „A pořád ne.“
 
-„Proč.“ Není to v Sarnově hlase prosba. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. *Proč.* Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
+„Proč.” Sarn nežadoní. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
 
 „Protože strana, která přežije, není strana,“ řekne Reyever. „Je to počasí. Ty ses nepřidal k lidem, Dane. Ty ses přidal k tomu, co vyhraje. To je rozdíl, který ty nevidíš, a já ti ho nevysvětlím, protože kdybych ho uměl vysvětlit, dal by se přepočítat. A on se přepočítat nedá.“
 
 ---
 
-V MAPOVÉM STÁNÍ JE TICHO, do kterého úpí loď svou jedinou notou, a Reyever čeká, jestli Sarn vypne pásmo, nebo udeří, protože odmítl, a odmítnutí mívá cenu.
+V MAPOVÉM STÁNÍ JE TICHO, do kterého úpí loď svou jedinou notou, a Reyever čeká, jestli Sarn vypne pásmo nebo udeří.
 
 Sarn neudělá ani jedno.
 
