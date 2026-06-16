@@ -594,3 +594,64 @@ Stín nejde nahoru za Legií, ale zmizí stranou do proudu, který na mapách Ko
 - **„Ta věc se dá ranit"** (Daré, Vos) = naděje pronesená do aktu III (kap. 21 „Soulad krvácí").
 - **Cena oběti:** Daré + posádka Kovářky = první ztracená loď a první jmenovaná ztráta aktu II; morální zátěž „lehčí matematiky" (rezonuje s opuštěnou Sirte, kap. 7). Reyever opět obětoval menší část pro celek bez vysvětlování — potenciální nový bod napětí Vos × Reyever (vztah dle postavy.md).
 - **Stín stále NEIDENTIFIKOVÁN** (Soulad? Smíření/Sarn?) — táhne se dál; částečný vizuál (nedokreslená loď, rána skrz clonu) je první přímý dojem nepřítele v lodním měřítku (po vraku kap. 7 a souladské nákladní lodi kap. 9).
+
+---
+
+## Kap. 12 — „Opuštěná kolonie"
+
+> **AKT II (PŘESUNY).** Atmosférická, NEAKČNÍ kapitola — tonální zlom celé série: z koloniální/vesmírné špíny do existenční hrozby. Navazuje na kap. 11 — *Kovadlina* doplula k cíli stopy výzbroje (soustava za proudem, mělčina). Poprvé Legie vidí NA VLASTNÍ OČI, CO nepřítel dělá (Přerod). Žádný boj; hrůza je v KLIDU, tichu, symetrii, „zahradní" estetice.
+
+**POV:** mjr. Iliana Vos (vševědoucí 3. os., přítomný čas; ohnisko pevně u Vos — na povrchu planety s výsadkem). Vedlejší hlasy přes pásmo/dialog: Reyever (na *Kovadlině*), Hale, Brázda, Sálová, navigátor, Everett (zmíněn). Žádný střih do jiného POV.
+
+**Místo:** **kolonie Melass** (NOVÁ lokace) — lidská zemědělská kolonie PŘEROZENÁ Souladem; povrch planety za proudem v cílové soustavě (mělčina). Konkrétně: orbita (*Kovadlina* na okraji mělčiny) → sestup člunem → **náves kolonie Melass** (dlažba z pravidelných šestiúhelníků) → obytná buňka (lidský domov) → **kruhová „zahrada"** za posledními domy (vysázení mrtví) → člun. Souběžně Reyever na velitelském stání *Kovadliny*.
+
+**Denní doba / čas:** navazuje na kap. 11 (Legie unikla stínu, vyšplhala, plula dál po stopě výzbroje). Kapitola = jeden sestup výsadku a jeho průběh (řádově hodiny). Den na povrchu (zeleň viditelná, žádné noční scény).
+
+**Jmenované postavy (přesné tvary):**
+- **mjr. Iliana Vos** — POV; velí výsadku (10 lidí). Když je v napětí, ZTIŠÍ se (potvrzeno). Pravidlo „dívá se na to, co umřelo/opouští, aby věděla" — zde poprvé selže smyslem: neumí přečíst, na co se dívá. Pozná věci TĚLEM dřív než hlavou (odznak, vrak, žací plavidlo — potvrzený podpis).
+- **plk. Adan Reyever** — NEvystupuje fyzicky; jen HLAS z *Kovadliny* po pásmu. Úsporný, „nejtišší, když je nejhůř"; tady poprvé Vos slyší pod klidem „výpočet, který nevychází". Spojí Přerod s ideologií zajatce ze Sirte („hájíte mrtvolu / strana, která přežije"). Vydá rozkaz NESTŘÍLET, když se plavidlo odvrátí.
+- **št. rtm. Brannick „Kovář" Hale** — ve výsadku; obecná čeština, věcný, ztichlý. Pojmenuje paralelu: „Ono nás nechalo žít… stejně jako ten stín v mělčině. Von nás taky pustil." (most ke kap. 11).
+- **Brázda** — voják od těžké pušky (kap. 1/5/7); ve výsadku; všimne si, že chybí ptáci/hmyz, „nic nelítá, nic nebzučí". Sklopí pušku, „nemá ji kam namířit".
+- **svob. Sálová** — odstřelovačka Vosiny čety (kap. 3/5/7/9); ve výsadku; „nebojí se ničeho, ale mluví jako v kostele"; nejde dál do domu.
+- **navigátor** (bezejmenný, týž typ) — z *Kovadliny* po pásmu; zachytí žací plavidlo („velký jako město"), pak hlásí, že se plavidlo odvrací.
+- **Everett** — operátor zbraní *Kovadliny* (kap. 9); zmíněn, dostane rozkaz „hrdlo, až bude natočená", pak „nestřílej".
+
+**Klíčové události:**
+1. *Kovadlina* doplula k cílové planetě. Z orbity je planeta CELÁ ZELENÁ od pólu k pólu — jednolitá, nepřirozená zeleň. Navigátor: kolonie **Melass**, ~5 000 lidí, vodní zemědělství (řasy v nádržích pod plachtami), registrovaná před 12 lety. NA TÉTO PLANETĚ NEMÁ CO RŮST (špatné spektrum hvězdy, špatná půda) — a přesto je zelená.
+2. Vos vede sestup výsadku (10 lidí: Hale, Brázda, Sálová ad.), připravena na boj. Zblízka: zeleň je JEDINÁ donekonečna opakovaná rostlina, roste v dokonalých řadách bez oráče/setí, sklání se týmž směrem bez větru; má KOVOVÝ lesk (zelená jako natřený kov), ne přírodní.
+3. Člun dosedne na **náves Melassu**. HRŮZA V TICHU: ticho „plné" věcí, co mají dělat hluk a nedělají (žádní ptáci, hmyz, vítr). Dlažba návsi = pravidelné ŠESTIÚHELNÍKY (= táž mřížka jako vnitřní struktura cizí slitiny, kap. 5) — kanonická vizuální spojnice. Rostlina leze po lidských plechových domech USPOŘÁDANĚ (jeden stonek na roh, jeden list na okno).
+4. Vos vejde do obytné buňky: lidský domov zachovaný uprostřed života (hrnek se stopou rtěnky, ustlaná postel, dětská kresba, jedna bota). Rostlina vyrůstá ze škvíry v podlaze a kde se DOTKNE lidské věci, ta věc mění barvu do kovové zeleně a „rozpouští se a znovu zalévá do téhož tvaru z jiné látky". ŽÁDNÝ boj, žádná krev, žádné díry po cizí zbrani. Lidi nikdo nezastřelil — „uklidil".
+5. Za posledními domy: **kruhová „zahrada"** — soustředné kruhy stonků kolem středu; v každém stonku dole zapuštěný LIDSKÝ TVAR (ne tělo — obrys vepsaný do zelené látky, jako odlitek po rozpuštěné věci: ramena, loket, dlaň, ze které roste list). Všech ~5 000 obyvatel vysázeno do řad, přerostlých, srovnaných. Vos: „Tohle není válka. Tohle je zahradničení."
+6. Reyever po pásmu (dívá se shora na totéž) spojí Přerod s ideologií Sirte: tohle je „druhá strana" — co se stane se světem, který si NEVYBRAL správně (vazalství). Vos si vzpomene na umírajícího kolonistu ze Sirte („nechte nás přejít na správnou stranu") a teprve teď chápe tu hrůzu.
+7. **OBJEVÍ SE ŽACÍ PLAVIDLO:** navigátor hlásí obří kontakt stoupající z atmosféry na odvrácené straně planety, „velký jako město". Vos ho pozná TĚLEM. Popis (kanon): obrovské, tiché, BEZ hran/nýtů/švů/panelů, celé z jednoho kusu, narostlé (táž křivka jako cizí zbraň, jen tisíckrát větší), DOKONALE SYMETRICKÉ kolem středu = STONEK A DVĚ POLOVINY (= tvar „zahradního" odznaku z kap. 9/10, jen v měřítku lodi → „odznak nebyl symbol, byl portrét"). Ze spodku visí jemná hustá vlákna (kořeny/clona) dotýkající se povrchu — plavidlo PROVÁDÍ PŘEROD / SKLÍZÍ ÚRODU.
+8. Plavidlo se natočí přídí ke *Kovadlině* (je větší než tři *Kovadliny*). Reyever: „Bojová stanice. Everette. Hrdlo, až bude natočená." Vos ví, že *Kovadlina* je proti plavidlu to, co byla *Kovářka* proti stínu — jedna rána projde clonou. Čeká se rána.
+9. **RÁNA NEPŘIJDE / HOOK:** žací plavidlo se klidně ODVRÁTÍ od *Kovadliny* (jako se odvrací člověk od věci, která ho nezajímá), vtáhne vlákna a STOUPÁ pryč — ne proti Legii, ne útěkem. NEBOJUJE, NEUTÍKÁ, NEVYJEDNÁVÁ. V mělčině (kde *Kovadlina* hodinu úpěla) NEUVÁZNE — vyšplhá jednou hladkou křivkou do **proudu, který na lidských mapách není** (ozvěna kap. 8/10/11: nepřítel ovládá proudy mimo mapy). Reyever: „Nestřílej. Drž clony a nehýbej se."
+10. **POINTA (Vos pochopí, PROČ plavidlo nebojovalo):** stín v mělčině (kap. 11) je nechal jít, protože je SLEDOVAL. Žací plavidlo je nechalo jít z HORŠÍHO, prostšího důvodu — pro Soulad Legie NENÍ NEPŘÍTEL ani kořist. Plavidlo se podívalo na *Kovadlinu* a uznalo, že NESTOJÍ ZA RÁNU, jako se zahradník neshýbá pro každý kámen na poli (sebere ho, až bude úklid na řadě). Závěrečné údery: „Soulad s nimi nebojuje, protože válka je něco, co se vede mezi rovnými. A Legie pro něj není strana ve válce. / Je plevel, na který ještě nedošlo."
+
+**Ztráty:** ŽÁDNÉ (Legie). Žádný boj. Morální/existenční zásah: výsadek vidí Přerod na vlastní oči (5 000 vysázených kolonistů Melassu).
+
+**Co kdo ví (stav na konci kap. 12):**
+- **Vos ví:** viděla PŘEROD na vlastní oči — co Soulad dělá s „nemocnou" (lidskou) planetou (přepis biosféry, lidé „zasázeni"); viděla **žací plavidlo** a pochopila, že „zahradní" odznak (kap. 9/10) je PORTRÉT plavidla/Souladu; pochopila, že pro Soulad není Legie strana ve válce, jen „plevel, na který nedošlo". Pojmenuje termín „žací plavidlo" tělem, ne z evidence. STÁLE NEZNÁ jméno Souladu/Smíření jako organizace (slovo „Soulad" zde použito ve vyústění jako autorské/Vosino pochopení podstaty, ne jako pojmenovaná frakce, kterou by Legie znala — pozor na soulad s kap. 16, kde teprve přijde „Hlas Souladu" a doktrína se vysloví explicitně).
+- **Reyever ví:** totéž shora; spojil Přerod s ideologií Sirte; rozhodl NEVYPROVOKOVAT plavidlo (nestřílet). Pochopil měřítko hrozby (předjímá kap. 13, kde Legie s těží zničí žací plavidlo a Reyever „pochopí měřítko").
+- **Hale ví:** paralela „stín nás pustil / plavidlo nás nechalo žít" (most ke kap. 11).
+- **Mužstvo (Brázda, Sálová ad.)** vidělo Přerod — otřesení, ztichlí.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **kolonie Melass** = lidská zemědělská kolonie (~5 000 lidí, vodní zemědělství / řasy pod plachtami, registrace před 12 lety), za proudem v cílové soustavě; PŘEROZENÁ Souladem. KANONICKÁ první přerozená planeta, kterou Legie vidí. (Lidé „uklizeni" — vysázeni do zahrady; nelze je už použít jako živé.)
+- **PŘEROD vizuálně (kanon):** přepsaná biosféra = JEDNA donekonečna opakovaná rostlina, kovově zelená (lesk kovu), roste v dokonalých řadách bez setí, sklání se bez větru; leze po lidských stavbách uspořádaně (porce na roh/okno); kde se dotkne lidské věci, ta MĚNÍ barvu/látku do kovové zeleně (rozpuštění a přelití do téhož tvaru). Biosféra je TICHÁ — žádní ptáci, hmyz, vítr („ticho plné toho, co tam není“).
+- **„zahrada" Přerodu:** lidé nezabiti, ale „zasázeni" — soustředné kruhy stonků, v kořenech zapuštěné lidské OBRYSY (odlitky po rozpuštěných tělech). Hrůza v KLIDU/symetrii, ne v palbě (přesně dle bible: „úklid a posvěcení", planeta s lidským životem je „nemocná", Přerod ji „uzdraví").
+- **šestiúhelníková dlažba návsi Melassu** = táž pravidelná šestiúhelníková mřížka jako VNITŘNÍ struktura cizí slitiny (kap. 5) → kanonická vizuální spojnice „slitina = stejný autor = Soulad". Šestiúhelník = podpisový tvar souladské hmoty.
+- **ŽACÍ PLAVIDLO (první přímé spatření, KANON vizuálu):** loď Souladu provádějící Přerod. Obrovské (větší než tři *Kovadliny*, „velký jako město"), tiché, BEZ hran/nýtů/švů/panelů/antén — celé z jednoho kusu, „narostlé" (táž plynulá křivka jako cizí zbraň, tisíckrát větší). DOKONALE SYMETRICKÉ kolem osy = **stonek a dvě poloviny** = tvar „zahradního" odznaku (kap. 9/10) v měřítku lodi („odznak byl portrét“). Ze spodku visí hustá jemná VLÁKNA (kořeny/spuštěná clona), jimiž žne/přepisuje povrch. V mělčině NEUVÁZNE (souladská technika není vázaná lidskou mělčinou) — šplhá do **proudu mimo lidské mapy** (ozvěna kap. 8/10/11).
+- **Žací plavidlo NEBOJUJE s Legií — ODVRÁTÍ SE / USTOUPÍ.** Mohlo *Kovadlinu* zničit (jedna rána projde clonou, viz stín kap. 11), ale neudělá to. Důvod (kanonická pointa kap. 12): pro Soulad není Legie nepřítel ani kořist, jen „plevel/kámen na poli", na který ještě nedošla řada úklidu. Posiluje motiv „nepřítel nás pustil" (kap. 11) a „proč nás nezabil" — a překlápí ho z „sleduje nás" (stín) do „nepovažuje nás za soupeře" (plavidlo). NESTŘÍLET = Reyeverovo rozhodnutí (nevyprovokovat).
+- Vosin podpis potvrzen: ztišuje se v napětí; dívá se na to, co umírá/opouští — zde poprvé NEUMÍ to přečíst; pozná věci tělem dřív než hlavou.
+
+**Jak kapitola končí:**
+Žací plavidlo se klidně odvrátí od *Kovadliny* a vyšplhá do proudu mimo mapy, aniž s Legií bojuje. Vos pochopí, PROČ: pro Soulad není Legie strana ve válce. Pointa ve dvou úderech: „Soulad s nimi nebojuje, protože válka je něco, co se vede mezi rovnými. A Legie pro něj není strana ve válce. / Je plevel, na který ještě nedošlo."
+
+**Otevřené nitky pro další kapitoly:**
+- **První přímé spatření Přerodu i žacího plavidla** → tonální zlom dotažen; přímo navazuje kap. 13 „První kontakt" (Legie s těží zničí žací plavidlo, první přímý STŘET se Souladem, vysoká cena; ve vraku najdou lidské tělo v souladské funkci = kolaborant).
+- **„Plavidlo nás nechalo žít, protože nejsme soupeř"** = vrchol motivu „nepřítel nás pustil" (kap. 11) → živí Reyeverovo pochopení měřítka (kap. 13) a Vosino téma „nepřítel není jen cizí" (kap. 17); kontrast k Smíření, které pro Soulad „cenu" má (vazalové).
+- **„Zahradní" odznak = portrét žacího plavidla/Souladu** → pojí symbol Smíření (Renn, kap. 10) přímo se Souladem; předjímá odhalení, že Smíření slouží Souladu (kap. 14–18) a estetiku Souladu (kap. 16).
+- **Žací plavidlo šplhá do proudu mimo mapy** (počtvrté: kap. 8/10/11/12) = potvrzení souladské geografie → předehra k proudovému uzlu (kap. 20).
+- **Kolonie Melass přerozena** = první konkrétní cena doktríny Přerodu; morální/existenční zátěž Legie veze dál (rezonuje s opuštěnou Sirte a Daré).
+- POZOR na soulad s aktem III: slovo „Soulad" je v kap. 12 použito jako Vosino/autorské pochopení PODSTATY nepřítele, ne jako Legii známé jméno frakce; explicitní doktrína a „Hlas Souladu" přicházejí až kap. 16 — držet, aby kap. 13–15 nepředběhly odhalení.

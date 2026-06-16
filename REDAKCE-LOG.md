@@ -280,6 +280,28 @@ Cílené škrty mrtvých zesilovadel, frázovité vaty a kostrbatých vazeb. Kap
 
 ---
 
+## Roman — Military SF (*Prach a soulad*)
+
+### cestina-strazce — kap. 12 (Opuštěná kolonie) — 2026-06-16
+
+**Soubor:** `roman/rukopis/12-opustena-kolonie.md`
+
+**Zásahy: 1**
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Brázda nese těžkou pušku, kterou neměl na co namířit` | `…kterou nemá na co namířit` | E1 |
+
+**Uvozovky:** „ = 18, " = 18, ASCII " = 0. Párování v pořádku.
+
+**Přechodníky:** 0 nalezeno.
+
+**Redundantní svůj:** 0 nalezeno.
+
+**K posouzení (hlas-strazce):** Řádek 13, přímá řeč navigátora: `Spektrum hvězdy je špatný` — adjektivum mužského rodu u substantiva středního rodu (`spektrum`). Může jít o záměrný hovorový nesoulad (navigátor ve stejné replice říká `jo`, text je obecná čeština vojáka), nikoli o chybu. Neopraveno. `k posouzení hlas-strazce`.
+
+---
+
 **Počet zásahů:** 49
 
 **Tři nejčastější vzorce:**
