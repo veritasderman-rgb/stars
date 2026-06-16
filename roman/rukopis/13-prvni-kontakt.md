@@ -4,11 +4,11 @@ DRUHÉ ŽACÍ PLAVIDLO NAJDOU TŘI DNY POTÉ, co první odplulo cestou, kterou L
 
 Reyever stojí na velitelském stání *Kovadliny*, ruce za zády, a dívá se na obrazovku, kde se ze tmy vynořil tvar, který už zná. Tahle planeta je teprve napůl: z jedné polokoule šedne pouštní svět, z druhé už leze ta jednolitá kovová zeleň jako plíseň přes pomeranč. A na hranici mezi tím, co byla, a tím, co z ní bude, visí žací plavidlo a žne.
 
-„Stejné jako u Melassu,“ řekne navigátor. Hlas má tišší než obvykle. „Bez majáku, bez kódu. Stonek a dvě poloviny. Větší než tři *Kovadliny*.“
+„Stejné jako u Melassu,“ řekne navigátor. Hlas tišší než obvykle. „Bez majáku, bez kódu. Stonek a dvě poloviny. Větší než tři *Kovadliny*.“
 
 „Vím, jak je velké,“ řekne Reyever.
 
-Vedle něj stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko. Nejnebezpečnější nepřítel je ten, kdo se na tebe podívá a nevidí soupeře, jen práci na později.
+Vedle stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko. Nejnebezpečnější nepřítel je ten, kdo se na tebe podívá a nevidí soupeře, jen pozdější práci.
 
 „Plukovníku,“ řekne Vos tiše. „Minule jste řekl nestřílet.“
 
@@ -26,11 +26,11 @@ Nechá to viset ve vzduchu. Hale stojí u stěny, šmouhu oleje na předloktí. 
 
 „Tak proč tu stojíme,“ zeptá se Everett. Klidně, jako čte seznam zásob.
 
-„Protože jsem se neptal, jestli ho zničíme,“ řekne Reyever. „Ptal jsem se, jestli ho zabijeme.“
+„Protože jsem se neptal, jestli ho zničíme. Ptal jsem se, jestli ho zabijeme.“
 
 Přejde k mapě. „Plavidlo žne. Visí v mělčině, vlákna spuštěná do atmosféry. Dokud žne, nemůže pryč — vlákna ho drží u země jako kotva. A v mělčině je pomalé jako my. Natáhnout vlákna a vyšplhat, to chvíli trvá; u Melassu jsem ty vteřiny počítal. Dost na to, aby se k němu loď dostala dřív, než zvedne kotvu. Ale jenom k hrdlu nebo k zádi. Do clony nemá smysl pálit nic.“
 
-Hale se ozve od stěny. Obecná čeština, suchá, pomalá. „To znamená dostat se mu za záda, dokud má hubu plnou planety. A k tomu ho musíš donutit, aby se otočil zlou stranou k tobě. A von se neotočí, protože mu na tobě nesejde. Nedáš ránu věci, která se na tebe nepodívá.“
+Hale se ozve od stěny. Suchá, pomalá obecná čeština. „To znamená dostat se mu za záda, dokud má hubu plnou planety. A k tomu ho musíš donutit, aby se otočil zlou stranou k tobě. A von se neotočí, protože mu na tobě nesejde. Nedáš ránu věci, která se na tebe nepodívá.“
 
 „Nepodívá se na nás,“ souhlasí Reyever. „Podívá se na to, co děláme.“ Otočí mapu k planetě. „Plavidlo žne úrodu. Když mu ji vezmeš, musí se otočit a chránit ji — proto sem přiletělo. Zahradník se neshýbá pro kámen na poli. Shýbne se, když mu někdo šlape po záhonu.“
 
@@ -88,7 +88,7 @@ Navigátor přepočítá, Reyeverovým způsobem. „Vlákna stahuje. Dvě minut
 
 „Tak máme dvě minuty. Hale. Tlač. Chci se mu dostat za záď dřív, než zvedne kotvu.“
 
-„Tlačím, plukovníku,“ řekne Hale. „Drž se něčeho.“
+„Tlačím,“ řekne Hale. „Drž se něčeho.“
 
 ---
 
@@ -134,7 +134,7 @@ Neřekne *pal*. Řekne *teď*, protože tohle není salva do boku konvoje. Tohle
 
 Everett vyprázdní *Kovadlinu*. Každá střela, kterou loď nese, odejde do nekryté zádě v jediné vlně, k tomu bodu, kde se narostlá symetrie té věci sbíhá do hrdla pohonu, do místa, kde i zahradník musí mít kořen.
 
-První střely se roztříští o nic, jak plavidlo na poslední chvíli stáhne kus clony přes záď — ale clona se přes záď nedá natáhnout celá, nikdy, ani u nich, a tahle byla pozdě. Zbytek projde.
+První střely se roztříští o nic, jak plavidlo na poslední chvíli stáhne kus clony přes záď — ale clona se přes záď nedá natáhnout celá, nikdy, ani u nich, a tahle je pozdě. Zbytek projde.
 
 ---
 
@@ -186,7 +186,7 @@ Klín naplno. Gradient přestane padat rovnoměrně, na vteřinu se zlomí, a lo
 
 A *Kovadlina* vrazí klín do nekrytého hrdla. Ne střelou. Klínem. Celou hmotou těžkého křižníku do jediného místa, kde se ta narostlá věc nemůže krýt, protože je otevřená sama o sobě.
 
-Reyever neslyší výsledek. Slyší jen ticho po zásahu, ve kterém loď přestane úpět, protože se buď zlomila, nebo přežila, a v té vteřině není jasné co.
+Reyever neslyší výsledek. Slyší jen ticho po zásahu, ve kterém loď přestane úpět, protože se buď zlomila, nebo přežila.
 
 Pak naskočí nouzové světlo, červené, slabé. A na obrazovce, která se chvěje a šumí, je žací plavidlo rozlomené napůl.
 
@@ -200,7 +200,7 @@ Stonek a dvě poloviny. Rozpůlené po stonku.
 
 „Plavidlo vyřazené,“ řekne navigátor. A pak, protože tomu nevěří, ještě jednou: „Plukovníku. To plavidlo je mrtvý.“
 
-Na můstku nikdo nezajásá. Reyever stojí u zábradlí, drží si bok, a dívá se na první žací plavidlo Souladu, které kdy lidská loď zabila. Tohle není jednotka, která jásá. Mlčí, protože právě zjistila, kolik to stálo.
+Na můstku nikdo nezajásá. Reyever stojí u zábradlí, drží si bok, a dívá se na první žací plavidlo Souladu, které kdy lidská loď zabila. Tohle není jednotka, která jásá. Mlčí, protože zjistila, kolik to stálo.
 
 „Hale,“ řekne Reyever do pásma. „Hlas se mi.“
 
@@ -208,7 +208,7 @@ Chvíli nic. Pak, zdola, z trosek pohonu, unavený, chraplavý, živý: „Sme l
 
 Reyever zavře oči, jen na vteřinu. „Ztráty.“
 
-„Dost,“ řekne Hale. „Na jednu loď dost.“
+„Dost,“ řekne Hale. „Na loď dost.“
 
 ---
 
@@ -238,7 +238,7 @@ Je mrtvý. Zabil ho zlom — tlaková vlna, která prošla plavidlem, když ho *
 
 Ze zátylku mu vychází do stěny komory svazek jemných vláken té cizí slitiny barvy mokré břidlice a mizí v narostlé hmotě jako kořen v půdě. Ne pojistka. Ne zbraň. Spojení. Ten člověk byl do žacího plavidla zapojený zátylkem jako navigátor s lodí, jako ruka s nástrojem.
 
-Vos se přinutí podívat se mu na hruď.
+Vos se přinutí podívat mu na hruď.
 
 Na uniformě má odznak. Čistší linie, světlý kov, ne ta břidlicová slitina. Dvě poloviny, které jsou si zrcadlem, sevřené kolem středu, ze kterého vychází stonek. Ten samý odznak, jaký nosil důstojník z konvoje. Ten samý tvar, jaký měla nad hlavou žací plavidlo.
 

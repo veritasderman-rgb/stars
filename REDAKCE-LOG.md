@@ -1374,3 +1374,35 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **E1:** Ověřeno. Scéna Renniny návštěvy cely je přítomný narativ; „žádala" bylo nechtěné glide do minulého času. Opraveno na „žádá". Ostatní minulé časy v kapitole jsou legitimní retrospektivní vsuvky (ř. 9, 25, 59, 87, 135).
 - **E2 — uvozovky:** Počet „ (U+201E) = 40, počet " (U+201C) = 40, ASCII uvozovek (U+0022) = 0. Stav ověřen.
 - **E3–E9:** Bez dalších nálezů nad rámec předchozího průchodu.
+
+---
+
+## Jazyková kontrola — roman/rukopis/ (vojenská SF, Prach a soulad)
+
+### Kapitola 13 — První kontakt
+
+**Soubor:** `/home/user/stars/roman/rukopis/13-prvni-kontakt.md`
+**Vrstva:** E (mechanická čeština), průchod cestina-strazce
+**Datum:** 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `tahle byla pozdě` (ř. 137) | `tahle je pozdě` | E1 — prokluz do minulého času uprostřed akční scény v přítomném čase |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 1 oprava (ř. 137). Ostatní výskyty minulého času jsou legitimní: vsuvky s minulostí (ř. 11, 13, 25, 41), přímá řeč odkazující na minulost (ř. 13, 73, 219), reference na historické události Legie (ř. 25, 57, 167). K posouzení hlas-strazce: ř. 239 „Ten člověk byl do žacího plavidla zapojený" — minulý čas v narativní scéně, ale sémanticky odůvodněný (popisuje vztah existující před smrtí; člověk je mrtvý); násilná oprava by oslabila smysl. Doporučuji ponechat.
+- **E2 (uvozovky):** Počet „ (U+201E) = 57, počet " (U+201C) = 57, ASCII uvozovek (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu.
+- **E4 (anglikalky):** Bez nálezu.
+- **E5 (redundantní svůj):** Bez nálezu.
+- **E6 (přechodníky):** Bez nálezu.
+- **E7 (berličky):** 1× „najednou" (ř. 151) — funkční, bez hromadění, ponecháno.
+- **E8 (dvouvrstvost rejstříku):** Správná — vypravěč spisovný, Hale obecná čeština (seš, malej, poctivýho, dneska, tý věci, sme), Tichý hovorový. Nesahat.
+- **E9 (terminologie):** Čisto. Soulad (velké), Legie (velké), žací plavidlo (malé), mělčina/hrdlo/klín/clona/proudy (malá). Konzistentní.
+- **Překlepy/pravopis:** Bez nálezu.
+- **Klitika a slovosled:** Bez nálezu.
+
+**Celkem zásahů: 1**
