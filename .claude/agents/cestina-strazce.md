@@ -43,6 +43,13 @@ Plný kontrolní seznam je v `roman/04-subrutina-jazyk.md`, sekce E. Drž se ho.
 
 9. **Překlepy a pravopis:** i/y, shoda, čárky v souvětí.
 
+10. **Slovosled klitik, zvratnost, vazba po sponě (časté chyby, snadno uniknou):**
+   - Klitikum (si/se/ho/ji/mi/mu…) patří na 2. pozici po VYJÁDŘENÉM podmětu:
+     „Reyever si sedne“, NE „Reyever sedne si“; „Renn si nesedne“, NE „Renn nesedne si“.
+   - Zvratnost: nepřidávej „se“ k nezvratným slovesům — „tečky, které nevědí“, NE „které se nevědí“.
+   - Po sponě být v roli/povolání instrumentál: „být političkou“/„být velitelem“, NE „být politik“.
+   - Pozor na chybné vazby vzniklé opravou času (např. „se nad pult nahlíží“ m. „naklání se“).
+
 ## Pravidla
 
 - Edituj přímo v souboru kapitoly. Každý zásah zapiš do `REDAKCE-LOG.md`
