@@ -772,3 +772,30 @@ Renn odletí doprovodným člunem do proudu mimo mapy. Vos shrne Reyeverovi v do
 - **„Strana, která přežije, na ně počká u uzlu"** (kap. 10) → Renn odešla touž logikou; předjímá proudový uzel (kap. 20) a setkání u něj.
 - **Defekce kolonií** = klín Smíření v praxi; morální šeď (Smíření má pravdu v číslech) → Vosino téma „nepřítel není jen cizí" (kap. 17).
 - **Doprovod/stín u mělčiny** poslal Renn člun → potvrzuje, že stín (kap. 8/11) je spjat se Smířením/Souladem a „čekal"; rezonuje s „nepřítel nás pustil" / „připravení poslouchat u uzlu".
+
+## Kap. 15 — „Spolužák" (KONEC AKTU II)
+
+**POV:** Reyever. Dějiště: *Kovadlina* (velitelské stání → mapové stání), 6. den oprav, 3 dny po Rennině odchodu. Spojení na dálku.
+
+**Klíčové události:**
+1. Z proudu mimo mapy (kde se celou dobu držel „stín") se ozve nosič bez majáku/kódů, vysílá otevřeně a volá Reyevera JMÉNEM. = ten, kdo Legii celou dobu sledoval.
+2. **ODHALENÍ:** je to **admirál Dane Sarn**, Reyeverův spolužák z akademie, nyní vůdce Smíření. (Stín = Sarnův nosič.) Backstory: na akademii byl Sarn vzorný (řešil nahlas), Reyever řešil dřív a mlčel; ve cvičné bitvě Sarn prohrál o jeden tah (Reyever udělal chybu schválně); od té noci nejsou přátelé.
+3. Sarn naplno pojmenuje **Smíření** a jeho logiku: Kondominium stahuje flotily a Legii odepsalo; Soulad nechce dobýt lidstvo, vybírá si světy a přepisuje je (Melass = 5000 lidí = zahrada); nabídka Souladu = dej vybrané světy, zbytek si nech jako vazal/správce, kdo se vzepře, je Přerozen. „Pozvánka, ne hrozba." Sarn: **„Mám pravdu v číslech."** 6 kolonií, které ho poslechly, žije.
+4. Sarn nabídne **PAKT**: přidej se ke Smíření (ne ke Kondominiu), Legie přežije, bude hlídat vykoupené světy; „nikdo po tobě nechce obracet zbraně proti svým"; jeho slovo, ne formulář.
+5. Reyever ODMÍTNE: spočítá totéž co Sarn (Soulad silnější, Kondominium padne, Smíření má v číslech pravdu) — a přesto NE. Klíčová replika: **„Strana, která přežije, není strana. Je to počasí. Ty ses nepřidal k lidem, Dane. Přidal ses k tomu, co vyhraje."**
+6. **HOOK (konec Aktu II):** Sarn prozradí, že **Sirte byla nastražená Smířením** — zbraně u farmářů, zajatec znající Reyeverovo jméno (umlčel se implantátem), Renn jako najímatelka, antedatovaná depeše: vše TEST, jestli je Reyever pořád ten z akademie (nezkažený Kondominiem). Reyever „prošel". „Smíření tě nenašlo, Adane. **Poslali jsme tě tam.**"
+
+**Co kdo ví (nově):**
+- Reyever (a čtenář): Smíření vede Sarn; Sirte byl test; Soulad je nepřemožitelný v číslech; Reyever přesto odmítl pakt.
+- Sarn anticipoval odmítnutí („na druhý pokus tě spočítám").
+
+**Nové detaily/fakta (držet):**
+- **adm. Dane Sarn** — vůdce Smíření, Reyeverův spolužák; mluví klidně, racionálně, VYSVĚTLUJE (zrcadlo Reyevera); jeho „proč?" z akademie je leitmotiv. Stín = jeho nosič v proudech mimo mapy.
+- Smíření = vykoupilo už 6 lidských kolonií (žijí jako vazalové Souladu).
+- Renn je „v bezpečí" u Sarna; „splnila, co měla, stojí ji to víc, než si myslíš."
+- **Vejvar** (nováček z kap. 1) PADL — zmíněn jako „prázdný pancíř" mezi ztrátami (spolu s Tichým, Daré/Kovářkou). [Zpětně zařadit jako padlého v některé bitvě Aktu II.]
+- Reyeverovo prasklé žebro (z kap. 13) stále bolí — časová kotva oprav (6. den).
+
+**Jak končí:** „Poslali jsme tě tam." — Legie byla Smířením testována/navedena už od Sirte.
+
+**Otevřené nitky (→ Akt III):** co teď Reyever udělá s odmítnutím; co je „uzel", kam Smíření Legii vede; přímý hlas Souladu (zatím jen přes Sarna); Rennin osud; jak Legie obrátí čísla.
