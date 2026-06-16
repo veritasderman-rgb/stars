@@ -440,3 +440,64 @@ Kontakt v proudu se nedá setřást (drží odstup = doprovod, ne hon). Navigát
 - **Kovadlina** zavedena jako domovská loď — držet název a typ (těžký křižník) ve všech vesmírných scénách.
 - **Vos** na můstku, nese vzorek dál; její pátrání po původu výzbroje pokračuje (kap. 9 přepad konvoje).
 - **Reyeverova doktrína proudů** („past, kterou udělala galaxie") = předehra k jeho finálnímu využití proudů jako pasti v kap. 20.
+
+---
+
+## Kap. 9 — „Konvoj"
+
+> **AKT II (PŘESUNY).** První vesmírná BOJOVÁ akce Legie. Navazuje bezprostředně na kap. 8 (doprovod v proudu) — Legie pluje po 6. hladině, doprovod stále za zádí. Žánrově: hutná flotilní bojová scéna + překlopení k existenční hrozbě přes lidskou tvář nepřítele.
+
+**POV:** mjr. Iliana Vos (vševědoucí 3. os., přítomný čas; ohnisko pevně u Vos). Vedlejší hlasy přes dialog: Reyever, Hale (po pásmu), navigátor, operátor zbraní Everett, Brázda. Závěr: výslechová/zajatecká scéna na palubě cizí lodi.
+
+**Místo:** velitelský můstek **Kovadliny** (bojový režim) → 6. hladina, gravitační proud (návaznost kap. 8) → honička dolů hladinami ke **mělčině** systému → **paluba zajaté cizí nákladní lodi** (úzké chodby, teplá světla, „skleníkový"/rostlinný pach, plynulé „narostlé" tvary — ozvěna cizí zbraně). Vně: tma bez hvězd, proud, mělčina u hvězdy.
+
+**Denní doba / čas:** navazuje na kap. 8; Legie stále v proudu na 6. hladině, doprovod za zádí drží odstup. Celá kapitola = jedna bojová akce + zajištění zajaté lodi (řádově hodiny).
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **mjr. Iliana Vos** — POV; velí přepadové četě na zajaté lodi; když naštvaná/v napětí, ZTIŠÍ se; obchází/dívá se na to, co zabila/zajala; pozná „setinu vteřiny, kdy tělo dohání tvář" (naučená od Reyevera).
+- **plk. Adan Reyever** — velí bitvě z můstku; úsporný, hlas nezvyšuje; taktická doktrína (klín čelem, natočit bok, křížení T, dostat se k hrdlu/zádi). Rozkaz: tři uprchlíky nahoru NEHONIT („zabije je řeka"), dvě dolů ke mělčině zajmout; jednu ochromit střelou do klínu (ne do trupu), posádku ŽIVOU.
+- **št. rtm. Brannick „Kovář" Hale** — u pohonu dole, hlas po vnitřním pásmu; obecná čeština, řemeslné metafory („tady nahoře se to spravuje blbě", „ať se vrátíme s lodí, ne s kýblem dílů"); pak fyzicky v přepadové četě na cizí lodi (těžká puška).
+- **Everett** — NOVÁ jmenovaná postava: **operátor zbraní Kovadliny**, Vos ho zná 8 let, nikdy nezvýší hlas, hlásí čísla jako seznam zásob. (Vést dál jako stálici můstku.)
+- **navigátor** (bezejmenný, týž typ jako kap. 7/8) — hlásí kontakty, formaci, výsledky palby; věcný, obecná čeština.
+- **zajatý cizí důstojník** — NEPOJMENOVÁN; padesátník, šedý na spáncích, klidné ruce; uniforma jiného střihu než kondominijní (čistší linie); na hrudi **neznámý odznak** (viz hook). Klidný klidem člověka, který „spočítal víc věcí". Idiolekt předjímá Sarna/Smíření.
+- Zmíněn **doprovod za zádí** (z kap. 8) — stále tam, drží odstup, „kouká"; Reyever ho nechá být.
+
+**Klíčové události:**
+1. Legie zachytí v proudu **konvoj cizí výzbroje**: 5 nákladních + 1 eskortní křižník (menší než Kovadlina). Formace: eskorta vpředu, náklad za ní. Reyever: chyba — „štít před sebe, ne za sebe". Plují bezstarostně, doprovod Legie je zezadu nevidí.
+2. **Bojová stanice tiše** (bojový červený režim světel). Reyever nepřijde zepředu (proti klínu se nestřílí) — přijde **z boku a seshora**, do roviny, kterou eskorta nekryje; cíl dostat se jí k **hrdlu/zádi** (křížení T).
+3. **Palebná výměna (fyzika dějem):** Kovadlina pošle 1 střelu z hrdla naslepo → eskorta natočí **bok s clonou** proti střele, sežere ji → tím odkryje rovinu, kam Kovadlina mezitím vyšplhala. Boční baterie do odkrytého boku (3 roztříštěny o zbytek clony, 2 prošly) → eskorta ztratí clonu na pravém boku.
+4. **Křížení T dokoná:** Kovadlina křižuje dráhu eskorty, nutí ji volit (klín čelem = odkrytý bok / chránit bok = odkryté hrdlo). Eskorta se otočí hrdlem → odkryje **záď** (clony tam nesahají) → salva do nekryté zádě/hrdla pohonu → **eskorta vyřazena** (klín studený, neplave). Na můstku nikdo nejásá („jednotka, která počítá, ne jásá").
+5. **Náklad se rozprchne:** 3 lodě šplhají nahoru (7./8. hladina) — Reyever je NECHÁ být („zabije je řeka", hloubka kouše); 2 prchají dolů ke mělčině — ty chce (řídí je „někdo, kdo se nebojí" / ví, co veze).
+6. **Honička ke mělčině:** jedna z dvou se vzdá sama; druhá se cpe do mělčiny, aby ji Kovadlina nemohla následovat. Everett ji ochromí **jedinou střelou do hrdla klínu** (ne do trupu/lidí) → klín studený, trup celý, „plave, ale nikam nedojede".
+7. **Přepad zajaté lodi:** Vos vede přepadovou četu (Brázda s těžkou puškou) dokovacím límcem. Cizí loď: úzké chodby, teplá světla, **sladký/rostlinný „skleníkový" pach**, plynulé „narostlé" tvary (ozvěna slitiny). **Posádka = LIDÉ** (lidské hlasy, ruce, tváře; vzdávají se, prosí). Vos to zasáhne — doufala, že nepřítel bude mít konečně nelidskou tvář; nemá.
+8. **Náklad zajaté lodi:** stovky beden cizích zbraní (matná břidlicová slitina, bez závěru/zásobníku, lehké, plné, totéž **nelidské značení** v rohu jako kap. 1/5). Ne pašování — **zásobování** („na vyzbrojení celé planety"). Někdo skládá armádu z lidí a zbrojí ji nelidskou věcí.
+9. **HOOK — odznak:** mezi zajatci jeden **cizí důstojník**, který neklečí jako ostatní; klidný. Na hrudi **odznak, který Vos NEZNÁ** — ne Kondominium, ne kolonie, ne velmoc. Z obyčejného leštěného světlého kovu (NE z břidlicové slitiny). Tvar: **dokonale symetrický, „zahradní"** — dvě zrcadlové poloviny kolem středu, stonek/rozvíjející se list, „rostlina vypěstovaná do tvaru, který v přírodě nevyrostl"; klidný, ne dravý, ne vojenský. Hrůza v KLIDU (předznamenává estetiku Souladu/Smíření, ještě nepojmenované). Důstojník Vos řekne, že odznak je **„strana, která přežije"** — táž věta jako umírající farmář na Sirte (kap. 3) / zajatec (kap. 4) — JENŽE on tomu **věří** (není naváděný proxy). Pointa: nepřítel poprvé dostává sebevědomou, přesvědčenou lidskou tvář.
+
+**Ztráty / cena:**
+- Nepřítel: eskortní křižník vyřazen (klín studený); ~3 nákladní uniknou nahoru (pravděpodobně zničeny turbulencí, nepotvrzeno); 2 zajaty (1 vzdána, 1 ochromena střelou do klínu). Posádky lidské, zajaté živé.
+- Legie: bez explicitně jmenovaných ztrát v této akci (čistý taktický zásah). Morální cena: potvrzení, že nepřítel bojuje lidskýma rukama (proxy) + první přesvědčený kolaborant.
+
+**Co kdo ví (stav na konci kap. 9):**
+- **Vos ví:** konvoj vezl cizí výzbroj v MNOŽSTVÍ (zásobování, ne pašování); posádky jsou lidé; existuje **odznak/strana**, kterou nezná, „zahradní" estetiky; věta „strana, která přežije" má teď přesvědčeného nositele (ne naváděného farmáře). NEZNÁ jméno organizace/Souladu/Smíření; neví, že odznak = symbolika Souladu/Smíření.
+- **Reyever ví:** dokázal flotilní doktrínu v praxi (klín/clony/křížení T); má živou zajatou loď + náklad + zajatce k výslechu; doprovod za zádí stále nechal být (kouká).
+- **Doprovod (neznámý)** stále za zádí, neidentifikován (nit z kap. 8 trvá → kap. 11).
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **Everett** = operátor zbraní Kovadliny, Vos ho zná 8 let, nikdy nezvýší hlas (nová stálice můstku).
+- **Flotilní doktrína v praxi (kanon):** nestřílet skrz vlastní **kýlový klín** (kryje shora/zdola) → palba do **boků** (chráněných **clonami**) a do **hrdla**; **clony nesahají na hrdlo a záď** → cíl = dostat se nepříteli k **hrdlu/zádi**; **křížení T** = přetnout nepřátelskou dráhu napříč a donutit ho odkrýt bok nebo záď. Relativistické **střely** (naváděné, nepřítel je vidí přiletět a stačí natočit clonu). Taktika „1 střela jako finta → nepřítel natočí clonu → udeř do odkryté roviny".
+- **Ochromení místo zničení:** střela do **hrdla klínu** (ne do trupu) = klín studený, trup/posádka celé → způsob, jak vzít loď živou.
+- **Hloubka kouše (z kap. 8) potvrzena takticky:** uprchlíky hnané panikou do 7./8. hladiny netřeba honit — „zabije je řeka".
+- **Cizí (souladská) loď zevnitř:** úzké chodby, teplá světla, **sladký rostlinný „skleníkový" pach**, plynulé „narostlé" tvary (estetika shodná s „vyrostlou" slitinou z kap. 1/5). KANON pro další souladské lodě (žací plavidlo kap. 12/13).
+- **Cizí výzbroj v MNOŽSTVÍ:** stovky kusů v bednách = zásobování, ne pašování; potvrzuje organizovanou armádu z lidských proxy zbrojených nelidskou věcí.
+- **„ZAHRADNÍ" ODZNAK:** symetrický (dvě zrcadlové poloviny + stonek/list), z leštěného světlého kovu (NE břidlicová slitina), klidný/nedravý; hrůza v klidu. KANONICKÝ vizuál — předznamenává estetiku **Souladu/Smíření** (bible: „zahradní estetika, čistota, symetrie, ticho"). Vos ho zatím NEUMÍ pojmenovat.
+- **„Strana, která přežije"** = táž ideologická věta (kap. 3/4), ale poprvé z úst **přesvědčeného** člověka, ne naváděného proxy → eskalace ideologie Smíření.
+
+**Jak kapitola končí:**
+Vos se zeptá důstojníka, co je ten odznak. Důstojník: „To je strana, která přežije." Vos pozná tu větu (Sirte, kap. 3/4) — ale tentokrát ji neříká naváděný farmář, nýbrž člověk, který tomu věří. Pointa ve dvou úderech: nepřítel má pořád lidskou tvář; a teď ta tvář v to věří.
+
+**Otevřené nitky pro další kapitoly:**
+- **„Zahradní" odznak + přesvědčený důstojník** = první konkrétní vizuál a hlas hnutí (Smíření/Soulad, nepojmenováno) → živí kap. 10 (Kondominium zapírá), 14 (stopa ke Smíření), 15 (Sarn). Vos teď má tvář a symbol, které chce pojmenovat.
+- **Zajatý důstojník + náklad zbraní + zajatá loď** = materiál k výslechu/politické konfrontaci (kap. 10 velení popírá, že kdokoli kohokoli zbrojí — Legie má důkaz v podpalubí).
+- **Doprovod za zádí** neidentifikován dál (nit kap. 8 → kap. 11 „Mělčina").
+- **Lidská tvář nepřítele potvrzena** (proxy s vírou) → morální šeď Smíření (bible: „mají v číslech pravdu", nekarikovat); předjímá Vosino téma „nepřítel není jen cizí" (kap. 17).
+- **Everett** zaveden jako použitelná postava můstku do bojových kapitol (11, 20).
