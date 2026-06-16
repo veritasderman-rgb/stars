@@ -167,3 +167,53 @@ Umírající kolonista pronese naučenou frázi „nechte nás přejít na sprá
 - Cizí zbraň potvrzena jako bojově nadřazená (probíjí pancíř) — sílí mystérium původu (akt I), propojit s rozborem, který Vos teprve dostane (kap. 2/5/7).
 - **svob. Sálová** zavedena jako použitelná vedlejší postava Vosiny čety do dalších kapitol.
 - Potenciální budoucí pozornost: zda Vos někdy zjistí, že Reyever řešil týž den totéž (frázi i farmáře) na druhé straně města.
+
+---
+
+## Kap. 4 — „Zajatec"
+
+**POV:** plk. Adan Reyever (vševědoucí 3. os., přítomný čas; ohnisko pevně u Reyevera, žádný střih do jiného POV). Hale vstupuje až v závěru po Reyeverově zavolání.
+
+**Místo:** **výslechová místnost na základně Legie** nad městem Sirte — vlastně **vyklizená skladovací buňka** (stopy po paletách v prachu, nízký strop, jedna nekrytá lampa na kabelu, ostré bílé světlo, stůl z lisovaného plechu přišroubovaný k podlaze, dvě židle). Pach oleje, prachu, přechlazené klimatizace; v pozadí tlumené dunění kompresoru základny. Závěr: chodba před buňkou.
+
+**Denní doba / čas:** **téhož dne jako kap. 1–3**, několik hodin po přepadu kolektoru. Zajatce nechal Reyever před výslechem dvě hodiny čekat.
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **plk. Adan Reyever** — POV; úsporný, čte tělo (ruce/ramena, ne oči), nezvyšuje hlas; pravidlo „potřetí = rozkaz" použito při třetím dotazu na jméno; nedotýká se mrtvého ani cizího kovu holou rukou.
+- **„velitel povstalců" / spojka** — zajatec, NEPOJMENOVÁN (jméno odmítne sdělit, sám říká „říkejte mi velitel povstalců"). Chladný pragmatik, ne fanatik (idiolekt jako Sarn/Smíření — proto-ideolog, klidný, racionální, věcný). Posledni zajatec z noci u kolektoru; zůstal dobrovolně, aby viděl, „kdo přijde". Ne farmář: čisté ruce, nehty bez prachu Sirte, bez přízvuku pohraničí — „přiletěl, nepřišel z pouště". Umírá ve výslechu (viz události).
+- **št. rtm. Brannick „Kovář" Hale** — vstupuje na konci po zavolání; potvrdí, že zátylek mrtvého HŘEJE (ne chladne), diagnostikuje skrytou „pojistku" ze stejného cizího kovu jako zbraně farmářů.
+- **mjr. Iliana Vos** — NEvystupuje; zmíněna jako adresát tajného rozboru (Reyever k ní posílá i tělo, stejně jako dřív zbraň — mimo evidenci Ligy/správy).
+- **Cassia Renn** — NEvystupuje; zmíněna jako ta, komu Reyever zalže, že zajatec „zemřel na zranění z boje".
+
+**Klíčové události:**
+1. Reyever vede výslech sám; zajatec ho pozná jménem, prozradí, že není farmář, ale **spojka/organizátor** („velitel" jen jako krytí), a že se nechal zajmout schválně.
+2. Zajatec rozvíjí ideologii Smíření (ještě nepojmenovanou) klidně a racionálně: Kondominium je „mrtvola", odpor = úplná smrt, oni „si vybrali stranu, která přežije". Klíčová replika padne doslova: **„Vy hájíte mrtvolu. My jsme si vybrali stranu, která přežije."** Přizná, že naučenou frázi o „správné straně" farmářům vkládá on (propojení s kap. 1 a 3).
+3. Reyever na něj páčí jedinou věc: **KDO Sirte vyzbrojil cizí slitinou.** Čte mu z těla setinu zaváhání (stejnou jako u Renn v kap. 2) — zajatec odpověď zná a rozhodne se mlčet.
+4. Napětí kulminuje: zajatec zjistí, že Reyever původ zbraní vážně NEZNÁ; naznačí, že to nejsou pašeráci ani velmoc („Jsou —"), nabídne obchod (vyvezení ze Sirte mimo správu výměnou za jména a varování) a chystá se promluvit.
+5. Při třetím Reyeverově „Jméno" zajatec otevře ústa — a je **UMLČEN ZEVNITŘ**: suchý praskot (jako zlomená větvička), nitka krve z koutku, okamžitá smrt vsedě, čelo dopadne na stůl. Žádný výstřel, žádný útočník, místnost čistá.
+6. Reyever + přivolaný Hale zjistí, že **zátylek mrtvého nepřirozeně hřeje** a pak teplo opadne — skrytá „pojistka" z téhož cizího kovu jako zbraně. Spustila se přesně ve chvíli, kdy měl padnout původ.
+7. Reyever nařídí poslat **tělo** (celé, mimo evidenci) k Vos na rozbor, ke zbrani; Renn zalhat „zemřel na zranění z boje".
+
+**Co kdo ví (stav na konci kap. 4):**
+- **Reyever ví / dovodí:** tohle nebylo povstání — farmáři byli **vyzbrojeni a rozdáni**, ne vzbouřeni; ten, kdo za tím stojí, je dost mocný a trpělivý, aby obětoval spojku znající jména a umlčel ji **zevnitř, na pojistku**, jen aby nepadlo jediné jméno → organizované utajení, „zametání stop". NEZNÁ konkrétní jméno/původ (zajatec zemřel těsně před vyslovením); poprvé pochybuje, zda je nepřítel vůbec ještě člověk.
+- **Hale ví:** o skryté pojistce ze stejného kovu; kryje Reyeverovo přesměrování těla.
+- **Zajatec věděl** původ zbraní i jméno — vzal si je s sebou.
+- **Renn/správa** dostanou krycí verzi (smrt na zranění z boje).
+- **Vos** dosud neví nic; teď jí kromě zbraně (kap. 2) míří i tělo na rozbor.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **výslechová buňka** na základně Legie = vyklizený sklad (palety, lampa na kabelu, plechový stůl přišroubovaný k podlaze) — použitelná lokace.
+- **cizí „pojistka"**: implantát z TÉŽE cizí slitiny jako zbraně (matný kov barvy mokré břidlice), skrytý v zátylku/lebce; při spuštění **krátce nepřirozeně zahřeje** a zhasne nositele (suchý praskot, krev z koutku, okamžitá smrt). Aktivuje se cíleně ve chvíli prozrazení, ne při zajetí. KANONICKÝ nový prvek mystéria — propojit s rozborem u Vos (kap. 5/7+) a s odhalením Smíření/Souladu.
+- **typologie zajatce:** organizátor/spojka Smíření (proto-ideolog), idiolekt předjímá adm. Sarna (klid, čísla, „strana, která přežije") — návaznost na postavu Sarna (kap. 15/18).
+- Reyeverova metoda čtení zaváhání z těla potvrzena i zde (táž setina vteřiny jako u Renn, kap. 2).
+- Krycí verze pro správu/Ligu: zajatec **„zemřel na zranění z boje"**; tělo posláno tajně Vos.
+
+**Jak kapitola končí:**
+Reyever vyjde z buňky do chodby. Pointa ve třech úderech: **„Sirte se nevzbouřila. Sirte byla vyzbrojena."** Někdo zametá stopy zevnitř hlav, je trpělivý a mocný. Závěrečná věta: Reyever neví, kdo to je — a poprvé za třicet let neví ani to, **jestli je to ještě člověk.**
+
+**Otevřené nitky pro další kapitoly:**
+- **Hlavní zvrat aktu I dotažen:** „povstání" = inscenace; někdo Sirte vyzbrojil a teď zametá stopy → motor kap. 5–7 (Hale najde nelidské značení; rozkaz shora ututlat; Vos bere vzorek).
+- **Cizí pojistka v lebce** = nová nit mystéria; čeká na rozbor u Vos; pojí výzbroj s biologií nositele (předznamenává Soulad a kolaboranty s „pojistkou").
+- **Zajatec jako předobraz Sarna/Smíření** — jeho argument („strana, která přežije") je tentýž, který později vysloví Sarn; Reyever ho slyší poprvé z úst pěšáka.
+- Reyever poprvé tuší **nelidský rozměr** nepřítele (otázka „je to ještě člověk?") — předjímá překlopení žánru v aktu II (kap. 12/13/16).
+- Tělo + zbraň míří k Vos mimo evidenci — sbíhá se s linkou tajného rozboru (kap. 2/5/7).
