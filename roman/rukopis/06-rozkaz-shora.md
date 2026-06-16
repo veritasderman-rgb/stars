@@ -10,7 +10,7 @@ Reyever čte ta dvě slova podruhé. *Nepostupují. Neprovádějí.* Někdo v j�
 
 To není rozkaz k ústupu. Ústup se píše jinak. Mluví o úspoře, o přesunu, o tom, že někde jinde je práce. Tenhle rozkaz mluví o uzavírání. A uzavírá se to, co se nemá otevřít.
 
-Reyever se nepohne od průzoru, ale v duchu už počítá, kdo všechno tu zprávu viděl dřív než on.
+Reyever se nepohne od průzoru. Za sklem je ticho pouštní noci, jen kompresor základny duní kdesi pod podlahou, pravidelně, do morku, jako tep stroje, který neví, co právě dostal rozkázáno. V duchu už počítá, kdo všechno tu zprávu viděl dřív než on.
 
 ---
 

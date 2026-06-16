@@ -18,7 +18,7 @@ Renn na okamžik znehybní, sotva znatelně, a pak se usměje, jako by ji ta př
 
 Reyever se posadí. Křeslo je měkčí, než má rád. Člověk se z něj nevstává rychle, a to je možná celý jeho smysl.
 
-Renn si nalije vodu z karafy, jemu nabídne pohledem. Odmítne pohybem brady. Voda na Sirte je cennější než whisky a obě strany to vědí; nabídnout ji je gesto moci, odmítnout taky.
+Renn si nalije vodu z karafy, jemu nabídne pohledem. Odmítne pohybem brady. V přechlazeném modulu se na sklenici hned orosí mžitka kapek, jediná vlhkost, kterou Reyever za pět hodin v dunách viděl. Voda na Sirte je cennější než whisky a obě strany to vědí; nabídnout ji je gesto moci, odmítnout taky.
 
 „Povězte mi o noci,“ řekne Renn a opře se. „Vlastními slovy. Ne těmi ze správy.“
 

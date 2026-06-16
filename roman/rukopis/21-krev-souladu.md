@@ -112,7 +112,7 @@ Pásmo zhasne.
 
 REYEVER VYPNE STÁNÍ A NECHÁ SE ODVÉST DOLŮ, k pohonu, kde je Hale, protože je na lodi jediné místo, kam teď chce jít, a je to místo, kde se věci spravují.
 
-Sjede úzkou šachtou, žebro mu při každé příčce připomene Melass i taran, a vyjde do prostoru pohonu, kde svítí nouzové světlo a kde Hale sedí na zemi zády o mrtvou baterii, hadr v ruce, a dívá se na strop, jako by tam pořád běžela bitva, která už skončila.
+Sjede úzkou šachtou, žebro mu při každé příčce připomene Melass i taran, a vyjde do prostoru pohonu, kde svítí nouzové světlo a kde je zima, protože poprvé za jedenáct dní z baterie netáhne teplo ani ozon, jen pach spáleného a stydnoucího kovu. Hale sedí na zemi zády o mrtvou baterii, hadr v ruce, a dívá se na strop, jako by tam pořád běžela bitva, která už skončila.
 
 „Sme loď, plukovníku,“ řekne Hale, aniž by otočil hlavu. „Tak tak. Bez klínu. Nikam se nepohnem. Ale sme loď.“ Konečně se podívá na Reyevera a Reyever na něm vidí, že to ví, ještě než to padne. „Volal jsem na *Hřeb*. Třikrát.“
 

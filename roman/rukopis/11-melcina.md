@@ -160,7 +160,7 @@ Deset minut Legie dostala. A k tomu jednu pravdu navíc: ta věc se dá ranit.
 
 „VOLNÁ VODA ZA ČTYŘI MINUTY,“ hlásí navigátor, a Hale dole u pohonu se modlí ke stroji, ne k bohu.
 
-Gradient mu kouše do dlaně. Trhlina po krajích klínu se rozšiřuje, stroj mu poctivě hlásí, kolik mu zbývá, a je to míň, než potřebuje. Hale stojí nad pultem, oběma rukama na přepážce, jako by loď držel pohromadě vlastníma rukama, a možná že trochu jo.
+Gradient mu kouše do dlaně. Trhlina po krajích klínu se rozšiřuje, stroj mu poctivě hlásí, kolik mu zbývá, a je to míň, než potřebuje. Hale stojí nad pultem, oběma rukama na přepážce, jako by loď držel pohromadě vlastníma rukama, a možná že trochu jo. Plech pod dlaněmi mu hučí do kostí, jemně, nervózně, vyšší notou, než má znít — tak drnčí závit, který se chystá strhnout.
 
 „Ještě čtyři minuty, ty mrcho,“ řekne pohonu, něžně. „Daré ti koupila čtyři minuty za celou loď. Tak je nepromrhej.“
 

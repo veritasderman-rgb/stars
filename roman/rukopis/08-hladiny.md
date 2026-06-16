@@ -96,7 +96,7 @@ Reyever přikývne. Hloubka kouše — to je první věc, kterou se navigátor v
 
 HALE PŘINESE REYEVEROVI HRNEK něčeho, co se na téhle lodi vydává za kávu, a opře se vedle něj o zábradlí, které odděluje velitelské stání od pultů. Loď teď jede klidně. Po hodině v proudu si na vibrace tělo zvyklo a můstek si dovolil polevit o ten jeden stupeň.
 
-„Tak takhle se cestuje,“ řekne Hale. „Loď nese řeka, posádka si může na chvíli sednout, a já se akorát modlím, aby se nic nerozbilo, protože tady nahoře se to spravuje blbě.“ Upije. Zašklebí se na chuť. „Víš, co je na hladinách nejhorší, plukovníku? Že tu nejde o sílu. Dole, na zemi, kdyžs měl problém, šláp si na plyn a projel ho. Tady ne. Tady čím víc tlačíš, tím víc tě to roztrhá. Musíš jet po proudu a doufat, že tě řeka veze tam, kam chceš, a ne tam, kam chce ona.“
+„Tak takhle se cestuje,“ řekne Hale. „Loď nese řeka, posádka si může na chvíli sednout, a já se akorát modlím, aby se nic nerozbilo, protože tady nahoře se to spravuje blbě.“ Upije. Zašklebí se na chuť — vlažná, po přepáleném kovu, jak ji ohřáli na topném tělese, co nemá co dělat s vařením. „Víš, co je na hladinách nejhorší, plukovníku? Že tu nejde o sílu. Dole, na zemi, kdyžs měl problém, šláp si na plyn a projel ho. Tady ne. Tady čím víc tlačíš, tím víc tě to roztrhá. Musíš jet po proudu a doufat, že tě řeka veze tam, kam chceš, a ne tam, kam chce ona.“
 
 „A veze?“
 

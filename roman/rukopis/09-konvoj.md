@@ -142,7 +142,7 @@ Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho konkrétn
 
 ---
 
-PŘEPADOVÁ ČETA VSTUPUJE DO CIZÍ LODI hrdlem dokovacího límce, ve skafandrech, v tom tichu, které není tichem, protože v něm slyší vlastní dech a tep a šustění výstroje o trup. Vos jde druhá, hned za Brázdou, který nese těžkou pušku tak, jako jiní nosí deštník.
+PŘEPADOVÁ ČETA VSTUPUJE DO CIZÍ LODI hrdlem dokovacího límce, ve skafandrech, v tom tichu, které není tichem, protože v něm slyší vlastní dech a tep a šustění výstroje o trup. Límec drží přetlakem; když jím Vos prostrčí ruku, ucítí na předloktí to lehké zatahání, jak tlak cizí lodi saje proti tlaku člunu. Jde druhá, hned za Brázdou, který nese těžkou pušku tak, jako jiní nosí deštník.
 
 Cizí loď páchne jinak. Vos to pozná i přes filtr skafandru — ne olejem a ozonem jako *Kovadlina*, ale něčím sladším, vzdáleně rostlinným, jako vzduch ve skleníku. Chodby jsou užší, světla teplejší, a všechno má ten plynulý tvar, který Vos zná z cizí zbraně, jako by loď nebyla sestavená, ale narostlá.
 

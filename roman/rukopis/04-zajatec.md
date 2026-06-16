@@ -18,7 +18,7 @@ Reyever si přitáhne druhou židli a posadí se. Pomalu. Nespěchá. Židle je 
 
 ---
 
-REYEVER NEŘEKNE HNED NIC. Položí dlaně na stůl, naproti mužovým, a chvíli ho jen pozoruje. Padesát, možná o pár let míň. Tvář bez výrazných rysů, taková, jakou si nikdo nezapamatuje — a to je samo o sobě údaj. Ruce čisté. Nehty bez prachu Sirte, který se drží všeho. Tenhle člověk nepřišel z pouště. Tenhle člověk přiletěl.
+REYEVER NEŘEKNE HNED NIC. Položí dlaně na stůl, naproti mužovým, a chvíli ho jen pozoruje. Padesát, možná o pár let míň. Tvář bez výrazných rysů, taková, jakou si nikdo nezapamatuje — a to je samo o sobě údaj. Ruce čisté. Nehty bez prachu Sirte, který se drží všeho. Ani ten suchý pach potu a brusiva, co táhne z každého, kdo strávil noc v dunách — z tohohle člověka jde leda chladnoucí kov klimatizace. Tenhle člověk nepřišel z pouště. Tenhle člověk přiletěl.
 
 „Jméno,“ řekne Reyever.
 

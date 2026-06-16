@@ -148,7 +148,7 @@ Renn vyjde z místnosti dřív, než jí tělo na tu otázku odpoví za ni.
 
 ZPRÁVA PŘIJDE V NOCI, na soukromý kanál, který Renn neuvedla v žádném hlášení a o kterém na *Kovadlině* nikdo neví.
 
-Sedí na lůžku, kolena u brady, malá v té těsné kajutě, a obrazovka se rozsvítí slabě, sama od sebe, jediným řádkem bez hlavičky, bez pečeti, bez podpisu. Nikdo, kdo to neumí číst, by v tom neviděl víc než šum. Renn to umí číst. Naučili ji to.
+Sedí na lůžku, kolena u brady, malá v té těsné kajutě, kde přepážka u zad přenáší tlumené dunění pohonu jako tep cizího těla, a obrazovka se rozsvítí slabě, sama od sebe, jediným řádkem bez hlavičky, bez pečeti, bez podpisu. Nikdo, kdo to neumí číst, by v tom neviděl víc než šum. Renn to umí číst. Naučili ji to.
 
 Zpráva je krátká.
 

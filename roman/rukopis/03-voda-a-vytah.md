@@ -122,7 +122,7 @@ Je starý na to, aby bojoval, mladý na to, aby umíral. Drží si dlaní břich
 
 Vos si vedle něj dřepne. Nesahá po zdravotníkovi. Oba vědí, že na to je pozdě, a lhát umírajícímu je sprostší než ho nechat jít.
 
-„Vodu,“ řekne. Ne otázku. Nabídku. Sundá si polní láhev.
+„Vodu,“ řekne. Ne otázku. Nabídku. Sundá si polní láhev; kov je horký jak od ruky a uvnitř zbývá pár doušků, teplých jako čaj.
 
 Muž zavrtí hlavou, sotva. Pohne rty. Vos se nakloní blíž, aby to slyšela přes vzdálené dunění a praskot ohně z čerpací stanice.
 

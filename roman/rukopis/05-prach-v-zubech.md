@@ -45,7 +45,7 @@ Brázda na to nemá odpověď a Hale od něj žádnou nečeká. Sedí spolu v ol
 
 MUŽSTVO SE SCHÁZÍ tam, kde se schází vždycky — v hangáru za odstavenými transportéry, kde nedohlédne velitelský modul a kde se dá kouřit, aniž by si toho někdo všiml. Hale tam zajde po druhé hodině, protože ví, že po boji se mužstvo musí vymluvit, a když se nevymluví mezi sebou, vymluví se špatně.
 
-Sedí jich tam asi deset. Sálová, Vosina odstřelovačka, čistí pušku se stejnou neúčastnou pečlivostí jako Hale tu svoji. Vedle ní mladík, kterému říkají Cuk, protože sebou cukne při každé ráně, i po měsíci. Brázda. Pár dalších tváří, které Hale zná podle toho, co umějí, líp než podle jmen.
+Sedí jich tam asi deset. Vzduch za transportéry stojí, hustý cigaretovým kouřem a pachem nevyspalých těl, který klimatizace do tohohle kouta netáhne. Sálová, Vosina odstřelovačka, čistí pušku se stejnou neúčastnou pečlivostí jako Hale tu svoji. Vedle ní mladík, kterému říkají Cuk, protože sebou cukne při každé ráně, i po měsíci. Brázda. Pár dalších tváří, které Hale zná podle toho, co umějí, líp než podle jmen.
 
 „…a von povídá,“ vykládá Cuk, „von povídá, majore, voni šetřej munici, a vona na to, drž hubu a nabíjej.“ Smích. „Já vám řikám, ta ženská by uměla velet kameni.“
 

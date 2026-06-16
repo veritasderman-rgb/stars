@@ -64,7 +64,7 @@ Hale neodpoví hned. Drží ten kousek mezi prsty a dívá se na ni tím pomalý
 
 „To je moje pojistka proti tomu,“ řekne Vos tiše, „aby se to potřetí ztratilo. Jednou to chtěla Liga do pece. Podruhé to plukovník schoval do nákladu, který může někdo na příští základně zabavit dřív, než Hale rozbalí bednu. Já chci jeden kousek, který nebude nikde. Ani v jeho evidenci, ani v té neevidované. Jen u mě.“
 
-Hale chvíli mlčí. Kompresor základny už neběží — odpojili ho ráno — a v té dílně je ticho, na jaké tu nikdo není zvyklý.
+Hale chvíli mlčí. Kompresor základny už neběží — odpojili ho ráno — a v té dílně je ticho, na jaké tu nikdo není zvyklý; jen kov chladne a tu a tam tichounce lupne, jak se smršťuje.
 
 „Já vám ho dám,“ řekne Hale nakonec. „Ne protože je to chytrý. Je to pitomý. Ale protože jsem v životě potkal dva druhy lidí. Ty, co se ptaj, a ty, co jen poslouchaj.“ Položí jí ten kousek do dlaně, do holé dlaně, poprvé bez rukavice. Slitina je chladná. Pak ne — pak jako by se na okamžik ohřála, ale to je nejspíš jen teplo její vlastní kůže. „A ty, co poslouchaj, prohrávaj tyhle války. Tak to schovejte hluboko, majore. A nesahejte na to holou rukou. Pamatujte, co dělal ten kousek v hlavě toho chlapa.“
 

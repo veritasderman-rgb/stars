@@ -36,7 +36,7 @@ Vos se podívá na barvu zblízka, na čidle, ve výřezu. Ta rostlina není zel
 
 Ne ticho prázdna. Vos zná prázdno — poušť v noci, vyhořelou základnu, palubu mrtvé lodi. Prázdno má vždycky nějaký zvuk: vítr, kov, vlastní dech ve sluchátku. Tohle ticho ne. Tohle ticho je plné. Plné věcí, které by měly dělat hluk a nedělají ho.
 
-Sklopí hledí, vyjde z člunu. Mužstvo za ní, opatrně, pušky dolů, ale prsty u spouští. Náves je dlážděná pravidelnými šestiúhelníky — a Vos se nad tím tvarem na vteřinu zastaví, protože ten tvar už viděla, ve výřezu mikroskopu, v rohu cizí slitiny. Tady ho má pod botama, v celé dlažbě, v celém náměstí.
+Sklopí hledí, vyjde z člunu. Filtrem skafandru projde slabý pach — nasládlý, vzdáleně rostlinný, týž jako vzduch v zajaté lodi, jen hustší, jako by tady dozrával. Mužstvo za ní, opatrně, pušky dolů, ale prsty u spouští. Náves je dlážděná pravidelnými šestiúhelníky — a Vos se nad tím tvarem na vteřinu zastaví, protože ten tvar už viděla, ve výřezu mikroskopu, v rohu cizí slitiny. Tady ho má pod botama, v celé dlažbě, v celém náměstí.
 
 Kolem návsi stojí domy kolonie. Plechové, koloniální, ošklivé — ty pozná, ty jsou lidské. Jenže přes ně lezou ty rostliny. Ne divoce, ne jak břečťan zarůstá ruinu. Lezou po nich uspořádaně, jeden stonek na jeden roh, jeden list na jedno okno, jako by každý dům dostal přesně vyměřenou porci zeleně a ani lístek navíc.
 

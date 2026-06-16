@@ -46,7 +46,7 @@ Hale ho nechá domluvit. Pak se podívá po hangáru, po těch unavených ksicht
 
 „Hezky řečeno,“ řekne Hale. „Vážně. To bys mohl dělat politika, kdyby ses neživil tím, že trefíš mouchu na tři sta metrů.“ Nikdo se nezasměje, a to Halovi řekne, jak je to zlý. „Ale popleť si dvě věci, Brázdo, a já ti je teď oddělím, protože dělat z dvou věcí jednu, to je první chyba každýho, kdo se chystá udělat blbost.“
 
-Vezme z hadru jeden díl kanónu. Závěr. Drží ho v dlani.
+Vezme z hadru jeden díl kanónu. Závěr. Drží ho v dlani, studený a těžší, než vypadá, naolejovaný do hladka.
 
 „Tahleta věc,“ řekne, „je spočítaná dobře. Tlak, výtah, dráha. Sedí to do tisícin. Kdyby ti někdo řek, že to nesedí, je to blbec a já mu to vysvětlím svářečkou. Stejně jako Sarnova čísla. Ta sedí. To je ta první věc, a v tý má admirál pravdu a basta.“
 

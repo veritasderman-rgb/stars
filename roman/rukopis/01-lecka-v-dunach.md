@@ -104,7 +104,7 @@ Reyever sleze do kotliny. Slunce už začíná hřát a vzduch nad pískem se ch
 
 ---
 
-BOUDA SE OTEVŘE PO ČTRNÁCTI MINUTÁCH. Ne proto, že by Legie tlačila, ale protože Hale dojde ke dveřím, sedne si zády ke stěně na bednu a začne nahlas, klidně a podrobně líčit, co se stane s plynovou láhví, kterou drží v ruce, jestli ji prostrčí škvírou pode dveřmi. Nemusí ji prostrčit. Po druhé větě cvakne závora a ven vyjdou dva muži s rukama na temeni, jeden z nich pláče a stydí se za to.
+BOUDA SE OTEVŘE PO ČTRNÁCTI MINUTÁCH. Ne proto, že by Legie tlačila, ale protože Hale dojde ke dveřím, sedne si zády ke stěně na bednu, na které vlnitý plech už od rána sálá horko jako plotna, a začne nahlas, klidně a podrobně líčit, co se stane s plynovou láhví, kterou drží v ruce, jestli ji prostrčí škvírou pode dveřmi. Nemusí ji prostrčit. Po druhé větě cvakne závora a ven vyjdou dva muži s rukama na temeni, jeden z nich pláče a stydí se za to.
 
 „Vidíš,“ řekne Hale spokojeně a postaví láhev zpátky k boudě. „Vyřešený slovem. Můj učitel rétoriky by byl pyšnej.“ Nikdo neví, jestli nějakého učitele rétoriky kdy měl, a on to nevysvětlí.
 
