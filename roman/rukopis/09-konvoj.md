@@ -64,7 +64,7 @@ Vos necítí výstřel jako zvuk. Cítí ho jako odraz v plechu, jako když do l
 
 Tři střely se roztříští o zbytek stěny. Dvě projdou.
 
-Cizí křižník se otřese — ne na obrazovce, ale Vos to ví, ví, jak vypadá loď, do které prošla rána, protože to viděla na pancíři vojáka na Sirte, jenom teď je to tisíckrát větší. Po boku eskorty vykvete světlo a zhasne, a tam, kde bylo, zůstane ta dlouhá rána s okraji slitými do hladka.
+Cizí křižník se otřese — ne na obrazovce, ale Vos to ví. Ví, jak vypadá loď, do které prošla rána, protože to viděla na pancíři vojáka na Sirte, jenom teď je to tisíckrát větší. Po boku eskorty vykvete světlo a zhasne, a tam, kde bylo, zůstane ta dlouhá rána s okraji slitými do hladka.
 
 „Zásah,“ řekne navigátor. „Dvakrát. Pravej bok. Ztratil clonu na pravým.“
 
@@ -148,7 +148,7 @@ Cizí loď páchne jinak. Vos to pozná i přes filtr skafandru — ne olejem a 
 
 A posádka jsou lidé.
 
-Vos to ví ze tří kroků. Z toho, jak se krčí za přepážkami. Z toho, jak drží zbraně — lidsky, neobratně, vyděšeně. Z toho, jak jeden z nich zakřičí, a Vos rozumí každému slovu.
+Vos to ví ze tří kroků. Z toho, jak se krčí za přepážkami. Z toho, jak drží zbraně — lidsky, neobratně, vyděšeně. A z toho, jak jeden z nich zakřičí a Vos rozumí každému slovu.
 
 „Nestřílejte! My se vzdáváme! Prosím —“
 

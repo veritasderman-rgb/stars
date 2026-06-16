@@ -54,7 +54,7 @@ Na Andaru je úsvit a vítr a brusivá mouka, ze které je celá planeta, a v z�
 
 Jmenuje se Calt a je mu devatenáct a je novej, a každý mu to dává najevo tím, jak ho nechávají ležet na špatném konci hřebene, odkud do očí praží to mladé bílé slunce. Calt přimhouří oči a kouká dolů do kotliny, kde stojí kolektor na noční rosu, kruhové síto, betonová nádrž, plechová bouda, a u nich postavy, které kolektor hlídají a nemaj tušení, že se dívaj do hlavně.
 
-Vedle Calta leží žena, které říkají Sálová, a je stará jako kámen a tvrdá jako kámen a nemluví víc, než musí. Calt o ní ví jen tři věci. Že byla na Sirte, kdysi, na začátku, když to celé začalo. Že přežila proudový uzel, ze kterého se vrátila každá desátá. A že nikdy nemine.
+Vedle Calta leží žena, které říkají Sálová. Je stará jako kámen, tvrdá jako kámen a nemluví víc, než musí. Calt o ní ví jen tři věci. Že byla na Sirte, kdysi, na začátku, když to celé začalo. Že přežila proudový uzel, ze kterého se vrátila každá desátá. A že nikdy nemine.
 
 „Kdy se to spustí,“ zašeptá Calt. Spustí mu vyleze ze suchýho hrdla jako zakašlání.
 
@@ -64,7 +64,7 @@ Vedle Calta leží žena, které říkají Sálová, a je stará jako kámen a t
 
 „Až jim vyleze slunce do očí.“ Otře si z hledí prach, který se na něj zase hned vrátí. „Drž hubu a koukej. Učíš se. Tohle se neučí pusou.“
 
-Calt drží hubu. Dole v kotlině se jeden z mužů u nádrže protáhne a něco prohodí ke druhému, a ten se zasměje, a Calt si poprvé v životě uvědomí, že ti lidé dole jsou živí, že se smějou a je jim zima a za chvíli někteří z nich nebudou, a že to bude částečně jeho práce.
+Calt drží hubu. Dole v kotlině se jeden z mužů u nádrže protáhne a něco prohodí ke druhému, a ten se zasměje. A Calt si poprvé v životě uvědomí, že ti lidé dole jsou živí, že se smějou a je jim zima a za chvíli někteří z nich nebudou — a že to bude částečně jeho práce.
 
 Není to abstrakce. Je to chlap, co se protáhl.
 
@@ -114,7 +114,7 @@ CALT NEDÝCHÁ. Ruka na zbrani mu vlhne a on ji utírá o písek a písek se na 
 
 Pásmo ožije.
 
-Calt dělá to, co ho učili. Necílí na obličej, necílí na člověka, cílí na hruď, na kterou mu ukázali na lodi, na bod, který není smích a není zima a není chlap, co se protáhl. Stiskne. Puška mu kopne do ramene tvrději, než čekal, a dole se jedna z postav složí, a Calt neví, jestli to byla jeho rána nebo Sáliny nebo někoho dalšího, a je za to vděčný, je za tu nejistotu vděčný tak, že se mu sevře hrdlo.
+Calt dělá to, co ho učili. Necílí na obličej, necílí na člověka, cílí na hruď, na kterou mu ukázali na lodi, na bod, který není smích a není zima a není chlap, co se protáhl. Stiskne. Puška mu kopne do ramene tvrději, než čekal. Dole se jedna z postav složí. A Calt neví, jestli to byla jeho rána, nebo Sáliny, nebo někoho dalšího — a je za to vděčný, za tu nejistotu vděčný tak, že se mu sevře hrdlo.
 
 Je to rychlé. Vždycky to prý je rychlé. Za minutu je dole ticho, jen vítr a kapání vody z probité nádrže, a Calt leží na hřebeni a třese se a stydí se za to, že se třese.
 

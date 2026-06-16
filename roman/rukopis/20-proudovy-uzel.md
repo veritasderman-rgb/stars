@@ -170,9 +170,9 @@ Křížení T. Učebnicové. Vos drží *Hřeb* napříč přes hrdlo nepřátel
 
 První loď Smíření se rozlomí dřív, než stačí stočit bok.
 
-Druhá se otáčí a nastaví clonu a salva *Hřebu* se o ni roztříští o nic, a Vos to čeká a stočí palbu na třetí, na tu, co se ještě otáčí, a dostane ji do boku v okamžiku, kdy clona ještě nesedí.
+Druhá se otáčí, nastaví clonu, a salva *Hřebu* se o ni roztříští o nic. Vos to čeká. Stočí palbu na třetí, na tu, co se ještě otáčí, a dostane ji do boku v okamžiku, kdy clona ještě nesedí.
 
-V pánvi to vypadá jako rvačka v příliš malé místnosti. Žádné elegantní manévry hladin. Lodě se perou o natočení boků na vzdálenost, na kterou by se v hladinách nikdy nedostaly, a clony, dělané na dálkovou tříšť, tady selhávají, protože tady není dálka.
+V pánvi to vypadá jako rvačka v příliš malé místnosti. Žádné elegantní manévry hladin. Lodě se perou o natočení boků na vzdálenost, na kterou by se v hladinách nikdy nedostaly. A clony, dělané na dálkovou tříšť, tady selhávají, protože tady žádná dálka není.
 
 Reyever to spočítal.
 
@@ -252,7 +252,7 @@ A *Hřeb* se vsune mezi *Kovadlinu* a otáčející se stonek, do dráhy rány, 
 
 Rána projde clonou *Hřebu*, jako by clona nebyla.
 
-Reyever vidí na mapě, jak tečka *Hřebu* zbělá a chvěje se a nezhasne docela, a slyší v pásmu Vosin hlas, ztenčený, ale živý, „jsme tu, drž kurz, jsme tu“, a ví, že je to naposled, kdy ho slyší, protože z téhle louže se *Hřeb* už nevyšplhá ani kdyby měl pohon, a on jí ho neposlal.
+Reyever vidí na mapě, jak tečka *Hřebu* zbělá, chvěje se a nezhasne docela. V pásmu slyší Vosin hlas, ztenčený, ale živý, „jsme tu, drž kurz, jsme tu“. A ví, že je to naposled, kdy ho slyší, protože z téhle louže se *Hřeb* už nevyšplhá ani kdyby měl pohon — a on jí pohon neposlal.
 
 Nemá čas na to vědět. Má čas na hrdlo stonku, které se na vteřinu otevřelo, když plavidlo udeřilo a stočilo se k *Hřebu*.
 
@@ -260,9 +260,9 @@ Nemá čas na to vědět. Má čas na hrdlo stonku, které se na vteřinu otevř
 
 ---
 
-*KOVADLINA* SE VRHNE NA HRDLO ŽACÍHO PLAVIDLA a Reyever ten náraz necítí, protože v něm na vteřinu přestane být.
+*KOVADLINA* SE VRHNE NA HRDLO ŽACÍHO PLAVIDLA. Reyever ten náraz necítí, protože v něm na vteřinu přestane být.
 
-Klín naplno. Poslední zub. Gradient se zlomí a trup zaúpí na frekvenci, kterou Reyever neznal, zvuk kovu vtlačeného za mez, a Reyevera to vrazí do zábradlí na totéž žebro, co mu praskl stín u Melassu, a on to pozná, až když je po všem.
+Klín naplno. Poslední zub. Gradient se zlomí. Trup zaúpí na frekvenci, kterou Reyever neznal, zvuk kovu vtlačeného za mez, a vrazí ho to do zábradlí na totéž žebro, co mu praskl stín u Melassu. Pozná to, až když je po všem.
 
 Z pravého boku se ozve trhnutí — ne výbuch, spíš prasknutí v plechu — a pak ticho.
 

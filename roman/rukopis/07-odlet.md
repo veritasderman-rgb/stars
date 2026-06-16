@@ -4,7 +4,7 @@ PRACH SE DRŽÍ VŠEHO, i toho, co odlétá. Vos to vidí na rampě nákladního
 
 Šestnáct beden výstroje. Čtyři odstavené transportéry, které poletí prázdné, protože je škoda je tu nechat a ještě větší škoda za ně platit pozdější dovoz. Mužstvo se pohybuje v tom pomalém, opatrném tempu vojáků, kteří odcházejí z místa, kde nechali kamarády, a stydí se, že jsou rádi.
 
-Nahoře nad městem stojí orbitální výtah, jediné rovné světlo v křivé krajině, a Vos ví, že ho vidí naposledy. Za pár hodin bude Legie v hladinách. Za pár dní bude Sirte jen souřadnice, kterou nikdo nezapíše do hlášení, protože hlášení se nepostupují.
+Nahoře nad městem stojí orbitální výtah, jediné rovné světlo v křivé krajině. Vos ví, že ho vidí naposledy. Za pár hodin bude Legie v hladinách. Za pár dní bude Sirte jen souřadnice, kterou nikdo nezapíše do hlášení, protože hlášení se nepostupují.
 
 Dole pod základnou se táhne město. Z téhle výšky vypadá jako něco, co poušť skoro spolkla a pak si to rozmyslela — nízké betonové krabice, plechové střechy, mezi nimi tmavé žíly vodního rozvodu, který stojí za každou kapkou krve, co se tu prolila. Někde tam dole jsou matky farmářů, které Legie zabila v kotlině a u rozvodné věže. Někde tam dole jsou lidé, kterým cizí hlas sliboval správnou stranu, a oni mu uvěřili, protože jim nikdo jiný nesliboval nic. Zítra ráno vyjde slunce a poslední voják Legie už bude pryč, a oni zůstanou s pouští a s prázdnou otázkou.
 
@@ -140,7 +140,7 @@ Není.
 
 NĚCO JE VE VOLNÉ VODĚ, kde nic být nemá.
 
-Vos to nejdřív vidí jako stín na čidlech — tvar, který se nehýbe, který nevysílá, který tam jen visí v prázdnu na okraji mělčiny jako věc, co se utopila a zapomněla klesnout. Navigátor se nad pult nakloní, zaklepe do obrazovky, jako by čekal, že chyba spadne ven.
+Vos to nejdřív vidí jako stín na čidlech. Tvar, který se nehýbe, který nevysílá, který tam jen visí v prázdnu na okraji mělčiny jako věc, co se utopila a zapomněla klesnout. Navigátor se nad pult nakloní, zaklepe do obrazovky, jako by čekal, že chyba spadne ven.
 
 „Majore,“ řekne. „Mám tu kontakt. Studený. Bez pohonu, bez signálu. Nereaguje.“
 

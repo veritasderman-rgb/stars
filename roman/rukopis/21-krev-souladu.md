@@ -182,7 +182,7 @@ Hale přijde na palubu, postaví se vedle něj, ruce od oleje, a dívá se s ní
 
 „Vyhráli jsme jednu,“ řekne Reyever.
 
-Dívá se, jak se dno pánve propadá pod nimi do dálky, jak se devět vyhaslých stonků a dvě vyhaslé lodě Legie scvrkají v tečky a pak v nic, a počítá, jako počítá vždycky, a tentokrát mu z toho čísla vyjde věc, kterou ví celý měsíc a kterou dnešek nezměnil.
+Dívá se, jak se dno pánve propadá pod nimi do dálky, jak se devět vyhaslých stonků a dvě vyhaslé lodě Legie scvrkají v tečky a pak v nic. Počítá, jako počítá vždycky. A tentokrát mu z toho čísla vyjde věc, kterou ví celý měsíc a kterou dnešek nezměnil.
 
 Soulad přišel s devíti plavidly k jedné soustavě, kterou nikdo nechce. Za devíti plavidly stojí sad, který Reyever neviděl a jehož velikost neumí spočítat ani on. A Kondominium, za jehož jméno se dnes na dně louže umíralo, se rozpadá dál, na schůzích, v depeších, beze střelby, a žádný rozlomený stonek na tom nezmění ani řádek.
 

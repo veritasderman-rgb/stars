@@ -42,7 +42,7 @@ Reyever stojí u zábradlí, ruce za zády, a dívá se na obrazovku, na kterou 
 
 „Ví, že nemůžeme nahoru,“ řekne Reyever, spíš pro sebe. „Tak nás chce dohnat tady. V mělčině. Kde se nedá utéct, jenom bít.“
 
-Vos se dívá na obrazovku. „Doženou nás dřív, než dojedeme k vodě?”
+Vos se dívá na obrazovku. „Doženou nás dřív, než dojedeme k vodě?“
 
 Navigátor počítá. Přepočítá. Reyeverův člověk, ten neřekne číslo, dokud si není jistý.
 
@@ -130,7 +130,7 @@ Nečeká, až se korveta natočí. Nehraje křížení T podle tabule. Pošle je
 
 „Vidím,“ řekne Reyever.
 
-*Kovářka* se zapotácí, na obrazovce se zachvěje, ztratí kus rychlosti. Ale neotočí se. Daré nestáhne klín. Místo aby ucouvla, opře se do stínu znovu, blíž, klínem na klín, hrdlem proti hrdlu, a Vos pochopí, co dělá: čím blíž stínu zůstane, tím hůř ji může minout, tím déle ho zdrží. Korveta hoří a leze blíž.
+*Kovářka* se zapotácí, na obrazovce se zachvěje, ztratí kus rychlosti. Ale neotočí se. Daré nestáhne klín. Místo aby ucouvla, opře se do stínu znovu. Blíž, klínem na klín, hrdlem proti hrdlu. A Vos pochopí, co dělá: čím blíž stínu zůstane, tím hůř ji může minout, tím déle ho zdrží. Korveta hoří a leze blíž.
 
 „Kapitánko, ustupte,“ řekne Reyever do pásma. „Splnila jste to. Ustupte, dokud máte klín.“
 

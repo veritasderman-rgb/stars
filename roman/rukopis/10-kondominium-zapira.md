@@ -108,9 +108,9 @@ Renn drží ten pohled. Tady se hraje o to, kdo uhne první, a ona uhýbat umí 
 
 Vos se nepohne. Pak řekne, o stupeň tišeji:
 
-„Vy víte, co je ten odznak.”
+„Vy víte, co je ten odznak.“
 
-Renn se usměje, tím profesionálním, ničím neříkajícím úsměvem, který nosí do jednání. „Kdybych to věděla,” řekne, „byla bych vám to neřekla. To je taky rozdíl mezi námi.” Mine ji na chodbě, blízko, a cítí, jak za ní Vos nespustí oči — Renn si vzpomene na Sálovou, jak ležela na střeše s puškou a čekala.
+Renn se usměje, tím profesionálním, ničím neříkajícím úsměvem, který nosí do jednání. „Kdybych to věděla,“ řekne, „byla bych vám to neřekla. To je taky rozdíl mezi námi.“ Mine ji na chodbě, blízko, a cítí, jak za ní Vos nespustí oči — Renn si vzpomene na Sálovou, jak ležela na střeše s puškou a čekala.
 
 ---
 
@@ -128,7 +128,7 @@ Položí na stůl destičku. Renn ji nezvedne. Pozná hlavičku úřední depeš
 
 „Vy znáte cestu, kterou ta depeše šla,“ řekne Reyever. „Hale ji rozebral. Táhla se proudem, který na žádných koloniálních mapách není. Stejným proudem, ze kterého za námi celou dobu kouká loď, kterou neumím setřást. Depeše přišla tou cestou. Ten, kdo nás sleduje, ji nesl.“ Položí dlaň na stůl, klidně. „Kdo má lodě v proudech, které nejsou na mapách, paní Rennová? Ne Kondominium. Kondominium stahuje flotily domů. Kondominium ani neví, že tyhle proudy existujou.“
 
-Renn drží ramena klidná. Drží tvář. Tohle je ta chvíle, kvůli které celý život cvičila — kdy člověk, který čte těla, hledá v jejím těle prasklinu, a ona ji nesmí dát.
+Renn drží ramena klidná. Drží tvář. Tohle je ta chvíle, kvůli které celý život cvičila — kdy člověk, který čte těla, hledá v ní prasklinu, a ona ji nesmí dát.
 
 „Nevím, plukovníku,“ řekne, a tentokrát to je skoro pravda, a skoro pravda je nejlepší lež, jakou zná, protože v ní tělo neuhne. „Já vážně nevím, kdo má lodě v těch proudech.“
 

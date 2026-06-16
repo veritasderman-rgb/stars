@@ -32,7 +32,7 @@ Sálová čistí pušku. Ta to dělá vždycky, takže ta se ničím neprozrazuj
 
 Nikdo neřekne nic.
 
-„No tak,“ řekne Hale. „Já vás slyším počítat dva dny. Slyším to líp než tu vaši notu v přepážkách. Tak to řekněte nahlas, ať to není jen šepot, protože šeptaná věc hnije, to vás naučil sám plukovník, akorát jste mysleli, že to platí jen na něj.“
+„No tak,“ řekne Hale. „Já vás slyším počítat dva dny. Slyším to líp než tu vaši notu v přepážkách. Tak to řekněte nahlas. Ať to není jen šepot. Šeptaná věc hnije — to vás naučil sám plukovník, akorát jste mysleli, že to platí jen na něj.“
 
 Brázda zvedne hlavu. Má v očích tu únavu, kterou Hale zná od chlapů, co viděli moc dun a moc prázdných pancířů.
 
@@ -98,7 +98,7 @@ Hale si dlouze povzdechne. Je to zvuk člověka, který nese pytel na zádech mo
 
 ---
 
-DEPEŠE PŘIJDE V NOCI A NENÍ TŘI TÝDNY STARÁ, je čerstvá, a to je samo o sobě špatné znamení, protože čerstvá zpráva v týhle díře galaxie znamená, že ji přinesl někdo, kdo umí proudy mimo mapy.
+DEPEŠE PŘIJDE V NOCI A NENÍ TŘI TÝDNY STARÁ. Je čerstvá. A to je samo o sobě špatné znamení, protože čerstvá zpráva v týhle díře galaxie znamená, že ji přinesl někdo, kdo umí proudy mimo mapy.
 
 Vos ji čte sama na velitelském stání, jak má ve zvyku, aby ji unesla první. Tentokrát jí ruce ztuhnou dřív, než přečte druhý řádek. Tělo dohání tvář o setinu vteřiny — to ji naučil Reyever a od něj to nenávidí ze všeho nejvíc.
 
@@ -128,7 +128,7 @@ REYEVER STOJÍ V MAPOVÉM STÁNÍ U PRÁZDNÉ ČERVENÉ MAPY, a když Vos vejde,
 
 „Šest dní,“ řekne Vos. „A potom buď přesazení, nebo to, co čeká u uzlu. A já vám řeknu, co se na téhle lodi děje za přepážkami, protože vy to víte taky, ale potřebujete to slyšet ode mě. Brázda počítá. Cuk počítá. Půlka noční směny počítá. Hale je drží za límec slovem a vlastníma rukama, ale Hale je jeden a unavený a sám říká, že na to nemá, co byste měl mít vy.“
 
-Reyever se otočí. Žebro ho při tom pohybu bodne, prasklý klín od žacího plavidla, a Vos to pozná podle toho, jak pomalu se otáčí.
+Reyever se otočí. Žebro ho při tom pohybu bodne — prasklý klín od žacího plavidla. Vos to pozná podle toho, jak pomalu se otáčí.
 
 „A co bych měl mít já,“ řekne. Není to otázka. Je to past, a Vos do ní šlápne, protože ji unaví obcházet.
 

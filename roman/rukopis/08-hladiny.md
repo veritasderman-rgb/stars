@@ -2,7 +2,7 @@
 
 VRAK ZŮSTAL ZA ZÁDÍ jako otázka, kterou nikdo neumí zavřít. Reyever stojí na velitelském můstku *Kovadliny* — těžkého křižníku, kolem kterého se Legie sbalila jako pěst kolem dlaně — a dívá se, jak se ten cizí tvar scvrkává na čidlech do tečky a pak do ničeho. Loď ho minula v mělčině, nezastavila, neprohledala. Reyever to zakázal. Prohledávat vrak znamená stát na místě, a stát na místě v mělčině znamená nabídnout se každému, kdo by chtěl mít Legii na suchu.
 
-Tak ho nechali za sebou. Pět hodin už šplhají systémem k volné vodě a vrak je dávno mimo dosah, ale Reyever ho má pořád před očima — tu dlouhou ránu po boku s okraji slitými do hladka, ten tvar, který nepostavila lidská ruka.
+Tak ho nechali za sebou. Pět hodin už šplhají systémem k volné vodě a vrak je dávno mimo dosah. Reyever ho má pořád před očima — tu dlouhou ránu po boku s okraji slitými do hladka, ten tvar, který nepostavila lidská ruka.
 
 „Plukovníku.“ Navigátor u pultu nezvedne hlavu. „Volná voda za dvanáct minut. Klín drží, gradient čistý. Šplháme.“
 
@@ -136,7 +136,7 @@ Tečka zrychlí taky. Drží odstup na vlas.
 
 „Zpomal,“ řekne Reyever.
 
-Navigátor zpomalí. Tečka zpomalí. Odstup je pořád stejný, na metr stejný, jako by ten, kdo loď řídí vzadu, neměl jediný jiný úkol než udržovat mezi sebou a *Kovadlinou* přesně tu vzdálenost, ze které je vidět všechno a kde není nic na dostřel.
+Navigátor zpomalí. Tečka zpomalí. Odstup pořád stejný, na metr stejný — jako by ten, kdo loď řídí vzadu, neměl jediný jiný úkol než udržovat mezi sebou a *Kovadlinou* přesně tu vzdálenost, ze které je vidět všechno a kde není nic na dostřel.
 
 „Zkus z proudu vyklouznout,“ řekne Reyever tiše. „Změň hladinu. Sedmou. Pak zpátky na šestou jinde.“
 
