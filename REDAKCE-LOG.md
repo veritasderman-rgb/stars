@@ -1092,3 +1092,29 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - Hovorové tvary v přímé řeči vojáků (seš, svejch, svejch, plejtvaj, nemaj, tahaj, vzdaj) — záměrný rejstřík, NESAHAT.
 
 **Celkové hodnocení:** Kapitola je jazykově velmi čistá. Přítomný čas drží konzistentně, uvozovky jsou výhradně české, přechodníky nulové, terminologie v pořádku (Legie velká, žádné FTL termíny v pozemní scéně). Tři mechanické chyby opraveny.
+
+---
+
+## roman/rukopis/03-voda-a-vytah.md — jazyková vrstva (cestina-strazce)
+
+**Datum:** 2026-06-16
+
+### Opravy
+
+1. `šetří muničí` → `šetří munici` (E3/pravopis — „munič" neexistuje; správný tvar 4. pádu je „munici")
+2. `se sklopenou hlaveň` → `se sklopenou hlavní` (pravopis — „hlaveň" je 1./4. pád; instrumentál = „hlavní")
+3. `dotkne hlavní pušky` → `dotkne se hlavně pušky` (pravopis + syntax — „hlavní" je adjektivum; podstatné jméno „hlaveň" ve 2. pádě = „hlavně"; sloveso „dotknout" vyžaduje „se" + genitiv)
+
+### Bez zásahu (prověřeno, v pořádku)
+
+- Přítomný čas: drží se konzistentně; vsuvky s minulostí (Kovař v kotlině, Reyeverův tentýž úsvit) jsou správně v minulém čase.
+- Uvozovky: výhradně české „…" ve všech výskytech.
+- Přechodníky: žádné.
+- Koncovky 3. os. mn. č.: „střílejí", „počítají", „slyšíte", „povalují se" — vše na -í, v pořádku.
+- Anglikalky: žádné nalezeny.
+- „svůj": „svého velitele" (ř. 83) — funkční, podmět Vos odkazuje na vlastního velitele; „U své strany" (ř. 113) — kontrastní použití oproti „u druhé", funkční.
+- Berličky „pak/potom": čtyři výskyty celkem, rozmístěné, netvoří tik. Ponecháno.
+- Terminologie: žádné FTL termíny (hladiny/proudy/mělčina) v pozemní scéně. „Orbitální výtah" konzistentní. Legie (velká) nefiguruje, Sirte správně.
+- Hovorové tvary v přímé řeči vojáků: záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Tři opravy — jde o omyly v tvarosloví podstatného jména „hlaveň" a neexistující tvar „munič". Styl, tempo ani obsah nedotčeny.

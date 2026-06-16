@@ -12,7 +12,7 @@ Za zády slyší dveře. Pak podpatky po tvrdé podlaze, klidné, nespěchavé.
 
 „Slyšela jsem." Obejde stůl a posadí se do křesla v čele, ne naproti němu, ale stranou, tak aby spolu nemuseli sedět tváří v tvář jako vyjednavači. Drobné gesto. Reyever ho zaznamená. „Devět zadržených, žádné ztráty. Čistá práce. Přesně proto Liga platí Legii a ne milici."
 
-„Sedm mrtvých," opraví ji Reyever. „Čtyři zadržení."
+„Pět mrtvých," opraví ji Reyever. „Čtyři zadržení."
 
 Renn na okamžik znehybní, sotva znatelně, a pak se usměje, jako by ji ta přesnost potěšila. „Samozřejmě. Odpusťte. Mám před sebou hlášení od správy, ne od vás, a správa zaokrouhluje směrem, který se jí hodí." Pokyne k druhému křeslu. „Posaďte se. Prosím. Bolí mě krk, když na vás musím takhle vzhlížet."
 
@@ -122,7 +122,7 @@ Není to dohad. Reyever nehádá. Viděl tu setinu vteřiny, viděl, jak prsty z
 
 „Tak jí to vrátíme i s důkazem a ať si s tím Kondominium poradí," řekne Hale, ale řekne to tak, jak člověk navrhuje něco, o čem ví, že se to neudělá.
 
-Reyever se dívá dolů na zasypané město, na výtah mizící v cloně, na slumy přilepené k jeho patě. Někde tam dole umřelo dnes v noci sedm farmářů kvůli vodě a zbrani, kterou nikdo neumí vyrobit. Kondominium chce klid. Liga chce klid. Renn chce, aby přestal zvedat věci, které mají zůstat ležet.
+Reyever se dívá dolů na zasypané město, na výtah mizící v cloně, na slumy přilepené k jeho patě. Někde tam dole umřelo dnes v noci pět farmářů kvůli vodě a zbrani, kterou nikdo neumí vyrobit. Kondominium chce klid. Liga chce klid. Renn chce, aby přestal zvedat věci, které mají zůstat ležet.
 
 Postup je jasný. Cizí zbraň se eviduje, předá kontraktorovi Ligy, zaznamená do hlášení, zapomene. Tak to chodí. Tak se udržuje klid, za který Legie dostává tak slušně zaplaceno.
 

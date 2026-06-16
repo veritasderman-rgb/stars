@@ -90,7 +90,7 @@ Ticho přijde rychle, jak v poušti vždycky. Jen vítr a kapání vody z probit
 
 „Stanoviště, hlášení," řekne Reyever a vstává. Klouby mu praskají. Padesát let není nic, ale na štěrku se podepíšou.
 
-„Sedm mrtvých, dva zajatí," ohlásí Daré. „Plus dva v boudě, pořád zalezlí. U nás nikdo. Ani škrábnutí."
+„Pět mrtvých, dva zajatí," ohlásí Daré. „Plus dva v boudě, pořád zalezlí. U nás nikdo. Ani škrábnutí."
 
 „Hale?"
 
@@ -112,7 +112,7 @@ Vos by se zeptala, napadne Reyevera. Vos se ptá na všechno. Ale Vos je dneska 
 
 Reyever obchází kotlinu. Tohle je ta část, kterou nemá rád a kvůli které sem chodí osobně. Ne vítězství — to je řemeslo. Účet.
 
-Sedm mrtvých leží tam, kde padli, a první slunce už z nich tahá tu zvláštní nasládlou pachuť, kterou poušť přidává ke všemu, co zemře. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
+Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá tu zvláštní nasládlou pachuť, kterou poušť přidává ke všemu, co zemře. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
 
 „Plukovníku?" Jeden ze zajatců, ten starší, zvedne hlavu. Má rozbitý ret a oči člověka, který se přestal bát a teď už jen mluví. „My nejsme banda. My jsme přešli na správnou stranu. Vy to ještě nevíte, ale přijde to i na vás. Měli byste přestat bránit mrtvolu."
 
@@ -132,7 +132,7 @@ Hale přijde, vezme zbraň, potěžká ji a obrátí v rukou. Tváří se jako m
 
 „To není ocel," řekne pomalu. „Není to ani slitina, kterou znám. A já znám všecky, co se daj vyrobit, a pár, co se vyrábět nemaj." Přejede palcem po té matné křivce. „Tohle se neválcovalo ani neslejvalo. Tohle… vyrostlo, plukovníku. Líp to říct neumím." Zaklepe na to kloubem. Zvuk je špatný. Tlumený, jako klepání na něco plného, co nemá uvnitř dutinu. „A nemá to na sobě jedinou značku. Žádnej sériák. Žádnej výrobce. Žádnou zemi původu. Jako by se to stydělo přiznat, kde se narodilo."
 
-Reyever neříká nic. Dívá se na mrtvého kolonistu, který tu věc nesl, na jeho roztrhané boty a popraskané ruce. Pak na devět padlých a čtyři zajatce, na probitou nádrž a napíchnutý kolektor. Devět vodních farmářů s puškami, které nemají kde vzít.
+Reyever neříká nic. Dívá se na mrtvého kolonistu, který tu věc nesl, na jeho roztrhané boty a popraskané ruce. Pak na pět padlých a čtyři zajatce, na probitou nádrž a napíchnutý kolektor. Devět vodních farmářů s puškami, které nemají kde vzít.
 
 A jednu zbraň z kovu, který nikdo na světě neumí vyrobit.
 

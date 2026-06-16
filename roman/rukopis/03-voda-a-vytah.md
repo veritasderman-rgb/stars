@@ -2,7 +2,7 @@
 
 ORBITÁLNÍ VÝTAH STOJÍ NAD MĚSTEM jako kdyby někdo přibil oblohu k zemi a zapomněl to odstranit. Major Iliana Vos ho má celý den nad hlavou, tu jedinou svislou čáru, která mizí výš, než dohlédne, a táhne za sebou pomyšlení, že kdokoli stiskne ve špatnou chvíli špatné tlačítko, spadne na město kilometry kabelu a hořící klec. Vos na to nemyslí. Vos myslí na čerpací stanici tři ulice odtud, na rozvodný uzel pod ní a na to, že má dvacet šest lidí roztažených po křižovatce, kterou někdo právě začal dobývat.
 
-Leží za převrženým transportérem koloniální správy a počítá. Dech mělký, ústa pootevřená, aby do plic netáhla rozdrcený beton, který visí ve vzduchu po každé ráně. Z čerpací stanice na druhé straně náměstí střílejí. Ne nazdařbůh. Po pásmech, krátkými dávkami, šetří muničí. To jí vadí víc než cokoli jiného. Farmáři nešetří. Farmáři vypálí zásobník do oblohy a pak zvednou ruce. Tihle počítají.
+Leží za převrženým transportérem koloniální správy a počítá. Dech mělký, ústa pootevřená, aby do plic netáhla rozdrcený beton, který visí ve vzduchu po každé ráně. Z čerpací stanice na druhé straně náměstí střílejí. Ne nazdařbůh. Po pásmech, krátkými dávkami, šetří munici. To jí vadí víc než cokoli jiného. Farmáři nešetří. Farmáři vypálí zásobník do oblohy a pak zvednou ruce. Tihle počítají.
 
 „Volání jedna pro velitelství," řekne do hrtanu, klidně, jako by hlásila počasí. „Jsme na rozvodném uzlu Sirte-západ. Drží proti nám čerpací stanici a roh u věže. Odhad: třicet, možná víc. Vyzbrojení nad rámec. Žádám potvrzení, že platí předchozí pravidla nasazení. Konec."
 
@@ -12,7 +12,7 @@ Pásmo zaprská. Pak velitelské volání, vzdálené a ploché filtrem: „Vol�
 
 Bez orbitální podpory. Samozřejmě. Kdyby zavolala o ránu shora, dostala by mlčení a pak strohé ne, a to ne by mělo důvod, který každý voják na téhle planetě zná, i když ho nahlas nikdo neřekne. Nad ní visí dělostřelectvo schopné srovnat celou křižovatku za vteřinu. A přesně to nesmí. Jediná smysluplná věc na celé téhle vyprahlé kouli je voda a ten výtah, co ji vozí nahoru a peníze dolů. Srovnat křižovatku znamená rozbít rozvodný uzel. Rozbít uzel znamená nechat město pít prach. Dobývají vodu zbraní, kterou nesmějí použít, protože by tím vodu zničili. Vos to chápe líp než politici, kteří to vymysleli. Voda se nebombarduje. Voda se bere ulici po ulici, dům po domě, vlastníma rukama a vlastní krví.
 
-„Kovaře," řekne na vnitřní pásmo. Ne ten Hale. Desátník Kovař, mladý, dostal přezdívku, protože se jmenuje skoro stejně jako legenda a nikdy mu to nedají zapomenout. „Vidíš tu věž?"
+„Holane," řekne na vnitřní pásmo. Desátník Holan, mladý, sotva půl roku u Legie. „Vidíš tu věž?"
 
 „Vidím, majore."
 
@@ -28,7 +28,7 @@ DESÁTNÍK KOVAŘ POTŘEBUJE DVĚ MINUTY na to, aby se přesunul podél zborcen�
 
 Vos to neuvidí celé. Uvidí jen, jak se opatrný stín přesune do mezery mezi dvěma panely, jak tam na zlomek vteřiny strne, a jak ho mezera vyplivne zpátky, už ne jako stín, ale jako věc bez ladnosti, která padá špatně. Odstřelovač na věži nečekal na hlavu u země. Čekal na pohyb u zdi.
 
-„Kovař je dole!" křikne někdo. „Kovař je dole, sakra, je za tou zdí, nemůžu k němu!"
+„Holan je dole!" křikne někdo. „Holan je dole, sakra, je za tou zdí, nemůžu k němu!"
 
 „Zůstaň, kde jsi," řekne Vos do pásma. Tišeji, ne hlasitěji. Když je naštvaná, ztiší se; lidé se k tichu naklánějí. „Nikdo k němu nepoleze přes otevřenou plochu. Slyšíte? Nikdo. Je mrtvý a vy budete taky, jestli to zkusíte. Sálová, vidíš tu věž?"
 
@@ -110,11 +110,11 @@ Možná má pravdu. To je na něm to nejhorší.
 
 ---
 
-NÁMĚSTÍ PO BOJI je tišší, než má pravdu být. Vos jím prochází se sklopenou hlaveň a počítá podruhé, teď už mrtvé, protože živé spočítala při ústupu. U své strany zná každou tvář. U druhé nezná ani jednu, a přesto je obejde všechny, protože to dělá vždycky. Chce vědět, koho zabila. Je to jediná počestnost, kterou si v téhle práci může dovolit.
+NÁMĚSTÍ PO BOJI je tišší, než má pravdu být. Vos jím prochází se sklopenou hlavní a počítá podruhé, teď už mrtvé, protože živé spočítala při ústupu. U své strany zná každou tvář. U druhé nezná ani jednu, a přesto je obejde všechny, protože to dělá vždycky. Chce vědět, koho zabila. Je to jediná počestnost, kterou si v téhle práci může dovolit.
 
 Nejsou to vojáci. Vidí to na rukou stejně, jako to viděl Reyever v kotlině na druhé straně města — i když o tom Vos neví, neví, že tentýž den, tentýž úsvit, dělal její velitel přesně totéž nad přesně takovými těly. Ruce mozolnaté od práce, ne od zbraně. Boty sešlapané do pouště, ne do výcviku. Mladí a staří dohromady, jak farmáři chodí do války, ne jak vojáci.
 
-Mezi nimi cizí zbraně. Tři, čtyři, hladké a matné a beze značky, povalují se v prachu mezi obyčejnými koloniálními pětkami jako věci z jiného příběhu. Vos se jedné dotkne hlavní pušky, neobrátí ji rukou. Je lehčí, než vypadá. Posune ji botou stranou a jde dál.
+Mezi nimi cizí zbraně. Tři, čtyři, hladké a matné a beze značky, povalují se v prachu mezi obyčejnými koloniálními pětkami jako věci z jiného příběhu. Vos se jedné dotkne hlavně pušky, neobrátí ji rukou. Je lehčí, než vypadá. Posune ji botou stranou a jde dál.
 
 U paty rozvodné věže, opřený zády o beton, sedí muž, který ještě nedomřel.
 
