@@ -36,7 +36,7 @@ Reyever se dívá na mapu, na prázdný kroužek u Mełhavu, který za měsíc m
 
 „Vždycky jsme byli,“ řekne. „Kondominium nás jen platilo natolik, abychom si mysleli, že sloužíme jemu.“ Otočí se od mapy. „Teď platí ten, kdo se ještě nesklonil. To je jediný rozdíl. Lepší zaměstnavatel.“
 
-Hale na něj chvíli hledí. Pak přikývne, pomalu, tak jak přikyvuje na poruchu, kterou nečekal, ale která má smysl, jakmile se ukáže.
+Hale na něj chvíli hledí. Čeká, že v té větě uslyší hořkost, a neslyší ji, a to ho zarazí víc než ta věta — že to plukovník říká jako fakt o stroji, ne jako o sobě. Pak přikývne, pomalu, tak jak přikyvuje na poruchu, kterou nečekal, ale která má smysl, jakmile se ukáže.
 
 „Vejde se to do jednoho řádku,“ řekne. „Sloužili sme mrtvole. Teď sloužíme tomu, co po ní zbylo.“ Vstane, zařadí hadr za opasek. „Mám radši tu druhou práci. Aspoň ten, komu sloužím, nelže, že umírá.“
 

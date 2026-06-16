@@ -34,7 +34,7 @@ Nikdo neřekne nic.
 
 „No tak,“ řekne Hale. „Já vás slyším počítat dva dny. Slyším to líp než tu vaši notu v přepážkách. Tak to řekněte nahlas. Ať to není jen šepot. Šeptaná věc hnije — to vás naučil sám plukovník, akorát jste mysleli, že to platí jen na něj.“
 
-Brázda zvedne hlavu. Má v očích tu únavu, kterou Hale zná od chlapů, co viděli moc dun a moc prázdných pancířů.
+Brázda zvedne hlavu. Má v očích tu únavu, kterou Hale zná od chlapů, co viděli moc dun a moc prázdných pancířů. A pod ní něco, co Hale nečekal a co ho zamrazí víc než to počítání — úlevu. Že to konečně někdo řekne nahlas a on nebude první.
 
 „Dobře, Kováři,“ řekne Brázda. „Když to chceš slyšet nahlas. Spočítal jsem to. A vyšlo mi, že admirál má pravdu.“
 
@@ -130,7 +130,7 @@ REYEVER STOJÍ V MAPOVÉM STÁNÍ U PRÁZDNÉ ČERVENÉ MAPY, a když Vos vejde,
 
 Reyever se otočí. Žebro ho při tom pohybu bodne — prasklý klín od žacího plavidla. Vos to pozná podle toho, jak pomalu se otáčí.
 
-„A co bych měl mít já,“ řekne. Není to otázka. Je to past, a Vos do ní šlápne, protože ji unaví obcházet.
+„A co bych měl mít já,“ řekne. Není to otázka. Je to past, a Vos do ní šlápne, protože ji unaví obcházet. Reyever ji nechá šlápnout. Past klade i tehdy, když by radši slyšel odpověď sám, protože jediná odpověď, kterou by unesl, je ta, na kterou přijde ona bez něj.
 
 „Důvod,“ řekne Vos. „Pro ně. Jeden důvod, který není v Sarnově tabulce a který se dá říct nahlas. Vy ho máte. Vím, že ho máte, protože jste celý život sloužil něčemu, čemu říkáte, že je luxus, který si velitel nemůže dovolit. Tak jim ho dejte. Vystupte před ně a dejte jim ten důvod, dřív než si je naverbuje matematika, protože ta nikdy nespí a vy spíte, plukovníku, vidím to na vás.“
 

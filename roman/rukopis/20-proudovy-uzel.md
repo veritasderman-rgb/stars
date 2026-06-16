@@ -12,7 +12,7 @@ Na červené mapě svítí tři proudy. Dva jsou na všech mapách Kondominia, �
 
 Nedívá se na souřadnice kapitulace. Dívá se na tu vlasovou čáru a na místo, kde se třetí proud láme do mělčiny u menší z hvězd — do louže, ze které se nešplhá. A počítá, kolik z toho, co dnes pošle k uzlu, se odtamtud nevrátí.
 
-Číslo zná. Nese ho sám.
+Číslo zná. Nese ho sám. Nese ho líp, dokud je to číslo a ne jména — a tak ho drží jako číslo, schválně, dokud to jde.
 
 ---
 
@@ -238,7 +238,7 @@ Ticho.
 
 „Vy mě posíláte —“
 
-„Posílám vás krýt nájezd, majore. Tu ránu nepřežije nikdo, kdo bude první. A já potřebuju, aby byl první někdo jiný než *Kovadlina*, protože *Kovadlina* musí dojet až do hrdla. Jinak je to všechno zadarmo.“ Reyever se na vteřinu odmlčí. „To není rozkaz, který chci dát.“
+„Posílám vás krýt nájezd, majore. Tu ránu nepřežije nikdo, kdo bude první. A já potřebuju, aby byl první někdo jiný než *Kovadlina*, protože *Kovadlina* musí dojet až do hrdla. Jinak je to všechno zadarmo.“ Reyever se na vteřinu odmlčí. V té vteřině nepočítá. V té vteřině dělá to jediné, co si nikdy nedovolí déle než vteřinu — ví, koho posílá. Pak se vrátí k číslu, protože číslo unese a tohle ne. „To není rozkaz, který chci dát.“
 
 Vos to dořekne za něj, tiše, větu, kterou ji naučil on.
 

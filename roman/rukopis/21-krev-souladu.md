@@ -14,7 +14,7 @@ Reyever to spočítal taky. Spočítal, že zahradník a pes se v jedné kleci s
 
 „Vím,“ řekne Reyever.
 
-Dívá se na to světlo a nemá z něj nic, co by čekal mít. Třicet let nesl jméno velitele, který nikdy neprohrál, a teď se dívá na první bitvu, kterou kdokoli na lidské straně proti Souladu vyhrál, na důkaz, že ta narostlá věc se dá rozlomit, že vazalství není jediná matematika — a cítí jen, jak ho při každém nádechu bodá žebro a jak je na stání o jeden hlas míň, než má být.
+Dívá se na to světlo a čeká, kdy přijde to, co po výhře přijít má. Nepřijde. Třicet let nesl jméno velitele, který nikdy neprohrál, a teď se dívá na první bitvu, kterou kdokoli na lidské straně proti Souladu vyhrál, na důkaz, že ta narostlá věc se dá rozlomit, že vazalství není jediná matematika — a kdyby měl to vítězství zvážit v ruce, vážilo by přesně tolik co prázdné místo na stání. O jeden hlas míň, než má být. Žebro ho při každém nádechu bodne, a on je za to bodnutí skoro rád, protože je to jediná věc, kterou dnes cítí celou.
 
 Na uzavřeném pásmu Legie je ticho. Vos na něm vždycky řekla „Konec“.
 
