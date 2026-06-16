@@ -96,11 +96,11 @@ Navigátor přepočítá, Reyeverovým způsobem. „Vlákna stahuje. Dvě minut
 
 Kýlový klín padá rovnoměrně, takže ho nerozdrtí — gradient bere celé tělo najednou, jako když se propadne podlaha. *Kovadlina* se sune napříč, dolů a stranou, do roviny, kterou žací plavidlo odkryje, když se otáčí. Pryč od hrdla. K zádi.
 
-Plavidlo to pozná. A udeří. Nehraje křížení T podle tabule — pošle jedinou ránu, ne salvu, jednu věc, co letí rovně a tiše, jako plivla cizí zbraň na Sirte do pancíře, jen tisíckrát větší.
+Plavidlo to pozná. A udeří. Nehraje křížení T podle tabule. Pošle jedinou ránu, ne salvu — jednu věc, co letí rovně a tiše, jako plivla cizí zbraň na Sirte do pancíře, jen tisíckrát větší.
 
 Rána projde clonou *Kovadliny*, jako by clona nebyla.
 
-Loď se otřese. Reyever to necítí jako zvuk, cítí to jako úder dlaní zevnitř do plechu. Obrazovka zbělá a srovná se.
+Loď se otřese. Reyever to necítí jako zvuk. Cítí to jako úder dlaní zevnitř do plechu. Obrazovka zbělá a srovná se.
 
 „Zásah,“ řekne Everett, a poprvé za osm let mu hlas o vlas zakolísá. „Pravej bok. Skrz clonu, jako by tam nic nebylo —“
 
@@ -232,7 +232,9 @@ Uvnitř je vrak horší než cokoli, co Vos čekala. Není to loď ani mršina l
 
 Až v jedné komoře, hluboko u zlomu, kde se plavidlo přerazilo po stonku, najdou tělo.
 
-Brázda za ní sklopí pušku, protože ani on neví, kam ji namířit. Ve výklenku tvarovaném přesně podle lidské postavy, jako forma odlitá kolem těla, sedí člověk.
+Brázda za ní sklopí pušku, protože ani on neví, kam ji namířit.
+
+Ve výklenku tvarovaném přesně podle lidské postavy, jako forma odlitá kolem těla, sedí člověk.
 
 Je mrtvý. Zabil ho zlom — tlaková vlna, která prošla plavidlem, když ho *Kovadlina* rozlomila. Ale není rozpuštěný, zasázený, přepsaný do kovové zeleně jako lidé z Melassu. Je celý. Je oblečený. Má lidskou tvář, lidské ruce klidně položené do výklenku, který kolem nich narostl tak přesně, že Vos nechápe, jestli ten člověk seděl v plavidle, nebo jestli plavidlo narostlo kolem něj.
 

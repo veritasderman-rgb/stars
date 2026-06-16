@@ -2,7 +2,7 @@
 
 ZPRÁVA PŘIJDE NA *KOVADLINU* TŘI DNY POTÉ, co Renn odplula do proudu, který na mapách není, a přijde stejnou cestou jako ona.
 
-Reyever stojí na velitelském stání, ruce za zády, a poslouchá navigátora, který nechce věřit vlastnímu pultu. Loď je šestý den v opravách. Pravá baterie pořád zeje prázdnem, levou Hale skládá z dílů dvou jiných, klín drží o jeden zub a v přepážkách úpí ta podprahová nota, kterou se posádka naučila neslyšet. Reyever ji slyší. Slyší ji žebrem, které mu praskl klín u žacího plavidla a které ho při každém nádechu upomíná, kolik Legii zbývá.
+Reyever stojí na velitelském stání, ruce za zády, a poslouchá navigátora, který nechce věřit vlastnímu pultu. Loď je šestý den v opravách. Pravá baterie pořád zeje prázdnem, levou Hale skládá z dílů dvou jiných, klín drží o jeden zub a v přepážkách úpí ta podprahová nota, kterou se posádka naučila neslyšet. Reyever ji slyší. Slyší ji žebrem, které mu u žacího plavidla praskl klín a které ho při každém nádechu upomíná, kolik Legii zbývá.
 
 „Nosič bez majáku,“ hlásí navigátor. „Bez kódu Kondominia. Bez kódu Ligy. Drží odstup od mělčiny a vysílá na nás otevřeně. Žádá spojení.“
 
@@ -30,7 +30,7 @@ Reyever přejde k pásmu. Stiskne tlačítko a promluví poprvé.
 
 Na můstku se nikdo nenadechne.
 
-Adm. Dane Sarn byl ve třídě ten, koho instruktoři dávali za příklad, a Reyever ten, kterého nedovedli zařadit. Sarn řešil úlohu nahlas, krok za krokem, tak čistě, že se z toho dalo učit. Reyever ji vyřešil dřív a neřekl jak. Jednou je postavili proti sobě ve cvičné bitvě, dvě flotily na tabuli, a Sarn prohrál o jediný tah, který nepředvídal, protože byl příliš dobrý na to, aby čekal chybu, kterou Reyever udělal schválně. Pak spolu seděli celou noc a Sarn se ptal proč. Reyever neodpověděl. Bylo to naposledy, co byli přátelé.
+Adm. Dane Sarn byl ve třídě ten, koho instruktoři dávali za příklad. Reyever ten, kterého nedovedli zařadit. Sarn řešil úlohu nahlas, krok za krokem, tak čistě, že se z toho dalo učit. Reyever ji vyřešil dřív a neřekl jak. Jednou je postavili proti sobě ve cvičné bitvě, dvě flotily na tabuli, a Sarn prohrál o jediný tah, který nepředvídal — protože byl příliš dobrý na to, aby čekal chybu, kterou Reyever udělal schválně. Pak spolu seděli celou noc a Sarn se ptal proč. Reyever neodpověděl. Bylo to naposledy, co byli přátelé.
 
 „Vidím, že jsi nás konečně našel,“ řekne Sarn. „Spíš to, co jsme ti nechali najít. Melass. Konvoj. Plavidlo, které jsi zabil za skoro celý křižník — to bylo dobré, Adane. Opravdu dobré. Nikdo jiný by to nedokázal. Proto s tebou mluvím já a ne někdo, kdo by ti poslal salvu.“
 

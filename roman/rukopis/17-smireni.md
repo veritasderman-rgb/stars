@@ -108,11 +108,11 @@ Vos ji čte sama na velitelském stání, protože ji musí přečíst dřív, n
 
 Depeše není od Kondominia. Je o Kondominiu. Civilní vysílání, zachycené v proudu a předané dál, hlas příliš mladý a příliš profesionální na to, co čte.
 
-Třetí flotila se stáhla z celého pohraničního ramene. Oficiálně „konsolidace sil k obraně jádra“. Vos zná to slovo z porad — konsolidace je výmluva pro ústup, který se nesmí jmenovat ústup. Dvě domovské velmoci si vzájemně zablokovaly hlasy ve výboru, takže Kondominium tři měsíce nevydalo jediný společný rozkaz. Daňová liga východního sektoru přestala odvádět podíl na hladinový pohon a Kondominium ji nepotrestalo, protože nemá čím. Bez podílů nejsou lodě. Bez lodí není monopol. Bez monopolu není Kondominium nic než jméno na staré smlouvě.
+Třetí flotila se stáhla z celého pohraničního ramene. Oficiálně „konsolidace sil k obraně jádra“. Vos to slovo zná z porad — konsolidace je výmluva pro ústup, který se nesmí jmenovat ústup. Dvě domovské velmoci si vzájemně zablokovaly hlasy ve výboru, takže Kondominium tři měsíce nevydalo jediný společný rozkaz. Daňová liga východního sektoru přestala odvádět podíl na hladinový pohon a Kondominium ji nepotrestalo, protože nemá čím. Bez podílů nejsou lodě. Bez lodí není monopol. Bez monopolu není Kondominium nic než jméno na staré smlouvě.
 
 Vos pustí záznam dál do lodi, celý, nesestříhaný. Reyever ji to naučil, aniž to kdy řekl: šeptaná zpráva hnije.
 
-Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Ono umírá samo, z únavy, z rozkolu, ze tří měsíců, kdy nešlo říct ani ano, ani ne.
+Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Umírá samo. Z únavy, z rozkolu, ze tří měsíců, kdy nešlo říct ani ano, ani ne.
 
 A do té trhliny vráží Smíření, klidně, trpělivě, soustavu po soustavě, a nabízí jediné, co Kondominium nabídnout přestalo: že zítra ještě budeš.
 
@@ -170,7 +170,7 @@ Ví to. Věděla to dřív, než navigátor domluvil. Jen to nechce být pravda,
 
 ---
 
-HLAS, KTERÝ SE OZVE Z REPRODUKTORU, je spisovný, uhlazený, klidný, a Vos ho pozná dřív, než padne jediné slovo, protože ho slyšela měsíce a měsíce ho podezírala a nakonec ho nechala odejít z téhle lodi vlastní chybou.
+HLAS, KTERÝ SE OZVE Z REPRODUKTORU, je spisovný, uhlazený, klidný, a Vos ho pozná dřív, než padne jediné slovo. Slyšela ho měsíce. Měsíce ho podezírala a nakonec ho nechala odejít z téhle lodi vlastní chybou.
 
 „Majorko Vosová,“ řekne Cassia Renn. „Doufala jsem, že to vezmete vy, a ne plukovník. S vámi se mi mluví líp. Vy se aspoň díváte na to, co opouštíte.“
 

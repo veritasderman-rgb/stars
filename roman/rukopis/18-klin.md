@@ -20,13 +20,13 @@ Reyever se na ni dívá. Čte ji z ramen, ne z očí, jak čte každého, a popr
 
 „Ne,“ řekne Reyever. „Vím proč.“
 
-Protože muž, který si je jistý čísly, nemá z čeho mít strach. Sarn nepřijde jako zajatec. Přijde jako věřitel, který si může dovolit přijít domů k dlužníkovi a posadit se mu ke stolu, protože dluh nikam neuteče.
+Protože muž, který si je jistý čísly, nemá z čeho mít strach. Sarn nepřijde jako zajatec. Přijde jako věřitel — ten si může dovolit zajít domů k dlužníkovi a posadit se mu ke stolu, protože dluh nikam neuteče.
 
 ---
 
 SARN VYSTOUPÍ Z LÍMCE BEZ DOPROVODU, v civilní kombinéze bez hodnosti, a první, co Reyever uvidí, je, jak je ten člověk klidný.
 
-Třicet let. Sarn zestárl jako Reyever — vlasy ocelové, kůže suchá od recyklovaného vzduchu lodí, oči, které měří místnost dřív, než do ní vejde celý. Změří dokovací palubu jediným pohledem: stopy po hašení požáru na stropě, prázdné lože po raketometu, čtyři vojáky u stěny, kteří se tváří, že nehlídají, a hlídají. Změří to a usměje se, protože mu to potvrdí číslo, které měl spočítané dřív, než přiletěl.
+Třicet let. Sarn zestárl jako Reyever — vlasy ocelové, kůže suchá od recyklovaného vzduchu lodí, oči, které měří místnost dřív, než do ní vejde celý. Dokovací palubu změří jediným pohledem: stopy po hašení požáru na stropě, prázdné lože po raketometu, čtyři vojáky u stěny, kteří se tváří, že nehlídají, a hlídají. Změří to a usměje se. Potvrdí mu to číslo, které měl spočítané dřív, než přiletěl.
 
 „Adane,“ řekne.
 
@@ -88,7 +88,7 @@ V jídelně je ticho, do kterého úpí loď svou jedinou notou.
 
 „Sirte tě netestoval, jestli jsi dost dobrý, abys přežil,“ řekne Sarn. „Sirte tě třídil. Buď spadneš sám a my máme klid, nebo se osvědčíš a my tě chceme. Z toho trychtýře nevedla cesta ven, Adane. Vedla jen dolů, ke mně. Ať jsi udělal cokoli, skončil jsi tady, u tohoto stolu. Zařídil jsem to tak, abys neměl jinou možnost než tu, kterou by sis vybral sám. To je celý můj řemeslo. Nedonutit nepřítele. Postavit mu chodbu tak úzkou, že si v ní svobodně vybere jediné dveře, které tam jsou.“
 
-Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, byl krok, který za něj někdo vyprojektoval předem.
+Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, někdo za něj vyprojektoval předem.
 
 „Manévroval jsi mě od první duny,“ řekne.
 

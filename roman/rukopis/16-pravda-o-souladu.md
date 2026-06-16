@@ -12,7 +12,7 @@ Reyever stojí na velitelském stání a tentokrát nemá ruce za zády. Má dla
 
 Reyever se dívá na mapu nad pultem. Tečka v mělčině je velká a klidná. Visí tam jako loď, která ví, že ji Legie nedokáže dohnat ani od ní utéct, a které na tom nezáleží.
 
-Pochopí to dřív, než navigátor domluví. Žací plavidlo nepřišlo žnout. Není tu úroda. Není tu nic než *Kovadlina*, kulhavá, vystřílená, osmý den v opravách.
+Pochopí to dřív, než navigátor domluví. Žací plavidlo nepřišlo žnout. Není tu úroda. Není tu nic než *Kovadlina* — kulhavá, vystřílená, osmý den v opravách.
 
 „Mluví poprvé,“ řekne Reyever tiše, skoro pro sebe. „Za celou dobu poprvé.“ Položí druhou dlaň na pult. „Protože jsme jedno zabili.“
 
@@ -42,7 +42,7 @@ Reyever mlčí. V tom mlčení počítá, jako vždycky, a poprvé za třicet le
 
 ---
 
-REYEVER PŘEJDE OD PULTU K MAPĚ, kde tečka v mělčině pořád klidně visí, a mluví do ní, ne do reproduktoru, protože je snazší mluvit k obrazu nepřítele než k jeho hlasu.
+REYEVER PŘEJDE OD PULTU K MAPĚ, kde tečka v mělčině pořád klidně visí, a mluví do ní, ne do reproduktoru. Je snazší mluvit k obrazu nepřítele než k jeho hlasu.
 
 „Sarn mi řekl tvou verzi,“ řekne. „Že nepřicházíš dobývat. Že si vybíráš světy. Že zbytek necháš žít, když se skloní. Slyšel jsem to od člověka. Teď to slyším od tebe. Chci vědět, jestli ten člověk lhal.“
 

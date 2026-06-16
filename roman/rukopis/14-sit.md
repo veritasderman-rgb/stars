@@ -40,7 +40,7 @@ Sedí v koutě navigační kabiny, kde jí navigátor nechal pult a šálek ně�
 
 Ne všechny mlčí stejně.
 
-Šest kolonií přestalo vysílat běžná hlášení v posledních čtyřech měsících. Ne najednou. Po jedné, po dvou, v rozestupech, jako by někdo otáčel knoflíky postupně, aby si toho nikdo nevšiml. Žádná z nich nehlásí útok. Žádná nevolá o pomoc. Prostě se odmlčely — přestaly platit poplatky Lize, přestaly žádat o zásoby, přestaly se chovat jako kolonie, která chce přežít a potřebuje k tomu zbytek lidstva.
+Šest kolonií přestalo v posledních čtyřech měsících vysílat běžná hlášení. Ne najednou. Po jedné, po dvou, v rozestupech, jako by někdo otáčel knoflíky postupně, aby si toho nikdo nevšiml. Žádná nehlásí útok. Žádná nevolá o pomoc. Prostě se odmlčely — přestaly platit poplatky Lize, přestaly žádat o zásoby, přestaly se chovat jako kolonie, která chce přežít a potřebuje k tomu zbytek lidstva.
 
 Vos to projede třikrát.
 
@@ -158,7 +158,7 @@ Není prázdná. Nikdy nebyla prázdná. Celé ty dny na ni Renn nepsala proto, 
 
 „To, co dělám celý život,“ řekne Renn. „Vybírám, kterou lež splním. Vy musíte poslechnout lež, kterou vám dají. Já si svoji vybírám.“ Položí palec na destičku. „Řekla jsem vám pravdu, majore. Celou, poprvé od Sirte. Smíření. Čísla. Sebe. To není dárek. To je rozloučení.“
 
-Vos vyrazí přes kabinu, dva kroky, ale dva kroky stačí jen na to, aby viděla, co se na destičce děje — řádek bez hlavičky, bez pečeti, ten symetrický tvar místo podpisu, stonek a dvě poloviny — a aby ho nestihla zastavit.
+Vos vyrazí přes kabinu, dva kroky. Dva kroky stačí jen na to, aby viděla, co se na destičce děje — řádek bez hlavičky, bez pečeti, ten symetrický tvar místo podpisu, stonek a dvě poloviny. Zastavit ho nestihne.
 
 Signál odejde. Slabý, do proudu, který na mapách Kovadliny není.
 
@@ -174,7 +174,7 @@ Vos ji popadne za paži. Renn se nebrání. Nemá proč.
 
 DOPROVODNÝ ČLUN SOULADU SE ODLEPÍ OD MĚLČINY tak tiše, že ho navigátor zachytí, až když je půl cesty pryč, a Vos stojí v doku Kovadliny a dívá se, jak odlétá to, co měla v ruce.
 
-Renn nešla násilím. Nemusela. Než Vos doběhla pro stráž, než probrala Reyevera, než loď pochopila, co se děje, byla Renn u dokovacího límce s jedinou taškou a klidem člověka, který tohle čekal tři týdny a možná tři roky. Stráž ji nezastavila, protože stráž neměla rozkaz zastavit kontraktorku Ligy, která jde k vlastnímu člunu. Reyever ten rozkaz nedal, protože Reyever spal, nebo obcházel loď, a než se to k němu dostalo, byl člun pryč.
+Renn nešla násilím. Nemusela. Než Vos doběhla pro stráž, než probrala Reyevera, než loď pochopila, co se děje, byla Renn u dokovacího límce — s jedinou taškou a klidem člověka, který tohle čekal tři týdny a možná tři roky. Stráž ji nezastavila. Neměla rozkaz zastavit kontraktorku Ligy, která jde k vlastnímu člunu. A Reyever ten rozkaz nedal, protože spal, nebo obcházel loď, a než se to k němu doneslo, byl člun pryč.
 
 Vos stojí v doku, ruce volné, a dívá se na obrazovku, na které se malá tečka odlepuje od mělčiny k tomu, co tam celou dobu čeká.
 
