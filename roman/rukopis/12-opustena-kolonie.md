@@ -10,7 +10,7 @@ Svět dole je zelený od pólu k pólu. Ne ta skvrnitá, žíhaná zeleň, jakou
 
 „To je obyvatelná kolonie?“ zeptá se Vos. Ztiší hlas, aniž chce.
 
-Navigátor přepočítá. Pak ještě jednou, Reyeverovým způsobem. „Podle map jo,“ řekne. „Kolonie Melass. Pět tisíc lidí, vodní zemědělství, registrovaná před dvanácti lety.“ Odmlčí se. „Majore, na téhle planetě nemá co růst. Spektrum hvězdy je špatný. Půda je špatná. Tady měli pěstovat řasy v nádržích pod plachtami.“
+Navigátor přepočítá. Pak ještě jednou, Reyeverovým způsobem. „Podle map jo,“ řekne. „Kolonie Melass. Pět tisíc lidí, vodní zemědělství, registrovaná před dvanácti lety.“ Odmlčí se. „Majore, tady nemá co růst. Spektrum hvězdy je špatný, půda taky. Tihle měli pěstovat řasy v nádržích pod plachtami.“
 
 Vos se dívá na tu zeleň a poprvé za hodně dní jí není zima ze strachu, ale z něčeho jiného. Z pořádku.
 
