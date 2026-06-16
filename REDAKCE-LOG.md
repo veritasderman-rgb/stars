@@ -1712,3 +1712,29 @@ Spustit nad `roman/_finalni.md` (nebo nad kapitolami) plný **redakční cyklus*
 podle `roman/04-subrutina-jazyk.md` (vrstvy: konzistence → klišé → smysly →
 vnitřní hlas → dialog → rytmus → čeština → strážce hlasu). Před spuštěním
 zapojit orchestrátor dle sekce F daného dokumentu.
+
+---
+
+# REDAKČNÍ CYKLUS 1 — SHRNUTÍ (Prach a soulad)
+
+**Datum:** 2026-06-16. Běh na větvi `claude/youthful-bell-preo96` (nedestruktivně, vše commitováno → vratné přes `git revert`).
+
+## Vrstvy a zásahy
+1. **konzistence** — průběžná bible v `roman/rukopis/_kontinuita.md` (22 sekcí); rozpory vyřešeny už při psaní.
+2. **klišé / AI slop (`klise-scifi`)** — ~63 zásahů přes 22 kapitol: generická přirovnání → konkrétní detail, vyhozená opakování („srdce stroje", „pochopí tělem dřív než hlavou"), fortune-cookie maximy → konkrétno, gear-porn/katalog akce zhuštěn.
+3. **rytmus** — ~50 úprav: variace délky vět, staccato v akci (zvl. kap. 20), rozbití monotónních odstavců; kap. 12 ponechána (záměrně pomalý dech).
+4. **strážce hlasu (`hlas-strazce`, právo veta)** — ~29 revertů: obnoveny autorské refrény a obrazy zploštělé rytmem/klišé, vetována celá kap. 12, opraveno 5 uvozovkových regresí (ASCII/U+201D → české).
+   - *smysly* (smyslová vrstva) — přeskočeno (agent v repu chybí).
+   - *cestina-strazce* (mechanická čeština) — proběhla už při psaní u každé kapitoly.
+
+## Hlavní opakované vzorce (k hlídání)
+- Regrese českých uvozovek na ASCII/U+201D při editaci (nejčastější mechanická chyba — strážce i finální sken je odchytily, výsledek 0).
+- Tendence vrstev oholovat **záměrné autorské refrény** (strážce vracel).
+- Prokluzy přítomný/minulý čas (řešeno per-chapter `cestina-strazce`).
+
+## Stav
+- Finál: `roman/_finalni.md` — **52039 slov, 22 kapitol**, uvozovky 1520/1520, 0 ASCII, 0 U+201D.
+- **Konvergence:** počet smysluplných zásahů cyklu (~84 netto) je nad prahem 0,5 % vět → text NENÍ plně zkonvergovaný; literárně je ale po klišé+rytmus+strážci v dobré kondici.
+
+## Doporučení pro cyklus 2 (volitelné)
+Vrstvy **dialog** (podtext, individualizace idiolektu) a **vnitřní hlas** (psychologická pravda pod tlakem) zatím neproběhly — jsou laděné na erotiku a chtějí přenastavit na military SF. Doplnit i chybějící vrstvu **smysly** (smyslový naturalismus). Pak znovu strážce hlasu.

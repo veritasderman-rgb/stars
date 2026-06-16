@@ -10,7 +10,7 @@ PÍSEK SE DRŽÍ VŠEHO. Drží se hledí, drží se závěru, drží se potu po
 
 Mráz pouštní noci ještě nepovolil. Reyever cítí, jak mu stehna tuhnou na vychladlém štěrku, a nehne se. Tohle umí líp než většinu věcí. Čekat.
 
-Pět hodin se sem celá rota plížila od místa, kde je vysadily kluzáky — bez motorů, jen tichý pád z výšky a tvrdé dosednutí do dun, aby žádný teplotní záblesk nevisel na koloniálních čidlech. Pět hodin po duně za dunou, pět hodin počítání kroků a hlídání rozestupů, aby z roty zůstal jen pohyblivý kus tmy. Sirte takovou trpělivost nečeká. Sirte je zvyklá na koloniální milici, která přijede v hlučících transportérech a střílí do vzduchu.
+Pět hodin se sem celá rota plížila od místa, kde je vysadily kluzáky — bez motorů, jen tichý pád z výšky a tvrdé dosednutí do dun, aby žádný teplotní záblesk nevisel na koloniálních čidlech. Pět hodin po duně za dunou. Pět hodin počítání kroků a hlídání rozestupů, aby z roty zůstal jen pohyblivý kus tmy. Sirte takovou trpělivost nečeká. Sirte je zvyklá na koloniální milici, která přijede v hlučících transportérech a střílí do vzduchu.
 
 „Hlídka pět, šest, sedm na východní straně síta,“ ozve se v uchu Halův hlas, tichý a věcný. „Dva u nádrže. Dva v boudě. Devátej kouří na střeše, blbec.“
 
@@ -68,7 +68,7 @@ Reyever počká ještě tři vteřiny, ať se jim zorničky stáhnou.
 
 Pásmo ožije.
 
-První padne ten na střeše. Operátor těžké pušky z Daréina družstva ho sundá jedinou ranou dřív, než stačí cigaretu vyplivnout; muž se složí přes okraj a sjede po vlnitém plechu dolů, kde zůstane viset za nohu jako odložená loutka. Zbylých osm se rozprskne ke krytu — jenže kryt je tam, kam je Reyever celou noc trpělivě naháněl pohledem. K nádrži, do nízkého místa, do pasti.
+První padne ten na střeše. Operátor těžké pušky z Daréina družstva ho sundá jedinou ranou dřív, než stačí cigaretu vyplivnout. Muž se složí přes okraj a sjede po vlnitém plechu dolů, kde zůstane viset za nohu jako odložená loutka. Zbylých osm se rozprskne ke krytu — jenže kryt je tam, kam je Reyever celou noc trpělivě naháněl pohledem. K nádrži. Do nízkého místa. Do pasti.
 
 „Dva k nádrži, neutíkejte tam,“ zamumlá Hale skoro lítostivě.
 
@@ -90,7 +90,7 @@ Pálí dál. Reyever je nechá. Tohle je taky taktika — dovolit nepříteli, a
 
 „Teď,“ řekne potřetí.
 
-Daré pošle přes hřeben tři vojáky, rychle a nízko, ze tří směrů. Žádné hrdinství, žádné výkřiky. Jen práce. Dva muži u žlabu zvednou ruce. Třetí, mladší, sáhne po pistoli za pasem — a Reyever ten pohyb vidí dřív, než ho mladík dokončí, vidí ho, jako když čte větu, kterou už zná. Halova puška vedle něj jednou štěkne. Mladík se posadí do písku s výrazem člověka, kterému právě někdo sdělil nepříjemnou novinu, a pak se pomalu položí.
+Daré pošle přes hřeben tři vojáky, rychle a nízko, ze tří směrů. Žádné hrdinství, žádné výkřiky. Jen práce. Dva muži u žlabu zvednou ruce. Třetí, mladší, sáhne po pistoli za pasem — a Reyever ten pohyb vidí dřív, než ho mladík dokončí, vidí ho, jako když čte větu, kterou už zná. Halova puška vedle něj jednou štěkne. Mladík se posadí do písku, levá ruka ještě půl vteřiny hledá pistoli, a pak se položí.
 
 Ticho přijde rychle, jak v poušti vždycky. Jen vítr a kapání vody z probité nádrže.
 
@@ -118,7 +118,7 @@ Vos by se zeptala, napadne Reyevera. Vos se ptá na všechno. Ale Vos je dneska 
 
 Reyever obchází kotlinu. Tohle je ta část, kterou nemá rád a kvůli které sem chodí osobně. Ne vítězství — to je řemeslo. Účet.
 
-Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá tu zvláštní nasládlou pachuť, kterou poušť přidává ke všemu, co zemře. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
+Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá pach, který Reyever zná z každé jiné poušti a který je pokaždé stejný, jako by smrt byla jediná věc, která se nestěhuje. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
 
 „Plukovníku?“ Jeden ze zajatců, ten starší, zvedne hlavu. Má rozbitý ret a oči člověka, který se přestal bát a teď už jen mluví. „My nejsme banda. My jsme přešli na správnou stranu. Vy to ještě nevíte, ale přijde to i na vás. Měli byste přestat bránit mrtvolu.“
 
@@ -130,7 +130,7 @@ Hale se k němu otočí. „Drž hubu, dědku, než ti ji zavřu já.“
 
 Reyever přijde. Mladík leží na zádech, oči obrácené do toho běloskvoucího nebe, a přes hruď má pás s podivnou zbraní. Není to žádná z koloniálních pušek, žádný kondominijní arzenál, žádná z těch ojetých služebních pětek, co se po pohraničí válejí celé generace. Tahle věc nemá viditelný závěr. Nemá zásobník na náboje. Povrch má matný, bez lesku, barvy mokré břidlice, a tam, kde by mělo být chladicí žebrování, je hladká plynulá křivka, jako by zbraň nebyla sestavená, ale narostlá.
 
-Reyever ji zvedne. Je lehčí, než vypadá. Mnohem lehčí. To ho znepokojí dřív než cokoli jiného, protože lehkost znamená materiál, který nezná, a on zná každý materiál, kterým za třicet let někdo po jeho lidech vystřelil.
+Reyever ji zvedne. Je lehčí, než vypadá. Mnohem lehčí. A to ho znepokojí dřív než cokoli jiného, protože lehkost znamená materiál, který nezná — a on zná každý materiál, kterým za třicet let někdo po jeho lidech vystřelil.
 
 „Hale,“ řekne tiše.
 
@@ -195,7 +195,7 @@ Reyever neřekne nic. Nechá to viset.
 
 Renn zaplní ticho, jak to lidé jejího druhu dělají. „Kondominium ode mě chce jediné. Klid. Aby výtah jezdil, voda tekla a depeše do jádra zněly nudně. Nudná depeše je dobrá depeše. Víte, kolik soustav teď hoří, plukovníku? Kolik flotil se stahuje domů? Kondominium nemá sílu řešit pravdu. Má sílu jen na to, aby věci vypadaly v pořádku. A za to platí Legii. Ne za to, abyste vyhráli válku. Za to, abyste udrželi zdání, že žádná není.“
 
-Je to upřímnější, než čekal. To ho varuje. Renn neříká pravdu z neopatrnosti. Říká kus pravdy, aby zakryla větší lež, jako když člověk ukáže prázdné dlaně a nechá tě zapomenout, že rukávy nevidíš.
+Je to upřímnější, než čekal, a právě to ho varuje. Renn neříká pravdu z neopatrnosti. Říká kus pravdy, aby zakryla větší lež — jako když člověk ukáže prázdné dlaně a nechá tě zapomenout, že rukávy nevidíš.
 
 „Drahá policie,“ řekne Reyever.
 
@@ -205,7 +205,7 @@ Je to upřímnější, než čekal. To ho varuje. Renn neříká pravdu z neopat
 
 Renn ho na vteřinu příliš dlouho pozoruje. „Vždycky přijde, plukovníku. Pohraničí je pohraničí.“
 
-Vstane, přejde k oknu a chvíli mlčí, zády k němu, drobná postava proti té hnědé cloně. Reyever ji nechá mluvit. Lidé jako Renn nesnesou prázdné ticho; vyplní ho samo.
+Vstane, přejde k oknu a chvíli mlčí, zády k němu, drobná postava proti té hnědé cloně. Reyever ji nechá mluvit. Renn prázdné ticho nezapouzdří; vyplní ho samo.
 
 „Víte, jak to chodí v jádru?“ řekne, aniž se otočí. „Sedí v sálech vykládaných kamenem, který nikdo z nich nikdy nelámal, a debatují o rozpočtech. Která flotila se stáhne první, aby ji druhá strana nestihla obvinit ze zbabělosti. Kolik soustav se dá obětovat, aby to vypadalo jako přeskupení, ne jako útěk. Elitní jednotky jsou drahé, plukovníku. Vy jste drahý. A draho je v jádru sprosté slovo. Slyšela jsem velvyslance, jak řekl, že expediční sbor stojí za rok tolik co tři roky klidu na deseti planetách. Klid je levnější než vy. Tak nakupují klid.“
 
@@ -320,7 +320,7 @@ Klid stojí draho. Pravda víc. A on právě přestal platit za klid.
 
 # 3. Voda a výtah
 
-ORBITÁLNÍ VÝTAH STOJÍ NAD MĚSTEM jako kdyby někdo přibil oblohu k zemi a zapomněl to odstranit. Major Iliana Vos ho má celý den nad hlavou, tu jedinou svislou čáru, která mizí výš, než dohlédne, a táhne za sebou pomyšlení, že kdokoli stiskne ve špatnou chvíli špatné tlačítko, spadne na město kilometry kabelu a hořící klec. Vos na to nemyslí. Vos myslí na čerpací stanici tři ulice odtud, na rozvodný uzel pod ní a na to, že má dvacet šest lidí roztažených po křižovatce, kterou někdo právě začal dobývat.
+ORBITÁLNÍ VÝTAH STOJÍ NAD MĚSTEM jako tah tužky, který někdo zapomněl vymazat. Major Iliana Vos ho má celý den nad hlavou, tu jedinou svislou čáru, která mizí výš, než dohlédne, a táhne za sebou pomyšlení, že kdokoli stiskne ve špatnou chvíli špatné tlačítko, spadne na město kilometry kabelu a hořící klec. Vos na to nemyslí. Vos myslí na čerpací stanici tři ulice odtud, na rozvodný uzel pod ní a na to, že má dvacet šest lidí roztažených po křižovatce, kterou někdo právě začal dobývat.
 
 Leží za převrženým transportérem koloniální správy a počítá. Dech mělký, ústa pootevřená, aby do plic netáhla rozdrcený beton, který visí ve vzduchu po každé ráně. Z čerpací stanice na druhé straně náměstí střílejí. Ne nazdařbůh. Po pásmech, krátkými dávkami, šetří munici. To jí vadí víc než cokoli jiného. Farmáři nešetří. Farmáři vypálí zásobník do oblohy a pak zvednou ruce. Tihle počítají.
 
@@ -362,7 +362,7 @@ Vos se přitiskne k transportéru a nechá horko, aby jí stékalo po zádech. Z
 
 ---
 
-ČERPACÍ STANICE JE NÍZKÁ BETONOVÁ KRABICE s plochou střechou a třemi okny, která už dávno nejsou okna, ale střílny. Vos zná takové budovy. Postavily se levně a obstojí proti všemu kromě cíleného odhodlání. Cílené odhodlání má. Co nemá, je čas, protože každá minuta, kdy tu uzel drží oni, je minuta, kdy půlka města netočí kohoutkem.
+ČERPACÍ STANICE JE NÍZKÁ BETONOVÁ KRABICE s plochou střechou a třemi okny, která už dávno nejsou okna, ale střílny. Vos zná takové budovy. Postavily se levně a obstojí proti všemu kromě opakovaného tlaku. Ten má. Co nemá, je čas, protože každá minuta, kdy tu uzel drží oni, je minuta, kdy půlka města netočí kohoutkem.
 
 Sálová splní úkol za jedenáct minut. Odstřelovač na věži udělá druhou chybu — vystřelí na návnadu, kterou mu Vos pošle přes náměstí, dva muže s krycí palbou a dobře nacvičenou paniku, a v tom okamžiku, kdy se musí napřímit, ho Sálová ze stínu sundá jednou ranou. Věž ztichne. Vos to ucítí v zádech dřív, než přijde hlášení. Tlak povolí.
 
@@ -370,17 +370,17 @@ Sálová splní úkol za jedenáct minut. Odstřelovač na věži udělá druhou
 
 „Dobrá práce. Drž ji.“
 
-Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje, a krabice před nimi plivá a plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, běží dál s rukou přitisknutou k boku. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
+Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje. Krabice před nimi pořád plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, doběhne ke zdi s rukou přitisknutou k levému boku a nechá ji tam. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
 
-Hladká křivka. Žádné ústí, žádný plamen. Jen tlumené plivnutí a kus betonu vedle Vosiny hlavy zmizí, jako by ho někdo vykousl.
+Hladká křivka. Žádné ústí, žádný plamen. Jen tlumené plivnutí a kus betonu vedle Vosiny hlavy prostě chybí, bez rázu, bez kamínků.
 
-Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle ní se zhroutí svobodník, jehož jméno si nestihne vybavit, s dírou v hrudním pancíři, kterou žádná koloniální puška neudělá. Pancíř není proražený. Je odstraněný. Plynulý otvor s okraji jako roztavené sklo.
+Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle ní se zhroutí svobodník, jehož jméno si nestihne vybavit. V hrudním pancíři má díru, kterou žádná koloniální puška neudělá. Pancíř není proražený. Je odstraněný. Plynulý otvor s okraji jako roztavené sklo.
 
 „Co to do prdele bylo,“ vydechne kdosi vedle ní. „Majore, viděla jste to? To prošlo skrz desku jak skrz —“
 
 „Viděla,“ řekne Vos. „Drž hubu a nabíjej.“
 
-Ale viděla dost. Viděla matný povrch barvy mokré břidlice, viděla zbraň bez závěru a bez zásobníku v rukou vyděšeného kluka, který by neměl mít víc než starou koloniální pětku. A v hlavě se jí usadí otázka, na kterou nemá čas a kterou si přesto nedokáže odepřít: kdo dal farmářům na Sirte zbraně, které prořežou bojový pancíř jako horký nůž tuk.
+Ale viděla dost. Viděla matný povrch barvy mokré břidlice, viděla zbraň bez závěru a bez zásobníku v rukou vyděšeného kluka, který by neměl mít víc než starou koloniální pětku. A v hlavě se jí usadí otázka, na kterou nemá čas a kterou si přesto nedokáže odepřít: kdo dal farmářům na Sirte zbraně, po jejichž ráně je v pancíři čistý otvor se slinutými okraji.
 
 ---
 
@@ -408,7 +408,7 @@ Mohla by se zeptat ještě jednou. Pravidlo zní: poprvé posloucháš, podruhé
 
 Vypne hrtan, aby to neslyšel, a teprve potom řekne nahlas, do horka a prachu, k nikomu: „Tak to mi laskavě někdy vysvětli.“
 
-Nevysvětlí. Vos to ví, ještě než to dořekne. A někde pod vztekem, hluboko, kde nemá čas se v tom hrabat, se usadí studené poznání, že tohle není poprvé a nebude naposledy, a že jeho mlčení si bude pamatovat déle než jména těch, které dnes pohřbí.
+Nevysvětlí. Vos to ví, ještě než to dořekne. A pod vztekem se usadí poznání, chladnější a trvalejší než vztek: tohle není poprvé. A jeho mlčení si bude pamatovat déle než jména těch, které dnes pohřbí.
 
 „Stahujeme se,“ řekne na vnitřní pásmo, klidně, profesionálně, jako by to byl její nápad. „Po dvojicích, zpátky na výchozí. Sálová, kryj ústup, pak za námi. Nikdo nezůstane na náměstí. Pohyb.“
 
@@ -541,7 +541,7 @@ Muž se nehne. Ale Reyever ho sleduje. Reyever sleduje ruce a ramena, ne oči, p
 
 ---
 
-MUŽ DLOUHO MLČÍ. Lampa nad nimi bzučí. Klimatizace v rohu táhne kov a olej. Někde v základně tlumeně buší kompresor, pravidelně, jako srdce stroje.
+MUŽ DLOUHO MLČÍ. Lampa nad nimi bzučí. Klimatizace v rohu táhne kov a olej. Někde v základně tlumeně buší kompresor, pravidelně, bez přestávky.
 
 Pak se muž zasměje. Tiše, krátce, bez veselí.
 
@@ -563,7 +563,7 @@ NEPŘIJDE ZVUK, KTERÝ BY REYEVER ČEKAL. Žádný výstřel. Žádné sklo, ž�
 
 Na okamžik se nic neděje. Muž sedí dál vzpřímeně, ústa pootevřená, jako by ho slovo, které chtěl říct, drželo zevnitř.
 
-Pak se mu z koutku úst spustí tenká nitka tmavé krve, ne moc, a oči mu ztratí ostření — ne strach, ne bolest, jen náhlou nepřítomnost, jako když někdo vypne lampu. Tělo se nakloní dopředu, pomalu, a čelem dopadne na lisovaný plech stolu s tupým dutým úderem, který se v malé místnosti odrazí od stěn.
+Pak se mu z koutku úst spustí tenká nitka tmavé krve, ne moc, a oči mu ztratí ostření — ne strach, ne bolest, jen náhlou nepřítomnost, jako když někdo vypne lampu. Tělo se pomalu nakloní dopředu. Čelem dopadne na lisovaný plech stolu s tupým dutým úderem, který se v malé místnosti odrazí od stěn.
 
 Reyever je u něj dřív, než tělo dosedne. Dva prsty na krk, pod čelist. Nic. Druhá strana. Nic. Pod dlaní cítí, jak se zátylek toho muže zahřívá — ne chladne, zahřívá — krátce, nepřirozeně, jako kov po ráně kladivem, a pak teplo opadne stejně rychle, jak přišlo.
 
@@ -587,7 +587,7 @@ Hale dojde ke stolu, opatrně, jako by ten muž mohl ještě kousnout. Skloní s
 
 REYEVER STOJÍ NAD MRTVÝM a nedotýká se ho. Lampa bzučí. Klimatizace táhne kov. Krev na plechu stolu už nepřibývá, jen pomalu zasychá do tmava, a v tom plochém světle vypadá skoro černá.
 
-Reyever přemýšlí v rovinách, jako vždycky. Ne v hrůze — hrůza je luxus, který si velitel nemůže dovolit — ale v geometrii toho, co se právě stalo.
+Reyever přemýšlí v rovinách, jako vždycky. Ne v hrůze — tu si nechá na potom, pokud na ni vůbec dojde — ale v geometrii toho, co se právě stalo.
 
 Ten muž nebyl umlčen zvenčí kulkou. Byl umlčen zevnitř. Někdo do něj vložil pojistku dřív, než ho poslal na Sirte, a ta pojistka čekala — neaktivovala se při zajetí, nezhasla ho, dokud mlčel, dokud opakoval naučené věty, dokud nabízel obchod. Spustila se přesně v okamžiku, kdy se chystal vyslovit jméno. Ne dřív. Ne později. Někdo to tělo poslouchal, nebo ho vybavil tak, aby poslouchalo samo sebe a umlčelo se ve chvíli, kdy překročí čáru.
 
@@ -623,6 +623,7 @@ Ale poprvé za třicet let neví ani to, jestli je to ještě člověk.
 DÍLNA NA ZÁKLADNĚ je jediné místo na Sirte, kde Hale dýchá pořádně. Páchne to tu olejem, ozonem ze svářečky a tím nasládlým prachem, co se drží všeho na téhle planetě a leze i tam, kam by neměl, do závěrů, do kloubů pancířů, do plic. Hale ho má v zubech od chvíle, co sem před třemi týdny slezli z kluzáků. Skřípe mu mezi stoličkami pokaždé, když zatne čelist, a on ji zatíná hodně, protože co jiného se na téhle díře dá dělat.
 
 Je hodina po půlnoci. Po boji o uzel uplynuly dva dny a Hale od té doby spal možná pět hodin, rozsekaných na kousky tak malé, že se nedají dát dohromady. Sedí na převrácené bedně mezi dvěma demontovanými pancíři a čistí závěr pušky, kterou čistit nepotřebuje. Dělá to, protože ruce, které mají co dělat, nemyslí. A on dneska myslet nechce.
+
 
 Před ním na ponku leží čtyři komplety bojové výstroje. Tři jsou na opravu. Jeden ne.
 
@@ -692,7 +693,7 @@ Hale by mohl mlčet. Většinou mlčí. Ale ví, co dělá nevyřčená věc s m
 
 Funguje to. Napětí povolí, někdo si odplivne, hovor se stočí zpátky k jídlu a k tomu, jestli na téhle planetě existuje jediná sprcha, co teče víc než pět vteřin.
 
-Hale tomu nevěří ani slovo. Viděl ten zátylek. Cítil to teplo pod prsty, kov, který hřeje, a pak zhasne. Ale mužstvo to vědět nemusí. Mužstvo potřebuje spát.
+Hale tomu nevěří ani slovo. Viděl ten zátylek. Cítil pod prsty to teplo — kov, který hřeje a pak zhasne. Ale mužstvo to vědět nemusí. Mužstvo potřebuje spát.
 
 To je celá jeho práce, kterou nikdy nikdo nenapsal do předpisu: vědět víc, než řekne, a nést to sám.
 
@@ -780,7 +781,7 @@ Reyever stojí u průzoru, ruce za zády, a dívá se na orbitální výtah, jak
 
 „A když ten luxus znamená, že vám důstojník bude věřit?“ Vos udělá krok blíž. „Vy si myslíte, že velitel, který vysvětluje, je velitel, kterého lze přemluvit. Já vím, že si to myslíte. Ale tady není problém, že bych vás chtěla přemluvit, plukovníku. Problém je, že vám přestávám věřit. A nedůvěřivý důstojník je nebezpečnější než ten, co se ptá.“
 
-Hangár klimatizace táhne studený vzduch. Hale stojí u stěny a nedýchá, protože tohle už není hádka o jeden rozkaz. Tohle je trhlina, která se otevírá tam, kde dva dny předtím byla jen vlasová prasklina, a on ji vidí líp než oba, protože on celý život kouká na to, jak věci praskají, a ví, že prasklina se nikdy nezmenší sama.
+Hangár klimatizace táhne studený vzduch. Hale stojí u stěny a přestane se škrábat na zátylku. Tohle už není hádka o jeden rozkaz. Tohle je trhlina, a on ji vidí líp než oba, protože on celý život kouká na to, jak věci praskají, a ví, že prasklina se nikdy nezmenší sama.
 
 „Vzal jsem stanici za cenu dvou mužů místo pěti,“ řekne Reyever. „Až budete velet vy, pochopíte, že tohle je ta lehčí matematika.“
 
@@ -820,9 +821,9 @@ V rohu vzorce, vepsaná do té šestiúhelníkové sítě tak, jako se vepisuje 
 
 Hale si stroje čte celý život. Čte sériová čísla, kódy šarží, značky výrobců, razidla mistrů. Pozná značení, když ho vidí. Tohle je značení.
 
-Jenže žádný znak v něm není písmeno, které kdy člověk napsal. Žádná číslice, kterou kdy člověk počítal. Nesedí to na žádnou abecedu Kondominia, na žádný kód kolonií, na nic, co kdy prošlo lidskou rukou nebo lidskou hlavou.
+Jenže žádný znak v něm není písmeno, které kdy člověk napsal. Ani číslice, kterou kdy člověk počítal. Nesedí to na žádnou abecedu Kondominia, na žádný kód kolonií, na nic, co kdy prošlo lidskou rukou nebo lidskou hlavou.
 
-V dílně je ticho. Kompresor za stěnou buší pravidelně, jako srdce stroje, který neví, co právě jeho lidé zjistili.
+V dílně je ticho. Kompresor za stěnou buší pravidelně.
 
 „Plukovníku,“ řekne Hale, a vlastní hlas mu zní cize. „Tys mě v tý cele ptal, jestli je to ještě člověk.“
 
@@ -843,7 +844,7 @@ OPERACE SIRTE SE TÍMTO UZAVÍRÁ. TŘETÍ EXPEDIČNÍ SBOR STÁHNE VEŠKERÉ JE
 
 Reyever čte ta dvě slova podruhé. *Nepostupují. Neprovádějí.* Někdo v jádru Kondominia, někdo, kdo nikdy nevdechl prach Sirte, sáhl přes půl sektoru a vypnul otázku dřív, než ji stačil někdo nahlas položit.
 
-To není rozkaz k ústupu. Ústup se píše jinak. Ústup mluví o úspoře, o přesunu, o tom, že někde jinde je práce. Tenhle rozkaz mluví o uzavírání. A uzavírá se to, co se nemá otevřít.
+To není rozkaz k ústupu. Ústup se píše jinak. Mluví o úspoře, o přesunu, o tom, že někde jinde je práce. Tenhle rozkaz mluví o uzavírání. A uzavírá se to, co se nemá otevřít.
 
 Reyever se nepohne od průzoru, ale v duchu už počítá, kdo všechno tu zprávu viděl dřív než on.
 
@@ -919,7 +920,7 @@ Renn smaže větu. Narovná ramena o ten centimetr zpátky. Pak se podívá do z
 
 ---
 
-VOS STOJÍ U DVEŘÍ velitelského modulu, když Renn odejde, a Reyever pozná podle jejích ramen, že slyšela víc, než měla. Drží destičku — ne tu s depeší, jinou, vlastní — a v očích má tu tichou tvrdost, kterou si Reyever zapamatoval ze Sirte-západu, z hlasu, který nezvýšil tón, i když mu hořeli lidé.
+VOS STOJÍ U DVEŘÍ velitelského modulu, když Renn odejde, a Reyever pozná podle jejích ramen, že slyšela víc, než měla. Drží destičku — ne tu s depeší, jinou, vlastní — a v očích má tu tichou tvrdost, kterou si Reyever zapamatoval ze Sirte-západu, z hlasu, který nezvýšil tón ani tehdy, kdy jí Holan dostal kulku pod přilbu.
 
 „Stahují nás,“ řekne Vos. Není to otázka.
 
@@ -989,7 +990,7 @@ Reyever se nakloní. Vos taky.
 
 Časová značka jádra zprávy je stará.
 
-Není stará o den. Není stará o dva, kolik trvalo, než se rozkaz prokousal řetězem schválení. Je stará o víc než tři týdny.
+Ne o den. Ne o dva, kolik trvalo, než se rozkaz prokousal řetězem schválení. O víc než tři týdny.
 
 „To je —“ Vos se zarazí. Spočítá to ještě jednou, protože první výsledek se odmítá usadit. „To je dřív, než jsme přiletěli na Sirte.“
 
@@ -997,7 +998,7 @@ Není stará o den. Není stará o dva, kolik trvalo, než se rozkaz prokousal �
 
 V dílně je ticho. Kompresor za stěnou buší pravidelně, jako srdce stroje, který neví, co právě jeho lidé zjistili.
 
-Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno, čisté a studené jako kov barvy mokré břidlice.
+Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno číslo: šest.
 
 Nikdo nepíše rozkaz k uzavření operace, která ještě nezačala. Pokud neví, že začne. Pokud neví, co se na ní najde. Pokud to celé nechystal sám.
 
@@ -1020,11 +1021,11 @@ PRACH SE DRŽÍ VŠEHO, i toho, co odlétá. Vos to vidí na rampě nákladního
 
 Šestnáct beden výstroje. Čtyři odstavené transportéry, které poletí prázdné, protože je škoda je tu nechat a ještě větší škoda za ně platit pozdější dovoz. Mužstvo se pohybuje v tom pomalém, opatrném tempu vojáků, kteří odcházejí z místa, kde nechali kamarády, a stydí se, že jsou rádi.
 
-Nahoře nad městem stojí orbitální výtah, jediné rovné světlo v křivé krajině, a Vos ví, že ho vidí naposledy. Za pár hodin bude Legie v hladinách. Za pár dní bude Sirte jen souřadnice, kterou nikdo nezapíše do hlášení, protože hlášení se nepostupují.
+Nahoře nad městem stojí orbitální výtah, jediné rovné světlo v křivé krajině. Vos ví, že ho vidí naposledy. Za pár hodin bude Legie v hladinách. Za pár dní bude Sirte jen souřadnice, kterou nikdo nezapíše do hlášení, protože hlášení se nepostupují.
 
 Dole pod základnou se táhne město. Z téhle výšky vypadá jako něco, co poušť skoro spolkla a pak si to rozmyslela — nízké betonové krabice, plechové střechy, mezi nimi tmavé žíly vodního rozvodu, který stojí za každou kapkou krve, co se tu prolila. Někde tam dole jsou matky farmářů, které Legie zabila v kotlině a u rozvodné věže. Někde tam dole jsou lidé, kterým cizí hlas sliboval správnou stranu, a oni mu uvěřili, protože jim nikdo jiný nesliboval nic. Zítra ráno vyjde slunce a poslední voják Legie už bude pryč, a oni zůstanou s pouští a s prázdnou otázkou.
 
-Vos obchází mrtvé, aby věděla, koho zabila. To je jediná počestnost, kterou si může dovolit. Tahle planeta se obejít nedá — je jí příliš a leží jí na svědomí celá. Tak se na ni aspoň dívá, dokud může.
+Vos obchází mrtvé, aby věděla, koho zabila. To je jediná počestnost, kterou si může dovolit. Tahle planeta se obejít nedá — je jí příliš. Tak se na ni aspoň dívá, dokud může.
 
 „Majore.“ Brázda dohřmí po rampě dolů, v náručí poslední bednu. „Tahle je značená na rozbor. Kam s ní? Velitelská, nebo do skladu?“
 
@@ -1108,7 +1109,7 @@ To Reyevera otočí. Ne prudce; Reyever se nepohybuje prudce. Ale otočí.
 
 „Necháváme jim přežití,“ řekne Reyever. „Soulad — kdokoli za tím stojí — nepřišel pro Sirte. Sirte je díra s vodou. Až odletíme, přestane je někdo vyzbrojovat, protože už nebudou na nic potřeba. To je to nejlepší, co pro ně můžu udělat. Odejít a vzít s sebou důvod, proč sem někdo poslal zbraně.“
 
-Vos to ví. Je to čistá matematika a má pravdu. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
+Vos to ví. Je to čistá matematika a sedí. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
 
 „To je lehčí matematika,“ řekne, a použije jeho slova schválně.
 
@@ -1156,7 +1157,7 @@ Není.
 
 NĚCO JE VE VOLNÉ VODĚ, kde nic být nemá.
 
-Vos to nejdřív vidí jako stín na čidlech — tvar, který se nehýbe, který nevysílá, který tam jen visí v prázdnu na okraji mělčiny jako věc, co se utopila a zapomněla klesnout. Navigátor se nad pult nakloní, zaklepe do obrazovky, jako by čekal, že chyba spadne ven.
+Vos to nejdřív vidí jako stín na čidlech. Tvar, který se nehýbe, který nevysílá, který tam jen visí v prázdnu na okraji mělčiny jako věc, co se utopila a zapomněla klesnout. Navigátor se nad pult nakloní, zaklepe do obrazovky, jako by čekal, že chyba spadne ven.
 
 „Majore,“ řekne. „Mám tu kontakt. Studený. Bez pohonu, bez signálu. Nereaguje.“
 
@@ -1183,7 +1184,7 @@ Ta loď nemá tvar, který by postavila lidská ruka.
 
 VRAK ZŮSTAL ZA ZÁDÍ jako otázka, kterou nikdo neumí zavřít. Reyever stojí na velitelském můstku *Kovadliny* — těžkého křižníku, kolem kterého se Legie sbalila jako pěst kolem dlaně — a dívá se, jak se ten cizí tvar scvrkává na čidlech do tečky a pak do ničeho. Loď ho minula v mělčině, nezastavila, neprohledala. Reyever to zakázal. Prohledávat vrak znamená stát na místě, a stát na místě v mělčině znamená nabídnout se každému, kdo by chtěl mít Legii na suchu.
 
-Tak ho nechali za sebou. Pět hodin už šplhají systémem k volné vodě a vrak je dávno mimo dosah, ale Reyever ho má pořád před očima — tu dlouhou ránu po boku s okraji slitými do hladka, ten tvar, který nepostavila lidská ruka.
+Tak ho nechali za sebou. Pět hodin už šplhají systémem k volné vodě a vrak je dávno mimo dosah. Reyever ho má pořád před očima — tu dlouhou ránu po boku s okraji slitými do hladka, ten tvar, který nepostavila lidská ruka.
 
 „Plukovníku.“ Navigátor u pultu nezvedne hlavu. „Volná voda za dvanáct minut. Klín drží, gradient čistý. Šplháme.“
 
@@ -1275,7 +1276,7 @@ Reyever přikývne. Hloubka kouše — to je první věc, kterou se navigátor v
 
 ---
 
-HALE PŘINESE REYEVEROVI HRNEK něčeho, co se na téhle lodi vydává za kávu, a opře se vedle něj o zábradlí, které odděluje velitelské stání od pultů. Loď teď jede klidně. Po hodině v proudu si na vibrace tělo zvyklo, jako si voják zvykne na dunění motorů, a můstek si dovolil polevit o ten jeden stupeň.
+HALE PŘINESE REYEVEROVI HRNEK něčeho, co se na téhle lodi vydává za kávu, a opře se vedle něj o zábradlí, které odděluje velitelské stání od pultů. Loď teď jede klidně. Po hodině v proudu si na vibrace tělo zvyklo a můstek si dovolil polevit o ten jeden stupeň.
 
 „Tak takhle se cestuje,“ řekne Hale. „Loď nese řeka, posádka si může na chvíli sednout, a já se akorát modlím, aby se nic nerozbilo, protože tady nahoře se to spravuje blbě.“ Upije. Zašklebí se na chuť. „Víš, co je na hladinách nejhorší, plukovníku? Že tu nejde o sílu. Dole, na zemi, kdyžs měl problém, šláp si na plyn a projel ho. Tady ne. Tady čím víc tlačíš, tím víc tě to roztrhá. Musíš jet po proudu a doufat, že tě řeka veze tam, kam chceš, a ne tam, kam chce ona.“
 
@@ -1317,7 +1318,7 @@ Tečka zrychlí taky. Drží odstup na vlas.
 
 „Zpomal,“ řekne Reyever.
 
-Navigátor zpomalí. Tečka zpomalí. Odstup je pořád stejný, na metr stejný, jako by ten, kdo loď řídí vzadu, neměl jediný jiný úkol než udržovat mezi sebou a *Kovadlinou* přesně tu vzdálenost, ze které je vidět všechno a kde není nic na dostřel.
+Navigátor zpomalí. Tečka zpomalí. Odstup pořád stejný, na metr stejný — jako by ten, kdo loď řídí vzadu, neměl jediný jiný úkol než udržovat mezi sebou a *Kovadlinou* přesně tu vzdálenost, ze které je vidět všechno a kde není nic na dostřel.
 
 „Zkus z proudu vyklouznout,“ řekne Reyever tiše. „Změň hladinu. Sedmou. Pak zpátky na šestou jinde.“
 
@@ -1366,7 +1367,7 @@ Vos se na něj podívá. Plukovník se dívá na obrazovku, na to pole čísel, 
 
 „Možná.“ Reyever neodvrátí oči od obrazovky. „Nebo je to návnada, kterou nám položil ten, co nás veze v řece od mělčiny.“ Odmlčí se. „Tak jako tak je to první loď nepřítele, na kterou dosáhneme. Vezmeme ji.“
 
-Vos cítí, jak se jí v hrudi stáhne ten starý uzel, který zná z Sirte, z každého rána před útokem. Není to strach. Strach je čistší. Tohle je to, co přijde těsně před strachem, ten okamžik, kdy se rozhodnutí už nedá vrátit.
+Vos cítí, jak se jí v hrudi stáhne ten starý uzel. Není to strach. Strach je čistší. Tohle je to, co přijde těsně před strachem, ten okamžik, kdy se rozhodnutí už nedá vrátit.
 
 „Doprovod za zádí?“ zeptá se Reyever.
 
@@ -1416,7 +1417,7 @@ Vos necítí výstřel jako zvuk. Cítí ho jako odraz v plechu, jako když do l
 
 Tři střely se roztříští o zbytek stěny. Dvě projdou.
 
-Cizí křižník se otřese — ne na obrazovce, ale Vos to ví, ví, jak vypadá loď, do které prošla rána, protože to viděla na pancíři vojáka na Sirte, jenom teď je to tisíckrát větší. Po boku eskorty vykvete světlo a zhasne, a tam, kde bylo, zůstane ta dlouhá rána s okraji slitými do hladka.
+Cizí křižník se otřese — ne na obrazovce, ale Vos to ví. Ví, jak vypadá loď, do které prošla rána, protože to viděla na pancíři vojáka na Sirte, jenom teď je to tisíckrát větší. Po boku eskorty vykvete světlo a zhasne, a tam, kde bylo, zůstane ta dlouhá rána s okraji slitými do hladka.
 
 „Zásah,“ řekne navigátor. „Dvakrát. Pravej bok. Ztratil clonu na pravým.“
 
@@ -1430,7 +1431,7 @@ EVERETT ZA PULTEM ZBRANÍ je voják, kterého Vos zná osm let, a za celou tu do
 
 „Nedovol mu to,“ řekne Reyever. „Drž se mu na boku. Křiž ho.“
 
-Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, a nutí ji volit: buď nastav klín čelem a nech odkrytý bok, nebo chraň bok a nech odkryté hrdlo. Cokoli nepřítel zvolí, jednu stranu obnaží.
+Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, nutí ji volit: nastav klín čelem a nech odkrytý bok, nebo chraň bok a nech odkryté hrdlo. Cokoli nepřítel zvolí, jednu stranu obnaží.
 
 Eskorta volí špatně, protože nemá z čeho volit dobře.
 
@@ -1472,7 +1473,7 @@ Vos se na něj otočí. „Plukovníku —“
 
 HONIČKA KE MĚLČINĚ JE POMALÁ a o to horší, protože pomalost dává času, aby se člověk díval.
 
-*Kovadlina* sjede z proudu za oběma uprchlíky, dolů hladinami, k okraji systému, kde se řeka rozplývá do mělčiny a kde se loď zase začne prodírat jako brouk po hladině. Vos sleduje, jak se vzdálenost krátí. Nákladní lodě jsou pomalé, naložené, a *Kovadlina* je za nimi jako vlk, který nespěchá, protože ví, že kořist nemá kam jít.
+*Kovadlina* sjede z proudu za oběma uprchlíky, dolů hladinami, k okraji systému, kde se řeka rozplývá do mělčiny. Vos sleduje, jak se vzdálenost krátí. Nákladní lodě jsou pomalé, naložené, a *Kovadlina* je za nimi jako tlak, kterému neutečou.
 
 Jedna z těch dvou to pochopí dřív. Vibrace z ní ustanou, klín zchladne, sama od sebe. Vzdá se.
 
@@ -1488,7 +1489,7 @@ Everett vypustí jedinou střelu. Ne salvu. Jednu, přesnou, do hrdla klínu té
 
 „Tu chci,“ řekne Reyever. „Tu a posádku. Živé.“ Otočí se k Vos. „Majore. Vezmete přepadovou četu a zajistíte ji. Chci vědět, co veze. A chci vědět, kdo to veze.“
 
-Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho, co umí. Do práce.
+Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho konkrétního. Do práce.
 
 „Rozumím, plukovníku,“ řekne. „Konec.“
 
@@ -1500,7 +1501,7 @@ Cizí loď páchne jinak. Vos to pozná i přes filtr skafandru — ne olejem a 
 
 A posádka jsou lidé.
 
-Vos to ví ze tří kroků. Z toho, jak se krčí za přepážkami. Z toho, jak drží zbraně — lidsky, neobratně, vyděšeně. Z toho, jak jeden z nich zakřičí, a Vos rozumí každému slovu.
+Vos to ví ze tří kroků. Z toho, jak se krčí za přepážkami. Z toho, jak drží zbraně — lidsky, neobratně, vyděšeně. A z toho, jak jeden z nich zakřičí a Vos rozumí každému slovu.
 
 „Nestřílejte! My se vzdáváme! Prosím —“
 
@@ -1544,7 +1545,7 @@ Není to znak Kondominia. Ani kolonie. Ani žádné velmoci, jejíž insignie se
 
 Tvar je symetrický. Dokonale, klidně symetrický — dvě poloviny, které jsou si zrcadlem, sevřené kolem středu, ze kterého vychází cosi jako stonek, jako rozvíjející se list, jako rostlina vypěstovaná do tvaru, který nikdy v přírodě nevyrostl. Není to dravé. Není to vojenské. Vypadá to jako něco, co by člověk čekal nad bránou zahrady, ne na hrudi muže, který veze zbraně k vyzbrojení planety.
 
-Je to ten nejklidnější předmět, jaký kdy Vos viděla na vojákovi. A právě ten klid jí zvedá vlasy na zátylku víc než jakákoli lebka na praporu.
+Je to ten nejklidnější předmět, jaký kdy Vos viděla na vojákovi. A právě ten klid jí zvedá vlasy na zátylku víc než cokoli, co viděla na bojišti.
 
 „Co je tohle?“ zeptá se Vos, a ukáže na odznak.
 
@@ -1675,7 +1676,7 @@ Renn drží ten pohled. Tady se hraje o to, kdo uhne první, a ona uhýbat umí 
 
 „A přesto vám zítra přijde rozkaz, který bude předstírat přesně to,“ řekne Renn. „A vy ho splníte. Protože jste voják. To je ten rozdíl mezi námi, majore. Vy musíte poslechnout lež. Já si můžu vybrat, kterou.“
 
-Vos se nepohne. Pak řekne, tišeji, než předtím:
+Vos se nepohne. Pak řekne, o stupeň tišeji:
 
 „Vy víte, co je ten odznak.“
 
@@ -1697,7 +1698,7 @@ Položí na stůl destičku. Renn ji nezvedne. Pozná hlavičku úřední depeš
 
 „Vy znáte cestu, kterou ta depeše šla,“ řekne Reyever. „Hale ji rozebral. Táhla se proudem, který na žádných koloniálních mapách není. Stejným proudem, ze kterého za námi celou dobu kouká loď, kterou neumím setřást. Depeše přišla tou cestou. Ten, kdo nás sleduje, ji nesl.“ Položí dlaň na stůl, klidně. „Kdo má lodě v proudech, které nejsou na mapách, paní Rennová? Ne Kondominium. Kondominium stahuje flotily domů. Kondominium ani neví, že tyhle proudy existujou.“
 
-Renn drží ramena klidná. Drží tvář. Tohle je ta chvíle, kvůli které celý život cvičila — kdy člověk, který čte těla, hledá v jejím těle prasklinu, a ona ji nesmí dát.
+Renn drží ramena klidná. Drží tvář. Tohle je ta chvíle, kvůli které celý život cvičila — kdy člověk, který čte těla, hledá v ní prasklinu, a ona ji nesmí dát.
 
 „Nevím, plukovníku,“ řekne, a tentokrát to je skoro pravda, a skoro pravda je nejlepší lež, jakou zná, protože v ní tělo neuhne. „Já vážně nevím, kdo má lodě v těch proudech.“
 
@@ -1782,7 +1783,7 @@ Reyever stojí u zábradlí, ruce za zády, a dívá se na obrazovku, na kterou 
 
 „Ví, že nemůžeme nahoru,“ řekne Reyever, spíš pro sebe. „Tak nás chce dohnat tady. V mělčině. Kde se nedá utéct, jenom bít.“
 
-Vos stojí vedle. Když se bojí, ztiší se, a tak se zeptá tiše: „Doženou nás dřív, než dojedeme k vodě?“
+Vos se dívá na obrazovku. „Doženou nás dřív, než dojedeme k vodě?“
 
 Navigátor počítá. Přepočítá. Reyeverův člověk, ten neřekne číslo, dokud si není jistý.
 
@@ -1870,11 +1871,11 @@ Nečeká, až se korveta natočí. Nehraje křížení T podle tabule. Pošle je
 
 „Vidím,“ řekne Reyever.
 
-*Kovářka* se zapotácí, na obrazovce se zachvěje, ztratí kus rychlosti. Ale neotočí se. Daré nestáhne klín. Místo aby ucouvla, opře se do stínu znovu, blíž, klínem na klín, hrdlem proti hrdlu, a Vos pochopí, co dělá: čím blíž stínu zůstane, tím hůř ji může minout, tím déle ho zdrží. Korveta hoří a leze blíž.
+*Kovářka* se zapotácí, na obrazovce se zachvěje, ztratí kus rychlosti. Ale neotočí se. Daré nestáhne klín. Místo aby ucouvla, opře se do stínu znovu. Blíž, klínem na klín, hrdlem proti hrdlu. A Vos pochopí, co dělá: čím blíž stínu zůstane, tím hůř ji může minout, tím déle ho zdrží. Korveta hoří a leze blíž.
 
 „Kapitánko, ustupte,“ řekne Reyever do pásma. „Splnila jste to. Ustupte, dokud máte klín.“
 
-Daré odpoví, a Hale to dole slyší, a zapamatuje si to na zbytek života:
+Daré odpoví, a Hale to dole slyší, a zapamatuje si to:
 
 „Nemám deset minut, plukovníku. Mám osm. Dvě si beru.“
 
@@ -2146,7 +2147,7 @@ Reyever stojí na velitelském stání *Kovadliny*, ruce za zády, a dívá se n
 
 „Vím, jak je velké,“ řekne Reyever.
 
-Vedle stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko. Nejnebezpečnější nepřítel je ten, kdo se na tebe podívá a nevidí soupeře, jen pozdější práci.
+Vedle stojí Vos. U Melassu nařídil nestřílet, a plavidlo je nechalo žít, protože nestáli za ránu. Na to slovo se díval tři dny. *Nestáli za ránu.* Není to urážka, je to měřítko — nepřítel, který tě nevidí jako soupeře, tě vidí jako pozdější práci.
 
 „Plukovníku,“ řekne Vos tiše. „Minule jste řekl nestřílet.“
 
@@ -2234,11 +2235,11 @@ Navigátor přepočítá, Reyeverovým způsobem. „Vlákna stahuje. Dvě minut
 
 Kýlový klín padá rovnoměrně, takže ho nerozdrtí — gradient bere celé tělo najednou, jako když se propadne podlaha. *Kovadlina* se sune napříč, dolů a stranou, do roviny, kterou žací plavidlo odkryje, když se otáčí. Pryč od hrdla. K zádi.
 
-Plavidlo to pozná. A udeří. Nehraje křížení T podle tabule — pošle jedinou ránu, ne salvu, jednu věc, co letí rovně a tiše, jako plivla cizí zbraň na Sirte do pancíře, jen tisíckrát větší.
+Plavidlo to pozná. A udeří. Nehraje křížení T podle tabule. Pošle jedinou ránu, ne salvu — jednu věc, co letí rovně a tiše, jako plivla cizí zbraň na Sirte do pancíře, jen tisíckrát větší.
 
 Rána projde clonou *Kovadliny*, jako by clona nebyla.
 
-Loď se otřese. Reyever to necítí jako zvuk, cítí to jako úder dlaní zevnitř do plechu. Obrazovka zbělá a srovná se.
+Loď se otřese. Reyever to necítí jako zvuk. Cítí to jako úder dlaní zevnitř do plechu. Obrazovka zbělá a srovná se.
 
 „Zásah,“ řekne Everett, a poprvé za osm let mu hlas o vlas zakolísá. „Pravej bok. Skrz clonu, jako by tam nic nebylo —“
 
@@ -2302,7 +2303,7 @@ Loď vyprázdnila vše do té jediné rány a žací plavidlo přesto žije, kro
 
 Dole je chvíli ticho. Pak Hale, a hlas má tišší, než ho Reyever kdy slyšel. „Mám trhlinu v klínu jak pěst a půlku posádky pohonu na podlaze. Můžu ti dát jednu věc. Klín naplno na jednu ránu — naženu do něj všechno a vystřelím loď jako kámen z praku.“ Odmlčí se. „Akorát ti nezaručim, že na konci budem ještě loď, a ne kýbl dílů.“
 
-Reyever se dívá na to nekryté hrdlo pod přídí plavidla, kam *Kovadlina* nemá čím vystřelit — ale kam se dá vrazit. *Kovářka* to udělala stínu, do místa, kde i nedokreslená věc musí mít loď.
+Reyever se dívá na to nekryté hrdlo pod přídí plavidla, kam *Kovadlina* nemá čím vystřelit — ale kam se dá vrazit, jako *Kovářka* vrazila stínu.
 
 „Naplno,“ řekne Reyever. „Do hrdla. Klínem na klín.“
 
@@ -2350,9 +2351,9 @@ Reyever zavře oči, jen na vteřinu. „Ztráty.“
 
 ---
 
-REYEVER SEJDE K MRTVÝM, až když je loď v bezpečí — když se dovleče z mělčiny k volné vodě a vyšplhá pryč. Celou tu dobu visí na okraji obrazovky vrak žacího plavidla, dvě poloviny, které se rozcházejí jako rozevřená kniha.
+REYEVER SEJDE K MRTVÝM, až když je loď v bezpečí — když se dovleče z mělčiny k volné vodě a vyšplhá pryč. Na okraji obrazovky visí vrak žacího plavidla, dvě poloviny pomalu se rozcházející.
 
-Vos přijde k němu ve volné vodě. „Vyplatilo se to?“ Tiše, protože když je naštvaná, ztiší se. „Tichý. Pravá baterie. Pohon. Pro jednu mrtvou loď, na kterou nás Soulad ani nebere jako stranu ve válce.“
+Vos přijde k němu ve volné vodě. „Vyplatilo se to?“ Tiše. „Tichý. Pravá baterie. Pohon. Pro jednu mrtvou loď, na kterou nás Soulad ani nebere jako stranu ve válce.“
 
 „Ptáte se špatně, majore,“ řekne Reyever, oči na vraku. „Ne jestli se to vyplatilo. Ptejte se, co teď víme. Že krvácí. Že ta věc o stupeň výš, kterou jsme nedokázali ani naštvat, leží támhle ve dvou kusech, protože jsme byli ochotní umřít blíž, než čekala.“ Otočí se k ní. „Soulad je silnější. Ale ne neporazitelný. A nevíme to z hlášení o stínu — víme to z vlastní lodi.“
 
@@ -2370,7 +2371,9 @@ Uvnitř je vrak horší než cokoli, co Vos čekala. Není to loď ani mršina l
 
 Až v jedné komoře, hluboko u zlomu, kde se plavidlo přerazilo po stonku, najdou tělo.
 
-Brázda za ní sklopí pušku, protože ani on neví, kam ji namířit. Ve výklenku tvarovaném přesně podle lidské postavy, jako forma odlitá kolem těla, sedí člověk.
+Brázda za ní sklopí pušku, protože ani on neví, kam ji namířit.
+
+Ve výklenku tvarovaném přesně podle lidské postavy, jako forma odlitá kolem těla, sedí člověk.
 
 Je mrtvý. Zabil ho zlom — tlaková vlna, která prošla plavidlem, když ho *Kovadlina* rozlomila. Ale není rozpuštěný, zasázený, přepsaný do kovové zeleně jako lidé z Melassu. Je celý. Je oblečený. Má lidskou tvář, lidské ruce klidně položené do výklenku, který kolem nich narostl tak přesně, že Vos nechápe, jestli ten člověk seděl v plavidle, nebo jestli plavidlo narostlo kolem něj.
 
@@ -2382,7 +2385,7 @@ Na uniformě má odznak. Čistší linie, světlý kov, ne ta břidlicová sliti
 
 A Vos pochopí tělem dřív než hlavou, co vlastně drží Soulad pohromadě. Cizí věc, která se na lidstvo nedívá jako na stranu ve válce, neletí sama. Někdo jí sedí v zátylku. Někdo lidský.
 
-„Plukovníku,“ řekne Vos do pásma, a slyší vlastní hlas zdálky. „Našli jsme posádku.“
+„Plukovníku,“ řekne Vos do pásma. „Našli jsme posádku.“
 
 Chvíli je v pásmu ticho.
 
@@ -2439,9 +2442,9 @@ Sedí v koutě navigační kabiny, kde jí navigátor nechal pult a šálek ně�
 
 Ne všechny mlčí stejně.
 
-Šest kolonií přestalo vysílat běžná hlášení v posledních čtyřech měsících. Ne najednou. Po jedné, po dvou, v rozestupech, jako by někdo otáčel knoflíky postupně, aby si toho nikdo nevšiml. Žádná z nich nehlásí útok. Žádná nevolá o pomoc. Prostě se odmlčely — přestaly platit poplatky Lize, přestaly žádat o zásoby, přestaly se chovat jako kolonie, která chce přežít a potřebuje k tomu zbytek lidstva.
+Šest kolonií přestalo v posledních čtyřech měsících vysílat běžná hlášení. Ne najednou. Po jedné, po dvou, v rozestupech, jako by někdo otáčel knoflíky postupně, aby si toho nikdo nevšiml. Žádná nehlásí útok. Žádná nevolá o pomoc. Prostě se odmlčely — přestaly platit poplatky Lize, přestaly žádat o zásoby, přestaly se chovat jako kolonie, která chce přežít a potřebuje k tomu zbytek lidstva.
 
-Vos to projede dvakrát. Pak třikrát, Reyeverovým způsobem.
+Vos to projede třikrát.
 
 Melass na seznamu není. Melass je mrtvý, přerozený, zelený od pólu k pólu. Ale těch šest žije. Vysílají dost na to, aby navigace věděla, že tam někdo je. Jen přestaly mluvit s lidstvem.
 
@@ -2485,7 +2488,7 @@ Renn se zvedne, protože stát znamená moct odejít, i když odejít nelze. Pos
 
 „Neříkejte mi zase, že byste mi to neřekla.“ Vos se nepohne ode dveří. „Tu větu už jste na mě použila. Na chodbě. Řekla jste, že kdybyste věděla, co je ten odznak, byla byste mi to neřekla, a že je to rozdíl mezi námi.“ Naklání se o vlas blíž. „Já si vás značím od Sirte, paní Rennová. Jako odstřelovačka. A vy víte, co dělá odstřelovač — čeká, až ten druhý udělá druhou chybu. Vy jste ji právě udělala.“
 
-Renn drží ramena klidná. Stálo ji to roky cviku, držet ramena klidná, a nikdy je nedržela proti někomu, kdo na ně nekouká, aby je přečetl, ale aby viděl, kde se zlomí.
+Renn drží ramena klidná. Stálo ji to roky cviku — a nikdy je nedržela proti někomu, kdo se nedívá, aby je přečetl, ale aby viděl, kde se zlomí.
 
 „Jakou chybu.“
 
@@ -2557,7 +2560,7 @@ Není prázdná. Nikdy nebyla prázdná. Celé ty dny na ni Renn nepsala proto, 
 
 „To, co dělám celý život,“ řekne Renn. „Vybírám, kterou lež splním. Vy musíte poslechnout lež, kterou vám dají. Já si svoji vybírám.“ Položí palec na destičku. „Řekla jsem vám pravdu, majore. Celou, poprvé od Sirte. Smíření. Čísla. Sebe. To není dárek. To je rozloučení.“
 
-Vos vyrazí přes kabinu, dva kroky, ale dva kroky stačí jen na to, aby viděla, co se na destičce děje — řádek bez hlavičky, bez pečeti, ten symetrický tvar místo podpisu, stonek a dvě poloviny — a aby ho nestihla zastavit.
+Vos vyrazí přes kabinu, dva kroky. Dva kroky stačí jen na to, aby viděla, co se na destičce děje — řádek bez hlavičky, bez pečeti, ten symetrický tvar místo podpisu, stonek a dvě poloviny. Zastavit ho nestihne.
 
 Signál odejde. Slabý, do proudu, který na mapách Kovadliny není.
 
@@ -2573,7 +2576,7 @@ Vos ji popadne za paži. Renn se nebrání. Nemá proč.
 
 DOPROVODNÝ ČLUN SOULADU SE ODLEPÍ OD MĚLČINY tak tiše, že ho navigátor zachytí, až když je půl cesty pryč, a Vos stojí v doku Kovadliny a dívá se, jak odlétá to, co měla v ruce.
 
-Renn nešla násilím. Nemusela. Než Vos doběhla pro stráž, než probrala Reyevera, než loď pochopila, co se děje, byla Renn u dokovacího límce s jedinou taškou a klidem člověka, který tohle čekal tři týdny a možná tři roky. Stráž ji nezastavila, protože stráž neměla rozkaz zastavit kontraktorku Ligy, která jde k vlastnímu člunu. Reyever ten rozkaz nedal, protože Reyever spal, nebo obcházel loď, a než se to k němu dostalo, byl člun pryč.
+Renn nešla násilím. Nemusela. Než Vos doběhla pro stráž, než probrala Reyevera, než loď pochopila, co se děje, byla Renn u dokovacího límce — s jedinou taškou a klidem člověka, který tohle čekal tři týdny a možná tři roky. Stráž ji nezastavila. Neměla rozkaz zastavit kontraktorku Ligy, která jde k vlastnímu člunu. A Reyever ten rozkaz nedal, protože spal, nebo obcházel loď, a než se to k němu doneslo, byl člun pryč.
 
 Vos stojí v doku, ruce volné, a dívá se na obrazovku, na které se malá tečka odlepuje od mělčiny k tomu, co tam celou dobu čeká.
 
@@ -2610,7 +2613,7 @@ Je utkaná z lidí. A jeden její oko právě odplul z jejich vlastní lodi.
 
 ZPRÁVA PŘIJDE NA *KOVADLINU* TŘI DNY POTÉ, co Renn odplula do proudu, který na mapách není, a přijde stejnou cestou jako ona.
 
-Reyever stojí na velitelském stání, ruce za zády, a poslouchá navigátora, který nechce věřit vlastnímu pultu. Loď je šestý den v opravách. Pravá baterie pořád zeje prázdnem, levou Hale skládá z dílů dvou jiných, klín drží o jeden zub a v přepážkách úpí ta podprahová nota, kterou se posádka naučila neslyšet. Reyever ji slyší. Slyší ji žebrem, které mu praskl klín u žacího plavidla a které ho při každém nádechu upomíná, kolik Legii zbývá.
+Reyever stojí na velitelském stání, ruce za zády, a poslouchá navigátora, který nechce věřit vlastnímu pultu. Loď je šestý den v opravách. Pravá baterie pořád zeje prázdnem, levou Hale skládá z dílů dvou jiných, klín drží o jeden zub a v přepážkách úpí ta podprahová nota, kterou se posádka naučila neslyšet. Reyever ji slyší. Slyší ji žebrem, které mu u žacího plavidla praskl klín a které ho při každém nádechu upomíná, kolik Legii zbývá.
 
 „Nosič bez majáku,“ hlásí navigátor. „Bez kódu Kondominia. Bez kódu Ligy. Drží odstup od mělčiny a vysílá na nás otevřeně. Žádá spojení.“
 
@@ -2638,7 +2641,7 @@ Reyever přejde k pásmu. Stiskne tlačítko a promluví poprvé.
 
 Na můstku se nikdo nenadechne.
 
-Adm. Dane Sarn byl ve třídě ten, koho instruktoři dávali za příklad, a Reyever ten, kterého nedovedli zařadit. Sarn řešil úlohu nahlas, krok za krokem, tak čistě, že se z toho dalo učit. Reyever ji vyřešil dřív a neřekl jak. Jednou je postavili proti sobě ve cvičné bitvě, dvě flotily na tabuli, a Sarn prohrál o jediný tah, který nepředvídal, protože byl příliš dobrý na to, aby čekal chybu, kterou Reyever udělal schválně. Pak spolu seděli celou noc a Sarn se ptal proč. Reyever neodpověděl. Bylo to naposledy, co byli přátelé.
+Adm. Dane Sarn byl ve třídě ten, koho instruktoři dávali za příklad. Reyever ten, kterého nedovedli zařadit. Sarn řešil úlohu nahlas, krok za krokem, tak čistě, že se z toho dalo učit. Reyever ji vyřešil dřív a neřekl jak. Jednou je postavili proti sobě ve cvičné bitvě, dvě flotily na tabuli, a Sarn prohrál o jediný tah, který nepředvídal — protože byl příliš dobrý na to, aby čekal chybu, kterou Reyever udělal schválně. Pak spolu seděli celou noc a Sarn se ptal proč. Reyever neodpověděl. Bylo to naposledy, co byli přátelé.
 
 „Vidím, že jsi nás konečně našel,“ řekne Sarn. „Spíš to, co jsme ti nechali najít. Melass. Konvoj. Plavidlo, které jsi zabil za skoro celý křižník — to bylo dobré, Adane. Opravdu dobré. Nikdo jiný by to nedokázal. Proto s tebou mluvím já a ne někdo, kdo by ti poslal salvu.“
 
@@ -2708,7 +2711,7 @@ REYEVER VSTANE OD PULTU, protože vsedě se hůř mlčí, a žebro mu připomene
 
 „Pakt,“ potvrdí Sarn. „Já ti dávám slovo, žádný formulář. Moje slovo jsi kdysi bral. Přidej se ke Smíření a tvoje Legie přežije válku, kterou Kondominium prohraje bez tebe i s tebou. To je nabídka. Stejná, jakou jsem dal šesti koloniím, které žijí. Stejná, jakou Soulad dal mně.“
 
-Reyever se dívá do prázdné mapy. Vidí v ní Vejvarův prázdný pancíř, Tichého na zádech u pultu pohonu, Daré a loď, kterou stín vzal za deset minut. Vidí čísla, která mu Sarn předložil, a nenajde v nich chybu, protože v nich žádná není.
+Reyever se dívá do prázdné mapy. Vejvarův pancíř. Tichý na zádech u pultu pohonu. Daré a loď za deset minut. Vidí čísla, která mu Sarn předložil, a nenajde v nich chybu, protože v nich žádná není.
 
 „Ne,“ řekne.
 
@@ -2718,13 +2721,13 @@ Reproduktor chvíli mlčí.
 
 „Sečetl,“ řekne Reyever. „Vyšlo mi totéž co tobě. Soulad je silnější. Kondominium padne. Smíření má v číslech pravdu.“ Odmlčí se. „A pořád ne.“
 
-„Proč.“ Není to v Sarnově hlase prosba. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. *Proč.* Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
+„Proč.“ Sarn nežadoní. Je to táž otázka jako tu noc na akademii, po prohrané bitvě. *Proč.* Třicet let čekal na odpověď a Reyever mu ji znovu nedá celou, protože ji neumí dát celou ani sobě.
 
 „Protože strana, která přežije, není strana,“ řekne Reyever. „Je to počasí. Ty ses nepřidal k lidem, Dane. Ty ses přidal k tomu, co vyhraje. To je rozdíl, který ty nevidíš, a já ti ho nevysvětlím, protože kdybych ho uměl vysvětlit, dal by se přepočítat. A on se přepočítat nedá.“
 
 ---
 
-V MAPOVÉM STÁNÍ JE TICHO, do kterého úpí loď svou jedinou notou, a Reyever čeká, jestli Sarn vypne pásmo, nebo udeří, protože odmítl, a odmítnutí mívá cenu.
+V MAPOVÉM STÁNÍ JE TICHO, do kterého úpí loď svou jedinou notou, a Reyever čeká, jestli Sarn vypne pásmo nebo udeří.
 
 Sarn neudělá ani jedno.
 
@@ -2763,7 +2766,7 @@ Reyever stojí na velitelském stání a tentokrát nemá ruce za zády. Má dla
 
 Reyever se dívá na mapu nad pultem. Tečka v mělčině je velká a klidná. Visí tam jako loď, která ví, že ji Legie nedokáže dohnat ani od ní utéct, a které na tom nezáleží.
 
-Pochopí to dřív, než navigátor domluví. Žací plavidlo nepřišlo žnout. Není tu úroda. Není tu nic než *Kovadlina*, kulhavá, vystřílená, osmý den v opravách.
+Pochopí to dřív, než navigátor domluví. Žací plavidlo nepřišlo žnout. Není tu úroda. Není tu nic než *Kovadlina* — kulhavá, vystřílená, osmý den v opravách.
 
 „Mluví poprvé,“ řekne Reyever tiše, skoro pro sebe. „Za celou dobu poprvé.“ Položí druhou dlaň na pult. „Protože jsme jedno zabili.“
 
@@ -2793,7 +2796,7 @@ Reyever mlčí. V tom mlčení počítá, jako vždycky, a poprvé za třicet le
 
 ---
 
-REYEVER PŘEJDE OD PULTU K MAPĚ, kde tečka v mělčině pořád klidně visí, a mluví do ní, ne do reproduktoru, protože je snazší mluvit k obrazu nepřítele než k jeho hlasu.
+REYEVER PŘEJDE OD PULTU K MAPĚ, kde tečka v mělčině pořád klidně visí, a mluví do ní, ne do reproduktoru. Je snazší mluvit k obrazu nepřítele než k jeho hlasu.
 
 „Sarn mi řekl tvou verzi,“ řekne. „Že nepřicházíš dobývat. Že si vybíráš světy. Že zbytek necháš žít, když se skloní. Slyšel jsem to od člověka. Teď to slyším od tebe. Chci vědět, jestli ten člověk lhal.“
 
@@ -2835,7 +2838,7 @@ V mapovém stání by byla tlumená červeň a soukromí. Reyever zůstane na m�
 
 ---
 
-REYEVER MLČÍ DLOUHO, a poprvé to mlčení není zbraň, kterou drží proti druhému, ale ticho, ve kterém čeká, co přijde, protože ví, že nejhorší část nepřišla.
+REYEVER MLČÍ DLOUHO, a poprvé to mlčení není zbraň, kterou drží proti druhému, ale ticho, ve kterém čeká, co přijde, protože nabídka ještě nespadla na stůl celá.
 
 Soulad ji nechá dozrát. Umí čekat. Čekání je část péče.
 
@@ -3008,11 +3011,11 @@ Vos ji čte sama na velitelském stání, protože ji musí přečíst dřív, n
 
 Depeše není od Kondominia. Je o Kondominiu. Civilní vysílání, zachycené v proudu a předané dál, hlas příliš mladý a příliš profesionální na to, co čte.
 
-Třetí flotila se stáhla z celého pohraničního ramene. Oficiálně „konsolidace sil k obraně jádra“. Vos zná to slovo z porad — konsolidace je výmluva pro ústup, který se nesmí jmenovat ústup. Dvě domovské velmoci si vzájemně zablokovaly hlasy ve výboru, takže Kondominium tři měsíce nevydalo jediný společný rozkaz. Daňová liga východního sektoru přestala odvádět podíl na hladinový pohon a Kondominium ji nepotrestalo, protože nemá čím. Bez podílů nejsou lodě. Bez lodí není monopol. Bez monopolu není Kondominium nic než jméno na staré smlouvě.
+Třetí flotila se stáhla z celého pohraničního ramene. Oficiálně „konsolidace sil k obraně jádra“. Vos to slovo zná z porad — konsolidace je výmluva pro ústup, který se nesmí jmenovat ústup. Dvě domovské velmoci si vzájemně zablokovaly hlasy ve výboru, takže Kondominium tři měsíce nevydalo jediný společný rozkaz. Daňová liga východního sektoru přestala odvádět podíl na hladinový pohon a Kondominium ji nepotrestalo, protože nemá čím. Bez podílů nejsou lodě. Bez lodí není monopol. Bez monopolu není Kondominium nic než jméno na staré smlouvě.
 
 Vos pustí záznam dál do lodi, celý, nesestříhaný. Reyever ji to naučil, aniž to kdy řekl: šeptaná zpráva hnije.
 
-Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Ono umírá samo, z únavy, jako starý muž, který přestal důvod vstávat.
+Pak vypne pult a sedí ve tmě velitelského stání, a poprvé za devět nocí pochopí, co Sarn věděl od začátku. Kondominium nepadne v bitvě. Nepadne pod Souladem. Padne na schůzi, na zablokovaném hlasování, na třech měsících mlčení, na velmocích, které se víc bojí jedna druhé než zahradníka, jenž jim přepisuje pohraničí. Nikdo Kondominium nezabíjí. Ono umírá samo, z únavy, jako starý muž, který přestal mít důvod vstávat.
 
 A do té trhliny vráží Smíření, klidně, trpělivě, soustavu po soustavě, a nabízí jediné, co Kondominium nabídnout přestalo: že zítra ještě budeš.
 
@@ -3070,7 +3073,7 @@ Ví to. Věděla to dřív, než navigátor domluvil. Jen to nechce být pravda,
 
 ---
 
-HLAS, KTERÝ SE OZVE Z REPRODUKTORU, je spisovný, uhlazený, klidný, a Vos ho pozná dřív, než padne jediné slovo, protože ho slyšela měsíce a měsíce ho podezírala a nakonec ho nechala odejít z téhle lodi vlastní chybou.
+HLAS, KTERÝ SE OZVE Z REPRODUKTORU, je spisovný, uhlazený, klidný, a Vos ho pozná dřív, než padne jediné slovo. Slyšela ho měsíce. Měsíce ho podezírala a nakonec ho nechala odejít z téhle lodi vlastní chybou.
 
 „Majorko Vosová,“ řekne Cassia Renn. „Doufala jsem, že to vezmete vy, a ne plukovník. S vámi se mi mluví líp. Vy se aspoň díváte na to, co opouštíte.“
 
@@ -3113,13 +3116,13 @@ Reyever se na ni dívá. Čte ji z ramen, ne z očí, jak čte každého, a popr
 
 „Ne,“ řekne Reyever. „Vím proč.“
 
-Protože muž, který si je jistý čísly, nemá z čeho mít strach. Sarn nepřijde jako zajatec. Přijde jako věřitel, který si může dovolit přijít domů k dlužníkovi a posadit se mu ke stolu, protože dluh nikam neuteče.
+Protože muž, který si je jistý čísly, nemá z čeho mít strach. Sarn nepřijde jako zajatec. Přijde jako věřitel — ten si může dovolit zajít domů k dlužníkovi a posadit se mu ke stolu, protože dluh nikam neuteče.
 
 ---
 
 SARN VYSTOUPÍ Z LÍMCE BEZ DOPROVODU, v civilní kombinéze bez hodnosti, a první, co Reyever uvidí, je, jak je ten člověk klidný.
 
-Třicet let. Sarn zestárl jako Reyever — vlasy ocelové, kůže suchá od recyklovaného vzduchu lodí, oči, které měří místnost dřív, než do ní vejde celý. Změří dokovací palubu jediným pohledem: stopy po hašení požáru na stropě, prázdné lože po raketometu, čtyři vojáky u stěny, kteří se tváří, že nehlídají, a hlídají. Změří to a usměje se, protože mu to potvrdí číslo, které měl spočítané dřív, než přiletěl.
+Třicet let. Sarn zestárl jako Reyever — vlasy ocelové, kůže suchá od recyklovaného vzduchu lodí, oči, které měří místnost dřív, než do ní vejde celý. Dokovací palubu změří jediným pohledem: stopy po hašení požáru na stropě, prázdné lože po raketometu, čtyři vojáky u stěny, kteří se tváří, že nehlídají, a hlídají. Změří to a usměje se. Potvrdí mu to číslo, které měl spočítané dřív, než přiletěl.
 
 „Adane,“ řekne.
 
@@ -3181,7 +3184,7 @@ V jídelně je ticho, do kterého úpí loď svou jedinou notou.
 
 „Sirte tě netestoval, jestli jsi dost dobrý, abys přežil,“ řekne Sarn. „Sirte tě třídil. Buď spadneš sám a my máme klid, nebo se osvědčíš a my tě chceme. Z toho trychtýře nevedla cesta ven, Adane. Vedla jen dolů, ke mně. Ať jsi udělal cokoli, skončil jsi tady, u tohoto stolu. Zařídil jsem to tak, abys neměl jinou možnost než tu, kterou by sis vybral sám. To je celý můj řemeslo. Nedonutit nepřítele. Postavit mu chodbu tak úzkou, že si v ní svobodně vybere jediné dveře, které tam jsou.“
 
-Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, byl krok, který za něj někdo vyprojektoval předem.
+Reyever sedí bez hnutí. Vidí to celé najednou, jako se vidí tah, který byl na tabuli od začátku a člověk ho přehlédl, protože hledal složitější. Renn, která ho najala. Zajatec, který znal jeho jméno. Antedatovaná depeše. Plavidlo, které mu nechali zabít, aby si dokázal, že to jde. Každý krok, o kterém si myslel, že ho dělá proti něčí vůli, někdo za něj vyprojektoval předem.
 
 „Manévroval jsi mě od první duny,“ řekne.
 
@@ -3276,7 +3279,7 @@ Položí svářečku. Otře si ruce o hadr, ač na nich nic není.
 
 ---
 
-V HANGÁRU SE PŘI HALOVĚ PŘÍCHODU NIKDO NEPOSTAVÍ, a to je další věc, kterou Hale za třicet let nezažil — ne neúctu, na tu kašle, ale to, že chlapi sedí, jako by je přistihl při něčem, co se nesluší říkat nahlas, a oni přesně tohle dělali.
+V HANGÁRU SE PŘI HALOVĚ PŘÍCHODU NIKDO NEPOSTAVÍ — ne neúctu, na tu kašle, ale to, že chlapi sedí, jako by je přistihl při něčem, co se nesluší říkat nahlas, a oni přesně tohle dělali.
 
 Brázda sedí na bedně s těžkým kanónem rozloženým na hadru. Pořád ho nedal dohromady. Hale se na ten kanón dívá dvě vteřiny a pochopí z něj víc než z čehokoli, co by mu kdo řekl — Brázda umí složit kanón poslepu za minutu a tenhle leží v kusech druhý den, protože Brázda nedává dohromady kanón, on dává dohromady něco jiného a nejde mu to.
 
@@ -3288,13 +3291,13 @@ Sálová čistí pušku. Ta to dělá vždycky, takže ta se ničím neprozrazuj
 
 Nikdo neřekne nic.
 
-„No tak,“ řekne Hale. „Já vás slyším počítat dva dny. Slyším to líp než tu vaši notu v přepážkách. Tak to řekněte nahlas, ať to není jen šepot, protože šeptaná věc hnije, to vás naučil sám plukovník, akorát jste mysleli, že to platí jen na něj.“
+„No tak,“ řekne Hale. „Já vás slyším počítat dva dny. Slyším to líp než tu vaši notu v přepážkách. Tak to řekněte nahlas. Ať to není jen šepot. Šeptaná věc hnije — to vás naučil sám plukovník, akorát jste mysleli, že to platí jen na něj.“
 
 Brázda zvedne hlavu. Má v očích tu únavu, kterou Hale zná od chlapů, co viděli moc dun a moc prázdných pancířů.
 
 „Dobře, Kováři,“ řekne Brázda. „Když to chceš slyšet nahlas. Spočítal jsem to. A vyšlo mi, že admirál má pravdu.“
 
-V hangáru je ticho, do kterého úpí loď.
+Sálová přestane čistit pušku.
 
 „Soulad má pravdu,“ řekne Brázda dál. „Kondominium se rozpadá, to nám major přečetla z depeše, a major nelže. Sarn má pravdu v číslech, to nezpochybňuje už ani plukovník, ten dědek to admirálovi řekl rovnou do ksichtu, slyšeli jsme to. A když má pravdu nepřítel i náš velitel zároveň, tak já se ptám, Kováři — za co tady ještě sedím? Za vodu na Sirte? Za soustavu, co mě odepsala dřív, než jsem vzlétl? Nebo za to, že se starej bojí přiznat, že prohrál?“
 
@@ -3354,7 +3357,7 @@ Hale si dlouze povzdechne. Je to zvuk člověka, který nese pytel na zádech mo
 
 ---
 
-DEPEŠE PŘIJDE V NOCI A NENÍ TŘI TÝDNY STARÁ, je čerstvá, a to je samo o sobě špatné znamení, protože čerstvá zpráva v týhle díře galaxie znamená, že ji přinesl někdo, kdo umí proudy mimo mapy.
+DEPEŠE PŘIJDE V NOCI A NENÍ TŘI TÝDNY STARÁ. Je čerstvá. A to je samo o sobě špatné znamení, protože čerstvá zpráva v týhle díře galaxie znamená, že ji přinesl někdo, kdo umí proudy mimo mapy.
 
 Vos ji čte sama na velitelském stání, jak má ve zvyku, aby ji unesla první. Tentokrát jí ruce ztuhnou dřív, než přečte druhý řádek. Tělo dohání tvář o setinu vteřiny — to ji naučil Reyever a od něj to nenávidí ze všeho nejvíc.
 
@@ -3384,7 +3387,7 @@ REYEVER STOJÍ V MAPOVÉM STÁNÍ U PRÁZDNÉ ČERVENÉ MAPY, a když Vos vejde,
 
 „Šest dní,“ řekne Vos. „A potom buď přesazení, nebo to, co čeká u uzlu. A já vám řeknu, co se na téhle lodi děje za přepážkami, protože vy to víte taky, ale potřebujete to slyšet ode mě. Brázda počítá. Cuk počítá. Půlka noční směny počítá. Hale je drží za límec slovem a vlastníma rukama, ale Hale je jeden a unavený a sám říká, že na to nemá, co byste měl mít vy.“
 
-Reyever se otočí. Žebro ho při tom pohybu bodne, prasklý klín od žacího plavidla, a Vos to pozná podle toho, jak pomalu se otáčí.
+Reyever se otočí. Žebro ho při tom pohybu bodne — prasklý klín od žacího plavidla. Vos to pozná podle toho, jak pomalu se otáčí.
 
 „A co bych měl mít já,“ řekne. Není to otázka. Je to past, a Vos do ní šlápne, protože ji unaví obcházet.
 
@@ -3629,9 +3632,9 @@ Křížení T. Učebnicové. Vos drží *Hřeb* napříč přes hrdlo nepřátel
 
 První loď Smíření se rozlomí dřív, než stačí stočit bok.
 
-Druhá se otáčí a nastaví clonu a salva *Hřebu* se o ni roztříští o nic, a Vos to čeká a stočí palbu na třetí, na tu, co se ještě otáčí, a dostane ji do boku v okamžiku, kdy clona ještě nesedí.
+Druhá se otáčí, nastaví clonu, a salva *Hřebu* se o ni roztříští o nic. Vos to čeká. Stočí palbu na třetí, na tu, co se ještě otáčí, a dostane ji do boku v okamžiku, kdy clona ještě nesedí.
 
-V pánvi to vypadá jako rvačka v příliš malé místnosti. Žádné elegantní manévry hladin. Lodě se perou o natočení boků na vzdálenost, na kterou by se v hladinách nikdy nedostaly, a clony, dělané na dálkovou tříšť, tady selhávají, protože tady není dálka.
+V pánvi to vypadá jako rvačka v příliš malé místnosti. Žádné elegantní manévry hladin. Lodě se perou o natočení boků na vzdálenost, na kterou by se v hladinách nikdy nedostaly. A clony, dělané na dálkovou tříšť, tady selhávají, protože tady žádná dálka není.
 
 Reyever to spočítal.
 
@@ -3711,7 +3714,7 @@ A *Hřeb* se vsune mezi *Kovadlinu* a otáčející se stonek, do dráhy rány, 
 
 Rána projde clonou *Hřebu*, jako by clona nebyla.
 
-Reyever vidí na mapě, jak tečka *Hřebu* zbělá a chvěje se a nezhasne docela, a slyší v pásmu Vosin hlas, ztenčený, ale živý, „jsme tu, drž kurz, jsme tu“, a ví, že je to naposled, kdy ho slyší, protože z téhle louže se *Hřeb* už nevyšplhá ani kdyby měl pohon, a on jí ho neposlal.
+Reyever vidí na mapě, jak tečka *Hřebu* zbělá, chvěje se a nezhasne docela. V pásmu slyší Vosin hlas, ztenčený, ale živý, „jsme tu, drž kurz, jsme tu“. A ví, že je to naposled, kdy ho slyší, protože z téhle louže se *Hřeb* už nevyšplhá ani kdyby měl pohon — a on jí pohon neposlal.
 
 Nemá čas na to vědět. Má čas na hrdlo stonku, které se na vteřinu otevřelo, když plavidlo udeřilo a stočilo se k *Hřebu*.
 
@@ -3966,7 +3969,7 @@ Hale přijde na palubu, postaví se vedle něj, ruce od oleje, a dívá se s ní
 
 „Vyhráli jsme jednu,“ řekne Reyever.
 
-Dívá se, jak se dno pánve propadá pod nimi do dálky, jak se devět vyhaslých stonků a dvě vyhaslé lodě Legie scvrkají v tečky a pak v nic, a počítá, jako počítá vždycky, a tentokrát mu z toho čísla vyjde věc, kterou ví celý měsíc a kterou dnešek nezměnil.
+Dívá se, jak se dno pánve propadá pod nimi do dálky, jak se devět vyhaslých stonků a dvě vyhaslé lodě Legie scvrkají v tečky a pak v nic. Počítá, jako počítá vždycky. A tentokrát mu z toho čísla vyjde věc, kterou ví celý měsíc a kterou dnešek nezměnil.
 
 Soulad přišel s devíti plavidly k jedné soustavě, kterou nikdo nechce. Za devíti plavidly stojí sad, který Reyever neviděl a jehož velikost neumí spočítat ani on. A Kondominium, za jehož jméno se dnes na dně louže umíralo, se rozpadá dál, na schůzích, v depeších, beze střelby, a žádný rozlomený stonek na tom nezmění ani řádek.
 
@@ -4033,7 +4036,7 @@ Na Andaru je úsvit a vítr a brusivá mouka, ze které je celá planeta, a v z�
 
 Jmenuje se Calt a je mu devatenáct a je novej, a každý mu to dává najevo tím, jak ho nechávají ležet na špatném konci hřebene, odkud do očí praží to mladé bílé slunce. Calt přimhouří oči a kouká dolů do kotliny, kde stojí kolektor na noční rosu, kruhové síto, betonová nádrž, plechová bouda, a u nich postavy, které kolektor hlídají a nemaj tušení, že se dívaj do hlavně.
 
-Vedle Calta leží žena, které říkají Sálová, a je stará jako kámen a tvrdá jako kámen a nemluví víc, než musí. Calt o ní ví jen tři věci. Že byla na Sirte, kdysi, na začátku, když to celé začalo. Že přežila proudový uzel, ze kterého se vrátila každá desátá. A že nikdy nemine.
+Vedle Calta leží žena, které říkají Sálová. Je stará jako kámen, tvrdá jako kámen a nemluví víc, než musí. Calt o ní ví jen tři věci. Že byla na Sirte, kdysi, na začátku, když to celé začalo. Že přežila proudový uzel, ze kterého se vrátila každá desátá. A že nikdy nemine.
 
 „Kdy se to spustí,“ zašeptá Calt. Spustí mu vyleze ze suchýho hrdla jako zakašlání.
 
@@ -4043,7 +4046,7 @@ Vedle Calta leží žena, které říkají Sálová, a je stará jako kámen a t
 
 „Až jim vyleze slunce do očí.“ Otře si z hledí prach, který se na něj zase hned vrátí. „Drž hubu a koukej. Učíš se. Tohle se neučí pusou.“
 
-Calt drží hubu. Dole v kotlině se jeden z mužů u nádrže protáhne a něco prohodí ke druhému, a ten se zasměje, a Calt si poprvé v životě uvědomí, že ti lidé dole jsou živí, že se smějou a je jim zima a za chvíli někteří z nich nebudou, a že to bude částečně jeho práce.
+Calt drží hubu. Dole v kotlině se jeden z mužů u nádrže protáhne a něco prohodí ke druhému, a ten se zasměje. A Calt si poprvé v životě uvědomí, že ti lidé dole jsou živí, že se smějou a je jim zima a za chvíli někteří z nich nebudou — a že to bude částečně jeho práce.
 
 Není to abstrakce. Je to chlap, co se protáhl.
 
@@ -4059,7 +4062,7 @@ POSTAVY DOLE NEJSOU VOJÁCI. To Calt nepozná — Calt by nepoznal vojáka od pe
 
 „Protože ty pušky maj.“ Sálová sleduje muže na střeše boudy, který si zapaluje. „Někdo jim je dal. A s puškou dostali i slib. Vždycky dostanou slib.“
 
-Calt nerozumí, ale pozná, že na vysvětlování není čas, a tak se ptá na to jediné, co ho doopravdy tlačí, co ho tlačí od chvíle, kdy ho na Andaru vysadili z lodi se jménem, které celá rota vyslovuje, jako by to byl talisman.
+Calt nerozumí, ale pozná, že na vysvětlování není čas, a tak se ptá na to jediné, co ho tlačí od chvíle, kdy ho na Andaru vysadili z lodi se jménem, které celá rota vyslovuje jako zaříkání.
 
 „Je to pravda? Co se říká. Že plukovník fakt rozlomil ty cizáky.“
 
@@ -4093,7 +4096,7 @@ CALT NEDÝCHÁ. Ruka na zbrani mu vlhne a on ji utírá o písek a písek se na 
 
 Pásmo ožije.
 
-Calt dělá to, co ho učili. Necílí na obličej, necílí na člověka, cílí na hruď, na kterou mu ukázali na lodi, na bod, který není smích a není zima a není chlap, co se protáhl. Stiskne. Puška mu kopne do ramene tvrději, než čekal, a dole se jedna z postav složí, a Calt neví, jestli to byla jeho rána nebo Sáliny nebo někoho dalšího, a je za to vděčný, je za tu nejistotu vděčný tak, že se mu sevře hrdlo.
+Calt dělá to, co ho učili. Necílí na obličej, necílí na člověka, cílí na hruď, na kterou mu ukázali na lodi, na bod, který není smích a není zima a není chlap, co se protáhl. Stiskne. Puška mu kopne do ramene tvrději, než čekal. Dole se jedna z postav složí. A Calt neví, jestli to byla jeho rána, nebo Sáliny, nebo někoho dalšího — a je za to vděčný, za tu nejistotu vděčný tak, že se mu sevře hrdlo.
 
 Je to rychlé. Vždycky to prý je rychlé. Za minutu je dole ticho, jen vítr a kapání vody z probité nádrže, a Calt leží na hřebeni a třese se a stydí se za to, že se třese.
 
@@ -4107,7 +4110,7 @@ Nejsou to vojáci. Boty, ruce, mladí i staří. Jeden z nich, starý chlap s ro
 
 Calt nerozumí. Otevře pusu, aby se zeptal na kterou stranu, kdo vám to řekl, ale starý chlap dodýchá dřív, než stačí, a oči mu zůstanou otevřené, obrácené do toho běloskvoucího nebe.
 
-Calt se napřímí. V dlaních mu zůstal ten chrčivý dech a ta slova, která nezní jako slova vodního farmáře — *správná strana, přijde to i na vás* — naučená nazpaměť, cizí slova v cizí puse.
+Calt se napřímí. V dlaních mu zůstal ten chrčivý dech a ta slova, která nezní jako slova vodního farmáře — *správná strana, přijde to i na vás* — cizí slova v cizí puse.
 
 „Co to říkal,“ zeptá se Sálové. „Jakou stranu.“
 
