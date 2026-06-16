@@ -217,3 +217,60 @@ Reyever vyjde z buňky do chodby. Pointa ve třech úderech: **„Sirte se nevzb
 - **Zajatec jako předobraz Sarna/Smíření** — jeho argument („strana, která přežije") je tentýž, který později vysloví Sarn; Reyever ho slyší poprvé z úst pěšáka.
 - Reyever poprvé tuší **nelidský rozměr** nepřítele (otázka „je to ještě člověk?") — předjímá překlopení žánru v aktu II (kap. 12/13/16).
 - Tělo + zbraň míří k Vos mimo evidenci — sbíhá se s linkou tajného rozboru (kap. 2/5/7).
+
+---
+
+## Kap. 5 — „Prach v zubech"
+
+**POV:** št. rtm. Brannick „Kovář" Hale (vševědoucí 3. os., přítomný čas; ohnisko pevně u Hala). Vedlejší ohniska přes scénické střihy: mužstvo v hangáru, závěr na můstku s Vos a Reyeverem. Dechová/klidnější kapitola po akci aktu I.
+
+**Místo:** **základna Legie** nad městem Sirte. Konkrétní lokace: **dílna Halea** (olej, ozon ze svářečky, prach v zubech; ponk s demontovanými pancíři); **hangár za odstavenými transportéry** (kuřácký kout mužstva, mimo dohled velitelského modulu); **ochoz základny** (Hale × Vos); **můstek velitelského modulu** (závěrečná konfrontace + rozbor). Pojí se s lokacemi z kap. 2/4.
+
+**Denní doba / čas:** **dva dny po boji o uzel (kap. 3) a po výslechu (kap. 4).** Začíná hodinu po půlnoci v dílně → úsvit (Reyever) → ranní směna (přílet Vos) → cca o hodinu později můstek. První kapitola, kde uplynul čas od souvislého „dne Sirte" kap. 1–4.
+
+**Jmenované postavy v kapitole (přesné tvary):**
+- **št. rtm. Brannick „Kovář" Hale** — POV; obecná čeština, suchý humor, řemeslné metafory (jídlo = palivo, lidé/stroje, prasklina/trhlina). Drží mužstvo pohromadě; ví víc, než řekne, a nese to sám. Sahá na cizí kov jen v rukavici.
+- **mjr. Iliana Vos** — přilétá s ranní směnou; přebírá tělo + zbraň na rozbor (potvrzení linky z kap. 2/4). Když naštvaná, ztiší se. Otevřeně konfrontuje Reyevera.
+- **plk. Adan Reyever** — přijde za Halem před úsvitem; na můstku odmítne Vos vysvětlit rozkaz ze Sirte. Hlas nikdy nezvýší.
+- **Brázda** — zavalitý voják od těžkých zbraní; RETROAKTIVNĚ ztotožněn s operátorem těžké pušky, co u kolektoru (kap. 1) sundal kuřáka na střeše první ranou. Přinese Halovi příděl.
+- **Cuk** — mladík, „cukne sebou při každé ráně i po měsíci"; vypráví historku o Vos („drž hubu a nabíjej" z kap. 3).
+- **svob. Sálová** — Vosina odstřelovačka (z kap. 3, přežila); v hangáru čistí pušku, suchý humor („Kámen by aspoň poslouchal napoprvý").
+- **Vejvar** — nováček z kap. 1 (vnitřní sázka „seš nový"); **PADL v boji o uzel** (kap. 3, mimo obraz). Zabit cizí zbraní — díra mezi krčním chráničem a náprsní deskou, okraje pancíře slité do hladka. Hale na něj vsadil 6 akcí; vydržel jednu. Lidská cena boje.
+
+**Klíčové události:**
+1. Hale v noci čistí pušku, kterou čistit nemusí; truchlí po Vejvarovi přes jeho prázdný pancíř (řemeslná metafora: pancíř se spraví, kluk ne).
+2. Brázda přinese příděl; černý kasárenský humor (jídlo = palivo). Hale nahlas „pomlouvá" Vejvara („mizernej kluk") jako svůj způsob smutku.
+3. Hangár: mužstvo se vymlouvá smíchem; klep o zajatci, „co umřel sám od sebe" (ozvěna kap. 4). Hale je úmyslně zlehčí historkou o udušení bonbonem, ač sám ví, že to byla cizí pojistka — chrání spánek mužstva.
+4. Reyever přijde před úsvitem, zadá Halovi předat Vos tělo + zbraň osobně, mimo evidenci. Hale ho varuje, že z Vos „dělá trhlinu" tím, že jí nic nevysvětluje.
+5. Ochoz: Hale informuje přilétlou Vos o těle/pojistce (zátylek, který hřál); Vos přímo žádá Halovo nezaujaté čtení Reyeverova rozkazu ze Sirte. Hale řekne pravdu na dvě půlky: rozkaz měl důvod (2. družstvo, méně mrtvých) — ALE Reyever ji neměl nechat slepou. („Stroj ti vždycky ukáže, proč to dělá. Lidi tomu řikaj velení.")
+6. **MŮSTEK — PRVNÍ OTEVŘENÁ TRHLINA VOS × REYEVER:** Vos veřejně (před Halem) konfrontuje nevysvětlený rozkaz. Reyever přizná logiku (2 mrtví místo 5), ale ODMÍTNE vysvětlit proč mlčel; potvrdí svou zásadu „velitel, který vysvětluje, jde přemluvit". Vos: problém už není přemlouvání, ale že mu PŘESTÁVÁ VĚŘIT; naznačí podezření, že mlčí kvůli něčemu o Sirte, co jí neřekl. Reyever NEODPOVÍ — jeho mlčení je „nejhlasitější věc v místnosti". Hale vidí trhlinu zvenčí jako ten, kdo drží jednotku pohromadě.
+7. **ROZBOR / HOOK:** Hale předloží výsledky mikroskopu cizí slitiny (zbraň) i kousku pojistky z lebky zajatce. Materiál: bez švů, bez součástek — „nesestavené, vyrostlé". Vnitřní struktura = pravidelná opakující se šestiúhelníková mřížka (vzorec = záměr, ne odlití). **Zbraň i pojistka mají STEJNOU strukturu — jeden „autor".** V rohu mřížky **vepsané ZNAČENÍ** (tři skupinky symbolů, úmyslné, jako výrobní razidlo) — ŽÁDNÝ znak NENÍ lidské písmeno/číslice/kód Kondominia ani kolonií. Fyzický důkaz: nepřítel není z lidstva.
+
+**Ztráty / cena (lidská míra):**
+- **Vejvar** padl v boji o uzel (kap. 3, retroaktivně doplněno) — cizí zbraň. Nosný motiv ceny války.
+- Stav mužstva: vyčerpané, nevyspalé, drží se černým humorem.
+
+**Co kdo ví (stav na konci kap. 5):**
+- **Hale ví:** o cizí pojistce (z kap. 4); teď navíc, že slitina i pojistka jsou nelidského původu se záměrným nelidským značením. Kryje Reyevera, ale otevřeně mu i Vos řekne pravdu o trhlině.
+- **Vos ví:** o těle/pojistce (nově, od Hala); že Reyeverův rozkaz ze Sirte měl faktický důvod (2. družstvo) — poprvé jí to NĚKDO (Hale, ne Reyever) vysvětlil; že Reyever stále tají něco o Sirte; **a nově: že výzbroj má nelidské značení** (je u rozboru). Aktivně přestává Reyeverovi věřit.
+- **Reyever ví:** totéž co dosud + výsledek rozboru (nelidské značení) — potvrzení jeho otázky z kap. 4 „je to ještě člověk?". Vědomě nadále nevysvětluje Vos.
+- **Mužstvo NEVÍ** pravdu o zajatcově smrti (Hale ji zlehčil) ani o nelidském značení.
+
+**Nové zavedené detaily / termíny (držet dál):**
+- **dílna Halea** na základně (olej, ozon, svářečka, ponk s pancíři) — použitelná lokace.
+- **hangár za odstavenými transportéry** = neformální kuřácký/odpočinkový kout mužstva mimo dohled velení.
+- **Brázda** — voják od těžkých zbraní; = operátor těžké pušky od kolektoru (kap. 1). Stálice mužstva.
+- **Cuk** — mladý voják, leknutí při každé ráně; zdroj humoru.
+- **Vejvar PADL** (kap. 3) — nelze ho znovu použít jako živého; je to první jmenovaná ztráta s tváří.
+- Halovy metafory potvrzeny a rozšířeny: **jídlo = palivo** („naliješ to do sebe, abys nezhasnul"); **prasklina/trhlina** se sama nezmenší; pomluva mrtvého jako truchlení.
+- **NELIDSKÉ ZNAČENÍ na cizí slitině:** vnitřní pravidelná **šestiúhelníková mřížka** (vzorec vepsaný do celého objemu, ne na povrch) + v rohu **tři skupinky úmyslných symbolů** = značení, jež NENÍ žádné lidské písmo/číslo/kód. Zbraň i pojistka = stejná struktura, jeden původce. KANONICKÝ fyzický důkaz nelidského nepřítele (Soulad).
+
+**Jak kapitola končí:**
+Hale otočí destičku se snímkem mřížky ke světlu. Pointa ve dvou úderech: cizí značení nenapsala lidská ruka — a ten, kdo ho napsal, ho tam dal, „aby věděl, co vyrobil". Odpověď na Reyeverovu otázku z kap. 4.
+
+**Otevřené nitky pro další kapitoly:**
+- **První fyzický důkaz nelidského nepřítele** — překlápí mystérium aktu I z „kdo Sirte vyzbrojil" k „co to vůbec je"; živí překlopení žánru v aktu II (kap. 12/13/16, Soulad).
+- **Trhlina Vos × Reyever je veřejná** — eskaluje (kap. 19 Vos pochopí cenu mlčení; vztah dle postavy.md). Hale jako lepidlo jednotky potvrzen.
+- **Vos drží podezření**, že Reyever tají něco o Sirte (správně — souvisí se zvratem kap. 18, „poslali jsme tě tam").
+- Linka tajného rozboru (kap. 2/4/5) dotažena do důkazu; navazuje kap. 6 (rozkaz shora ututlat) a kap. 7 (Vos a vzorek).
+- **Vejvar** jako první ztráta s tváří — vzor pro „cenu" v dalších dechových kapitolách.
