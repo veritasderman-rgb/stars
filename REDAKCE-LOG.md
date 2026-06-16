@@ -1249,3 +1249,31 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Pravopis a překlepy:** Bez nálezů.
 
 **Celkové hodnocení:** Kapitola jazykově velmi čistá — 1 zásah (E1, čtyři slovesa v minulém čase v přítomné akční scéně). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
+
+---
+
+## Vrstva E (jazyková mechanika) — kap. 09-konvoj
+
+**Datum:** 2026-06-16
+
+### Zásahy (2 celkem)
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Eskorta natočila bok proti střele … *Kovadlina* sjela z proudu o vlas níž a vyšplhala bokem, do té roviny, kterou eskorta odkryla, když se otáčela.` | `Eskorta natočí bok proti střele … *Kovadlina* sjede z proudu o vlas níž a vyšplhá bokem, do té roviny, kterou eskorta odkryje, když se otáčí.` | E1 |
+| `Někde v ní žila tichá naděje` | `Někde v ní žije tichá naděje` | E1 |
+
+### Průběh kontroly
+
+- **E2 — uvozovky:** Počet „ (U+201E) = 41, počet " (U+201C) = 41, ASCII uvozovek (U+0022) = 0. Interpunkce přímé řeči správná ve všech výskytech. Žádný hybrid.
+- **E1 — přítomný čas:** Dva prokluzy opraveny. (1) Ř. 57: celý odstavec „Vos to vidí" je v přítomném čase, ale čtyři slovesa popisující pohyb eskorty a *Kovadliny* sklouzla do minulého — natočila/sjela/vyšplhala/odkryla → natočí/sjede/vyšplhá/odkryje. (2) Ř. 157: „žila tichá naděje" popisuje vnitřní stav Vos v přítomném okamžiku scény → „žije". Ostatní minulé časy jsou záměrné vsuvky s minulostí (vzpomínka na Sirte, výcvik, Everettových 8 let) nebo výsledkový perfekt v kontextu.
+- **E3 — koncovky 3. os. mn. č.:** Bez chyb. Všechna slovesa 3. os. mn. č. v narativu na -í (nesahají, nasazují, neodvažují). Hovorové zkrácené tvary v přímé řeči vojáků záměrné — NESAHAT.
+- **E4 — anglikalky:** Žádné nalezeny. Slovosled přirozený, žádné kalouzy.
+- **E5 — redundantní „svůj":** Žádné výskyty „svůj/svou" v celém textu.
+- **E6 — přechodníky:** Žádné v celém textu.
+- **E7 — berličky:** „Pak" se vyskytuje 3× (ř. 131, 177, 199) — rozmístěné, netvoří tik; funkční.
+- **E9 — terminologie:** Legie, Kondominium — velká písmena správně. kýlový klín, mělčina, hladiny, proudy, clony — malá písmena správně. „kondominijní" (adjektivum) — správně malé k. Terminologie jednotná.
+- **Pravopis a překlepy:** Bez nálezů.
+- **Hovorové tvary v přímé řeči vojáků:** „napnutej", „čistej", „studenej", „neporušenej", „pravým" — záměrný rejstřík, NESAHAT.
+
+**Celkové hodnocení:** Kapitola jazykově velmi čistá. Dva zásahy — oba E1 (prokluzy do minulého času v přítomných akčních/scénových momentech). Uvozovky, přechodníky, koncovky, terminologie, anglikalky bez chyb.
