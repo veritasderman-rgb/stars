@@ -1438,3 +1438,33 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Klitika a slovosled:** Bez nálezu.
 
 **Celkem zásahů: 3**
+
+---
+
+## Jazyková kontrola — `roman/rukopis/17-smireni.md`
+
+**Soubor:** `/home/user/stars/roman/rukopis/17-smireni.md`
+**Vrstva:** E (mechanická čeština), průchod cestina-strazce
+**Datum:** 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Vos to čekala a stejně ji to bodne.` (ř. 83) | `Vos to čeká a stejně ji to bodne.` | E1 — prokluz do minulého času uprostřed akční scény; okolní narativ v přítomném čase |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 1 oprava (ř. 83). Ostatní výskyty minulého času jsou legitimní: vsuvky a expozice (ř. 3–12: „To bylo včera", „Posádka to slyšela"), reflexe na minulost v přímé řeči (Vos o Sirte), dialog postav odkazující na historické události. Ř. 167: „Věděla to dřív, než navigátor domluvil" — záměrný kontrast „Ví to. Věděla to dřív" (přítomnost vs. minulost ve stejném odstavci jako narativní efekt); ponecháno. Ř. 113: „Reyever ji to naučil, aniž to kdy řekl" — vsuvka/expozice, správně minulý čas; ponecháno.
+- **E2 (uvozovky):** Počet „ (U+201E) = 42, počet " (U+201C) = 42, U+201D = 0, ASCII (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu.
+- **E4 (anglikalky):** Ř. 63: „se nemá smysl pokoušet" — v přímé řeči Hale (hovorový idiolekt, záměrné); ponecháno. Ř. 139: „Že to dává smysl" — v přímé řeči Vos (vojenský idiolekt); k posouzení hlas-strazce.
+- **E5 (redundantní svůj):** Žádné výskyty „svůj" v textu. Bez nálezu.
+- **E6 (přechodníky):** Bez nálezu.
+- **E7 (berličky):** Ř. 115 a 119: dvě „Pak" v krátkém rozsahu (jeden odstavec). Nejsou bezprostředně za sebou, kontext je pomalejší meditativní scéna — funkční. Ponecháno.
+- **E9 (terminologie):** Čisto. Soulad, Smíření, Kondominium, Legie (velká); kýl, proud, mělčina (malá). Kovadlina kurzívou jako jméno lodi. Konzistentní.
+- **Překlepy/pravopis:** Ř. 3: „VOS NESPÍ DEVÁTOU NOC OPRAV" — slovo „OPRAV" v záhlaví věty nedává smysl v kontextu; pravděpodobně redakční zbytková poznámka. K posouzení hlas-strazce (nelze bezpečně opravit bez vědomí autora).
+- **Klitika a slovosled:** Bez nálezu.
+- **Shoda přísudku s podmětem:** Ř. 63: „hodně strojů, který se daly spravit" a „pár, který ne" — Halův záměrný hovorový idiolekt (obecná čeština); ponecháno.
+
+**Celkem zásahů: 1**
