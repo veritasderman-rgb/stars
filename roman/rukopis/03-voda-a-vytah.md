@@ -24,7 +24,7 @@ Pásmo ztichne. Vos čeká. Tohle umí. Čekat, dokud se situace nepřežene př
 
 ---
 
-DESÁTNÍK KOVAŘ POTŘEBUJE DVĚ MINUTY na to, aby se přesunul podél zborcené zdi k místu, odkud na věž vidí, a deset vteřin na to, aby tam zemřel.
+DESÁTNÍK HOLAN POTŘEBUJE DVĚ MINUTY na to, aby se přesunul podél zborcené zdi k místu, odkud na věž vidí, a deset vteřin na to, aby tam zemřel.
 
 Vos to neuvidí celé. Uvidí jen, jak se opatrný stín přesune do mezery mezi dvěma panely, jak tam na zlomek vteřiny strne, a jak ho mezera vyplivne zpátky, už ne jako stín, ale jako věc bez ladnosti, která padá špatně. Odstřelovač na věži nečekal na hlavu u země. Čekal na pohyb u zdi.
 
@@ -118,7 +118,7 @@ Mezi nimi cizí zbraně. Tři, čtyři, hladké a matné a beze značky, povaluj
 
 U paty rozvodné věže, opřený zády o beton, sedí muž, který ještě nedomřel.
 
-Je starý na to, aby bojoval, mladý na to, aby umíral. Drží si dlaní břicho, kde mu cizí zbraň udělala to, co dělala celé dopoledne, čistý otvor s okraji jako roztavené sklo, a krev mu prosakuje mezi prsty v rytmu, který Vos zná a který má spočítaný. Vzhlédne k ní. V očích nemá strach, kterým je plné celé náměstí. Má v nich úlevu, a to je horší.
+Je starý na to, aby bojoval, mladý na to, aby umíral. Drží si dlaní břicho, kde mu legionářská dávka udělala tři díry těsně u sebe, a krev mu prosakuje mezi prsty v rytmu, který Vos zná a který má spočítaný. Vzhlédne k ní. V očích nemá strach, kterým je plné celé náměstí. Má v nich úlevu, a to je horší.
 
 Vos si vedle něj dřepne. Nesahá po zdravotníkovi. Oba vědí, že na to je pozdě, a lhát umírajícímu je sprostší než ho nechat jít.
 
