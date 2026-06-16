@@ -84,7 +84,7 @@ Pálí dál. Reyever je nechá. Tohle je taky taktika — dovolit nepříteli, a
 
 „Teď,“ řekne potřetí.
 
-Daré pošle přes hřeben tři vojáky, rychle a nízko, ze tří směrů. Žádné hrdinství, žádné výkřiky. Jen práce. Dva muži u žlabu zvednou ruce. Třetí, mladší, sáhne po pistoli za pasem — a Reyever ten pohyb vidí dřív, než ho mladík dokončí, vidí ho, jako když čte větu, kterou už zná. Halova puška vedle něj jednou štěkne. Mladík se posadí do písku s výrazem člověka, kterému právě někdo sdělil nepříjemnou novinu, a pak se pomalu položí.
+Daré pošle přes hřeben tři vojáky, rychle a nízko, ze tří směrů. Žádné hrdinství, žádné výkřiky. Jen práce. Dva muži u žlabu zvednou ruce. Třetí, mladší, sáhne po pistoli za pasem — a Reyever ten pohyb vidí dřív, než ho mladík dokončí, vidí ho, jako když čte větu, kterou už zná. Halova puška vedle něj jednou štěkne. Mladík se posadí do písku, levá ruka ještě půl vteřiny hledá pistoli, a pak se položí.
 
 Ticho přijde rychle, jak v poušti vždycky. Jen vítr a kapání vody z probité nádrže.
 
@@ -112,7 +112,7 @@ Vos by se zeptala, napadne Reyevera. Vos se ptá na všechno. Ale Vos je dneska 
 
 Reyever obchází kotlinu. Tohle je ta část, kterou nemá rád a kvůli které sem chodí osobně. Ne vítězství — to je řemeslo. Účet.
 
-Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá tu zvláštní nasládlou pachuť, kterou poušť přidává ke všemu, co zemře. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
+Pět mrtvých leží tam, kde padli, a první slunce už z nich tahá pach, který Reyever zná z každé jiné poušti a který je pokaždé stejný, jako by smrt byla jediná věc, která se nestěhuje. Reyever se zastaví u každého. Dívá se do tváří. Žádný z nich není voják, pozná to na první pohled — boty, ruce, to, jak drželi zbraně. Kolonisti. Farmáři vody. Lidi, kterým někdo dal pušku a slib.
 
 „Plukovníku?“ Jeden ze zajatců, ten starší, zvedne hlavu. Má rozbitý ret a oči člověka, který se přestal bát a teď už jen mluví. „My nejsme banda. My jsme přešli na správnou stranu. Vy to ještě nevíte, ale přijde to i na vás. Měli byste přestat bránit mrtvolu.“
 

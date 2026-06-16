@@ -38,7 +38,7 @@ Brázda chvíli mlčí. Pak řekne to, co říkají všichni, protože nic lepš
 
 „Byl to mizernej kluk,“ opraví ho Hale. „Střílel jako přerostlej slepej a smrděl jako fretka. Za tři tejdny se nenaučil zavázat botu tak, aby mu nepadala. Byl to mizernej, neschopnej, ukecanej kluk a já bych dal měsíční žold za to, aby tady teď seděl a žvanil mi do práce.“ Strčí si do pusy další lžíci té šedi. „Tak je to s lidma. Mizerný a stejně ti chybí. Stroje jsou v tomhle poctivý. Mizernej stroj nikdo neoplakává.“
 
-Brázda na to nemá odpověď a Hale od něj žádnou nečeká. Sedí spolu v olejovém pachu a jedí palivo a venku za plechovou stěnou hučí kompresor základny, pravidelně, jako srdce, které nikoho nemiluje, ale aspoň nepřestává.
+Brázda na to nemá odpověď a Hale od něj žádnou nečeká. Sedí spolu v olejovém pachu a jedí palivo a venku za plechovou stěnou hučí kompresor základny, pravidelně, bez přestávky a bez zájmu.
 
 ---
 
@@ -128,7 +128,7 @@ Vos chvíli mlčí. Pak položí otázku, kterou Hale celou dobu čekal, protož
 
 „A na náměstí,“ řekne. „Když mě stáhl. Tři minuty před průlomem. Nechal mi tam dva mrtvé a neřekl proč.“ Otočí se k Halovi, a teď je v jejím hlase ta tichá tvrdost, která je horší než křik. „Vy jste s ním. Vy víte, jak myslí. Tak mi řekněte, Kováři, mezi námi dvěma a tím zatraceným prachem — měl důvod, nebo si jen rád nechává karty u sebe?“
 
-Hale by mohl lhát. Bylo by to snazší. Ale lhát Vos je jako lhát motoru — pozná to, a pak ti to vybouchne v ruce.
+Hale by mohl lhát. Ale Vos by to poznala ze způsobu, jakým by odpověděl příliš rychle, a pak by mu nevěřila nic z toho, co řekne potom.
 
 „Měl důvod,“ řekne Hale. „Druhé družstvo. Vzal tu stanici zezadu, dokud jste je držela čelem. Vyšlo to a stálo to míň lidí, než by stál váš plán.“ Odmlčí se. „To je první půlka.“
 
@@ -160,7 +160,7 @@ Reyever stojí u průzoru, ruce za zády, a dívá se na orbitální výtah, jak
 
 „A když ten luxus znamená, že vám důstojník bude věřit?“ Vos udělá krok blíž. „Vy si myslíte, že velitel, který vysvětluje, je velitel, kterého lze přemluvit. Já vím, že si to myslíte. Ale tady není problém, že bych vás chtěla přemluvit, plukovníku. Problém je, že vám přestávám věřit. A nedůvěřivý důstojník je nebezpečnější než ten, co se ptá.“
 
-Hangár klimatizace táhne studený vzduch. Hale stojí u stěny a nedýchá, protože tohle už není hádka o jeden rozkaz. Tohle je trhlina, která se otevírá tam, kde dva dny předtím byla jen vlasová prasklina, a on ji vidí líp než oba, protože on celý život kouká na to, jak věci praskají, a ví, že prasklina se nikdy nezmenší sama.
+Hangár klimatizace táhne studený vzduch. Hale stojí u stěny a přestane se škrábat na zátylku. Tohle už není hádka o jeden rozkaz. Tohle je trhlina, a on ji vidí líp než oba, protože on celý život kouká na to, jak věci praskají, a ví, že prasklina se nikdy nezmenší sama.
 
 „Vzal jsem stanici za cenu dvou mužů místo pěti,“ řekne Reyever. „Až budete velet vy, pochopíte, že tohle je ta lehčí matematika.“
 
@@ -202,7 +202,7 @@ Hale si stroje čte celý život. Čte sériová čísla, kódy šarží, značk
 
 Jenže žádný znak v něm není písmeno, které kdy člověk napsal. Žádná číslice, kterou kdy člověk počítal. Nesedí to na žádnou abecedu Kondominia, na žádný kód kolonií, na nic, co kdy prošlo lidskou rukou nebo lidskou hlavou.
 
-V dílně je ticho. Kompresor za stěnou buší pravidelně, jako srdce stroje, který neví, co právě jeho lidé zjistili.
+V dílně je ticho. Kompresor za stěnou buší pravidelně.
 
 „Plukovníku,“ řekne Hale, a vlastní hlas mu zní cize. „Tys mě v tý cele ptal, jestli je to ještě člověk.“
 

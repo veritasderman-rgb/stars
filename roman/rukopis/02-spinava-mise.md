@@ -48,7 +48,7 @@ Je to upřímnější, než čekal. To ho varuje. Renn neříká pravdu z neopat
 
 Renn ho na vteřinu příliš dlouho pozoruje. „Vždycky přijde, plukovníku. Pohraničí je pohraničí.“
 
-Vstane, přejde k oknu a chvíli mlčí, zády k němu, drobná postava proti té hnědé cloně. Reyever ji nechá mluvit. Lidé jako Renn nesnesou prázdné ticho; vyplní ho samo.
+Vstane, přejde k oknu a chvíli mlčí, zády k němu, drobná postava proti té hnědé cloně. Reyever ji nechá mluvit. Renn prázdné ticho nezapouzdří; vyplní ho samo.
 
 „Víte, jak to chodí v jádru?“ řekne, aniž se otočí. „Sedí v sálech vykládaných kamenem, který nikdo z nich nikdy nelámal, a debatují o rozpočtech. Která flotila se stáhne první, aby ji druhá strana nestihla obvinit ze zbabělosti. Kolik soustav se dá obětovat, aby to vypadalo jako přeskupení, ne jako útěk. Elitní jednotky jsou drahé, plukovníku. Vy jste drahý. A draho je v jádru sprosté slovo. Slyšela jsem velvyslance, jak řekl, že expediční sbor stojí za rok tolik co tři roky klidu na deseti planetách. Klid je levnější než vy. Tak nakupují klid.“
 

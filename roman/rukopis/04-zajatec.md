@@ -72,7 +72,7 @@ Muž se nehne. Ale Reyever ho sleduje. Reyever sleduje ruce a ramena, ne oči, p
 
 ---
 
-MUŽ DLOUHO MLČÍ. Lampa nad nimi bzučí. Klimatizace v rohu táhne kov a olej. Někde v základně tlumeně buší kompresor, pravidelně, jako srdce stroje.
+MUŽ DLOUHO MLČÍ. Lampa nad nimi bzučí. Klimatizace v rohu táhne kov a olej. Někde v základně tlumeně buší kompresor, pravidelně, bez přestávky.
 
 Pak se muž zasměje. Tiše, krátce, bez veselí.
 
@@ -118,7 +118,7 @@ Hale dojde ke stolu, opatrně, jako by ten muž mohl ještě kousnout. Skloní s
 
 REYEVER STOJÍ NAD MRTVÝM a nedotýká se ho. Lampa bzučí. Klimatizace táhne kov. Krev na plechu stolu už nepřibývá, jen pomalu zasychá do tmava, a v tom plochém světle vypadá skoro černá.
 
-Reyever přemýšlí v rovinách, jako vždycky. Ne v hrůze — hrůza je luxus, který si velitel nemůže dovolit — ale v geometrii toho, co se právě stalo.
+Reyever přemýšlí v rovinách, jako vždycky. Ne v hrůze — tu si nechá na potom, pokud na ni vůbec dojde — ale v geometrii toho, co se právě stalo.
 
 Ten muž nebyl umlčen zvenčí kulkou. Byl umlčen zevnitř. Někdo do něj vložil pojistku dřív, než ho poslal na Sirte, a ta pojistka čekala — neaktivovala se při zajetí, nezhasla ho, dokud mlčel, dokud opakoval naučené věty, dokud nabízel obchod. Spustila se přesně v okamžiku, kdy se chystal vyslovit jméno. Ne dřív. Ne později. Někdo to tělo poslouchal, nebo ho vybavil tak, aby poslouchalo samo sebe a umlčelo se ve chvíli, kdy překročí čáru.
 

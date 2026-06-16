@@ -14,7 +14,7 @@ Vos se na něj podívá. Plukovník se dívá na obrazovku, na to pole čísel, 
 
 „Možná.“ Reyever neodvrátí oči od obrazovky. „Nebo je to návnada, kterou nám položil ten, co nás veze v řece od mělčiny.“ Odmlčí se. „Tak jako tak je to první loď nepřítele, na kterou dosáhneme. Vezmeme ji.“
 
-Vos cítí, jak se jí v hrudi stáhne ten starý uzel, který zná z Sirte, z každého rána před útokem. Není to strach. Strach je čistší. Tohle je to, co přijde těsně před strachem, ten okamžik, kdy se rozhodnutí už nedá vrátit.
+Vos cítí, jak se jí v hrudi stáhne ten starý uzel. Není to strach. Strach je čistší. Tohle je to, co přijde těsně před strachem, ten okamžik, kdy se rozhodnutí už nedá vrátit.
 
 „Doprovod za zádí?“ zeptá se Reyever.
 
@@ -78,7 +78,7 @@ EVERETT ZA PULTEM ZBRANÍ je voják, kterého Vos zná osm let, a za celou tu do
 
 „Nedovol mu to,“ řekne Reyever. „Drž se mu na boku. Křiž ho.“
 
-Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, a nutí ji volit: buď nastav klín čelem a nech odkrytý bok, nebo chraň bok a nech odkryté hrdlo. Cokoli nepřítel zvolí, jednu stranu obnaží.
+Tohle je ta věc, kterou Vos viděla na tabuli ve výcviku a nikdy ne takhle, ne živě, ne s lidmi uvnitř. *Kovadlina* se sune napříč dráze eskorty, přetíná jí cestu, nutí ji volit: klín čelem nebo bok. Cokoli nepřítel zvolí, jednu stranu obnaží.
 
 Eskorta volí špatně, protože nemá z čeho volit dobře.
 
@@ -120,7 +120,7 @@ Vos se na něj otočí. „Plukovníku —“
 
 HONIČKA KE MĚLČINĚ JE POMALÁ a o to horší, protože pomalost dává času, aby se člověk díval.
 
-*Kovadlina* sjede z proudu za oběma uprchlíky, dolů hladinami, k okraji systému, kde se řeka rozplývá do mělčiny a kde se loď zase začne prodírat jako brouk po hladině. Vos sleduje, jak se vzdálenost krátí. Nákladní lodě jsou pomalé, naložené, a *Kovadlina* je za nimi jako vlk, který nespěchá, protože ví, že kořist nemá kam jít.
+*Kovadlina* sjede z proudu za oběma uprchlíky, dolů hladinami, k okraji systému, kde se řeka rozplývá do mělčiny. Vos sleduje, jak se vzdálenost krátí. Nákladní lodě jsou pomalé, naložené, a *Kovadlina* je za nimi jako tlak, kterému neutečou.
 
 Jedna z těch dvou to pochopí dřív. Vibrace z ní ustanou, klín zchladne, sama od sebe. Vzdá se.
 
@@ -136,7 +136,7 @@ Everett vypustí jedinou střelu. Ne salvu. Jednu, přesnou, do hrdla klínu té
 
 „Tu chci,“ řekne Reyever. „Tu a posádku. Živé.“ Otočí se k Vos. „Majore. Vezmete přepadovou četu a zajistíte ji. Chci vědět, co veze. A chci vědět, kdo to veze.“
 
-Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho, co umí. Do práce.
+Vos cítí ten uzel v hrudi znovu. Tentokrát se rozváže do něčeho konkrétního. Do práce.
 
 „Rozumím, plukovníku,“ řekne. „Konec.“
 
@@ -192,7 +192,7 @@ Není to znak Kondominia. Ani kolonie. Ani žádné velmoci, jejíž insignie se
 
 Tvar je symetrický. Dokonale, klidně symetrický — dvě poloviny, které jsou si zrcadlem, sevřené kolem středu, ze kterého vychází cosi jako stonek, jako rozvíjející se list, jako rostlina vypěstovaná do tvaru, který nikdy v přírodě nevyrostl. Není to dravé. Není to vojenské. Vypadá to jako něco, co by člověk čekal nad bránou zahrady, ne na hrudi muže, který veze zbraně k vyzbrojení planety.
 
-Je to ten nejklidnější předmět, jaký kdy Vos viděla na vojákovi. A právě ten klid jí zvedá vlasy na zátylku víc než jakákoli lebka na praporu.
+Je to ten nejklidnější předmět, jaký kdy Vos viděla na vojákovi. A právě ten klid jí zvedá vlasy na zátylku víc než cokoli, co viděla na bojišti.
 
 „Co je tohle?“ zeptá se Vos, a ukáže na odznak.
 

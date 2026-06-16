@@ -8,7 +8,7 @@ Nahoře nad městem stojí orbitální výtah, jediné rovné světlo v křivé 
 
 Dole pod základnou se táhne město. Z téhle výšky vypadá jako něco, co poušť skoro spolkla a pak si to rozmyslela — nízké betonové krabice, plechové střechy, mezi nimi tmavé žíly vodního rozvodu, který stojí za každou kapkou krve, co se tu prolila. Někde tam dole jsou matky farmářů, které Legie zabila v kotlině a u rozvodné věže. Někde tam dole jsou lidé, kterým cizí hlas sliboval správnou stranu, a oni mu uvěřili, protože jim nikdo jiný nesliboval nic. Zítra ráno vyjde slunce a poslední voják Legie už bude pryč, a oni zůstanou s pouští a s prázdnou otázkou.
 
-Vos obchází mrtvé, aby věděla, koho zabila. To je jediná počestnost, kterou si může dovolit. Tahle planeta se obejít nedá — je jí příliš a leží jí na svědomí celá. Tak se na ni aspoň dívá, dokud může.
+Vos obchází mrtvé, aby věděla, koho zabila. To je jediná počestnost, kterou si může dovolit. Tahle planeta se obejít nedá — je jí příliš. Tak se na ni aspoň dívá, dokud může.
 
 „Majore.“ Brázda dohřmí po rampě dolů, v náručí poslední bednu. „Tahle je značená na rozbor. Kam s ní? Velitelská, nebo do skladu?“
 
@@ -92,7 +92,7 @@ To Reyevera otočí. Ne prudce; Reyever se nepohybuje prudce. Ale otočí.
 
 „Necháváme jim přežití,“ řekne Reyever. „Soulad — kdokoli za tím stojí — nepřišel pro Sirte. Sirte je díra s vodou. Až odletíme, přestane je někdo vyzbrojovat, protože už nebudou na nic potřeba. To je to nejlepší, co pro ně můžu udělat. Odejít a vzít s sebou důvod, proč sem někdo poslal zbraně.“
 
-Vos to ví. Je to čistá matematika a má pravdu. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
+Vos to ví. Je to čistá matematika a sedí. To je na něm to nejhorší — má pravdu a ona ho stejně nemůže vystát.
 
 „To je lehčí matematika,“ řekne, a použije jeho slova schválně.
 
@@ -106,7 +106,7 @@ Vítr přejde po ochozu a přinese ten nasládlý prach, který Hale proklíná.
 
 Stojí spolu mlčky a Vos cítí ten kousek slitiny v náprsní kapse, těsně u žeber, kde ho nikdo nehledá. Nepoví mu o něm. Reyever schoval celé tělo a celou zbraň před Ligou a před velením — a jí neřekl proč mlčí o Sirte. Tak ona schová jeden kousek před ním. Není to pomsta. Je to symetrie. Oba teď nesou něco, co se nesmí najít, a oba o tom mlčí, a možná je to to jediné, v čem si dnes opravdu rozumějí.
 
-Napadne ji, že tohle dělá z velitele velitel: ne rozkazy, ne plán, ale to, co si nechá pro sebe. Reyever ji to učí, aniž jí to řekne. Učí ji to tím, že mlčí, a ona se to učí tím, že mlčí taky. Je to ošklivá lekce a Vos ji nenávidí o to víc, že chápe, proč je nutná.
+Napadne ji, že možná tohle je velení: ne rozkazy, ne plán, ale to, co si nechá pro sebe. Reyever ji to učí, aniž jí to řekne. Učí ji to tím, že mlčí, a ona se to učí tím, že mlčí taky. Je to ošklivá lekce a Vos ji nenávidí o to víc, že chápe, proč je nutná.
 
 „Plukovníku,“ řekne Vos. „Když přijde den, kdy nám tohle bude muset někdo vysvětlit — a ten den přijde. Budete u toho stát se mnou? Nebo budu zase počítat poslepu?“
 

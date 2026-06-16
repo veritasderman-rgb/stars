@@ -84,7 +84,7 @@ Renn smaže větu. Narovná ramena o ten centimetr zpátky. Pak se podívá do z
 
 ---
 
-VOS STOJÍ U DVEŘÍ velitelského modulu, když Renn odejde, a Reyever pozná podle jejích ramen, že slyšela víc, než měla. Drží destičku — ne tu s depeší, jinou, vlastní — a v očích má tu tichou tvrdost, kterou si Reyever zapamatoval ze Sirte-západu, z hlasu, který nezvýšil tón, i když mu hořeli lidé.
+VOS STOJÍ U DVEŘÍ velitelského modulu, když Renn odejde, a Reyever pozná podle jejích ramen, že slyšela víc, než měla. Drží destičku — ne tu s depeší, jinou, vlastní — a v očích má tu tichou tvrdost, kterou si Reyever zapamatoval ze Sirte-západu, z hlasu, který nezvýšil tón ani tehdy, kdy jí Holan dostal kulku pod přilbu.
 
 „Stahují nás,“ řekne Vos. Není to otázka.
 
@@ -162,7 +162,7 @@ Není stará o den. Není stará o dva, kolik trvalo, než se rozkaz prokousal �
 
 V dílně je ticho. Kompresor za stěnou buší pravidelně, jako srdce stroje, který neví, co právě jeho lidé zjistili.
 
-Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno, čisté a studené jako kov barvy mokré břidlice.
+Reyever stojí nad destičkou a dívá se na to číslo, na ten řádek, který se nedá smazat, protože je odlitý dovnitř. Nepřemýšlí v hrůze. Hrůza je luxus. Přemýšlí v rovinách, v geometrii toho, co to znamená, a vychází mu z toho jen jedno číslo: šest.
 
 Nikdo nepíše rozkaz k uzavření operace, která ještě nezačala. Pokud neví, že začne. Pokud neví, co se na ní najde. Pokud to celé nechystal sám.
 

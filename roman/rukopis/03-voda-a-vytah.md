@@ -1,6 +1,6 @@
 # 3. Voda a výtah
 
-ORBITÁLNÍ VÝTAH STOJÍ NAD MĚSTEM jako kdyby někdo přibil oblohu k zemi a zapomněl to odstranit. Major Iliana Vos ho má celý den nad hlavou, tu jedinou svislou čáru, která mizí výš, než dohlédne, a táhne za sebou pomyšlení, že kdokoli stiskne ve špatnou chvíli špatné tlačítko, spadne na město kilometry kabelu a hořící klec. Vos na to nemyslí. Vos myslí na čerpací stanici tři ulice odtud, na rozvodný uzel pod ní a na to, že má dvacet šest lidí roztažených po křižovatce, kterou někdo právě začal dobývat.
+ORBITÁLNÍ VÝTAH STOJÍ NAD MĚSTEM jako tah tužky, který někdo zapomněl vymazat. Major Iliana Vos ho má celý den nad hlavou, tu jedinou svislou čáru, která mizí výš, než dohlédne, a táhne za sebou pomyšlení, že kdokoli stiskne ve špatnou chvíli špatné tlačítko, spadne na město kilometry kabelu a hořící klec. Vos na to nemyslí. Vos myslí na čerpací stanici tři ulice odtud, na rozvodný uzel pod ní a na to, že má dvacet šest lidí roztažených po křižovatce, kterou někdo právě začal dobývat.
 
 Leží za převrženým transportérem koloniální správy a počítá. Dech mělký, ústa pootevřená, aby do plic netáhla rozdrcený beton, který visí ve vzduchu po každé ráně. Z čerpací stanice na druhé straně náměstí střílejí. Ne nazdařbůh. Po pásmech, krátkými dávkami, šetří munici. To jí vadí víc než cokoli jiného. Farmáři nešetří. Farmáři vypálí zásobník do oblohy a pak zvednou ruce. Tihle počítají.
 
@@ -42,7 +42,7 @@ Vos se přitiskne k transportéru a nechá horko, aby jí stékalo po zádech. Z
 
 ---
 
-ČERPACÍ STANICE JE NÍZKÁ BETONOVÁ KRABICE s plochou střechou a třemi okny, která už dávno nejsou okna, ale střílny. Vos zná takové budovy. Postavily se levně a obstojí proti všemu kromě cíleného odhodlání. Cílené odhodlání má. Co nemá, je čas, protože každá minuta, kdy tu uzel drží oni, je minuta, kdy půlka města netočí kohoutkem.
+ČERPACÍ STANICE JE NÍZKÁ BETONOVÁ KRABICE s plochou střechou a třemi okny, která už dávno nejsou okna, ale střílny. Vos zná takové budovy. Postavily se levně a obstojí proti všemu kromě opakovaného tlaku. Ten má. Co nemá, je čas, protože každá minuta, kdy tu uzel drží oni, je minuta, kdy půlka města netočí kohoutkem.
 
 Sálová splní úkol za jedenáct minut. Odstřelovač na věži udělá druhou chybu — vystřelí na návnadu, kterou mu Vos pošle přes náměstí, dva muže s krycí palbou a dobře nacvičenou paniku, a v tom okamžiku, kdy se musí napřímit, ho Sálová ze stínu sundá jednou ranou. Věž ztichne. Vos to ucítí v zádech dřív, než přijde hlášení. Tlak povolí.
 
@@ -50,9 +50,9 @@ Sálová splní úkol za jedenáct minut. Odstřelovač na věži udělá druhou
 
 „Dobrá práce. Drž ji.“
 
-Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje, a krabice před nimi plivá a plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, běží dál s rukou přitisknutou k boku. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
+Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje, a krabice před nimi plivá a plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, doběhne ke zdi s rukou přitisknutou k levému boku a nechá ji tam. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
 
-Hladká křivka. Žádné ústí, žádný plamen. Jen tlumené plivnutí a kus betonu vedle Vosiny hlavy zmizí, jako by ho někdo vykousl.
+Hladká křivka. Žádné ústí, žádný plamen. Jen tlumené plivnutí a kus betonu vedle Vosiny hlavy prostě chybí, bez rázu, bez kamínků.
 
 Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle ní se zhroutí svobodník, jehož jméno si nestihne vybavit, s dírou v hrudním pancíři, kterou žádná koloniální puška neudělá. Pancíř není proražený. Je odstraněný. Plynulý otvor s okraji jako roztavené sklo.
 
@@ -60,7 +60,7 @@ Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle n�
 
 „Viděla,“ řekne Vos. „Drž hubu a nabíjej.“
 
-Ale viděla dost. Viděla matný povrch barvy mokré břidlice, viděla zbraň bez závěru a bez zásobníku v rukou vyděšeného kluka, který by neměl mít víc než starou koloniální pětku. A v hlavě se jí usadí otázka, na kterou nemá čas a kterou si přesto nedokáže odepřít: kdo dal farmářům na Sirte zbraně, které prořežou bojový pancíř jako horký nůž tuk.
+Ale viděla dost. Viděla matný povrch barvy mokré břidlice, viděla zbraň bez závěru a bez zásobníku v rukou vyděšeného kluka, který by neměl mít víc než starou koloniální pětku. A v hlavě se jí usadí otázka, na kterou nemá čas a kterou si přesto nedokáže odepřít: kdo dal farmářům na Sirte zbraně, po jejichž ráně je v pancíři čistý otvor se slinutými okraji.
 
 ---
 
@@ -88,7 +88,7 @@ Mohla by se zeptat ještě jednou. Pravidlo zní: poprvé posloucháš, podruhé
 
 Vypne hrtan, aby to neslyšel, a teprve potom řekne nahlas, do horka a prachu, k nikomu: „Tak to mi laskavě někdy vysvětli.“
 
-Nevysvětlí. Vos to ví, ještě než to dořekne. A někde pod vztekem, hluboko, kde nemá čas se v tom hrabat, se usadí studené poznání, že tohle není poprvé a nebude naposledy, a že jeho mlčení si bude pamatovat déle než jména těch, které dnes pohřbí.
+Nevysvětlí. Vos to ví, ještě než to dořekne. A pod vztekem se usadí poznání, chladnější a trvalejší než vztek: tohle není poprvé. A jeho mlčení si bude pamatovat déle než jména těch, které dnes pohřbí.
 
 „Stahujeme se,“ řekne na vnitřní pásmo, klidně, profesionálně, jako by to byl její nápad. „Po dvojicích, zpátky na výchozí. Sálová, kryj ústup, pak za námi. Nikdo nezůstane na náměstí. Pohyb.“
 
