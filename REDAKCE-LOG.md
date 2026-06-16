@@ -1468,3 +1468,29 @@ Datum: 2026-06-16 | Vrstva: E (mechanická čeština)
 - **Shoda přísudku s podmětem:** Ř. 63: „hodně strojů, který se daly spravit" a „pár, který ne" — Halův záměrný hovorový idiolekt (obecná čeština); ponecháno.
 
 **Celkem zásahů: 1**
+
+---
+
+### roman/rukopis/18-klin.md — cestina-strazce (E1–E9), 2026-06-16
+
+#### Opravy
+
+| Původní | Oprava | Kód |
+|---|---|---|
+| `Změřil dokovací palubu jediným pohledem: … Změřil to a usmál se, protože mu to potvrdilo číslo` (ř. 29) | `Změří dokovací palubu … Změří to a usměje se, protože mu to potvrdí číslo` | E1 — tři slovesa minulého času uvnitř akční scény příchodu Sarna; okolní narativ v přítomném čase |
+| `Renn zůstala vzadu, sama` (ř. 37) | `Renn stojí vzadu, sama` | E1 — prokluz do minulého času; okolní Vos a Hale jsou v přítomném čase téže scény |
+
+#### Výsledek kontrol
+
+- **E1 (přítomný čas):** 2 opravy. Ostatní výskyty minulého času jsou legitimní: expozice stavu lodi (ř. 5), enumerace odhalených minulých událostí (ř. 91), přímá řeč postav odkazující na minulost, „ke kterým obě patřila" (ř. 37) — minulý vztah, zachováno.
+- **E2 (uvozovky):** Počet „ (U+201E) = 40, počet " (U+201C) = 40, U+201D = 0, ASCII (U+0022) = 0. Čisto.
+- **E3 (koncovky 3. os. mn. č.):** Bez nálezu. Tvary slyšeli/stáli/věřili/ptají/nehlídají/hlídají správně.
+- **E4 (anglikalky):** Bez nálezu.
+- **E5 (redundantní svůj):** Ř. 87: „úpí loď svou jedinou notou" — „svou" funkční; ponecháno.
+- **E6 (přechodníky):** Bez nálezu.
+- **E7 (berličky):** Ř. 75, 97: „Pak" dvakrát v klidném dialogovém tempu — funkční; ponecháno.
+- **E9 (terminologie):** Čisto. Legie, Kondominium, Soulad (velká); mělčina, klín, hladiny, proud (malá).
+- **Klitika/slovosled:** Bez nálezu.
+- **K posouzení hlas-strazce:** Ř. 71: „byl vždycky dobrý v tom poznat" — minulý čas v přítomné scéně; může být záměrná retrospektiva charakterové vlastnosti.
+
+**Celkem zásahů: 2**
