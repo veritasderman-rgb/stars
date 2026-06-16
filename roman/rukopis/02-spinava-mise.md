@@ -72,7 +72,7 @@ Pak se nahne nad fotografii s výrazem zdvořilého zájmu. „Co to je?“
 
 „Vypadá to jako zbraň.“
 
-„Je to zbraň. Bez závěru, bez zásobníku. Z materiálu, který nezná nikdo v Legii. Lehčí, než vypadá. Bez jediné značky. Žádný výrobce, žádná země původu.“ Reyever položí dlaň vedle destičky, ne na ni. „Zbraně mají původ, paní Rennová. Tahle ho nemá. To znamená, že ho někdo schoval. A schovat se dá jen to, co je dost důležité, aby se to vyplatilo schovat.“
+„Je to zbraň. Bez závěru, bez zásobníku. Z materiálu, který nikdo v Legii nezná, a můj štábní rotmistr zná všechno, co se dá vyrobit. Lehčí, než vypadá. Bez jediné značky. Žádné sériové číslo, žádný výrobce, žádná země původu.“ Reyever položí dlaň vedle destičky, ne na ni. „Zbraně mají původ, paní Rennová. Tahle ho nemá. To znamená, že ho někdo schoval. A schovat se dá jen to, co je dost důležité, aby se to vyplatilo schovat.“
 
 Renn se opře. Vrátila si tvář, ale příliš pozdě; tu setinu vteřiny Reyever viděl. Není to překvapení. Je to počítání. Renn právě přepočítává, kolik toho ví on a kolik z toho musí přiznat ona.
 

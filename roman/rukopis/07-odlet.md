@@ -62,7 +62,7 @@ Hale neodpoví hned. Drží ten kousek mezi prsty a dívá se na ni tím pomalý
 
 „To není to samý, co dělá plukovník. Von to schovává pro Legii. Vy si to chcete schovat sama. Mimo nás. Mimo něj.“ Hale to neřekne jako výtku. Řekne to jako počet. „To je vaše pojistka proti vlastním lidem.“
 
-„To je moje pojistka proti tomu,“ řekne Vos tiše, „aby se to potřetí ztratilo. Jednou to chtěla Liga do pece. Podruhé to plukovník schoval do nákladu, který může někdo na příští základně zabavit dřív, než ho rozbalíte. Já chci jeden kousek, co nebude nikde. Ani u něj. Jen u mě.“
+„To je moje pojistka proti tomu,“ řekne Vos tiše, „aby se to potřetí ztratilo. Jednou to chtěla Liga do pece. Podruhé to plukovník schoval do nákladu, který může někdo na příští základně zabavit dřív, než ho rozbalíte. Já chci jeden kousek, který nebude nikde. Ani v jeho evidenci, ani v té neevidované. Jen u mě.“
 
 Hale chvíli mlčí. Kompresor základny už neběží — odpojili ho ráno — a v té dílně je ticho, na jaké tu nikdo není zvyklý; jen kov chladne a tu a tam tichounce lupne, jak se smršťuje.
 
