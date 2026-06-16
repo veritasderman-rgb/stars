@@ -76,7 +76,7 @@ Vos má polovinu čety přilepenou k zídce čtyřicet metrů od stanice, dva mr
 
 Vos zírá na hladkou stěnu před sebou. Čtyřicet metrů. Družstvo za ní čeká na pohyb ruky. Sálová na věži drží střechu pro tenhle útok, ne pro ústup. Dva její lidé leží na otevřeném náměstí mrtví právě proto, aby se dostala až sem.
 
-„Pane, jsem připravená to uzavřít. Mám výhodu. Když se teď stáhnu, přenechám jim iniciativu a budu to dobývat znovu od nuly, s dalšími ztrátami. Žádám důvod. Konec.“
+„Pane, jsem tři minuty od stěny. Když se stáhnu, dobývám to znovu od nuly. S dalšími mrtvými. Žádám důvod. Konec.“
 
 „Žádný důvod neuvádím.“ Stejný tón. Vůbec se nezmění. „Stáhněte se z náměstí, majore. Držte výchozí pozici. To je rozkaz. Potvrďte.“
 
