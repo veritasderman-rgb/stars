@@ -54,7 +54,7 @@ Renn nemrkne. Ale ruka na desce stolu se na desetinu vteřiny přitlačí, prsty
 
 Renn se nadechne k odpovědi a Reyever vidí, jak to v ní na okamžik zaváhá — ne strach, na to je příliš dobrá, ale rozhodování, kterou ze tří připravených vět teď pustí ven. Hale by řekl, že kdo má tři vysvětlení, nemá ani jedno.
 
-„Plukovníku,“ řekne nakonec měkce, „já vás chápu. Vážně. Vy jste celý život lovil pravdu, protože pravda vás držela naživu. Ale tady, na téhle úrovni, pravda nikoho nezachrání. Tady jen vystraší lidi, kteří už tak mají strach, a vyděšení lidé dělají špatná rozhodnutí. Vy nechcete vědět, co byla Sirte. Věřte mi. Já bych si přála to nevědět taky.“
+„Plukovníku,“ řekne nakonec měkce, „já vás chápu. Vážně. Vy jste celý život lovil pravdu, protože pravda vás držela naživu. Ale tady, na téhle úrovni, pravda nikoho nezachrání. Tady jen vystraší lidi, kteří už tak mají strach, a vyděšení lidé se špatně rozhodují. Vy nechcete vědět, co byla Sirte. Věřte mi. Já bych si přála to nevědět taky.“
 
 A to je první pravdivá věta, kterou dnes řekla, a oba to vědí.
 
@@ -144,7 +144,7 @@ HALE TO ROZSEKNE V DÍLNĚ, kde se mu dýchá nejlíp, mezi olejem a ozonem a t�
 
 Reyever stojí za ním. Vos vedle. Ani jeden nemluví, protože poznají, kdy Kovář pracuje.
 
-„Tady je hlavička,“ řekne Hale a ukáže kloubem. „Datum odeslání. Předevčírem v noci, jak to přišlo. To sedí. To je čerstvý.“ Posune obraz. „A tady je první vrstva pečetí. Schválení správy. To je o den starší. Taky sedí, schválení musí předcházet odeslání, jinak by to nedávalo řád.“
+„Tady je hlavička,“ řekne Hale a ukáže kloubem. „Datum odeslání. Předevčírem v noci, jak to přišlo. To sedí. To je čerstvý.“ Posune obraz. „A tady je první vrstva pečetí. Schválení správy. To je o den starší. Taky sedí, schválení musí předcházet odeslání, jinak by to nesedělo.“
 
 Loupne další vrstvu. Pak ještě jednu. Pohyby má pomalé, řemeslné, člověka, který radši dvakrát změří, než jednou ustřihne.
 
