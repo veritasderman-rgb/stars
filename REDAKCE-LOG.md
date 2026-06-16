@@ -1738,3 +1738,23 @@ zapojit orchestrátor dle sekce F daného dokumentu.
 
 ## Doporučení pro cyklus 2 (volitelné)
 Vrstvy **dialog** (podtext, individualizace idiolektu) a **vnitřní hlas** (psychologická pravda pod tlakem) zatím neproběhly — jsou laděné na erotiku a chtějí přenastavit na military SF. Doplnit i chybějící vrstvu **smysly** (smyslový naturalismus). Pak znovu strážce hlasu.
+
+---
+
+# REDAKČNÍ CYKLUS 2 — SHRNUTÍ (Prach a soulad)
+
+**Datum:** 2026-06-16. Baseline: `d323e9b`. Hlasoví strážci přenastaveni na military SF (`.claude/agents/`: dialog-scifi, vnitrni-hlas-scifi, smysly-scifi, hlas-strazce-scifi).
+
+## Vrstvy a zásahy
+1. **smysly (`smysly-scifi`)** — ~22 zásahů (≈1/kap), nevizuální detaily (teplo plechu, chuť přepáleného kovu, tlak dokovacího límce, pach dozrávající cizí biosféry); akční tempo a coda nedotčeny; kap. 16 ponechána.
+2. **vnitřní hlas (`vnitrni-hlas-scifi`)** — ~23 zásahů, tematické záblesky podtextem: Reyeverovo mlčení a nepřiznané pokušení „války se smyslem", Vosin oblouk (Holan↔Vos) a její podezření, Rennino ztenčující se „skoro", Sarn „nelže, jen obrátil rovnici".
+3. **dialog (`dialog-scifi`)** — ~21 zásahů, osekány expoziční/„manuálové" repliky (navigátor), Renniny monology zhuštěny na mluvenou řeč; idiolekty a chráněné hlasy (Sarn = zrcadlo, Hlas Souladu = cizí kadence) dle bible zachovány.
+4. **strážce hlasu (`hlas-strazce-scifi`, právo veta)** — **4 reverty** z ~66 přídavků: obnoven Reyeverův trojitý refrén (kap. 2) a Vosin účetní paralelismus (kap. 7), odstraněna duplicitní metafora (kap. 6), zkráceno přeleštění vnitřního hlasu před Vosinou smrtí (kap. 20). Coda kap. 22 nedotčena.
+
+## Hodnocení
+- Nízký počet revertů strážce (4) = obsahové vrstvy přidávaly v autorově kadenci (rozšiřovaly existující refrény „skoro/počet/rovnice", drsnou introspekci, smyslový naturalismus), nečesaly text. Cyklus 2 prohloubil psychologii a smyslovost bez ztráty hlasu.
+- Uvozovky po celém rukopisu: 1524/1524, 0 ASCII, 0 U+201D.
+
+## Stav po cyklu 2
+- Finál: `roman/_finalni.md` — ** slov, 22 kapitol**.
+- **Konvergence:** ~62 netto smysluplných zásahů (nad prahem 0,5 % vět), ALE počet revertů strážce prudce klesá → obsahově se text ustaluje. **Doporučení: zastavit na 2 cyklech** a nechat autora číst; cyklus 3 by riskoval přeleštění (strop dle CLAUDE.md jsou 3 cykly, ne nutnost je vyčerpat).
