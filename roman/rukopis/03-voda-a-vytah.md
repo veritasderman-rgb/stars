@@ -50,11 +50,11 @@ Sálová splní úkol za jedenáct minut. Odstřelovač na věži udělá druhou
 
 „Dobrá práce. Drž ji.“
 
-Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje, a krabice před nimi plivá a plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, doběhne ke zdi s rukou přitisknutou k levému boku a nechá ji tam. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
+Vos se zvedne do podřepu a mávne. Levé křídlo se sune dopředu přískoky, dvojice po dvojici, jeden běží, druhý kryje. Krabice před nimi pořád plivá, ale teď už ne shora. Jeden z jejích mužů upadne, zvedne se, doběhne ke zdi s rukou přitisknutou k levému boku a nechá ji tam. Vos běží taky. Beton pod podrážkami je rozžhavený, vzduch chutná po kovu a po spáleném plastu, a někde mezi dvěma nádechy zahlédne tvář ve střílně, mladou, vyděšenou, lidskou, a ta tvář na ni míří zbraní, jejíž ústí nemá tvar žádné zbraně, kterou kdy viděla.
 
 Hladká křivka. Žádné ústí, žádný plamen. Jen tlumené plivnutí a kus betonu vedle Vosiny hlavy prostě chybí, bez rázu, bez kamínků.
 
-Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle ní se zhroutí svobodník, jehož jméno si nestihne vybavit, s dírou v hrudním pancíři, kterou žádná koloniální puška neudělá. Pancíř není proražený. Je odstraněný. Plynulý otvor s okraji jako roztavené sklo.
+Vos se vrhne za nízkou zídku, dopadne tvrdě na rameno, převalí se. Vedle ní se zhroutí svobodník, jehož jméno si nestihne vybavit. V hrudním pancíři má díru, kterou žádná koloniální puška neudělá. Pancíř není proražený. Je odstraněný. Plynulý otvor s okraji jako roztavené sklo.
 
 „Co to do prdele bylo,“ vydechne kdosi vedle ní. „Majore, viděla jste to? To prošlo skrz desku jak skrz —“
 

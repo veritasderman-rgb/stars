@@ -8,7 +8,7 @@ OPERACE SIRTE SE TÍMTO UZAVÍRÁ. TŘETÍ EXPEDIČNÍ SBOR STÁHNE VEŠKERÉ JE
 
 Reyever čte ta dvě slova podruhé. *Nepostupují. Neprovádějí.* Někdo v jádru Kondominia, někdo, kdo nikdy nevdechl prach Sirte, sáhl přes půl sektoru a vypnul otázku dřív, než ji stačil někdo nahlas položit.
 
-To není rozkaz k ústupu. Ústup se píše jinak. Ústup mluví o úspoře, o přesunu, o tom, že někde jinde je práce. Tenhle rozkaz mluví o uzavírání. A uzavírá se to, co se nemá otevřít.
+To není rozkaz k ústupu. Ústup se píše jinak. Mluví o úspoře, o přesunu, o tom, že někde jinde je práce. Tenhle rozkaz mluví o uzavírání. A uzavírá se to, co se nemá otevřít.
 
 Reyever se nepohne od průzoru, ale v duchu už počítá, kdo všechno tu zprávu viděl dřív než on.
 
@@ -154,7 +154,7 @@ Reyever se nakloní. Vos taky.
 
 Časová značka jádra zprávy je stará.
 
-Není stará o den. Není stará o dva, kolik trvalo, než se rozkaz prokousal řetězem schválení. Je stará o víc než tři týdny.
+Ne o den. Ne o dva, kolik trvalo, než se rozkaz prokousal řetězem schválení. O víc než tři týdny.
 
 „To je —“ Vos se zarazí. Spočítá to ještě jednou, protože první výsledek se odmítá usadit. „To je dřív, než jsme přiletěli na Sirte.“
 

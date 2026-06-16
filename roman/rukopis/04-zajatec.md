@@ -94,7 +94,7 @@ NEPŘIJDE ZVUK, KTERÝ BY REYEVER ČEKAL. Žádný výstřel. Žádné sklo, ž�
 
 Na okamžik se nic neděje. Muž sedí dál vzpřímeně, ústa pootevřená, jako by ho slovo, které chtěl říct, drželo zevnitř.
 
-Pak se mu z koutku úst spustí tenká nitka tmavé krve, ne moc, a oči mu ztratí ostření — ne strach, ne bolest, jen náhlou nepřítomnost, jako když někdo vypne lampu. Tělo se nakloní dopředu, pomalu, a čelem dopadne na lisovaný plech stolu s tupým dutým úderem, který se v malé místnosti odrazí od stěn.
+Pak se mu z koutku úst spustí tenká nitka tmavé krve, ne moc, a oči mu ztratí ostření — ne strach, ne bolest, jen náhlou nepřítomnost, jako když někdo vypne lampu. Tělo se pomalu nakloní dopředu. Čelem dopadne na lisovaný plech stolu s tupým dutým úderem, který se v malé místnosti odrazí od stěn.
 
 Reyever je u něj dřív, než tělo dosedne. Dva prsty na krk, pod čelist. Nic. Druhá strana. Nic. Pod dlaní cítí, jak se zátylek toho muže zahřívá — ne chladne, zahřívá — krátce, nepřirozeně, jako kov po ráně kladivem, a pak teplo opadne stejně rychle, jak přišlo.
 

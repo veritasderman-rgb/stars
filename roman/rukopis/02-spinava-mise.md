@@ -38,7 +38,7 @@ Reyever neřekne nic. Nechá to viset.
 
 Renn zaplní ticho, jak to lidé jejího druhu dělají. „Kondominium ode mě chce jediné. Klid. Aby výtah jezdil, voda tekla a depeše do jádra zněly nudně. Nudná depeše je dobrá depeše. Víte, kolik soustav teď hoří, plukovníku? Kolik flotil se stahuje domů? Kondominium nemá sílu řešit pravdu. Má sílu jen na to, aby věci vypadaly v pořádku. A za to platí Legii. Ne za to, abyste vyhráli válku. Za to, abyste udrželi zdání, že žádná není.“
 
-Je to upřímnější, než čekal. To ho varuje. Renn neříká pravdu z neopatrnosti. Říká kus pravdy, aby zakryla větší lež, jako když člověk ukáže prázdné dlaně a nechá tě zapomenout, že rukávy nevidíš.
+Je to upřímnější, než čekal, a právě to ho varuje. Renn neříká pravdu z neopatrnosti. Říká kus pravdy, aby zakryla větší lež — jako když člověk ukáže prázdné dlaně a nechá tě zapomenout, že rukávy nevidíš.
 
 „Drahá policie,“ řekne Reyever.
 

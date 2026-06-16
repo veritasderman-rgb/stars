@@ -4,6 +4,7 @@ DÍLNA NA ZÁKLADNĚ je jediné místo na Sirte, kde Hale dýchá pořádně. P�
 
 Je hodina po půlnoci. Po boji o uzel uplynuly dva dny a Hale od té doby spal možná pět hodin, rozsekaných na kousky tak malé, že se nedají dát dohromady. Sedí na převrácené bedně mezi dvěma demontovanými pancíři a čistí závěr pušky, kterou čistit nepotřebuje. Dělá to, protože ruce, které mají co dělat, nemyslí. A on dneska myslet nechce.
 
+
 Před ním na ponku leží čtyři komplety bojové výstroje. Tři jsou na opravu. Jeden ne.
 
 Ten čtvrtý patřil chlapci, co se jmenoval Vejvar.
@@ -72,7 +73,7 @@ Hale by mohl mlčet. Většinou mlčí. Ale ví, co dělá nevyřčená věc s m
 
 Funguje to. Napětí povolí, někdo si odplivne, hovor se stočí zpátky k jídlu a k tomu, jestli na téhle planetě existuje jediná sprcha, co teče víc než pět vteřin.
 
-Hale tomu nevěří ani slovo. Viděl ten zátylek. Cítil to teplo pod prsty, kov, který hřeje, a pak zhasne. Ale mužstvo to vědět nemusí. Mužstvo potřebuje spát.
+Hale tomu nevěří ani slovo. Viděl ten zátylek. Cítil pod prsty to teplo — kov, který hřeje a pak zhasne. Ale mužstvo to vědět nemusí. Mužstvo potřebuje spát.
 
 To je celá jeho práce, kterou nikdy nikdo nenapsal do předpisu: vědět víc, než řekne, a nést to sám.
 
@@ -200,7 +201,7 @@ V rohu vzorce, vepsaná do té šestiúhelníkové sítě tak, jako se vepisuje 
 
 Hale si stroje čte celý život. Čte sériová čísla, kódy šarží, značky výrobců, razidla mistrů. Pozná značení, když ho vidí. Tohle je značení.
 
-Jenže žádný znak v něm není písmeno, které kdy člověk napsal. Žádná číslice, kterou kdy člověk počítal. Nesedí to na žádnou abecedu Kondominia, na žádný kód kolonií, na nic, co kdy prošlo lidskou rukou nebo lidskou hlavou.
+Jenže žádný znak v něm není písmeno, které kdy člověk napsal. Ani číslice, kterou kdy člověk počítal. Nesedí to na žádnou abecedu Kondominia, na žádný kód kolonií, na nic, co kdy prošlo lidskou rukou nebo lidskou hlavou.
 
 V dílně je ticho. Kompresor za stěnou buší pravidelně.
 

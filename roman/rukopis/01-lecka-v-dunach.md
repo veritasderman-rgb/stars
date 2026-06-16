@@ -4,7 +4,7 @@ PÍSEK SE DRŽÍ VŠEHO. Drží se hledí, drží se závěru, drží se potu po
 
 Mráz pouštní noci ještě nepovolil. Reyever cítí, jak mu stehna tuhnou na vychladlém štěrku, a nehne se. Tohle umí líp než většinu věcí. Čekat.
 
-Pět hodin se sem celá rota plížila od místa, kde je vysadily kluzáky — bez motorů, jen tichý pád z výšky a tvrdé dosednutí do dun, aby žádný teplotní záblesk nevisel na koloniálních čidlech. Pět hodin po duně za dunou, pět hodin počítání kroků a hlídání rozestupů, aby z roty zůstal jen pohyblivý kus tmy. Sirte takovou trpělivost nečeká. Sirte je zvyklá na koloniální milici, která přijede v hlučících transportérech a střílí do vzduchu.
+Pět hodin se sem celá rota plížila od místa, kde je vysadily kluzáky — bez motorů, jen tichý pád z výšky a tvrdé dosednutí do dun, aby žádný teplotní záblesk nevisel na koloniálních čidlech. Pět hodin po duně za dunou. Pět hodin počítání kroků a hlídání rozestupů, aby z roty zůstal jen pohyblivý kus tmy. Sirte takovou trpělivost nečeká. Sirte je zvyklá na koloniální milici, která přijede v hlučících transportérech a střílí do vzduchu.
 
 „Hlídka pět, šest, sedm na východní straně síta,“ ozve se v uchu Halův hlas, tichý a věcný. „Dva u nádrže. Dva v boudě. Devátej kouří na střeše, blbec.“
 
@@ -62,7 +62,7 @@ Reyever počká ještě tři vteřiny, ať se jim zorničky stáhnou.
 
 Pásmo ožije.
 
-První padne ten na střeše. Operátor těžké pušky z Daréina družstva ho sundá jedinou ranou dřív, než stačí cigaretu vyplivnout; muž se složí přes okraj a sjede po vlnitém plechu dolů, kde zůstane viset za nohu jako odložená loutka. Zbylých osm se rozprskne ke krytu — jenže kryt je tam, kam je Reyever celou noc trpělivě naháněl pohledem. K nádrži, do nízkého místa, do pasti.
+První padne ten na střeše. Operátor těžké pušky z Daréina družstva ho sundá jedinou ranou dřív, než stačí cigaretu vyplivnout. Muž se složí přes okraj a sjede po vlnitém plechu dolů, kde zůstane viset za nohu jako odložená loutka. Zbylých osm se rozprskne ke krytu — jenže kryt je tam, kam je Reyever celou noc trpělivě naháněl pohledem. K nádrži. Do nízkého místa. Do pasti.
 
 „Dva k nádrži, neutíkejte tam,“ zamumlá Hale skoro lítostivě.
 
@@ -124,7 +124,7 @@ Hale se k němu otočí. „Drž hubu, dědku, než ti ji zavřu já.“
 
 Reyever přijde. Mladík leží na zádech, oči obrácené do toho běloskvoucího nebe, a přes hruď má pás s podivnou zbraní. Není to žádná z koloniálních pušek, žádný kondominijní arzenál, žádná z těch ojetých služebních pětek, co se po pohraničí válejí celé generace. Tahle věc nemá viditelný závěr. Nemá zásobník na náboje. Povrch má matný, bez lesku, barvy mokré břidlice, a tam, kde by mělo být chladicí žebrování, je hladká plynulá křivka, jako by zbraň nebyla sestavená, ale narostlá.
 
-Reyever ji zvedne. Je lehčí, než vypadá. Mnohem lehčí. To ho znepokojí dřív než cokoli jiného, protože lehkost znamená materiál, který nezná, a on zná každý materiál, kterým za třicet let někdo po jeho lidech vystřelil.
+Reyever ji zvedne. Je lehčí, než vypadá. Mnohem lehčí. A to ho znepokojí dřív než cokoli jiného, protože lehkost znamená materiál, který nezná — a on zná každý materiál, kterým za třicet let někdo po jeho lidech vystřelil.
 
 „Hale,“ řekne tiše.
 
